@@ -1,0 +1,2741 @@
+1
+00:00:10,386 --> 00:00:11,595
+Previously on 24.
+
+2
+00:00:20,021 --> 00:00:21,647
+- Excuse me, Ms. Driscoll?
+- What is it, Chloe?
+
+3
+00:00:21,731 --> 00:00:25,234
+There was intelligence indicating the possibily of an attack at 8:00 this morning.
+
+4
+00:00:25,568 --> 00:00:28,029
+A Turkish national on the FBI watch list
+
+5
+00:00:28,070 --> 00:00:30,865
+by the name of Tomas Sherek was last seen in the city.
+
+6
+00:00:30,948 --> 00:00:33,200
+- It's Tomas.
+- Did Dar get the briefcase?
+
+7
+00:00:33,325 --> 00:00:35,619
+Yes, he's on his way to you now.
+
+8
+00:00:36,120 --> 00:00:37,997
+So far, everything is on schedule.
+
+9
+00:00:39,331 --> 00:00:40,499
+The briefcase is on its way to us now.
+
+10
+00:00:40,499 --> 00:00:41,540
+When it gets here,
+
+11
+00:00:41,540 --> 00:00:42,584
+we'll take it to the warehouse.
+
+12
+00:00:42,713 --> 00:00:45,125
+What we will accomplish today will change the world.
+
+13
+00:00:45,500 --> 00:00:48,380
+We're fortunate that our family has been chosen to do this.
+
+14
+00:00:48,716 --> 00:00:51,719
+I found something on the Net I think you should know about.
+
+15
+00:00:51,719 --> 00:00:52,720
+What?
+
+16
+00:00:52,970 --> 00:00:55,890
+I think someone's positioning code for a major Internet attack.
+
+17
+00:00:56,098 --> 00:00:58,893
+The thing is that not all the code remarks were in English.
+
+18
+00:00:59,143 --> 00:01:01,771
+- What language were they in?
+- Arabic or Turkish, maybe.
+
+19
+00:01:02,480 --> 00:01:04,023
+What did you find on the Internet?!
+
+20
+00:01:04,273 --> 00:01:05,566
+It was my friend, not me!
+
+21
+00:01:05,941 --> 00:01:07,860
+- What's his name?
+- Andrew Paige.
+
+22
+00:01:13,491 --> 00:01:14,784
+Is it going to be uncomfortable?
+
+23
+00:01:15,201 --> 00:01:15,910
+What?
+
+24
+00:01:16,160 --> 00:01:18,954
+Going back to CTU, seeing Driscoll again.
+
+25
+00:01:19,205 --> 00:01:20,831
+I don't blame her for her decision.
+
+26
+00:01:20,956 --> 00:01:22,500
+She forced you out of CTU.
+
+27
+00:01:23,042 --> 00:01:25,711
+I could have joined other agencies if I still wanted to do fieldwork,
+
+28
+00:01:26,420 --> 00:01:27,505
+but I didn't.
+
+29
+00:01:27,838 --> 00:01:29,048
+I know this guy.
+
+30
+00:01:29,340 --> 00:01:32,134
+Fortunately for you, Jack, it's our problem, not yours.
+
+31
+00:01:32,510 --> 00:01:34,512
+Erin, listen to me- this doesn't make sense.
+
+32
+00:01:34,720 --> 00:01:36,514
+You wouldn't risk exposing yourself
+
+33
+00:01:36,514 --> 00:01:39,016
+here in the United States for a train bombing.
+
+34
+00:01:39,016 --> 00:01:40,351
+It's not big enough.
+
+35
+00:01:40,559 --> 00:01:42,770
+We'll take that into consideration when we interrogate him.
+
+36
+00:01:43,187 --> 00:01:44,730
+I am not messing with you.
+
+37
+00:01:44,939 --> 00:01:47,608
+You're going to tell me. What is happening at 8:00!
+
+38
+00:01:50,486 --> 00:01:51,278
+Jack!
+
+39
+00:01:51,278 --> 00:01:53,739
+What is your primary objective?!
+
+40
+00:01:54,490 --> 00:01:55,866
+Secretary of Defense!
+
+41
+00:01:56,992 --> 00:01:57,785
+Heller.
+
+42
+00:01:58,369 --> 00:02:00,705
+Did it ever occur to you that these people are using you?
+
+43
+00:02:00,955 --> 00:02:03,666
+Don't you realize they're letting you speak for one reason:
+
+44
+00:02:03,791 --> 00:02:06,252
+because you are my son!
+
+45
+00:02:07,378 --> 00:02:08,379
+Audrey, it's Jack.
+
+46
+00:02:08,462 --> 00:02:10,089
+- Are you still at Richard's?
+- Yeah.
+
+47
+00:02:10,214 --> 00:02:11,757
+You need to get your father out of there now.
+
+48
+00:02:11,882 --> 00:02:13,300
+Your father is the real target.
+
+49
+00:02:13,592 --> 00:02:14,802
+Oh, my God.
+
+50
+00:02:19,515 --> 00:02:20,516
+Jack!
+
+51
+00:02:21,517 --> 00:02:22,518
+Audrey?
+
+52
+00:02:25,479 --> 00:02:26,480
+Audrey?!
+
+53
+00:02:28,691 --> 00:02:31,694
+The following takes place between 8:00 A.M. AND 9:00 A.M.
+
+54
+00:02:57,511 --> 00:02:58,512
+Richard Heller?
+
+55
+00:03:02,058 --> 00:03:03,768
+They took my father and my sister.
+
+56
+00:03:40,513 --> 00:03:41,806
+I don't care. It's been over five minutes.
+
+57
+00:03:41,806 --> 00:03:43,349
+You need to widen your perimeter.
+
+58
+00:03:44,141 --> 00:03:46,977
+You're not listening to me. I'm not interested in local law enforcement.
+
+59
+00:03:47,186 --> 00:03:48,896
+I want Secret Service swarming that area now.
+
+60
+00:03:49,855 --> 00:03:50,856
+Good. Get back to me.
+
+61
+00:03:51,023 --> 00:03:51,565
+Everyone...
+
+62
+00:03:52,441 --> 00:03:53,651
+everyone, please listen up.
+
+63
+00:03:56,028 --> 00:03:58,948
+Secretary of Defense Heller was abducted a few minutes ago,
+
+64
+00:04:00,032 --> 00:04:02,993
+along with his senior policy analyst Audrey Raines.
+
+65
+00:04:03,619 --> 00:04:06,414
+Heller was at his son Richard's house when he was taken.
+
+66
+00:04:06,539 --> 00:04:08,999
+LAPD is bringing Richard in for questioning.
+
+67
+00:04:09,333 --> 00:04:11,335
+This is a top-priority situation.
+
+68
+00:04:11,544 --> 00:04:15,589
+I want all inter-agency protocols activated immediately.
+
+69
+00:04:17,842 --> 00:04:18,551
+Move off that page.
+
+70
+00:04:19,135 --> 00:04:21,095
+You have to link up to the Secret Service Channel.
+
+71
+00:04:21,095 --> 00:04:23,055
+It's not that simple. We're locked out for a few minutes.
+
+72
+00:04:23,222 --> 00:04:23,931
+Why?
+
+73
+00:04:24,056 --> 00:04:25,516
+They're sequestering the rest of the Cabinet.
+
+74
+00:04:25,516 --> 00:04:27,101
+Driscoll's not going to want to hear that.
+
+75
+00:04:27,101 --> 00:04:28,394
+She wants us to activate these protocols.
+
+76
+00:04:28,394 --> 00:04:29,478
+What do you want me to do?
+
+77
+00:04:29,478 --> 00:04:31,564
+I want you to break through those channels. Hack in if you have to.
+
+78
+00:04:34,400 --> 00:04:36,986
+Chloe, I need you to move everything from the train bombing
+
+79
+00:04:36,986 --> 00:04:37,653
+to the secondary server.
+
+80
+00:04:37,653 --> 00:04:38,696
+- I did that already.
+- Good.
+
+81
+00:04:38,696 --> 00:04:41,699
+Then re-key the databases so the kidnapping and bombing are synched up as well.
+
+82
+00:04:41,699 --> 00:04:42,616
+- I did that, too.
+- What haven't you done?
+
+83
+00:04:42,616 --> 00:04:46,620
+I haven't opened a pipe to the Army Criminal Investigation Division yet.
+
+84
+00:04:46,620 --> 00:04:47,997
+- Do it.
+- I'm on my way to.
+
+85
+00:04:48,873 --> 00:04:50,750
+Yeah, I'm looking at it. They've widened the perimeter.
+
+86
+00:04:50,750 --> 00:04:53,002
+Do you have an I.D. on any possible transportation?
+
+87
+00:04:53,127 --> 00:04:54,503
+I'm working on it. The only problem we have...
+
+88
+00:04:54,503 --> 00:04:55,963
+I'm going to have to get back to you.
+
+89
+00:04:56,464 --> 00:04:57,506
+Erin, I need to speak to you.
+
+90
+00:04:57,506 --> 00:04:58,507
+You're done here, Jack.
+
+91
+00:04:58,507 --> 00:04:59,717
+- Just listen to me.
+- I'm detaining you...
+
+92
+00:04:59,800 --> 00:05:01,177
+Erin, just listen to me!
+
+93
+00:05:01,344 --> 00:05:02,928
+Secretary Heller is my responsibility.
+
+94
+00:05:02,928 --> 00:05:06,515
+Now, I need you to reinstate me on a provisional basis until I get him back.
+
+95
+00:05:06,640 --> 00:05:08,142
+You don't give me orders, Jack.
+
+96
+00:05:09,435 --> 00:05:13,272
+I'm detaining you until an investigator from Division can take your statement.
+
+97
+00:05:13,356 --> 00:05:15,858
+I'm going to recommend that you be arrested for torturing a suspect
+
+98
+00:05:15,983 --> 00:05:18,277
+and rendering him useless for questioning.
+
+99
+00:05:18,402 --> 00:05:19,695
+You weren't getting anywhere with him.
+
+100
+00:05:19,779 --> 00:05:22,156
+Because of me, Sherek told you everything he knows.
+
+101
+00:05:22,448 --> 00:05:23,699
+You'd better hope so.
+
+102
+00:05:24,867 --> 00:05:27,953
+Would you please escort Mr. Bauer to a vacant office until Division gets here?
+
+103
+00:05:29,163 --> 00:05:29,747
+I'm fine.
+
+104
+00:05:30,498 --> 00:05:31,916
+You're making a mistake.
+
+105
+00:05:33,918 --> 00:05:35,044
+- Excuse me.
+- What?
+
+106
+00:05:35,127 --> 00:05:36,253
+- President Keeler.
+- What about him?
+
+107
+00:05:36,337 --> 00:05:38,506
+- He wants to talk to you.
+- All right.
+
+108
+00:05:44,220 --> 00:05:46,806
+- This is Erin Driscoll.
+- Please hold for the President.
+
+109
+00:05:49,100 --> 00:05:51,477
+What can you tell me about the attack on the Secretary?
+
+110
+00:05:51,727 --> 00:05:53,521
+We know that he was taken along with his daughter,
+
+111
+00:05:53,521 --> 00:05:55,189
+approximately ten minutes ago.
+
+112
+00:05:55,314 --> 00:05:57,316
+But you haven't had any contact yet from the kidnappers?
+
+113
+00:05:58,401 --> 00:05:59,402
+No, sir, we have not.
+
+114
+00:05:59,985 --> 00:06:02,279
+How is it the Secret Service wasn't able to protect him?
+
+115
+00:06:02,822 --> 00:06:06,325
+It's my understanding that he broke his schedule to visit his son.
+
+116
+00:06:06,534 --> 00:06:09,120
+Somehow the kidnappers had access to that information.
+
+117
+00:06:09,120 --> 00:06:10,705
+We're loing into that now.
+
+118
+00:06:12,498 --> 00:06:13,499
+All right.
+
+119
+00:06:14,750 --> 00:06:17,086
+We're gonna go to an elevated level of security.
+
+120
+00:06:17,128 --> 00:06:19,130
+I want you to take the appropriate measures.
+
+121
+00:06:19,213 --> 00:06:19,714
+I understand.
+
+122
+00:06:20,256 --> 00:06:21,215
+Get them back, Erin.
+
+123
+00:06:21,507 --> 00:06:22,842
+We're doing everything we can, sir.
+
+124
+00:06:27,430 --> 00:06:28,305
+Hello.
+
+125
+00:06:28,305 --> 00:06:29,515
+- Mom?
+- Hi, sweetie.
+
+126
+00:06:29,515 --> 00:06:31,517
+- I didn't expect to hear...
+- Mom, listen to me.
+
+127
+00:06:31,517 --> 00:06:33,185
+You got to get out of the house right now.
+
+128
+00:06:33,185 --> 00:06:34,228
+What are you talking about?
+
+129
+00:06:34,228 --> 00:06:36,689
+Someone's looking for me, and they might come for you next.
+
+130
+00:06:37,690 --> 00:06:39,025
+What kind of trouble are you in?
+
+131
+00:06:39,483 --> 00:06:40,484
+I don't know.
+
+132
+00:06:40,901 --> 00:06:44,030
+I found something on the Internet. Now these people are after me.
+
+133
+00:06:44,488 --> 00:06:46,282
+Andrew, you are being paranoid.
+
+134
+00:06:46,407 --> 00:06:49,618
+Mom, they killed Melanie. They killed everybody in the office.
+
+135
+00:06:50,244 --> 00:06:52,246
+- What?!
+- They shot 'em.
+
+136
+00:06:53,414 --> 00:06:55,583
+- Mom, I'm really scared.
+- My God.
+
+137
+00:06:57,168 --> 00:06:58,294
+I'm going to call the police.
+
+138
+00:06:58,502 --> 00:06:59,462
+Just get out of there!
+
+139
+00:06:59,462 --> 00:07:02,757
+Get to one of your friends' houses and stay there! Go! Go now!
+
+140
+00:07:03,507 --> 00:07:04,508
+Andrew?!
+
+141
+00:07:31,535 --> 00:07:34,455
+I told them Driscoll wanted me to question you.
+
+142
+00:07:34,747 --> 00:07:37,208
+What's going on, Chloe? What are you doing?
+
+143
+00:07:37,708 --> 00:07:40,080
+I'll probably get in trouble for coming to you with this, but I don't care.
+
+144
+00:07:40,080 --> 00:07:41,544
+I may have a way to find Heller.
+
+145
+00:07:41,713 --> 00:07:43,500
+I'm being detained. Why are you telling me?
+
+146
+00:07:43,500 --> 00:07:45,710
+Because I don't think Driscoll's handling this the right way,
+
+147
+00:07:45,716 --> 00:07:47,635
+and I don't trust her. I trust you.
+
+148
+00:07:51,055 --> 00:07:51,722
+Sit down.
+
+149
+00:07:57,353 --> 00:07:59,188
+A good friend of mine called about 40 minutes ago.
+
+150
+00:07:59,355 --> 00:08:00,981
+This is someone I went to school with.
+
+151
+00:08:01,190 --> 00:08:03,567
+I know him. He wouldn't have come to me unless it was something serious.
+
+152
+00:08:03,651 --> 00:08:04,568
+What is it?
+
+153
+00:08:04,568 --> 00:08:07,655
+He noticed somdangerous computer code was planted on the Internet this morning.
+
+154
+00:08:07,780 --> 00:08:09,156
+How is that connected to Heller?
+
+155
+00:08:09,281 --> 00:08:10,491
+Because it originated in Turkey
+
+156
+00:08:10,491 --> 00:08:12,118
+just like everything else that happened today.
+
+157
+00:08:12,118 --> 00:08:13,411
+Sherek, the train bombing.
+
+158
+00:08:13,494 --> 00:08:14,495
+Where's your friend now?
+
+159
+00:08:23,045 --> 00:08:24,380
+LAPD has cordoned off the area,
+
+160
+00:08:24,380 --> 00:08:28,592
+and you can see them taking Secretary Heller's son away from the scene now.
+
+161
+00:08:29,010 --> 00:08:33,222
+That's being done for his own protection, according to a police sources.
+
+162
+00:08:33,431 --> 00:08:34,932
+Those same sources tell us
+
+163
+00:08:35,016 --> 00:08:38,769
+that at least five Secret Service agents were shot and killed
+
+164
+00:08:39,145 --> 00:08:40,229
+in the kidnapping.
+
+165
+00:08:41,564 --> 00:08:44,400
+There is also a belief tonight that the Secretary's daughter...
+
+166
+00:08:44,775 --> 00:08:46,152
+- Hello?
+- Andrew, it's me.
+
+167
+00:08:46,193 --> 00:08:48,404
+What did you do, Chloe? Who did you tell?
+
+168
+00:08:48,863 --> 00:08:49,989
+What do you mean?
+
+169
+00:08:50,364 --> 00:08:51,240
+Everyone's dead!
+
+170
+00:08:51,490 --> 00:08:52,867
+They're dead!
+
+171
+00:08:53,200 --> 00:08:54,493
+Now they're trying to kill me!
+
+172
+00:08:54,869 --> 00:08:56,537
+Andrew, talk to me. Who's dead? What happened?
+
+173
+00:08:57,371 --> 00:08:59,248
+Everyone's dead! They're dead.
+
+174
+00:09:00,166 --> 00:09:02,501
+After I called you, I went back to my office.
+
+175
+00:09:02,501 --> 00:09:04,837
+There was a guy there torturing Melanie.
+
+176
+00:09:05,838 --> 00:09:07,757
+He wanted to know who hacked into their system.
+
+177
+00:09:09,300 --> 00:09:10,551
+And then he shot her!
+
+178
+00:09:11,802 --> 00:09:12,970
+God...
+
+179
+00:09:13,387 --> 00:09:14,180
+Who shot her?
+
+180
+00:09:15,097 --> 00:09:15,723
+Who's this?
+
+181
+00:09:15,848 --> 00:09:18,309
+My name is Jack Bauer. I work for Secretary of Defense Heller.
+
+182
+00:09:18,517 --> 00:09:19,894
+Andrew, we need your help.
+
+183
+00:09:20,186 --> 00:09:20,686
+What?!
+
+184
+00:09:20,895 --> 00:09:23,856
+Secretary Heller was kidnapped less than half an hour ago.
+
+185
+00:09:24,273 --> 00:09:26,275
+I believe the same people that kidnapped him
+
+186
+00:09:26,359 --> 00:09:27,401
+are the ones that are chasing you now.
+
+187
+00:09:27,693 --> 00:09:28,986
+But I don't know anything!
+
+188
+00:09:29,862 --> 00:09:31,697
+Son, you've been targeted for a reason.
+
+189
+00:09:31,864 --> 00:09:33,115
+You know more than you think.
+
+190
+00:09:35,451 --> 00:09:37,286
+What... What do I do?
+
+191
+00:09:38,037 --> 00:09:38,788
+Where are you?
+
+192
+00:09:39,121 --> 00:09:41,499
+I'm at Union Station. I'm getting out of town.
+
+193
+00:09:41,874 --> 00:09:43,084
+No, you stay put.
+
+194
+00:09:43,250 --> 00:09:45,503
+The best thing you can do right now is let me bring you in.
+
+195
+00:09:47,963 --> 00:09:49,215
+Chloe, what should I do?
+
+196
+00:09:49,548 --> 00:09:50,633
+You can trust Jack.
+
+197
+00:09:54,512 --> 00:09:55,513
+Okay.
+
+198
+00:09:56,055 --> 00:09:57,515
+I'll be next to track three,
+
+199
+00:09:57,515 --> 00:09:58,891
+at the bottom of the ramp.
+
+200
+00:09:59,517 --> 00:10:01,102
+Andrew, what are you wearing?
+
+201
+00:10:01,602 --> 00:10:07,692
+Uh, bluejeans, brown, brown jacket and a, and a black bag.
+
+202
+00:10:08,317 --> 00:10:11,195
+Okay, you stay put. I'll be there in about
+
+203
+00:10:11,487 --> 00:10:12,488
+30 minutes.
+
+204
+00:10:13,072 --> 00:10:13,531
+Okay.
+
+205
+00:10:16,242 --> 00:10:17,159
+This is all my fault.
+
+206
+00:10:17,159 --> 00:10:19,495
+I shouldn't have let Driscoll talk me into handing it over to the FBI.
+
+207
+00:10:21,497 --> 00:10:22,623
+She did what?
+
+208
+00:10:22,957 --> 00:10:24,917
+She told me to give it to the FBI.
+
+209
+00:10:48,482 --> 00:10:49,442
+Yes.
+
+210
+00:10:49,442 --> 00:10:51,485
+I found the person who stumbled onto our server.
+
+211
+00:10:51,485 --> 00:10:52,570
+Is he with you now?
+
+212
+00:10:52,862 --> 00:10:54,488
+No. I'll have him shortly.
+
+213
+00:10:54,530 --> 00:10:56,198
+Find out who he's talked to.
+
+214
+00:10:56,490 --> 00:10:57,491
+Of course.
+
+215
+00:10:58,617 --> 00:11:00,286
+And then kill him.
+
+216
+00:11:00,327 --> 00:11:00,703
+Yes.
+
+217
+00:11:10,171 --> 00:11:11,881
+- Is everything in there?
+- Yes.
+
+218
+00:11:12,840 --> 00:11:13,591
+Where's Behrooz?
+
+219
+00:11:14,091 --> 00:11:16,886
+Upstairs, checking traffic on-line.
+
+220
+00:11:17,178 --> 00:11:18,512
+It's almost time for him to go.
+
+221
+00:11:20,348 --> 00:11:23,934
+Are you sure you don't want me to take the briefcase to Omar?
+
+222
+00:11:24,518 --> 00:11:25,811
+The plan is in place.
+
+223
+00:11:25,811 --> 00:11:27,146
+I don't want to deviate.
+
+224
+00:11:29,482 --> 00:11:30,483
+Why?
+
+225
+00:11:31,192 --> 00:11:34,070
+This is the key to everything we're doing today.
+
+226
+00:11:34,445 --> 00:11:36,530
+It's a lot to entrust to a teenager.
+
+227
+00:11:36,822 --> 00:11:37,698
+I told you...
+
+228
+00:11:38,783 --> 00:11:40,951
+our whereabouts have to be accounted for today.
+
+229
+00:11:41,202 --> 00:11:44,163
+Besides, it's because he's a teenager that he won't arouse suspicion.
+
+230
+00:11:47,124 --> 00:11:47,792
+You're right.
+
+231
+00:11:51,879 --> 00:11:54,590
+Don't worry, Dina.
+
+232
+00:11:55,591 --> 00:11:56,676
+We've prepared well for today.
+
+233
+00:11:58,594 --> 00:12:01,639
+The train, the kidnapping, it's all gone as expected.
+
+234
+00:12:03,516 --> 00:12:04,558
+I spoke with Omar.
+
+235
+00:12:05,059 --> 00:12:05,810
+He's happy.
+
+236
+00:12:08,771 --> 00:12:11,941
+And he knows Behrooz is the one who will deliver the device?
+
+237
+00:12:12,608 --> 00:12:14,151
+Yes, he knows.
+
+238
+00:12:21,242 --> 00:12:22,243
+Behrooz will be fine.
+
+239
+00:12:30,459 --> 00:12:32,253
+Okay, people, we're looking to find a connection
+
+240
+00:12:32,253 --> 00:12:34,839
+between the train bombing in Santa Clarita and Heller's abduction.
+
+241
+00:12:35,381 --> 00:12:36,007
+Sarah?
+
+242
+00:12:36,340 --> 00:12:38,676
+NTSB has given us a full passenger list.
+
+243
+00:12:38,759 --> 00:12:40,678
+We're processing those names now.
+
+244
+00:12:40,803 --> 00:12:41,846
+What about Heller's son?
+
+245
+00:12:42,930 --> 00:12:44,557
+Is it possible he had something to do with this?
+
+246
+00:12:44,849 --> 00:12:46,517
+We're not counting anything out at this point.
+
+247
+00:12:46,642 --> 00:12:48,102
+He's being brought in here for questioning now.
+
+248
+00:12:49,228 --> 00:12:52,648
+Erin, I need to speak with you privately, please?
+
+249
+00:12:53,024 --> 00:12:55,443
+- You're testing me, Jack?
+- Erin, please.
+
+250
+00:12:58,863 --> 00:13:01,407
+Curtis will hand out assignment protocols to each department.
+
+251
+00:13:01,407 --> 00:13:03,117
+I want status reports every 15 minutes.
+
+252
+00:13:15,129 --> 00:13:18,215
+I have information that you ignored that appears to be connected
+
+253
+00:13:18,215 --> 00:13:20,092
+not only to the bombing but the kidnapping of Secretary Heller.
+
+254
+00:13:20,343 --> 00:13:21,344
+What information?
+
+255
+00:13:21,469 --> 00:13:23,512
+A computer programmer by the name of Andrew Paige
+
+256
+00:13:23,512 --> 00:13:26,515
+accidentally came across a possible Internet strike earlier this morning.
+
+257
+00:13:26,682 --> 00:13:28,392
+I know. It was passed on to the FBI.
+
+258
+00:13:28,517 --> 00:13:30,144
+Yes, against CTU protocol.
+
+259
+00:13:30,186 --> 00:13:31,979
+You abandoned an active investigation
+
+260
+00:13:31,979 --> 00:13:33,898
+by a CTU agent during a terrorist strike.
+
+261
+00:13:33,898 --> 00:13:35,983
+I just got confirmation from the LAPD
+
+262
+00:13:35,983 --> 00:13:40,029
+that Andrew Paige's co-workers were all found dead less than 20 minutes ago.
+
+263
+00:13:42,323 --> 00:13:43,282
+I'll coordinate with FBI
+
+264
+00:13:43,407 --> 00:13:44,909
+and we'll take over the investigation of that lead.
+
+265
+00:13:45,326 --> 00:13:46,160
+No, you won't.
+
+266
+00:13:46,744 --> 00:13:49,163
+I just talked to the kid. I'm the only one who knows where he is.
+
+267
+00:13:49,163 --> 00:13:51,582
+You want that kid picked up, you're gonna have to reinstate me.
+
+268
+00:13:53,501 --> 00:13:55,878
+I'm having you locked up for impeding my investigation.
+
+269
+00:13:56,295 --> 00:13:57,922
+You do that and I'll tell the president
+
+270
+00:13:58,172 --> 00:14:00,675
+that you had Sherek in custody over a half an hour
+
+271
+00:14:00,675 --> 00:14:02,510
+before Secretary Heller was even kidnapped,
+
+272
+00:14:02,510 --> 00:14:04,220
+and that you couldn't break him.
+
+273
+00:14:04,345 --> 00:14:05,054
+I did.
+
+274
+00:14:08,099 --> 00:14:09,767
+You threatening me, Jack?
+
+275
+00:14:11,143 --> 00:14:14,522
+I am asking you to let me help rescue Secretary Heller.
+
+276
+00:14:32,748 --> 00:14:34,625
+This is how it's gonna work.
+
+277
+00:14:35,793 --> 00:14:39,672
+I'll reinstate your commission on a temporary basis until Heller is safe.
+
+278
+00:14:40,339 --> 00:14:42,758
+You will not make any unilateral decisions.
+
+279
+00:14:42,967 --> 00:14:46,387
+You will work as an auxiliary agent under the authority of Ronnie Lobell
+
+280
+00:14:47,805 --> 00:14:50,016
+and then I'll hand you over to Division.
+
+281
+00:16:04,298 --> 00:16:05,341
+What are they going to do to us?
+
+282
+00:16:05,341 --> 00:16:07,051
+I don't know, but if they wanted me dead,
+
+283
+00:16:07,177 --> 00:16:09,137
+they would have killed me at Richard's house.
+
+284
+00:16:09,888 --> 00:16:11,431
+Richard. My God.
+
+285
+00:16:11,639 --> 00:16:14,225
+He was still in the house. I don't think they went in there.
+
+286
+00:16:15,518 --> 00:16:18,396
+Listen to me, Audie, no matter what happens to me,
+
+287
+00:16:19,230 --> 00:16:21,441
+they have no reason to hurt you.
+
+288
+00:16:22,692 --> 00:16:24,110
+They don't need a reason.
+
+289
+00:16:24,152 --> 00:16:26,196
+And I don't want you to give 'em one.
+
+290
+00:16:26,613 --> 00:16:28,198
+Do what they say.
+
+291
+00:16:28,948 --> 00:16:31,201
+Whatever happens to me, don't provoke them.
+
+292
+00:16:32,202 --> 00:16:34,704
+If they threaten me, if they hurt me...
+
+293
+00:16:34,954 --> 00:16:36,539
+even if they kill me-
+
+294
+00:16:37,999 --> 00:16:39,626
+do what they say.
+
+295
+00:16:50,136 --> 00:16:52,180
+I only asked for Heller.
+
+296
+00:16:52,388 --> 00:16:54,682
+I didn't want to kill her without your permission.
+
+297
+00:16:58,186 --> 00:16:59,646
+- Daddy! No! Dad!
+- Leave her alone!
+
+298
+00:16:59,812 --> 00:17:01,898
+Don't you touch her!
+
+299
+00:17:01,981 --> 00:17:04,067
+So help me, God I will kill you myself.
+
+300
+00:17:04,108 --> 00:17:05,235
+Dad! No!
+
+301
+00:17:05,360 --> 00:17:06,653
+Son of a bitch!
+
+302
+00:17:06,778 --> 00:17:07,654
+Come on!
+
+303
+00:17:07,904 --> 00:17:08,988
+Yes or no?
+
+304
+00:17:09,155 --> 00:17:10,406
+Do not do this!
+
+305
+00:17:10,490 --> 00:17:11,491
+Leave her alone!
+
+306
+00:17:21,209 --> 00:17:22,585
+Not yet.
+
+307
+00:17:26,214 --> 00:17:28,007
+We may be able to use her.
+
+308
+00:17:30,510 --> 00:17:31,719
+Take them away.
+
+309
+00:17:31,803 --> 00:17:33,555
+Dad. Dad.
+
+310
+00:17:47,402 --> 00:17:50,071
+I'm going with Ronnie over to the train station to pick up Andrew now.
+
+311
+00:17:50,113 --> 00:17:51,656
+Has Driscoll cleared you for fieldwork?
+
+312
+00:17:51,656 --> 00:17:53,283
+- Yeah.
+- That's unlike her.
+
+313
+00:17:53,366 --> 00:17:54,951
+I hope you didn't tell her I gave you the information.
+
+314
+00:17:54,993 --> 00:17:56,369
+I'm not in the mood for a confrontation.
+
+315
+00:17:56,452 --> 00:17:57,287
+I didn't.
+
+316
+00:17:57,537 --> 00:17:59,455
+Have we heard anything from any of the Secret Service agents
+
+317
+00:17:59,539 --> 00:18:00,748
+that survived the kidnapping?
+
+318
+00:18:00,832 --> 00:18:02,458
+There's only one so far- he's in surgery.
+
+319
+00:18:02,792 --> 00:18:03,793
+Any other witnesses?
+
+320
+00:18:03,835 --> 00:18:05,920
+The son Richard. They're bringing him in now.
+
+321
+00:18:06,588 --> 00:18:10,091
+Okay. Get back to me as soon as you've got anything on Secretary Heller or Audrey.
+
+322
+00:18:10,091 --> 00:18:13,845
+Sure. Bad luck about Audrey being there when her dad got kidnapped.
+
+323
+00:18:15,180 --> 00:18:16,014
+Yeah.
+
+324
+00:18:20,518 --> 00:18:22,353
+I'm going to my car to get my things.
+
+325
+00:18:24,272 --> 00:18:25,982
+Okay, so let me understand this.
+
+326
+00:18:26,149 --> 00:18:28,276
+Bauer illegally shoots a suspect
+
+327
+00:18:28,443 --> 00:18:30,236
+and now you're going to let him back in the field.
+
+328
+00:18:30,278 --> 00:18:33,156
+He'll only give us the location if I let him work it.
+
+329
+00:18:33,865 --> 00:18:36,618
+He can't hold back information, Erin. It's not his privilege.
+
+330
+00:18:36,826 --> 00:18:38,953
+We don't have time to interrogate him.
+
+331
+00:18:40,413 --> 00:18:41,915
+It's a simple job, Ronnie.
+
+332
+00:18:41,998 --> 00:18:43,917
+You pick up the subject and you bring him in.
+
+333
+00:18:44,042 --> 00:18:46,461
+Bauer has not been in the field for a year and a half, okay?
+
+334
+00:18:46,544 --> 00:18:48,421
+That has consequences. It's my ass that's...
+
+335
+00:18:48,463 --> 00:18:51,049
+Which is why I need you to keep him on a tight leash.
+
+336
+00:18:51,132 --> 00:18:53,092
+It's not optional- it's an order.
+
+337
+00:18:54,802 --> 00:18:55,845
+Fine.
+
+338
+00:19:11,986 --> 00:19:13,321
+I'm ready to go.
+
+339
+00:19:15,240 --> 00:19:17,200
+This is a simple task, Behrooz,
+
+340
+00:19:17,450 --> 00:19:20,036
+but these are the ones where mistakes can be made.
+
+341
+00:19:20,161 --> 00:19:21,663
+Drive carefully.
+
+342
+00:19:21,955 --> 00:19:25,041
+If there is anyone in the area who looks suspicious,
+
+343
+00:19:25,166 --> 00:19:26,835
+drive away and call us.
+
+344
+00:19:26,918 --> 00:19:28,336
+Understood?
+
+345
+00:19:29,420 --> 00:19:30,505
+Yes.
+
+346
+00:19:37,220 --> 00:19:38,221
+Hello.
+
+347
+00:19:38,429 --> 00:19:40,515
+Mrs. Araz, this is Debbie.
+
+348
+00:19:41,015 --> 00:19:42,892
+Yes, Debbie, what can I do for you?
+
+349
+00:19:44,018 --> 00:19:45,937
+Can I please talk to Behrooz?
+
+350
+00:19:46,396 --> 00:19:48,690
+Let me see if he's here. Hold on.
+
+351
+00:19:50,692 --> 00:19:53,444
+- What does she want?
+- I don't know.
+
+352
+00:19:54,863 --> 00:19:56,114
+Debbie?
+
+353
+00:19:56,155 --> 00:19:58,157
+I've left like ten messages on your cell phone.
+
+354
+00:19:58,241 --> 00:19:59,534
+Why haven't you called me back?
+
+355
+00:19:59,617 --> 00:20:00,910
+I'm sorry. I've been busy.
+
+356
+00:20:01,578 --> 00:20:02,495
+Doing what?
+
+357
+00:20:04,163 --> 00:20:05,665
+Working for my father.
+
+358
+00:20:06,916 --> 00:20:09,043
+I don't believe you.
+
+359
+00:20:10,086 --> 00:20:11,921
+Look, Behrooz, if you're seeing someone else,
+
+360
+00:20:12,005 --> 00:20:12,881
+at least have the decency to tell me.
+
+361
+00:20:12,964 --> 00:20:14,716
+I'm not seeing anyone else.
+
+362
+00:20:14,799 --> 00:20:16,009
+Then why are you avoiding me?
+
+363
+00:20:16,050 --> 00:20:17,302
+I'm not.
+
+364
+00:20:18,094 --> 00:20:20,638
+Look, Debbie, this isn't the right time to do this.
+
+365
+00:20:20,805 --> 00:20:23,433
+See? That's what I'm talking about. Now, you're still avoing me.
+
+366
+00:20:23,766 --> 00:20:24,893
+I'm not.
+
+367
+00:20:25,727 --> 00:20:27,020
+Then why can't we talk now?
+
+368
+00:20:28,438 --> 00:20:30,148
+Because I can't.
+
+369
+00:20:30,899 --> 00:20:32,400
+I've gotta go.
+
+370
+00:20:32,609 --> 00:20:33,443
+Behrooz!
+
+371
+00:20:36,988 --> 00:20:38,156
+Behrooz.
+
+372
+00:20:40,158 --> 00:20:43,119
+That's not the right way to deal with this situation.
+
+373
+00:20:43,286 --> 00:20:45,413
+This girl needs to know it's over
+
+374
+00:20:45,580 --> 00:20:48,041
+and that there will be no more phone calls.
+
+375
+00:20:48,541 --> 00:20:50,251
+I'll take care of it later, Mom.
+
+376
+00:20:50,710 --> 00:20:53,087
+I don't want to be late getting this to Omar.
+
+377
+00:21:04,307 --> 00:21:05,934
+You sent Jack Bauer out in the field?
+
+378
+00:21:06,309 --> 00:21:07,602
+He'll be with Ronnie.
+
+379
+00:21:07,602 --> 00:21:08,728
+Yeah, but why?
+
+380
+00:21:09,187 --> 00:21:10,271
+He knows our procedures,
+
+381
+00:21:10,522 --> 00:21:12,857
+and he may have information about Heller that'll be useful.
+
+382
+00:21:12,982 --> 00:21:13,858
+What is it, Chloe?
+
+383
+00:21:13,942 --> 00:21:16,110
+Curtis, you wanted me to tell you when Richard Heller had arrived.
+
+384
+00:21:16,152 --> 00:21:17,612
+He's on his way to Holding.
+
+385
+00:21:18,988 --> 00:21:20,281
+All right, thanks.
+
+386
+00:21:20,782 --> 00:21:22,617
+Do you want me to choreograph the jurisdictions?
+
+387
+00:21:22,659 --> 00:21:24,744
+No, I'll do it. Find out what the son knows.
+
+388
+00:21:24,786 --> 00:21:26,454
+Chloe, I'd like to talk to you.
+
+389
+00:21:29,999 --> 00:21:32,794
+Has it occurred to you that we might be farther along
+
+390
+00:21:32,877 --> 00:21:35,547
+if you trusted me half as much as you trust Jack Bauer?
+
+391
+00:21:35,588 --> 00:21:37,298
+You know what, Ms. Driscoll?
+
+392
+00:21:37,298 --> 00:21:38,508
+I'm really not in the mood to play the part
+
+393
+00:21:38,591 --> 00:21:40,760
+of the scared student in the principal's office.
+
+394
+00:21:40,844 --> 00:21:43,763
+I came to you with important information that my friend Andrew gave to me,
+
+395
+00:21:43,847 --> 00:21:46,140
+and you chose to not respond to it.
+
+396
+00:21:46,766 --> 00:21:49,394
+When you came to me with the original information,
+
+397
+00:21:49,644 --> 00:21:51,604
+we were looking for Sherek, were we not?
+
+398
+00:21:51,980 --> 00:21:53,189
+Yes.
+
+399
+00:21:53,189 --> 00:21:55,483
+He was our most important lead at the time, wasn't he?
+
+400
+00:21:55,525 --> 00:21:56,568
+I guess.
+
+401
+00:21:56,818 --> 00:21:58,570
+Then my question to you is,
+
+402
+00:21:58,945 --> 00:22:01,030
+once we had Sherek in custody,
+
+403
+00:22:01,197 --> 00:22:04,826
+if you felt that your Internet lead was still valuable,
+
+404
+00:22:05,201 --> 00:22:07,078
+why didn't you reprise it?
+
+405
+00:22:09,497 --> 00:22:12,333
+You're right. I felt more comfortable going to Jack.
+
+406
+00:22:13,418 --> 00:22:15,670
+Well, at least that's honest.
+
+407
+00:22:19,883 --> 00:22:21,843
+You can go back to work now.
+
+408
+00:22:33,479 --> 00:22:35,023
+Check that, please.
+
+409
+00:22:37,609 --> 00:22:38,401
+For the record, Jack,
+
+410
+00:22:38,401 --> 00:22:41,070
+I think Driscoll made a mistake by letting you come along.
+
+411
+00:22:41,279 --> 00:22:42,030
+All right.
+
+412
+00:22:42,071 --> 00:22:44,032
+And just so we're clear, I give the orders.
+
+413
+00:22:44,407 --> 00:22:45,950
+I'm fine with that.
+
+414
+00:22:46,201 --> 00:22:48,203
+Look, what happened earlier in Holding with Sherek
+
+415
+00:22:48,244 --> 00:22:51,080
+I had intel that told me I didn't have time to do it any other way. I'm sorry.
+
+416
+00:22:51,164 --> 00:22:53,833
+Apology accepted, but if you try to exceed my authority again,
+
+417
+00:22:53,917 --> 00:22:55,293
+I will stop you cold.
+
+418
+00:23:15,813 --> 00:23:16,856
+Okay, fine.
+
+419
+00:23:16,856 --> 00:23:18,900
+Then talk to Marcy, have her isolate all the death threats
+
+420
+00:23:18,900 --> 00:23:20,485
+Heller's received over the last six months.
+
+421
+00:23:20,527 --> 00:23:22,570
+I want phone calls, e-mails, snail mails,
+
+422
+00:23:22,612 --> 00:23:24,739
+everything sent over to CTU for analysis.
+
+423
+00:23:25,532 --> 00:23:27,951
+Well, for the time being, I'm working with them.
+
+424
+00:23:28,409 --> 00:23:28,952
+Yeah.
+
+425
+00:23:29,536 --> 00:23:30,912
+Okay, good. Thanks.
+
+426
+00:23:32,789 --> 00:23:34,916
+Has Heller been getting a lot of death threats lately?
+
+427
+00:23:35,166 --> 00:23:37,502
+No more than anyone else in the Cabinet.
+
+428
+00:23:40,588 --> 00:23:43,716
+So, what's it like working in DC?
+
+429
+00:23:44,008 --> 00:23:47,303
+For the most part, we solve problems in theory that'll never come into play.
+
+430
+00:23:47,345 --> 00:23:48,555
+You wouldn't be interested.
+
+431
+00:23:48,763 --> 00:23:50,014
+Then why do it?
+
+432
+00:23:50,348 --> 00:23:52,141
+I've got my reasons.
+
+433
+00:23:53,601 --> 00:23:56,354
+Hey, man, I'm just trying to make some conversation.
+
+434
+00:24:00,608 --> 00:24:01,818
+I read your file.
+
+435
+00:24:02,235 --> 00:24:04,779
+Must've really burned you up when Driscoll fired you.
+
+436
+00:24:05,280 --> 00:24:06,614
+She did me a favor.
+
+437
+00:24:06,865 --> 00:24:08,032
+I wanted to get my life back.
+
+438
+00:24:08,116 --> 00:24:10,451
+I wouldn't have been able to do that if I was still doing fieldwork.
+
+439
+00:24:10,618 --> 00:24:13,788
+So, how's the master plan going? Do you have a life yet?
+
+440
+00:24:19,210 --> 00:24:20,044
+Yeah.
+
+441
+00:24:23,214 --> 00:24:25,383
+Yeah, I got a life.
+
+442
+00:24:36,019 --> 00:24:37,604
+We'll be fine, Audie.
+
+443
+00:24:37,687 --> 00:24:39,939
+We're still on U.S. soil.
+
+444
+00:24:40,356 --> 00:24:43,401
+That's not going to help us if this is some sort of suicide mission.
+
+445
+00:24:46,613 --> 00:24:49,824
+You said Jack tried to warn you about this, before they grabbed us.
+
+446
+00:24:50,074 --> 00:24:52,785
+Yeah, that's right.
+
+447
+00:24:52,994 --> 00:24:55,121
+That means he must have a reliable source,
+
+448
+00:24:55,205 --> 00:24:57,248
+which means our chances are good.
+
+449
+00:25:08,718 --> 00:25:10,094
+Audie, sit down.
+
+450
+00:25:14,307 --> 00:25:15,975
+I am your father.
+
+451
+00:25:16,184 --> 00:25:17,393
+Do you trust me?
+
+452
+00:25:18,520 --> 00:25:20,813
+- Of course I do.
+- Then listen.
+
+453
+00:25:21,231 --> 00:25:24,776
+You cannot allow a negative thought to enter your head now.
+
+454
+00:25:25,860 --> 00:25:29,322
+They will find us. We will be rescued.
+
+455
+00:25:29,489 --> 00:25:31,449
+- Say it.
+- Please, Dad...
+
+456
+00:25:32,325 --> 00:25:34,911
+We will be rescued. Say it, Audie.
+
+457
+00:25:38,331 --> 00:25:39,624
+We will be rescued.
+
+458
+00:25:39,874 --> 00:25:41,584
+We will be rescued.
+
+459
+00:26:00,979 --> 00:26:02,355
+Take off your clothes.
+
+460
+00:26:03,189 --> 00:26:04,524
+You first.
+
+461
+00:26:05,692 --> 00:26:07,277
+Take off your clothes.
+
+462
+00:26:19,706 --> 00:26:21,165
+Go to hell.
+
+463
+00:26:28,798 --> 00:26:31,134
+Stop! Please stop it! Dad...
+
+464
+00:27:21,601 --> 00:27:24,020
+- Who is it?
+- It's Behrooz.
+
+465
+00:27:46,501 --> 00:27:47,669
+Behrooz?
+
+466
+00:28:01,391 --> 00:28:02,851
+Good job, Behrooz.
+
+467
+00:28:33,631 --> 00:28:35,091
+Debbie, what are you doing here?
+
+468
+00:28:35,216 --> 00:28:36,885
+- I followed you.
+- Why?
+
+469
+00:28:37,010 --> 00:28:38,511
+Because I didn't believe you.
+
+470
+00:28:38,595 --> 00:28:40,430
+I thought you were seeing someone else.
+
+471
+00:28:40,889 --> 00:28:43,349
+Look around. Does it look like I'm seeing anybody else?
+
+472
+00:28:45,268 --> 00:28:47,937
+Debbie, you shouldn't be here. I'm here doing business for my father.
+
+473
+00:28:48,021 --> 00:28:50,398
+He doesn't like me socializing when I'm working for him.
+
+474
+00:28:50,899 --> 00:28:52,150
+Okay.
+
+475
+00:28:52,817 --> 00:28:54,194
+I get it.
+
+476
+00:28:54,819 --> 00:28:57,405
+That doesn't explain why you stopped calling me.
+
+477
+00:28:59,407 --> 00:29:01,075
+It's my parents.
+
+478
+00:29:01,910 --> 00:29:05,246
+They've got a problem with me seeing someone who's...
+
+479
+00:29:06,915 --> 00:29:08,416
+Not Muslim?
+
+480
+00:29:10,168 --> 00:29:11,586
+Yeah.
+
+481
+00:29:12,921 --> 00:29:14,380
+And that's it?
+
+482
+00:29:14,464 --> 00:29:16,257
+- Whatever they say, you do.
+- No.
+
+483
+00:29:16,299 --> 00:29:18,343
+Then what's going on between us, Behrooz?
+
+484
+00:29:18,468 --> 00:29:19,719
+Do you want to be with me or not?
+
+485
+00:29:19,802 --> 00:29:21,846
+- I do, but...
+- But what?
+
+486
+00:29:23,473 --> 00:29:25,642
+Debbie, I want to straighten things out, okay?
+
+487
+00:29:25,683 --> 00:29:27,810
+But I can't do it now.
+
+488
+00:29:28,019 --> 00:29:29,812
+We'll get together later.
+
+489
+00:29:32,732 --> 00:29:34,442
+Debbie, please...
+
+490
+00:30:03,306 --> 00:30:05,308
+Is everything ready in Richard Heller's holding cell?
+
+491
+00:30:05,308 --> 00:30:06,267
+Just about.
+
+492
+00:30:06,309 --> 00:30:08,186
+They brought in the equipment and they're starting to hook him up.
+
+493
+00:30:08,269 --> 00:30:09,437
+Then let's do it.
+
+494
+00:30:10,688 --> 00:30:12,231
+Does Driscoll know you're subjectin
+
+495
+00:30:12,315 --> 00:30:14,317
+the Secretary of Defense's son to a lie detector?
+
+496
+00:30:14,484 --> 00:30:15,318
+Yes.
+
+497
+00:30:15,568 --> 00:30:17,779
+- Is he a suspect?
+- Not exactly.
+
+498
+00:30:17,862 --> 00:30:19,489
+But he's on very poor terms with his father.
+
+499
+00:30:19,572 --> 00:30:21,115
+I wouldn't want to rule anything out.
+
+500
+00:30:22,617 --> 00:30:23,701
+You want to be in the room on this?
+
+501
+00:30:23,868 --> 00:30:25,703
+No. I'll observe through the one-way.
+
+502
+00:30:25,995 --> 00:30:26,704
+Okay.
+
+503
+00:30:33,086 --> 00:30:34,295
+What are you doing to me?
+
+504
+00:30:34,712 --> 00:30:36,130
+What are you doing?!
+
+505
+00:30:36,464 --> 00:30:38,091
+We just want to make sure you're telling us the truth.
+
+506
+00:30:38,216 --> 00:30:39,884
+Why would I lie to you?!
+
+507
+00:30:40,009 --> 00:30:41,761
+My father and sister have just been kidnapped...!
+
+508
+00:30:42,595 --> 00:30:44,430
+Please sit back, Richard,
+
+509
+00:30:44,847 --> 00:30:46,349
+or I'll have to sedate you.
+
+510
+00:30:46,391 --> 00:30:48,059
+You can't do this to me.
+
+511
+00:30:48,643 --> 00:30:51,104
+My father is the Secretary of Defense.
+
+512
+00:30:51,187 --> 00:30:52,188
+I understand.
+
+513
+00:30:52,355 --> 00:30:53,606
+But according to my information,
+
+514
+00:30:53,690 --> 00:30:55,358
+you were about to unleash personal attacks
+
+515
+00:30:55,400 --> 00:30:57,735
+on your father and the President at a rally at Lockheed today.
+
+516
+00:30:57,944 --> 00:30:59,487
+Are you insane?
+
+517
+00:30:59,612 --> 00:31:02,740
+This is America. I can say what I want in public.
+
+518
+00:31:02,824 --> 00:31:04,659
+How dare you treat me like a criminal.
+
+519
+00:31:04,701 --> 00:31:06,369
+No one's treating you like a criminal.
+
+520
+00:31:06,452 --> 00:31:07,662
+You want to do something constructive?
+
+521
+00:31:07,704 --> 00:31:09,455
+Why don't you go find my father and my sister.
+
+522
+00:31:09,497 --> 00:31:10,998
+We intend to.
+
+523
+00:31:11,040 --> 00:31:13,793
+Yeah, by treating me like I'm guilty or something!
+
+524
+00:31:13,918 --> 00:31:15,003
+Richard...
+
+525
+00:31:15,253 --> 00:31:18,297
+right now you're the only witness to your father and your sister's kidnapping.
+
+526
+00:31:18,965 --> 00:31:20,383
+We need your help.
+
+527
+00:31:20,550 --> 00:31:22,093
+Then why don't you get these things off of me
+
+528
+00:31:22,176 --> 00:31:25,054
+and start talking to me like a normal human being.
+
+529
+00:31:25,763 --> 00:31:27,598
+You don't have anything to hide, do you?
+
+530
+00:31:29,308 --> 00:31:30,560
+No.
+
+531
+00:31:30,601 --> 00:31:32,061
+How's the polygraph?
+
+532
+00:31:32,687 --> 00:31:33,896
+100 percent.
+
+533
+00:31:46,617 --> 00:31:47,702
+Father.
+
+534
+00:31:54,584 --> 00:31:56,294
+How did everything go?
+
+535
+00:31:57,295 --> 00:31:58,796
+It went fine.
+
+536
+00:32:10,016 --> 00:32:13,353
+Omar said one of his men saw you with someone outside the compound-
+
+537
+00:32:14,604 --> 00:32:16,105
+a young woman.
+
+538
+00:32:16,898 --> 00:32:18,483
+I was going to tell you.
+
+539
+00:32:19,484 --> 00:32:21,069
+Who was it?
+
+540
+00:32:24,697 --> 00:32:26,032
+Debbie.
+
+541
+00:32:27,075 --> 00:32:28,368
+Where is she now?
+
+542
+00:32:28,451 --> 00:32:29,619
+She didn't see anything.
+
+543
+00:32:29,660 --> 00:32:31,829
+She saw you outside at the compound. That's enough.
+
+544
+00:32:32,288 --> 00:32:33,414
+No...
+
+545
+00:32:35,708 --> 00:32:39,921
+We've spent years planning for this, waiting for this day to come.
+
+546
+00:32:40,004 --> 00:32:43,132
+Now it's here and you've compromised everything.
+
+547
+00:32:43,216 --> 00:32:45,802
+She didn't see anything, I made sure of it.
+
+548
+00:32:47,303 --> 00:32:49,472
+We'll see how much she knows.
+
+549
+00:32:50,098 --> 00:32:52,767
+Call her and tell her to come here.
+
+550
+00:32:53,434 --> 00:32:55,395
+Father, please don't do this, it's not necessary.
+
+551
+00:32:55,436 --> 00:32:57,689
+I decide what's necessary, not you.
+
+552
+00:33:01,192 --> 00:33:02,985
+What are you going to do to her?
+
+553
+00:33:03,111 --> 00:33:05,071
+Since when do you question me?
+
+554
+00:33:07,115 --> 00:33:10,910
+How long have we lived in this country preparing for this day?
+
+555
+00:33:12,704 --> 00:33:14,163
+How long?!
+
+556
+00:33:14,414 --> 00:33:15,748
+Four years.
+
+557
+00:33:16,207 --> 00:33:18,167
+Almost five.
+
+558
+00:33:20,712 --> 00:33:24,716
+That's how much time can be erased by a simple mistake.
+
+559
+00:33:34,308 --> 00:33:36,185
+Call her. Now!
+
+560
+00:33:37,812 --> 00:33:39,313
+Yes, sir.
+
+561
+00:33:48,781 --> 00:33:50,199
+Tim Felson, MTA.
+
+562
+00:33:50,324 --> 00:33:52,285
+Ronnie Lobell, CTU. Head of field ops.
+
+563
+00:33:52,702 --> 00:33:53,870
+Where's track three?
+
+564
+00:33:53,911 --> 00:33:56,456
+East entrance. If you want, I can have my guys lock it down.
+
+565
+00:33:56,497 --> 00:33:59,000
+No, no. Don't want to draw attention to anything yet.
+
+566
+00:33:59,000 --> 00:34:01,127
+The platform's just at the end of this hallway.
+
+567
+00:34:16,142 --> 00:34:18,186
+- Hello.
+- Andrew, it's me.
+
+568
+00:34:18,686 --> 00:34:20,063
+Where are these guys?
+
+569
+00:34:20,104 --> 00:34:21,773
+They're outside. They should be there any minute.
+
+570
+00:34:21,898 --> 00:34:23,900
+All right. Tell them to hurry up.
+
+571
+00:34:24,025 --> 00:34:25,068
+It doesn't work that way.
+
+572
+00:34:25,109 --> 00:34:27,612
+Just stay where you are and I'll talk to you when they bring you in.
+
+573
+00:34:27,862 --> 00:34:28,780
+Okay.
+
+574
+00:34:28,988 --> 00:34:30,198
+Andrew?
+
+575
+00:34:30,782 --> 00:34:32,533
+Yeah. Are you Jack Bauer?
+
+576
+00:34:32,658 --> 00:34:34,285
+Yes. Come on, let's go.
+
+577
+00:34:34,369 --> 00:34:35,620
+Where are we going?
+
+578
+00:34:35,661 --> 00:34:37,663
+I'll explain later. It's not safe here.
+
+579
+00:34:37,997 --> 00:34:39,165
+Let's go.
+
+580
+00:34:46,506 --> 00:34:48,007
+Just around the corner.
+
+581
+00:34:57,642 --> 00:34:59,602
+You sure he said the bottom of the ramp?
+
+582
+00:35:00,103 --> 00:35:01,020
+Yeah.
+
+583
+00:35:15,785 --> 00:35:17,954
+- Hello.
+- Andrew.
+
+584
+00:35:18,287 --> 00:35:21,165
+- Who's this?
+- It's Jack Bauer. Where are you?
+
+585
+00:35:23,793 --> 00:35:25,003
+Andrew?
+
+586
+00:35:25,586 --> 00:35:27,755
+I can't really, uh... talk.
+
+587
+00:35:30,883 --> 00:35:32,093
+Let's go.
+
+588
+00:35:32,135 --> 00:35:34,595
+Andrew? Andrew?!
+
+589
+00:35:34,846 --> 00:35:36,931
+Son of a bitch, they got to him before we did.
+
+590
+00:35:37,098 --> 00:35:38,683
+How did they know where he was going to be?
+
+591
+00:35:38,683 --> 00:35:39,976
+I don't know!
+
+592
+00:35:41,686 --> 00:35:42,812
+Who are you?
+
+593
+00:35:42,854 --> 00:35:46,149
+I'm the man that's going to kill you if you don't follow my instructions.
+
+594
+00:35:46,190 --> 00:35:47,316
+Felson, come on.
+
+595
+00:35:47,400 --> 00:35:48,568
+Alert your MTA's.
+
+596
+00:35:48,609 --> 00:35:50,486
+Tell them we've got a Caucasian male, early 20s,
+
+597
+00:35:50,528 --> 00:35:52,697
+wearing a brown jacket and carrying a black bag
+
+598
+00:35:52,739 --> 00:35:54,365
+being taken from this station against his will.
+
+599
+00:35:54,407 --> 00:35:55,950
+Tell your men not to engage the target.
+
+600
+00:35:55,992 --> 00:35:57,744
+I want a visual and a location- that's it.
+
+601
+00:35:57,827 --> 00:35:58,953
+Now.
+
+602
+00:36:13,384 --> 00:36:14,969
+Where are you taking me?
+
+603
+00:36:22,185 --> 00:36:24,312
+This is Marx, I have the target sighted.
+
+604
+00:36:24,354 --> 00:36:25,313
+What's your twenty?
+
+605
+00:36:25,355 --> 00:36:26,939
+I'm on the train platform.
+
+606
+00:36:27,023 --> 00:36:29,192
+Target is on the East periphery.
+
+607
+00:36:29,567 --> 00:36:31,152
+Second level parking lot.
+
+608
+00:36:31,652 --> 00:36:32,904
+Open the door.
+
+609
+00:36:33,905 --> 00:36:36,115
+They're getting in a dark blue Lexus.
+
+610
+00:36:36,157 --> 00:36:37,158
+What's the fastest way?
+
+611
+00:36:37,200 --> 00:36:38,159
+Straight out the back.
+
+612
+00:36:38,201 --> 00:36:39,243
+Tell your man to stay out of sight.
+
+613
+00:36:39,285 --> 00:36:41,829
+Marx, stay on the guy, but make sure he doesn't see you.
+
+614
+00:36:46,292 --> 00:36:47,418
+Lay down.
+
+615
+00:37:33,715 --> 00:37:35,008
+There he is.
+
+616
+00:37:35,133 --> 00:37:37,260
+You get the gate, I'll get the kid out of the car.
+
+617
+00:37:38,720 --> 00:37:39,554
+Wait.
+
+618
+00:37:39,637 --> 00:37:40,722
+Wait for what?
+
+619
+00:37:41,431 --> 00:37:43,057
+This isn't the right play.
+
+620
+00:37:43,307 --> 00:37:44,600
+What are you talking about?
+
+621
+00:37:44,600 --> 00:37:46,686
+If we follow this guy, maybe he'll lead us to Heller.
+
+622
+00:37:46,769 --> 00:37:49,230
+Or maybe he won't, but you know he'll kill the kid, Jack.
+
+623
+00:37:49,230 --> 00:37:52,400
+Right now, this hostile's our best chance to find Secretary Heller.
+
+624
+00:37:54,610 --> 00:37:56,738
+We'll break him back at CTU.
+
+625
+00:37:57,196 --> 00:37:58,948
+You don't know if you can break him in time.
+
+626
+00:37:58,990 --> 00:38:00,992
+This is not a field ops call, Jack.
+
+627
+00:38:02,452 --> 00:38:04,912
+- We need authorization.
+- No.
+
+628
+00:38:06,414 --> 00:38:09,083
+I can't take the chance of Driscoll resisting me.
+
+629
+00:38:21,679 --> 00:38:23,598
+I told you not to go against me, Jack.
+
+630
+00:38:24,390 --> 00:38:25,641
+Ronnie, please...
+
+631
+00:38:25,683 --> 00:38:28,144
+You get up, enterlace your hands behind your head.
+
+632
+00:38:28,519 --> 00:38:30,313
+- You're making a mistake.
+- Shut up.
+
+633
+00:38:41,783 --> 00:38:44,744
+Gate four. He's leaving the parking lot. What do you want me to do?
+
+634
+00:38:48,915 --> 00:38:51,042
+This is Agent Lobell. I'm moving in now.
+
+635
+00:38:51,084 --> 00:38:53,461
+Let the front car go ahead and lock in the hostile.
+
+636
+00:39:20,405 --> 00:39:21,531
+Ronnie.
+
+637
+00:39:22,699 --> 00:39:24,367
+Ronnie, where you been hit?
+
+638
+00:39:26,119 --> 00:39:27,412
+Can you move?
+
+639
+00:39:29,414 --> 00:39:30,540
+Ronnie...
+
+640
+00:39:31,290 --> 00:39:33,209
+Give me the keys to the cuffs.
+
+641
+00:39:40,008 --> 00:39:41,217
+Please, Ronnie.
+
+642
+00:39:41,259 --> 00:39:42,760
+He's our only lead.
+
+643
+00:39:43,219 --> 00:39:44,804
+We gotta stop him.
+
+644
+00:39:54,105 --> 00:39:55,356
+Come on!
+
+645
+00:40:12,999 --> 00:40:14,250
+Damn it.
+
+646
+00:40:44,197 --> 00:40:46,240
+Tell me what happened, Richard.
+
+647
+00:40:48,409 --> 00:40:51,412
+My father and I were talking, and...
+
+648
+00:40:53,039 --> 00:40:55,917
+my sister came in with a phone call for him.
+
+649
+00:40:56,084 --> 00:40:57,669
+So he was in the room on the call?
+
+650
+00:40:57,710 --> 00:41:00,463
+No. He and Audrey went outside.
+
+651
+00:41:00,880 --> 00:41:02,340
+Go on.
+
+652
+00:41:02,382 --> 00:41:04,175
+And then I heard an explosion,
+
+653
+00:41:04,300 --> 00:41:06,469
+and I looked out the window and I see them both being grabbed.
+
+654
+00:41:06,511 --> 00:41:08,262
+And they didn't come in and get you?
+
+655
+00:41:09,389 --> 00:41:12,392
+Excuse me. I know you told me not to interrupt, but we need you on the floor.
+
+656
+00:41:12,558 --> 00:41:13,559
+What's going on?
+
+657
+00:41:13,601 --> 00:41:16,187
+A webcast signal is being pushed onto servers all over the place.
+
+658
+00:41:16,270 --> 00:41:17,689
+A webcast of what?
+
+659
+00:41:17,730 --> 00:41:19,399
+Secretary of Defense Heller.
+
+660
+00:41:20,400 --> 00:41:23,361
+The terrorists are broadcasting this all over the Internet.
+
+661
+00:41:23,903 --> 00:41:25,238
+Call Curtis.
+
+662
+00:41:26,406 --> 00:41:28,282
+Curtis, we need you on the floor.
+
+663
+00:41:56,686 --> 00:41:58,730
+There you are, you son of a bitch.
+
+664
+00:41:59,480 --> 00:42:04,235
+We speak for the men, women and children who've had no voice until now,
+
+665
+00:42:04,485 --> 00:42:08,239
+who've been victimized by the genocidal policies of the United States
+
+666
+00:42:08,281 --> 00:42:10,158
+that James Heller has advanced.
+
+667
+00:42:10,992 --> 00:42:14,203
+But the time has come for the victims to demand justice.
+
+668
+00:42:14,287 --> 00:42:16,789
+Edgar, isolate Secretary Heller.
+
+669
+00:42:16,831 --> 00:42:21,336
+Our soldiers have taken the terrorist James Heller into custody.
+
+670
+00:42:21,586 --> 00:42:26,507
+In three hours, Heller will be tried for war crimes against humanity.
+
+671
+00:42:26,799 --> 00:42:28,634
+If he is proven guilty,
+
+672
+00:42:28,760 --> 00:42:31,596
+he will be executed in accordance with our laws.
+
+673
+00:42:32,513 --> 00:42:34,932
+Because we have nothing to hide,
+
+674
+00:42:35,099 --> 00:42:38,936
+the world will have full access to these proceedings.
+
+675
+00:42:40,599 --> 00:42:43,936
+Synchro: Kicker, Plagnioj et Doyle Transcript: RaceMan
+- www. forom. com Rearranged By allanmauwx From TLF
+
+
+
+9999
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.tvsubtitles.net</font>

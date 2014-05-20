@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="connections">
+	<item value="&lt;com.quest.toadext.oracle.core.store.ConnectionsList serialization=&quot;custom&quot;&gt;&#x0A;  &lt;unserializable-parents/&gt;&#x0A;  &lt;list&gt;&#x0A;    &lt;default&gt;&#x0A;      &lt;size&gt;0&lt;/size&gt;&#x0A;    &lt;/default&gt;&#x0A;    &lt;int&gt;0&lt;/int&gt;&#x0A;  &lt;/list&gt;&#x0A;  &lt;com.quest.toadext.oracle.core.store.ConnectionsList&gt;&#x0A;    &lt;default&gt;&#x0A;      &lt;version&gt;1&lt;/version&gt;&#x0A;    &lt;/default&gt;&#x0A;  &lt;/com.quest.toadext.oracle.core.store.ConnectionsList&gt;&#x0A;&lt;/com.quest.toadext.oracle.core.store.ConnectionsList&gt;" key="connections"/>
+</section>

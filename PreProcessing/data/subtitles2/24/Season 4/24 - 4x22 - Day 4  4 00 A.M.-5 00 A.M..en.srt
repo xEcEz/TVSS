@@ -1,0 +1,3199 @@
+1
+00:00:10,602 --> 00:00:12,279
+Previously On 24
+
+2
+00:00:12,900 --> 00:00:13,800
+David, what have you done?
+
+3
+00:00:14,600 --> 00:00:15,400
+Excuse me, sir?
+
+4
+00:00:15,600 --> 00:00:20,200
+I just got a call from the secretary of state telling me about
+a covert action against the Chinese consulate in Los Angeles.
+
+5
+00:00:20,300 --> 00:00:21,400
+That's correct. I sanctioned it.
+
+6
+00:00:21,500 --> 00:00:25,000
+You authorized an attack on their consulate! That's a military engagement.
+
+7
+00:00:25,000 --> 00:00:26,200
+It was a covert operation,
+
+8
+00:00:26,300 --> 00:00:27,800
+We marched onto Chinese soil,
+
+9
+00:00:28,000 --> 00:00:32,200
+we kidnapped one of their nationals, and in the process the
+Chinese consul was killed.
+
+10
+00:00:32,700 --> 00:00:33,300
+Mr. President
+
+11
+00:00:33,400 --> 00:00:38,500
+if we don't find that warhead before it's deployed,
+ten million americans could face annihilation.
+
+12
+00:00:38,600 --> 00:00:41,100
+And we could be at war
+with a Billion Chinese.
+
+13
+00:00:41,700 --> 00:00:42,400
+Is he going to make it?
+
+14
+00:00:42,400 --> 00:00:43,700
+We're going to do the best we can.
+
+15
+00:00:43,900 --> 00:00:47,100
+I just need him coherent long
+enough to get the information about Marwan and the missing warhead.
+
+16
+00:00:47,100 --> 00:00:51,100
+I know, Jack. You already made me aware of that when you
+forced me to sacrifice Paul Raines's life.
+
+17
+00:00:52,300 --> 00:00:53,200
+I'm so sorry.
+
+18
+00:00:53,700 --> 00:00:56,657
+You made a choice that killed Paul,
+and I'm trying to deal with it.
+
+19
+00:00:57,026 --> 00:00:58,863
+We both have a job, let's just do it.
+
+20
+00:00:59,600 --> 00:01:03,100
+I know that he worked
+with Marwan on the warhead. Now he needs to tell us where it is.
+
+21
+00:01:03,400 --> 00:01:05,700
+He doesn't konw. But he knows where Marwan might be.
+
+22
+00:01:05,900 --> 00:01:07,100
+A factory on sixth.
+
+23
+00:01:07,900 --> 00:01:09,957
+They're looking for the
+warhead in their cities.
+
+24
+00:01:09,957 --> 00:01:12,402
+They have no idea that it's
+going to be delivered by missile.
+
+25
+00:01:12,801 --> 00:01:13,837
+Start the sequence.
+
+26
+00:01:14,806 --> 00:01:15,569
+We're done here.
+
+27
+00:01:16,100 --> 00:01:17,400
+They can't stop us now.
+
+28
+00:01:26,200 --> 00:01:27,600
+I've been waiting for this.
+
+29
+00:01:29,100 --> 00:01:30,200
+You're too late.
+
+30
+00:01:34,100 --> 00:01:35,000
+Kill me.
+
+31
+00:01:36,300 --> 00:01:38,000
+That won't stop the missile.
+
+32
+00:01:38,000 --> 00:01:39,100
+Tony, can you see this?
+
+33
+00:01:39,700 --> 00:01:40,100
+Yeah.
+
+34
+00:01:40,300 --> 00:01:42,300
+Can you get a source of the transmission?
+
+35
+00:01:45,200 --> 00:01:47,200
+No, Jack- it's on
+an encrypted uplink.
+
+36
+00:01:47,400 --> 00:01:48,600
+There's no way to trace it.
+
+37
+00:01:59,129 --> 00:02:03,073
+The following takes place
+between 4:00 A.M. and 5:00 A.M.
+
+38
+00:02:05,600 --> 00:02:07,600
+Tony,it\'s Jack,have you got a lock on the missle?
+
+39
+00:02:07,700 --> 00:02:10,000
+No,we\'re still trying to find it,Jack,what\'re you gonna do with Marwan?
+
+40
+00:02:10,100 --> 00:02:14,100
+-We\'re gonna scan the building one more time, then I\'m gonna
+bring him in to the CTU, I want you to prep a holding room.
+
+41
+00:02:14,200 --> 00:02:16,800
+Tony I\'m going out for comm,if you need me,get me on my cell.
+
+42
+00:02:17,000 --> 00:02:17,500
+Alright,you got it!
+
+43
+00:02:18,400 --> 00:02:20,000
+I want you to try to decode his files,
+
+44
+00:02:20,200 --> 00:02:21,800
+I\'m gonna go prep the teams to look at the building.
+
+45
+00:02:23,500 --> 00:02:24,200
+Unbelievable,
+
+46
+00:02:25,500 --> 00:02:29,200
+how the hell did they manage to assemble a missle capable of carrying a nuclear warhead.
+
+47
+00:02:31,100 --> 00:02:32,400
+S-series cruise missle,
+
+48
+00:02:32,500 --> 00:02:33,400
+,steath technology,
+
+49
+00:02:33,500 --> 00:02:36,600
+they must\'ve smuggled it in piece by piece and then assembled it downside.
+
+50
+00:02:37,000 --> 00:02:39,200
+If it\'s stealth,we can\'t track it by radar,
+
+51
+00:02:39,500 --> 00:02:40,600
+what about the targets?
+
+52
+00:02:41,200 --> 00:02:41,900
+Pull it up.
+
+53
+00:02:44,100 --> 00:02:46,700
+An S-series has a range of 1800 miles
+
+54
+00:02:46,700 --> 00:02:51,100
+which means the warhead could be delieverd from the midwest anywhere in the continent to the U.S.
+
+55
+00:02:51,300 --> 00:02:53,600
+This missle traveling up speed 600 miles an hour
+
+56
+00:02:53,600 --> 00:02:56,300
+which means it can hit the target in either coast under three hours
+
+57
+00:02:56,400 --> 00:02:58,300
+Let\'s assume that it\'s heading for the coast,
+
+58
+00:02:58,500 --> 00:03:00,400
+it\'s not there,could be here,start at any time.
+
+59
+00:03:02,900 --> 00:03:04,000
+There are no files on this,
+
+60
+00:03:04,100 --> 00:03:05,800
+he just received what\'s scrambled down alike.
+
+61
+00:03:05,900 --> 00:03:06,700
+What else did you find?
+
+62
+00:03:06,900 --> 00:03:07,900
+Nothing,it was clean,
+
+63
+00:03:08,100 --> 00:03:09,600
+just the laptop and the cell phone.
+
+64
+00:03:09,700 --> 00:03:13,100
+-Ok,take this (encrypted) outta the phone,
+upload it to CTU,see if any other traces.
+
+65
+00:03:13,100 --> 00:03:13,600
+You got it
+
+66
+00:03:15,100 --> 00:03:16,000
+This is Bauer.
+
+67
+00:03:16,500 --> 00:03:16,800
+Jack,
+
+68
+00:03:17,400 --> 00:03:18,500
+this is president Logan.
+
+69
+00:03:18,700 --> 00:03:21,400
+I\'m just been told a cruise missle,has just been launched containing the nuclear warhead.
+
+70
+00:03:21,400 --> 00:03:22,300
+Yes,sir,that\'s correct
+
+71
+00:03:22,300 --> 00:03:26,000
+Our millitary tracking devices are doing everything they can to find the trajectory of the missle
+
+72
+00:03:26,100 --> 00:03:27,400
+,but we don\'t have a lot to go on.
+
+73
+00:03:27,400 --> 00:03:28,500
+What about Marwan,Jack?
+
+74
+00:03:28,600 --> 00:03:29,300
+You think that he will break?
+
+75
+00:03:31,100 --> 00:03:32,600
+That won\'t be easy,sir.
+
+76
+00:03:33,400 --> 00:03:35,800
+He\'s planned and organized everything that\'s happened today,
+
+77
+00:03:36,100 --> 00:03:38,300
+he\'s committed to his cult,he\'s prepared to die.
+
+78
+00:03:38,400 --> 00:03:40,300
+I know that you are doing your best,keep me posted.
+
+79
+00:03:41,300 --> 00:03:42,400
+Yes,sir. I will.
+
+80
+00:03:43,600 --> 00:03:48,400
+-Let the Joint Chiefs know the situation,
+but tell him that this should be eliminated to the intelligence community only.
+
+81
+00:03:48,600 --> 00:03:48,900
+Sir,
+
+82
+00:03:48,900 --> 00:03:52,500
+if the nuclear missle has been launched,we have to assume the washington is its target.
+
+83
+00:03:52,600 --> 00:03:53,600
+What are our options?
+
+84
+00:03:53,700 --> 00:03:54,600
+We don\'t have many.
+
+85
+00:03:54,800 --> 00:04:01,000
+Our first priority is to establish a continuity government
+and start a quiet evacuation of government personnel in the city.
+
+86
+00:04:01,300 --> 00:04:04,100
+Bring the cabinet members and the speaker of the house to the bunker,
+
+87
+00:04:04,300 --> 00:04:07,300
+the congress and Pentagon should be taking to the mountain safe facility.
+
+88
+00:04:07,400 --> 00:04:07,800
+Right.
+
+89
+00:04:10,500 --> 00:04:11,100
+Mike,
+
+90
+00:04:11,500 --> 00:04:14,200
+let them know that this is category one emergency,
+
+91
+00:04:14,300 --> 00:04:15,200
+tell them nothing more,
+
+92
+00:04:16,000 --> 00:04:17,400
+we can\'t afford the information leak.
+
+93
+00:04:18,600 --> 00:04:19,200
+David,
+
+94
+00:04:19,800 --> 00:04:22,900
+public needs to be warned,cities need to be evacuated.
+
+95
+00:04:23,900 --> 00:04:24,600
+Not yet,
+
+96
+00:04:24,900 --> 00:04:27,000
+let\'s see what Bauer comes up at first.
+
+97
+00:04:33,000 --> 00:04:34,400
+He will die before he talks to us.
+
+98
+00:04:34,500 --> 00:04:35,300
+I know.
+
+99
+00:04:38,700 --> 00:04:39,400
+Stand down.
+
+100
+00:04:44,800 --> 00:04:47,500
+You and I both know that all I wanna do right now is kill you.
+
+101
+00:04:47,900 --> 00:04:49,100
+But I have my orders.
+
+102
+00:04:49,500 --> 00:04:53,200
+We\'re running outta time. You win. I\'ve been instructed to ask you what you want?
+
+103
+00:04:53,500 --> 00:04:55,200
+What I want is already happening.
+
+104
+00:04:55,700 --> 00:04:59,900
+-The death and destruction of the innocent life is means to the end.
+Why don\'t we just skip to the end.
+
+105
+00:05:00,500 --> 00:05:01,400
+To the end?
+
+106
+00:05:02,300 --> 00:05:03,700
+Everything that you did today,
+
+107
+00:05:03,800 --> 00:05:07,400
+you (defer) a reason for your people,what do you want to change?
+
+108
+00:05:08,000 --> 00:05:10,600
+I have no interest having a political discussion with you.
+
+109
+00:05:12,700 --> 00:05:17,800
+-I\'m on an unique position to make things happen,
+I have the ears of the president of the U.S. right now.
+
+110
+00:05:18,800 --> 00:05:21,500
+You have the power to make any kind of the deal that you want.
+
+111
+00:05:22,400 --> 00:05:23,300
+And I promise you,
+
+112
+00:05:24,000 --> 00:05:28,600
+you will do more for you and your people if you cooperate with me than if you let that missle hit its target
+
+113
+00:05:30,200 --> 00:05:31,800
+You tell me where the missle is headed,
+
+114
+00:05:31,900 --> 00:05:33,000
+you help me to stop it,
+
+115
+00:05:33,300 --> 00:05:35,800
+then I guarantee you that you will talk to the president,
+
+116
+00:05:36,100 --> 00:05:38,400
+and he will listen to you,he has no choice.
+
+117
+00:05:39,300 --> 00:05:40,900
+Right here,right now,
+
+118
+00:05:41,900 --> 00:05:43,900
+you have the chance to get what you want.
+
+119
+00:05:44,400 --> 00:05:46,200
+I\'ve already had,agent Bauer.
+
+120
+00:05:47,300 --> 00:05:48,200
+Of till this day
+
+121
+00:05:48,400 --> 00:05:49,900
+every elected official
+
+122
+00:05:50,000 --> 00:05:51,500
+and citizen of America
+
+123
+00:05:51,600 --> 00:05:56,100
+will know that america can not intervene our lives nor countries
+
+124
+00:05:56,600 --> 00:05:57,700
+with impunity.
+
+125
+00:05:59,600 --> 00:06:03,500
+Besides,your presidency means only one to mention-
+
+126
+00:06:04,300 --> 00:06:04,800
+evil.
+
+127
+00:06:08,500 --> 00:06:09,600
+That\'s you see us?
+
+128
+00:06:12,000 --> 00:06:12,600
+Yes,
+
+129
+00:06:13,500 --> 00:06:14,500
+and vulnerable.
+
+130
+00:06:21,300 --> 00:06:21,700
+Chloe,
+
+131
+00:06:21,700 --> 00:06:22,100
+come here.
+
+132
+00:06:22,400 --> 00:06:22,900
+What?
+
+133
+00:06:23,000 --> 00:06:24,400
+You\'re never gonna believe what I just found,
+
+134
+00:06:24,600 --> 00:06:27,100
+I got names of some calls received on Marwan\'s cellphone
+
+135
+00:06:27,200 --> 00:06:27,900
+take a look.
+
+136
+00:06:30,300 --> 00:06:31,200
+Richard Heler
+
+137
+00:06:31,300 --> 00:06:33,400
+That\'s right secetary of denfence Heler's son
+
+138
+00:06:33,700 --> 00:06:35,100
+called Marwan a week ago.
+
+139
+00:06:36,100 --> 00:06:36,900
+Did you tell anyone yet?
+
+140
+00:06:40,100 --> 00:06:40,500
+No.
+
+141
+00:06:41,000 --> 00:06:41,600
+Just you.
+
+142
+00:06:42,500 --> 00:06:43,700
+I'll let Buchanan know.
+
+143
+00:06:53,000 --> 00:06:55,700
+With every minute that passes, the missile's target zone widens.
+
+144
+00:06:55,800 --> 00:06:57,100
+We need to get updates from regional teams.
+
+145
+00:06:57,100 --> 00:06:59,200
+I'm sorry to interrupt, but you need to hear this.
+
+146
+00:06:59,300 --> 00:07:01,400
+Edgar just pulled a name off Marwan's cell phone.
+
+147
+00:07:01,400 --> 00:07:03,100
+It was from a call he received last week.
+
+148
+00:07:03,200 --> 00:07:03,800
+Who called him?
+
+149
+00:07:03,900 --> 00:07:04,700
+Richard Heller.
+
+150
+00:07:08,000 --> 00:07:08,600
+Are you sure?
+
+151
+00:07:08,700 --> 00:07:09,000
+Yeah.
+
+152
+00:07:09,000 --> 00:07:12,200
+We ran the number and it came up as originating from Richard Heller's cell phone.
+
+153
+00:07:12,300 --> 00:07:15,100
+That must be how Marwan knew where secretary Heller was going to be yesterday morning.
+
+154
+00:07:15,500 --> 00:07:17,900
+You think Richard helped to plan his own dad's kidnapping?
+
+155
+00:07:18,200 --> 00:07:18,500
+I don't know.
+
+156
+00:07:18,600 --> 00:07:19,400
+Where is he now?
+
+157
+00:07:19,800 --> 00:07:20,800
+Well, it's 4:00 A.M.
+
+158
+00:07:20,800 --> 00:07:22,000
+He's at home asLeep, I guess.
+
+159
+00:07:22,100 --> 00:07:23,300
+Where does he live, Chloe?
+
+160
+00:07:23,400 --> 00:07:24,300
+Van nuys.
+
+161
+00:07:24,400 --> 00:07:25,400
+We have field teams in the area?
+
+162
+00:07:26,300 --> 00:07:26,600
+I don't know.
+
+163
+00:07:26,600 --> 00:07:28,300
+I'll pull it up on the ip phone.
+
+164
+00:07:35,700 --> 00:07:36,300
+Yes, we do.
+
+165
+00:07:36,400 --> 00:07:37,200
+Dispatch them.
+
+166
+00:07:37,400 --> 00:07:40,300
+I'll call secretary Heller, tell him his son's being brought back in.
+
+167
+00:07:41,300 --> 00:07:43,600
+Chloe, does Audrey know about this?
+
+168
+00:07:43,900 --> 00:07:44,200
+No.
+
+169
+00:07:44,500 --> 00:07:46,500
+It's more of a management conversation, don't you think?
+
+170
+00:07:49,200 --> 00:07:50,200
+This is o'brian.
+
+171
+00:07:50,300 --> 00:07:51,900
+Your team has been issued new orders.
+
+172
+00:07:51,900 --> 00:07:53,800
+You are to dispatch immediately to van nuys.
+
+173
+00:07:58,800 --> 00:07:59,800
+Audrey, you got a minute?
+
+174
+00:07:59,900 --> 00:08:00,800
+Yeah, sure.
+
+175
+00:08:01,400 --> 00:08:02,100
+What is it?
+
+176
+00:08:02,500 --> 00:08:03,600
+It's about your brother, Richard.
+
+177
+00:08:03,900 --> 00:08:04,600
+Is he all right?
+
+178
+00:08:05,500 --> 00:08:06,400
+I assume he is, yeah.
+
+179
+00:08:06,700 --> 00:08:07,400
+What do you mean?
+
+180
+00:08:09,900 --> 00:08:13,500
+We just found out that Habib Marwan got a call from Richard's cell phone a week ago.
+
+181
+00:08:13,900 --> 00:08:15,500
+I'm sorry, but that's absurd.
+
+182
+00:08:16,100 --> 00:08:17,000
+We don't know what it means yet,
+
+183
+00:08:17,000 --> 00:08:19,600
+but Buchanan is sending a team over to pick Richard up right now.
+
+184
+00:08:19,700 --> 00:08:22,600
+Tony, my brother was already brought in once today and he was cleared.
+
+185
+00:08:22,600 --> 00:08:23,400
+Yeah, I know.
+
+186
+00:08:23,800 --> 00:08:26,200
+But this call definitely connects him to Marwan and the missile.
+
+187
+00:08:27,000 --> 00:08:31,100
+Look, I don't know how he got mixed up in this, but my brother is not a terrorist.
+
+188
+00:08:34,600 --> 00:08:35,400
+Audrey,
+
+189
+00:08:37,600 --> 00:08:41,100
+Richard's phone number was found in the received registry of Marwan's sim card.
+
+190
+00:08:44,400 --> 00:08:45,800
+Does my father know about this?
+
+191
+00:08:46,300 --> 00:08:47,500
+Buchanan's calling him right now.
+
+192
+00:08:49,500 --> 00:08:50,000
+All right.
+
+193
+00:08:51,000 --> 00:08:51,900
+I'm sorry.
+
+194
+00:08:57,300 --> 00:08:58,000
+All right.
+
+195
+00:08:58,200 --> 00:08:58,800
+I'll tell him, yeah.
+
+196
+00:08:59,300 --> 00:09:00,700
+Jack, we got something.
+
+197
+00:09:00,800 --> 00:09:01,300
+W hat?
+
+198
+00:09:01,700 --> 00:09:03,200
+Richard Heller called Marwan a week ago.
+
+199
+00:09:04,800 --> 00:09:05,900
+We're sure about this?
+
+200
+00:09:06,000 --> 00:09:07,700
+Yeah, they're bringing him to CTU.
+
+201
+00:09:08,400 --> 00:09:10,100
+I want to question this kid myself.
+
+202
+00:09:10,400 --> 00:09:11,600
+We need to get back there now.
+
+203
+00:09:14,500 --> 00:09:15,500
+Put the suspect in the vehicle.
+
+204
+00:09:15,500 --> 00:09:16,900
+We're headed back to CTU now.
+
+205
+00:09:18,500 --> 00:09:19,900
+It doesn't matter where you take me.
+
+206
+00:09:21,600 --> 00:09:22,900
+Yeah, we'll see about that.
+
+207
+00:09:38,800 --> 00:09:39,300
+This is Bauer.
+
+208
+00:09:39,400 --> 00:09:41,900
+Jack, were you able to get anything out of Marwan?
+
+209
+00:09:42,200 --> 00:09:43,800
+No, we're going to bring him back to CTU.
+
+210
+00:09:43,800 --> 00:09:45,100
+We think we got a better chance of breaking him there.
+
+211
+00:09:45,100 --> 00:09:46,200
+We're about ten minutes out.
+
+212
+00:10:02,300 --> 00:10:03,400
+Curtis, you okay?
+
+213
+00:10:03,800 --> 00:10:04,500
+Yeah!
+
+214
+00:10:10,600 --> 00:10:12,000
+Can you see the shooters?
+
+215
+00:10:12,200 --> 00:10:13,200
+They're on the roof behind us.
+
+216
+00:10:13,500 --> 00:10:14,600
+Go!
+
+217
+00:10:21,400 --> 00:10:24,400
+Notify the perimeter we no longer have Marwan in custody!
+
+218
+00:10:24,700 --> 00:10:26,600
+Perimeter teams, Marwan's escaped!
+
+219
+00:10:26,900 --> 00:10:28,900
+He's headed towards the southwest sector.
+
+220
+00:10:45,300 --> 00:10:46,900
+Chloe, what have you got on Marwan?
+
+221
+00:10:47,100 --> 00:10:47,400
+Nothing-
+
+222
+00:10:47,400 --> 00:10:50,200
+he already ditched the transpo vehicle and we can't find him on satellite.
+
+223
+00:10:50,400 --> 00:10:52,000
+How did his people get into that area?
+
+224
+00:10:52,200 --> 00:10:53,600
+They didn't-they must have been there before us.
+
+225
+00:10:53,600 --> 00:10:55,200
+Marwan secured the location.
+
+226
+00:10:55,300 --> 00:10:55,700
+All right,
+
+227
+00:10:55,700 --> 00:10:58,500
+have perimeter teams comb the nearby buildings for remaining hostiles,
+
+228
+00:10:58,500 --> 00:11:00,400
+then shift personnel to tracking the missile.
+
+229
+00:11:00,600 --> 00:11:01,600
+We lost him, Jack.
+
+230
+00:11:01,800 --> 00:11:02,800
+Damn it, Tony, how?
+
+231
+00:11:03,200 --> 00:11:04,700
+They dumped their vehicle on the freeway.
+
+232
+00:11:04,700 --> 00:11:07,300
+In the chaos, Marwan must have gotten into another car and driven off.
+
+233
+00:11:07,400 --> 00:11:09,000
+We're trying to analyze the satellite right now,
+
+234
+00:11:09,000 --> 00:11:10,300
+but the images are too noisy.
+
+235
+00:11:10,500 --> 00:11:12,400
+How does Buchanan want to handle this?
+
+236
+00:11:12,500 --> 00:11:13,000
+I'm here, Jack.
+
+237
+00:11:13,600 --> 00:11:15,700
+Finding Marwan is becoming less likely.
+
+238
+00:11:16,000 --> 00:11:16,900
+With that missile in the air,
+
+239
+00:11:16,900 --> 00:11:18,400
+we have to follow primary leads only.
+
+240
+00:11:18,400 --> 00:11:19,600
+Right now that's Richard Heller.
+
+241
+00:11:19,700 --> 00:11:20,700
+Has he arrived yet?
+
+242
+00:11:20,800 --> 00:11:22,100
+No, our team's on the way to get him.
+
+243
+00:11:22,100 --> 00:11:23,300
+He'll be back here momentarily.
+
+244
+00:11:23,700 --> 00:11:25,800
+Bill, I want to interrogate this kid myself.
+
+245
+00:11:26,000 --> 00:11:26,600
+I understand.
+
+246
+00:11:26,600 --> 00:11:27,600
+I'll have him ready for you.
+
+247
+00:11:28,000 --> 00:11:29,100
+Okay, we're on our way in.
+
+248
+00:11:29,600 --> 00:11:31,400
+Curtis, we need to back to CTU.
+
+249
+00:11:32,400 --> 00:11:33,100
+They lost Marwan.
+
+250
+00:11:33,100 --> 00:11:34,500
+We're going to have to track him from there.
+
+251
+00:11:34,800 --> 00:11:35,600
+What did Buchanan say?
+
+252
+00:11:36,000 --> 00:11:37,400
+Richard Heller's in first position.
+
+253
+00:11:37,600 --> 00:11:38,700
+We're going to interrogate him.
+
+254
+00:11:46,300 --> 00:11:46,800
+Mr. President.
+
+255
+00:11:48,800 --> 00:11:50,100
+Please, everybody, be seated.
+
+256
+00:11:52,500 --> 00:11:56,300
+I would like to apologize for the abruptness of your removal from your homes and your offices.
+
+257
+00:11:56,300 --> 00:12:00,600
+Please know that every precaution had to be taken to ensure the secrecy of your arrival.
+
+258
+00:12:03,900 --> 00:12:06,800
+The U.S. Has been thrown into a category one emergency.
+
+259
+00:12:07,300 --> 00:12:12,400
+A cruise missile containing a nuclear warhead has been launched and is now headed for,
+
+260
+00:12:12,400 --> 00:12:14,400
+we believe, a major U.S. City.
+
+261
+00:12:14,400 --> 00:12:15,900
+Very possibly washington D.C.
+
+262
+00:12:17,400 --> 00:12:18,100
+Now,
+
+263
+00:12:18,900 --> 00:12:24,900
+all branches of the military have been alerted and they're doing everything in their power to locate the missile and to intercept it.
+
+264
+00:12:25,100 --> 00:12:26,000
+Excuse me, sir.
+
+265
+00:12:26,700 --> 00:12:29,900
+You're saying that not only do we not know what the missile's target is,
+
+266
+00:12:29,900 --> 00:12:30,700
+but you don't even know
+
+267
+00:12:30,700 --> 00:12:31,900
+where the missile is?
+
+268
+00:12:32,100 --> 00:12:32,600
+That's correct.
+
+269
+00:12:33,300 --> 00:12:35,000
+When do you plan to inform the public?
+
+270
+00:12:36,000 --> 00:12:36,700
+As of this time,
+
+271
+00:12:36,700 --> 00:12:40,500
+we feel that informing the public wouldn't be in the country's best interest.
+
+272
+00:12:41,700 --> 00:12:43,200
+"We" meaning who, Mr. President?
+
+273
+00:12:45,400 --> 00:12:47,500
+I feel that way, Mr. Speaker.
+
+274
+00:12:47,800 --> 00:12:49,800
+Doesn't the public have a right to know the truth?
+
+275
+00:12:51,900 --> 00:12:53,300
+That's all I have for now.
+
+276
+00:12:53,500 --> 00:12:55,500
+When I know more, an update will be given.
+
+277
+00:12:56,500 --> 00:12:57,100
+Thank you.
+
+278
+00:13:01,900 --> 00:13:02,700
+Mr. President.
+
+279
+00:13:04,800 --> 00:13:05,400
+Yes, Don.
+
+280
+00:13:05,400 --> 00:13:05,900
+S ir,
+
+281
+00:13:05,900 --> 00:13:09,200
+I do not wish to question your decision in front of the cabinet,
+
+282
+00:13:09,200 --> 00:13:12,800
+but I think that you're making a grave mistake in not alerting the public.
+
+283
+00:13:14,200 --> 00:13:16,400
+Look, I've thought a lot about this and...
+
+284
+00:13:18,500 --> 00:13:20,100
+I'm certain it's the right course.
+
+285
+00:13:20,300 --> 00:13:23,400
+Well, if I may say so, sir, you do not seem certain.
+
+286
+00:13:27,700 --> 00:13:29,900
+It's a difficult day for all of us, Don.
+
+287
+00:13:33,100 --> 00:13:34,300
+Now, if you'll excuse me.
+
+288
+00:13:39,800 --> 00:13:40,200
+Mike,
+
+289
+00:13:42,100 --> 00:13:42,900
+what's going on here?
+
+290
+00:13:43,400 --> 00:13:44,100
+Meaning what?
+
+291
+00:13:44,400 --> 00:13:45,800
+Logan was sworn in a few hours ago,
+
+292
+00:13:45,800 --> 00:13:49,800
+we're under a massive terrorist attack-he needs all the help he can get.
+
+293
+00:13:49,900 --> 00:13:52,400
+He understands that and he's seeking advice from everywhere.
+
+294
+00:13:52,700 --> 00:13:53,800
+Not from his cabinet.
+
+295
+00:13:53,900 --> 00:13:55,700
+Or the congressional leadership.
+
+296
+00:13:56,200 --> 00:13:57,100
+Give it time, Don.
+
+297
+00:13:58,000 --> 00:13:58,800
+Give it time.
+
+298
+00:14:13,200 --> 00:14:14,200
+Tactical's at Richard's house,
+
+299
+00:14:14,200 --> 00:14:15,600
+they're going through his things right now.
+
+300
+00:14:15,800 --> 00:14:16,600
+What about Jack?
+
+301
+00:14:17,000 --> 00:14:18,600
+Jack and Curtis are on their way back.
+
+302
+00:14:20,100 --> 00:14:22,900
+Someone has to tell Audrey that Jack's going to be interrogating her brother.
+
+303
+00:14:24,200 --> 00:14:26,300
+Audrey's not going to want to let Jack near her brother.
+
+304
+00:14:27,000 --> 00:14:27,800
+It can't be helped.
+
+305
+00:14:28,400 --> 00:14:30,500
+If Richard knows something about that missile...
+
+306
+00:14:32,200 --> 00:14:34,800
+it's funny, this morning Jack and Audrey were planning their future.
+
+307
+00:14:35,500 --> 00:14:37,600
+Now he's responsible for her husband's death,
+
+308
+00:14:37,600 --> 00:14:39,000
+and he may have to torture her brother.
+
+309
+00:14:41,000 --> 00:14:41,500
+And yet...
+
+310
+00:14:42,800 --> 00:14:44,700
+every move he's made has been the right one.
+
+311
+00:14:46,200 --> 00:14:47,600
+Not if he wanted to be with her.
+
+312
+00:14:50,200 --> 00:14:51,000
+Look, Michelle...
+
+313
+00:14:58,300 --> 00:14:59,800
+everything that's happened here today,
+
+314
+00:15:02,600 --> 00:15:04,400
+it's been hard going through it with you again.
+
+315
+00:15:05,700 --> 00:15:06,600
+It's been hard for me, too.
+
+316
+00:15:08,900 --> 00:15:09,600
+And I...
+
+317
+00:15:11,000 --> 00:15:13,700
+look at what this job does the people in our positions,
+
+318
+00:15:15,000 --> 00:15:16,100
+and I realize...
+
+319
+00:15:19,700 --> 00:15:21,000
+I want us to be together again,
+
+320
+00:15:22,100 --> 00:15:23,800
+but it's go to be away from all this.
+
+321
+00:15:27,400 --> 00:15:28,900
+You want us to leave our jobs?
+
+322
+00:15:34,400 --> 00:15:37,400
+We've spent the last 12 years of our lives doing this.
+
+323
+00:15:38,400 --> 00:15:39,400
+Where would we go?
+
+324
+00:15:40,400 --> 00:15:41,100
+What would we do?
+
+325
+00:15:42,200 --> 00:15:43,100
+I don't care.
+
+326
+00:15:45,000 --> 00:15:48,200
+People start over every day, if it's important to them.
+
+327
+00:15:50,900 --> 00:15:53,700
+You're asking me to leave the only thing I've ever done.
+
+328
+00:15:57,000 --> 00:15:57,600
+Yes...
+
+329
+00:15:59,300 --> 00:16:00,100
+I am.
+
+330
+00:16:11,900 --> 00:16:14,000
+This is beyond belief!
+
+331
+00:16:14,000 --> 00:16:15,300
+I cannot be brought here!
+
+332
+00:16:15,600 --> 00:16:17,300
+Audrey, you got to get me out of here.
+
+333
+00:16:17,300 --> 00:16:18,300
+These guys broke into my house.
+
+334
+00:16:18,300 --> 00:16:19,400
+This is so illegal.
+
+335
+00:16:19,500 --> 00:16:20,700
+All right, Richard, listen.
+
+336
+00:16:20,700 --> 00:16:21,600
+Just calm down, okay?
+
+337
+00:16:21,600 --> 00:16:22,200
+Listen to me.
+
+338
+00:16:22,300 --> 00:16:25,100
+Your phone number came up on the cell phone of a terrorist, all right?
+
+339
+00:16:25,200 --> 00:16:26,100
+That's what they said.
+
+340
+00:16:26,200 --> 00:16:27,000
+That's insane.
+
+341
+00:16:27,100 --> 00:16:27,600
+You know that.
+
+342
+00:16:27,600 --> 00:16:28,200
+Audrey.
+
+343
+00:16:28,200 --> 00:16:29,400
+Now listen, ok, just right...
+
+344
+00:16:29,400 --> 00:16:29,700
+Audrey.
+
+345
+00:16:29,700 --> 00:16:30,200
+Yes.
+
+346
+00:16:30,600 --> 00:16:32,000
+They have to get him into holding now.
+
+347
+00:16:32,000 --> 00:16:32,700
+Audrey!
+
+348
+00:16:33,100 --> 00:16:34,700
+Audrey, don't let them do this!
+
+349
+00:16:35,200 --> 00:16:37,400
+Don't let them do this to me!
+
+350
+00:16:37,400 --> 00:16:38,400
+Who's interrogating him?
+
+351
+00:16:39,000 --> 00:16:39,800
+Jack.
+
+352
+00:16:40,200 --> 00:16:40,800
+What?
+
+353
+00:16:45,200 --> 00:16:46,100
+You are not going to do this.
+
+354
+00:16:46,100 --> 00:16:47,400
+You are not going to torture my brother.
+
+355
+00:16:47,400 --> 00:16:48,200
+I'll be right in there.
+
+356
+00:16:48,500 --> 00:16:50,400
+I don't want to hurt Richard, but we're out of time-
+
+357
+00:16:50,400 --> 00:16:52,300
+he knows something, and I'm going to find out what it is.
+
+358
+00:16:52,400 --> 00:16:53,500
+And what if he doesn't?
+
+359
+00:16:53,900 --> 00:16:55,000
+You're aware that he called Marwan.
+
+360
+00:16:55,000 --> 00:16:56,200
+It came up on his cell phone.
+
+361
+00:16:56,300 --> 00:16:58,300
+There has got to be an explanation for that.
+
+362
+00:16:58,600 --> 00:16:59,700
+Let me talk to him.
+
+363
+00:17:00,700 --> 00:17:03,100
+You honestly believe that you can interrogate your own brother?
+
+364
+00:17:03,300 --> 00:17:04,200
+It's because he's my brother,
+
+365
+00:17:04,200 --> 00:17:06,500
+maybe I can get something out of him that you can't, Jack.
+
+366
+00:17:07,000 --> 00:17:09,200
+Please, just give me five minutes.
+
+367
+00:17:11,500 --> 00:17:12,200
+Please.
+
+368
+00:17:15,500 --> 00:17:16,500
+Take five minutes.
+
+369
+00:17:18,000 --> 00:17:18,700
+Thank you.
+
+370
+00:17:21,500 --> 00:17:22,000
+Mike.
+
+371
+00:17:22,300 --> 00:17:22,800
+Don.
+
+372
+00:17:23,000 --> 00:17:24,900
+How's, uh, President Logan managing?
+
+373
+00:17:25,000 --> 00:17:27,300
+Given the circumstances, he's doing very well.
+
+374
+00:17:27,400 --> 00:17:29,500
+I noticed that ex-President Palmer is here with him.
+
+375
+00:17:29,800 --> 00:17:32,700
+Yes, he brought the former President in to advise.
+
+376
+00:17:33,300 --> 00:17:35,200
+Yeah, well, that's probably a good idea.
+
+377
+00:17:35,600 --> 00:17:37,700
+Palmer's been at the helm in this kind of crisis before.
+
+378
+00:17:37,700 --> 00:17:38,800
+He knows how to lead.
+
+379
+00:17:39,300 --> 00:17:41,400
+President Logan doesn't have any problem leading,
+
+380
+00:17:41,400 --> 00:17:42,500
+if that's what you're getting at.
+
+381
+00:17:42,600 --> 00:17:43,500
+Oh, no, not at all.
+
+382
+00:17:43,600 --> 00:17:46,100
+It's just that if he's not going to ask his cabinet for help,
+
+383
+00:17:46,400 --> 00:17:51,700
+the leadership, it comforts me, somewhat, that he's in good hands.
+
+384
+00:17:53,600 --> 00:17:55,300
+Is there something else you wanted to say, Don?
+
+385
+00:17:55,700 --> 00:17:57,400
+Yeah, yeah, there is.
+
+386
+00:17:58,100 --> 00:18:01,200
+The people elected john Keeler to run this country.
+
+387
+00:18:01,200 --> 00:18:04,500
+In his absence, Logan is expected to take over.
+
+388
+00:18:04,600 --> 00:18:05,800
+But if he's not up to the task,
+
+389
+00:18:05,800 --> 00:18:10,600
+mike, it is I, speaker of the house, and not David Palmer, who steps up.
+
+390
+00:18:11,300 --> 00:18:11,900
+Understood.
+
+391
+00:18:13,100 --> 00:18:15,200
+And let me assure you, that's not the case.
+
+392
+00:18:17,500 --> 00:18:19,200
+Logan is in complete control.
+
+393
+00:18:22,900 --> 00:18:25,000
+Excuse me, Don, I got to get back.
+
+394
+00:18:25,000 --> 00:18:25,400
+Sure.
+
+395
+00:18:32,800 --> 00:18:33,900
+Excuse me, Mr. President.
+
+396
+00:18:34,900 --> 00:18:36,000
+We may have a problem.
+
+397
+00:18:37,000 --> 00:18:37,600
+What is it?
+
+398
+00:18:37,900 --> 00:18:38,700
+Don Ashton.
+
+399
+00:18:39,100 --> 00:18:44,300
+He's been asking a number of questions and raising concerns as to President Palmer's role here.
+
+400
+00:18:44,600 --> 00:18:45,600
+That's too bad.
+
+401
+00:18:46,500 --> 00:18:48,600
+We have more important things to worry about at the moment.
+
+402
+00:18:48,700 --> 00:18:50,300
+Sir, as the speaker of the house,
+
+403
+00:18:50,400 --> 00:18:52,700
+he can create problems which you don't need right now.
+
+404
+00:18:53,300 --> 00:18:54,000
+Mike's right, sir.
+
+405
+00:18:54,800 --> 00:18:56,100
+Don's very ambitious.
+
+406
+00:18:56,400 --> 00:18:58,600
+Now that he's next in line to the presidency,
+
+407
+00:18:58,800 --> 00:19:00,700
+he'll look to exploit any angle he can.
+
+408
+00:19:01,400 --> 00:19:03,600
+He won't put his ambition in front of national security.
+
+409
+00:19:03,800 --> 00:19:05,200
+No, he won't see it in those terms, sir.
+
+410
+00:19:05,900 --> 00:19:09,400
+In his eyes, national security and his personal ambition are one and the same.
+
+411
+00:19:14,500 --> 00:19:15,000
+What do we do?
+
+412
+00:19:16,700 --> 00:19:18,100
+Show him who's in charge.
+
+413
+00:19:39,500 --> 00:19:40,300
+everything set up?
+
+414
+00:19:40,500 --> 00:19:41,300
+Yeah, he's ready.
+
+415
+00:19:42,700 --> 00:19:43,400
+Let's do this.
+
+416
+00:19:50,900 --> 00:19:51,600
+Audrey!
+
+417
+00:19:51,700 --> 00:19:52,500
+Get me out of here.
+
+418
+00:19:52,500 --> 00:19:54,000
+Please, tell them I didn't do anything.
+
+419
+00:19:54,100 --> 00:19:57,100
+Richard, I want you to listen to me very carefully, okay?
+
+420
+00:19:57,700 --> 00:20:02,500
+A missile carrying a nuclear warhead was launched by this man: Habib Marwan.
+
+421
+00:20:03,000 --> 00:20:04,300
+Tell me what you know about him.
+
+422
+00:20:04,700 --> 00:20:06,500
+Look, I don't know what you're talking about.
+
+423
+00:20:07,500 --> 00:20:12,000
+CTU has proof that you called him last week, tuesday at 4:00 A.M.
+
+424
+00:20:12,300 --> 00:20:15,400
+I don't know any Habib Marwan or anything about a missile.
+
+425
+00:20:15,400 --> 00:20:17,000
+You have got to believe me, Audrey.
+
+426
+00:20:17,300 --> 00:20:20,100
+Richard, that missile is in the air right now, heading toward a city.
+
+427
+00:20:20,100 --> 00:20:22,000
+Please, Richard, just tell me what you know.
+
+428
+00:20:22,100 --> 00:20:24,100
+I told you, I don't know anything.
+
+429
+00:20:26,200 --> 00:20:27,800
+Why'd you make that phone call last week?
+
+430
+00:20:28,100 --> 00:20:30,200
+I didn't make a phone call, Audrey.
+
+431
+00:20:36,600 --> 00:20:38,300
+What's happened with my son so far?
+
+432
+00:20:38,500 --> 00:20:40,600
+We decided to let Audrey talk to him first.
+
+433
+00:20:40,600 --> 00:20:41,600
+They just got started.
+
+434
+00:20:41,800 --> 00:20:43,300
+Has he confessed to anything yet?
+
+435
+00:20:44,400 --> 00:20:45,000
+No, sir.
+
+436
+00:20:45,800 --> 00:20:47,300
+Richard, it's not making sense.
+
+437
+00:20:47,400 --> 00:20:48,800
+That call was made.
+
+438
+00:20:49,000 --> 00:20:50,700
+Look, I don't know where you get your information,
+
+439
+00:20:50,700 --> 00:20:52,100
+Audrey, but it's all bull.
+
+440
+00:20:54,500 --> 00:20:55,700
+His readings are spiking.
+
+441
+00:20:56,200 --> 00:20:57,100
+He's holding something back.
+
+442
+00:21:01,200 --> 00:21:01,800
+Richard...
+
+443
+00:21:03,200 --> 00:21:06,000
+Richard, I am begging you to talk to me, all right?
+
+444
+00:21:06,000 --> 00:21:06,500
+If you don't,
+
+445
+00:21:06,500 --> 00:21:10,100
+there is a man who will come in here and he will get the information from you.
+
+446
+00:21:10,900 --> 00:21:13,100
+I saw him torture someone today.
+
+447
+00:21:13,900 --> 00:21:15,600
+It's what he's trained to do.
+
+448
+00:21:15,600 --> 00:21:18,400
+He won't stop hurting you until you tell him the truth.
+
+449
+00:21:18,400 --> 00:21:19,300
+Please.
+
+450
+00:21:19,900 --> 00:21:21,800
+Don't let them do this to me.
+
+451
+00:21:22,100 --> 00:21:24,300
+Tell me what you know and they won'T.
+
+452
+00:21:26,400 --> 00:21:28,000
+I don't know what you want from me.
+
+453
+00:21:28,300 --> 00:21:28,800
+I don'T.
+
+454
+00:21:28,900 --> 00:21:30,400
+Richard, look at me, look at me.
+
+455
+00:21:33,000 --> 00:21:35,200
+We have a chance to fix this.
+
+456
+00:21:36,800 --> 00:21:37,800
+This is not working.
+
+457
+00:21:38,200 --> 00:21:40,000
+We don't have time to coddle him.
+
+458
+00:21:40,200 --> 00:21:40,900
+Open up.
+
+459
+00:21:42,300 --> 00:21:44,700
+I don't care if he is my son, he's playing games now.
+
+460
+00:21:49,500 --> 00:21:51,700
+All right, Richard, this has gone far enough.
+
+461
+00:21:51,900 --> 00:21:58,500
+Either you tell us what we want to know or I will let them use every piece of equipment they have to drag it out of you.
+
+462
+00:21:58,800 --> 00:21:59,900
+You understand that?
+
+463
+00:22:00,800 --> 00:22:01,700
+Dad, don'T...
+
+464
+00:22:02,400 --> 00:22:03,400
+Audrey, leave the room.
+
+465
+00:22:05,800 --> 00:22:06,700
+Dad, please...
+
+466
+00:22:06,700 --> 00:22:07,100
+now!
+
+467
+00:22:08,000 --> 00:22:08,900
+I mean it.
+
+468
+00:22:10,300 --> 00:22:13,500
+Richard, I want you to tell them everything you know, please.
+
+469
+00:22:23,600 --> 00:22:25,000
+Now what's it going to be, Richard?
+
+470
+00:22:25,500 --> 00:22:25,900
+Go to hell.
+
+471
+00:22:27,000 --> 00:22:29,200
+I didn't do anything wrong, I don't have to tell you anything.
+
+472
+00:22:29,400 --> 00:22:33,000
+There's a nuclear warhead going to detonate somewhere over this country.
+
+473
+00:22:34,100 --> 00:22:36,600
+Those lost lives will be on your head.
+
+474
+00:22:37,000 --> 00:22:38,300
+You will be a murderer.
+
+475
+00:22:39,300 --> 00:22:41,200
+I didn't mean to do anything wrong.
+
+476
+00:22:42,900 --> 00:22:43,600
+I swear.
+
+477
+00:22:43,900 --> 00:22:45,000
+What did you do, Richard?
+
+478
+00:22:45,200 --> 00:22:46,500
+Tell me what you did.
+
+479
+00:22:54,700 --> 00:22:57,000
+A week ago, I was...
+
+480
+00:22:58,200 --> 00:23:00,000
+I was at a bar and...
+
+481
+00:23:02,000 --> 00:23:03,800
+there was this girl and her boyfriend...
+
+482
+00:23:04,600 --> 00:23:05,200
+okay?
+
+483
+00:23:06,900 --> 00:23:07,500
+Right.
+
+484
+00:23:08,400 --> 00:23:09,400
+What were their names?
+
+485
+00:23:09,500 --> 00:23:10,700
+I don't know.
+
+486
+00:23:11,200 --> 00:23:13,000
+They wanted to party and I...
+
+487
+00:23:13,100 --> 00:23:13,700
+we...
+
+488
+00:23:14,500 --> 00:23:16,200
+we went back to my place.
+
+489
+00:23:18,900 --> 00:23:20,000
+We got high...
+
+490
+00:23:20,500 --> 00:23:21,200
+then...
+
+491
+00:23:24,100 --> 00:23:28,600
+I guess there was time for one of them to make a call on my phone.
+
+492
+00:23:29,800 --> 00:23:30,600
+How?
+
+493
+00:23:35,800 --> 00:23:37,200
+When we were in bed.
+
+494
+00:23:40,900 --> 00:23:43,400
+So while you were in bed with her,
+
+495
+00:23:43,900 --> 00:23:45,600
+he used your phone in the other room.
+
+496
+00:23:47,900 --> 00:23:49,900
+He wasn't the one in the other room, dad.
+
+497
+00:23:52,600 --> 00:23:53,400
+I was with him.
+
+498
+00:24:09,700 --> 00:24:11,400
+She must have been the one that made the call.
+
+499
+00:24:20,000 --> 00:24:21,200
+So, you were set up?
+
+500
+00:24:22,500 --> 00:24:22,800
+Yeah.
+
+501
+00:24:23,000 --> 00:24:24,300
+I guess so, dad.
+
+502
+00:24:25,800 --> 00:24:28,300
+Did they leave you with a number or an address?
+
+503
+00:24:28,300 --> 00:24:28,600
+No.
+
+504
+00:24:31,100 --> 00:24:32,600
+What kind of a car were they driving?
+
+505
+00:24:34,100 --> 00:24:35,300
+They didn't have one.
+
+506
+00:24:35,600 --> 00:24:36,200
+I drove.
+
+507
+00:24:37,000 --> 00:24:38,600
+Where did you drop them off afterwards?
+
+508
+00:24:40,500 --> 00:24:41,100
+I didn'T.
+
+509
+00:24:41,100 --> 00:24:42,600
+They took a cab.
+
+510
+00:24:42,900 --> 00:24:44,900
+Do you remember the name of the cab company?
+
+511
+00:24:45,000 --> 00:24:46,500
+No, dad, I don'T.
+
+512
+00:24:47,400 --> 00:24:49,400
+Get in touch with every cab company that works in the area.
+
+513
+00:24:49,400 --> 00:24:50,700
+I want their log books.
+
+514
+00:24:50,900 --> 00:24:52,000
+Get me a sketch artist now.
+
+515
+00:24:52,500 --> 00:24:53,100
+I'll run it.
+
+516
+00:24:53,800 --> 00:24:54,500
+Take over.
+
+517
+00:24:57,500 --> 00:24:58,400
+So now you know.
+
+518
+00:25:01,500 --> 00:25:03,900
+I suppose you're even more disgusted with me, huh, dad?
+
+519
+00:25:05,100 --> 00:25:07,500
+This is not about how you choose to live your life, son.
+
+520
+00:25:09,800 --> 00:25:12,600
+This is about how you've put this country in jeopardy.
+
+521
+00:25:13,500 --> 00:25:15,500
+If you had told us this information yesterday,
+
+522
+00:25:15,500 --> 00:25:17,600
+maybe these terrorist attacks would not have occurred.
+
+523
+00:25:17,700 --> 00:25:19,700
+No, don't you put that on me, dad.
+
+524
+00:25:20,800 --> 00:25:24,000
+'Cause yesterday I didn't know that that night had anything to do with these attacks.
+
+525
+00:25:24,600 --> 00:25:26,200
+You should have told us everything.
+
+526
+00:25:31,700 --> 00:25:32,500
+I'll wait outside.
+
+527
+00:25:38,700 --> 00:25:41,000
+You made a profound mistake today, Richard.
+
+528
+00:25:57,600 --> 00:25:58,800
+Based on this information here,
+
+529
+00:25:58,800 --> 00:26:00,700
+we can start to develop a contingency plan.
+
+530
+00:26:01,800 --> 00:26:02,800
+You got the cab company?
+
+531
+00:26:03,100 --> 00:26:03,700
+Better than that.
+
+532
+00:26:03,800 --> 00:26:05,000
+We got the cab driver.
+
+533
+00:26:05,400 --> 00:26:09,100
+He dropped the couple off at an apartment complex in panorama city called the mercerwood.
+
+534
+00:26:09,100 --> 00:26:10,300
+Did you talk to the apartment manager?
+
+535
+00:26:10,400 --> 00:26:12,100
+Yes, we gave him a description of the guy and the girl.
+
+536
+00:26:12,100 --> 00:26:13,400
+He says he knows what unit they're in.
+
+537
+00:26:13,500 --> 00:26:14,600
+Okay, Jack, you take this.
+
+538
+00:26:14,700 --> 00:26:15,800
+I'm gonna need our best field ops.
+
+539
+00:26:15,800 --> 00:26:17,000
+I want Curtis and castle.
+
+540
+00:26:17,100 --> 00:26:18,300
+I'm going to need Curtis here with me.
+
+541
+00:26:19,600 --> 00:26:20,700
+Then you got to give me Tony.
+
+542
+00:26:22,700 --> 00:26:23,400
+All right.
+
+543
+00:26:24,900 --> 00:26:26,100
+What about the phone call to Marwan?
+
+544
+00:26:26,200 --> 00:26:28,800
+I used our digital comm software to analyze Richard's phone.
+
+545
+00:26:29,300 --> 00:26:31,200
+The phone call to Marwan activated a listen-in.
+
+546
+00:26:31,600 --> 00:26:33,800
+He was able to hear all of Richard's calls after that night.
+
+547
+00:26:34,400 --> 00:26:37,400
+That's why Marwan knew that secretary Heller was visiting Richard off book yesterday.
+
+548
+00:26:37,600 --> 00:26:38,500
+Anything on the missile?
+
+549
+00:26:38,600 --> 00:26:40,800
+We've been running military protocols, but so far nothing.
+
+550
+00:26:42,200 --> 00:26:44,100
+Do we know if President Logan is going to make an announcement?
+
+551
+00:26:44,300 --> 00:26:47,500
+As of now, the President still thinks that would do more harm than good.
+
+552
+00:26:50,300 --> 00:26:51,500
+Please, as you were, everybody.
+
+553
+00:26:51,800 --> 00:26:52,400
+Be seated.
+
+554
+00:26:54,600 --> 00:26:56,900
+Gentlemen and ladies,
+
+555
+00:26:56,900 --> 00:26:58,900
+considering the crisis that we face today,
+
+556
+00:26:59,000 --> 00:27:02,500
+I felt it prudent to enlist the assistance of ex-President Palmer.
+
+557
+00:27:02,600 --> 00:27:03,700
+In what capacity, sir?
+
+558
+00:27:04,000 --> 00:27:04,500
+Excuse me.
+
+559
+00:27:04,600 --> 00:27:07,500
+Sir, everybody in this room has a title and specific function.
+
+560
+00:27:07,900 --> 00:27:11,200
+Exactly what position will President Palmer be occupying?
+
+561
+00:27:11,300 --> 00:27:13,100
+I'm here solely as an advisor.
+
+562
+00:27:13,500 --> 00:27:16,600
+Not only to the President, but to anyone here who requests my counsel.
+
+563
+00:27:16,800 --> 00:27:18,500
+President Palmer's outside the chain of command,
+
+564
+00:27:19,400 --> 00:27:20,300
+if that's what you're asking me, Don.
+
+565
+00:27:20,400 --> 00:27:21,600
+Asking for a clarification, sir.
+
+566
+00:27:23,300 --> 00:27:27,200
+The missile carrying the nuclear warhead was launched from a location in central iowa.
+
+567
+00:27:27,300 --> 00:27:31,700
+It's becoming more and more likely that the target is on or near one of the coasts.
+
+568
+00:27:31,900 --> 00:27:34,100
+It's clearly going to be new york or D.C.
+
+569
+00:27:34,300 --> 00:27:36,100
+Why aren't we evacuating those two cities?
+
+570
+00:27:36,300 --> 00:27:37,400
+I disagree, jennie.
+
+571
+00:27:37,500 --> 00:27:38,300
+It's not clear.
+
+572
+00:27:38,800 --> 00:27:41,200
+And if you start to evacuate these two cities,
+
+573
+00:27:41,600 --> 00:27:47,800
+then you may have an unauthorized mass exoduses of boston, philadelphia, baltimore, atlanta...
+
+574
+00:27:48,500 --> 00:27:51,100
+that's a situation I don't think the President should be dealing with.
+
+575
+00:27:51,300 --> 00:27:54,100
+Maybe the President should be telling us that himself.
+
+576
+00:27:54,300 --> 00:27:55,100
+Please, Mr. Speaker,
+
+577
+00:27:56,100 --> 00:28:00,800
+I've discussed this option with a number of domestic experts including President Palmer,
+
+578
+00:28:01,900 --> 00:28:03,200
+and that's my assessment as well.
+
+579
+00:28:03,300 --> 00:28:04,300
+What about air defense?
+
+580
+00:28:04,800 --> 00:28:08,500
+We going to stand by and let the airspace over these cities remain undefended?
+
+581
+00:28:08,700 --> 00:28:12,200
+We have a limited number of f-18 interceptor jets at our disposal.
+
+582
+00:28:12,400 --> 00:28:14,700
+They need to be augmenting the search for this missile,
+
+583
+00:28:15,200 --> 00:28:17,400
+and not deployed in a wait-and-see mode.
+
+584
+00:28:17,600 --> 00:28:21,400
+Mr. Palmer, I'm sure that we all appreciate your desire to help,
+
+585
+00:28:21,500 --> 00:28:25,000
+but the constitution has determined who the decision makers should be at this time.
+
+586
+00:28:25,700 --> 00:28:27,600
+I think you're overstepping your bounds.
+
+587
+00:28:27,600 --> 00:28:30,000
+In the first place, it's Mr. President, Don.
+
+588
+00:28:30,800 --> 00:28:33,500
+And it is the content of my statements you should be addressing.
+
+589
+00:28:33,500 --> 00:28:34,100
+David.
+
+590
+00:28:36,200 --> 00:28:37,900
+It's true, you are to be addressed as President.
+
+591
+00:28:37,900 --> 00:28:39,700
+It's an expression of respect,
+
+592
+00:28:40,300 --> 00:28:43,100
+but not a functional title.
+
+593
+00:28:43,600 --> 00:28:44,700
+I understand that, sir.
+
+594
+00:28:45,300 --> 00:28:47,700
+But you have to understand, I've been through this crisis before.
+
+595
+00:28:47,800 --> 00:28:49,300
+Yes, but we are here now.
+
+596
+00:28:50,100 --> 00:28:53,300
+The appointed and the lawful representatives of the people of the united states.
+
+597
+00:28:53,600 --> 00:28:54,200
+Mr. President...
+
+598
+00:28:54,200 --> 00:28:56,400
+David, there will be no more discussion on this matter.
+
+599
+00:28:56,400 --> 00:28:58,800
+Your point has been taken.
+
+600
+00:29:00,200 --> 00:29:03,100
+However, Ashton has made a good point, and I want to address his concerns.
+
+601
+00:29:04,400 --> 00:29:06,700
+Perhaps it's best if I excused myself.
+
+602
+00:29:07,900 --> 00:29:08,600
+Perhaps.
+
+603
+00:29:12,500 --> 00:29:13,900
+Ladies, gentlemen...
+
+604
+00:29:18,600 --> 00:29:20,400
+Mr. Speaker, I think you're right.
+
+605
+00:29:20,800 --> 00:29:23,400
+We'll put those jets over D.C.
+
+606
+00:29:23,400 --> 00:29:24,000
+And new york.
+
+607
+00:29:38,500 --> 00:29:39,800
+Did you see it on the inside feed?
+
+608
+00:29:39,900 --> 00:29:40,500
+Yes.
+
+609
+00:29:40,700 --> 00:29:42,100
+It went exactly as you'd hoped.
+
+610
+00:29:42,900 --> 00:29:45,700
+We won't have any more problems with Don Ashton today.
+
+611
+00:29:47,000 --> 00:29:47,800
+I hope you're right.
+
+612
+00:29:50,200 --> 00:29:52,000
+We'll be monitoring everything on three.
+
+613
+00:29:52,200 --> 00:29:52,400
+All right.
+
+614
+00:29:52,500 --> 00:29:54,400
+Make sure LAPD's there when we land.
+
+615
+00:29:54,500 --> 00:29:56,000
+We're going to need transport to the site.
+
+616
+00:29:56,300 --> 00:29:57,400
+They've already been called.
+
+617
+00:29:57,700 --> 00:29:58,000
+ok
+
+618
+00:30:00,000 --> 00:30:00,600
+Tony, wait.
+
+619
+00:30:06,200 --> 00:30:07,100
+I-I can'T...
+
+620
+00:30:09,800 --> 00:30:12,000
+I can't spend another day without you.
+
+621
+00:30:13,300 --> 00:30:14,000
+I'm ready...
+
+622
+00:30:14,600 --> 00:30:15,100
+to leave here.
+
+623
+00:30:15,100 --> 00:30:16,300
+I'm ready to go with you.
+
+624
+00:30:30,700 --> 00:30:31,300
+Tony.
+
+625
+00:30:34,100 --> 00:30:34,900
+Be careful.
+
+626
+00:30:45,600 --> 00:30:46,200
+Right.
+
+627
+00:30:47,800 --> 00:30:49,500
+They're setting up a remote feed.
+
+628
+00:30:49,500 --> 00:30:53,200
+Richard's going to help Jack identify the suspects when they get onsite.
+
+629
+00:30:54,000 --> 00:30:54,800
+Then what?
+
+630
+00:30:55,400 --> 00:30:56,500
+Then they'll let him go.
+
+631
+00:30:57,700 --> 00:30:59,800
+His motives certainly weren't seditious.
+
+632
+00:31:05,400 --> 00:31:06,900
+Dad, I feel so lost.
+
+633
+00:31:09,400 --> 00:31:10,500
+I know, sweetheart.
+
+634
+00:31:11,500 --> 00:31:12,400
+Ms. Raines?
+
+635
+00:31:12,700 --> 00:31:13,000
+Yes.
+
+636
+00:31:13,100 --> 00:31:14,600
+Jack Bauer's on line two for you.
+
+637
+00:31:15,600 --> 00:31:16,200
+Thank you.
+
+638
+00:31:18,400 --> 00:31:18,900
+You take it, sweetheart.
+
+639
+00:31:18,900 --> 00:31:20,000
+I'll be on the floor.
+
+640
+00:31:43,100 --> 00:31:43,600
+Hello.
+
+641
+00:31:43,800 --> 00:31:44,800
+Audrey, it's Jack.
+
+642
+00:31:45,600 --> 00:31:46,900
+I know you don't want to talk to me right now,
+
+643
+00:31:46,900 --> 00:31:48,200
+but there are a few things I need to say.
+
+644
+00:31:48,600 --> 00:31:49,100
+All right.
+
+645
+00:31:50,000 --> 00:31:51,500
+Look, I know with everything that's happened today,
+
+646
+00:31:52,400 --> 00:31:53,800
+you've seen me do things that...
+
+647
+00:31:54,100 --> 00:31:55,900
+before now, you thought were unimaginable.
+
+648
+00:31:56,600 --> 00:31:58,200
+I would have been happy to skip today.
+
+649
+00:32:00,100 --> 00:32:00,800
+Yeah, me, too.
+
+650
+00:32:02,900 --> 00:32:04,300
+But the truth of it is,Audrey,
+
+651
+00:32:04,900 --> 00:32:08,200
+I never believed you could ever really love me if you'd known about everything I've done.
+
+652
+00:32:08,400 --> 00:32:09,100
+Jack, I-I can'T...
+
+653
+00:32:09,100 --> 00:32:10,500
+Audrey, please, let me finish.
+
+654
+00:32:11,900 --> 00:32:13,600
+These were the things that I was running away from.
+
+655
+00:32:13,600 --> 00:32:14,800
+That's why I moved to D.C.
+
+656
+00:32:15,800 --> 00:32:16,900
+That's why I stopped doing field work.
+
+657
+00:32:16,900 --> 00:32:18,700
+That's why i don't work at CTU.
+
+658
+00:32:18,700 --> 00:32:23,500
+All I know is that you're back in it, and it's too much for me, Jack.
+
+659
+00:32:23,600 --> 00:32:24,300
+I know.
+
+660
+00:32:25,800 --> 00:32:26,300
+I know...
+
+661
+00:32:29,600 --> 00:32:32,200
+the last thing i ever wanted to do was push you away from me.
+
+662
+00:32:33,300 --> 00:32:34,500
+God, Audrey, I love you,
+
+663
+00:32:36,300 --> 00:32:38,000
+but this is how the job has to be done.
+
+664
+00:32:40,800 --> 00:32:44,400
+I just want you to know how sorry I am that it had to involve you and the people you care about.
+
+665
+00:32:47,200 --> 00:32:48,800
+Look, you don't have to say anything now.
+
+666
+00:32:50,800 --> 00:32:52,800
+Please, just promise me, as soon as this is over...
+
+667
+00:32:55,100 --> 00:32:56,800
+we can talk about everything that's happened.
+
+668
+00:33:04,800 --> 00:33:05,800
+Audrey, please.
+
+669
+00:33:07,500 --> 00:33:08,000
+Jack.
+
+670
+00:33:09,600 --> 00:33:11,200
+I gotta call you back later, okay?
+
+671
+00:33:13,200 --> 00:33:13,700
+All right.
+
+672
+00:33:20,300 --> 00:33:20,800
+Yeah.
+
+673
+00:33:21,200 --> 00:33:23,000
+Jack, tactical's just got the schematics ready.
+
+674
+00:33:23,200 --> 00:33:24,200
+What are the approach parameters?
+
+675
+00:33:24,200 --> 00:33:25,400
+They want us to go in from the west.
+
+676
+00:33:29,700 --> 00:33:30,600
+Edgar.
+
+677
+00:33:31,100 --> 00:33:33,700
+This is the composite the sketch artist made based on Richard Heller's description.
+
+678
+00:33:33,800 --> 00:33:34,700
+Get it to Jack and Tony.
+
+679
+00:33:35,400 --> 00:33:36,000
+Will do.
+
+680
+00:33:48,000 --> 00:33:49,000
+Now can we go?
+
+681
+00:33:49,600 --> 00:33:51,800
+We still have plenty of time to get to Marwan.
+
+682
+00:33:52,900 --> 00:33:54,900
+I don't like cutting it this close.
+
+683
+00:34:46,200 --> 00:34:48,900
+This is a sketch of the guy that Richard Heller described.
+
+684
+00:34:49,200 --> 00:34:52,000
+He and the girl are our only leads to finding Marwan,
+
+685
+00:34:52,200 --> 00:34:55,800
+so once we identify the suspects, it is vital that we take them alive.
+
+686
+00:34:58,500 --> 00:34:59,100
+Manning.
+
+687
+00:34:59,200 --> 00:35:00,200
+Curtis, it's Jack.
+
+688
+00:35:00,200 --> 00:35:01,000
+We're getting ready to land.
+
+689
+00:35:01,000 --> 00:35:02,100
+Is everyone set?
+
+690
+00:35:02,600 --> 00:35:02,700
+Yeah.
+
+691
+00:35:02,700 --> 00:35:03,400
+We're all set.
+
+692
+00:35:03,800 --> 00:35:05,300
+Richard's ready to make a positive I.D.
+
+693
+00:35:05,500 --> 00:35:06,100
+Copy that.
+
+694
+00:35:06,100 --> 00:35:07,800
+I want you to stay on this channel.
+
+695
+00:35:08,000 --> 00:35:08,600
+You got it.
+
+696
+00:35:09,100 --> 00:35:09,900
+We're a go!.
+
+697
+00:35:31,900 --> 00:35:36,400
+I need you to make sure that no LAPD units go inside our established perimeter!
+
+698
+00:35:36,700 --> 00:35:37,300
+Am I clear?!
+
+699
+00:35:37,300 --> 00:35:37,800
+Yes sir!
+
+700
+00:35:37,800 --> 00:35:38,900
+Okay, let's go!
+
+701
+00:35:51,700 --> 00:35:52,200
+Are you ready?
+
+702
+00:35:52,300 --> 00:35:53,000
+They found us.
+
+703
+00:35:53,500 --> 00:35:54,300
+What are you talking about?
+
+704
+00:35:54,400 --> 00:35:56,200
+A helicopter just landed a block away.
+
+705
+00:35:56,500 --> 00:35:57,100
+So what?
+
+706
+00:35:58,100 --> 00:35:59,400
+So- they found us.
+
+707
+00:36:00,100 --> 00:36:00,700
+Damn it!
+
+708
+00:36:00,900 --> 00:36:02,500
+Hey, we can't go together.
+
+709
+00:36:03,200 --> 00:36:03,900
+Why not?
+
+710
+00:36:04,100 --> 00:36:06,500
+Because one of us has to stay here in the apartment.
+
+711
+00:36:06,900 --> 00:36:07,400
+Why?
+
+712
+00:36:07,500 --> 00:36:08,900
+Because if they think that we're still here,
+
+713
+00:36:08,900 --> 00:36:10,800
+then it gives the other a chance to escape.
+
+714
+00:36:11,100 --> 00:36:12,200
+You've got to be joking.
+
+715
+00:36:12,300 --> 00:36:14,200
+One of us is going to get caught to save the other?
+
+716
+00:36:15,200 --> 00:36:16,000
+Exactly.
+
+717
+00:36:16,300 --> 00:36:17,100
+It's gonna be you.
+
+718
+00:36:46,700 --> 00:36:47,700
+Jack, what do you want to do?
+
+719
+00:36:47,800 --> 00:36:49,100
+Move in on the apartment immediately?
+
+720
+00:36:49,200 --> 00:36:53,500
+No, I want you and castle to take up positions here on the roof of the main building in the center of the complex.
+
+721
+00:36:53,600 --> 00:36:55,800
+Team A, B and C, acknowledge when you're in position.
+
+722
+00:36:55,900 --> 00:36:56,900
+Team A on site (B C in position)
+
+723
+00:36:57,500 --> 00:36:58,000
+Copy that.
+
+724
+00:36:58,000 --> 00:36:58,500
+Let's go.
+
+725
+00:36:58,600 --> 00:36:59,200
+Okay.
+
+726
+00:37:01,000 --> 00:37:03,400
+Lapd, I need the entry code for the south gate.
+
+727
+00:37:13,600 --> 00:37:14,300
+I'm in.
+
+728
+00:37:25,500 --> 00:37:27,200
+Okay, I've got a visual on the apartment.
+
+729
+00:37:27,800 --> 00:37:29,300
+There's activity inside.
+
+730
+00:37:30,000 --> 00:37:31,700
+Macallan, meet me at the front door of the apartment.
+
+731
+00:37:31,900 --> 00:37:33,000
+Have your people cover us.
+
+732
+00:37:33,700 --> 00:37:34,400
+On my way.
+
+733
+00:37:34,700 --> 00:37:35,200
+Go.
+
+734
+00:37:35,600 --> 00:37:36,000
+Go.
+
+735
+00:37:59,000 --> 00:37:59,600
+Pick it.
+
+736
+00:38:07,000 --> 00:38:07,600
+It's ready.
+
+737
+00:38:36,200 --> 00:38:37,600
+Put your hands where I can see them!
+
+738
+00:38:38,100 --> 00:38:40,000
+Put your hands where I can see them now!
+
+739
+00:38:45,000 --> 00:38:45,700
+He's dead.
+
+740
+00:38:46,100 --> 00:38:47,100
+Get a picture of him.
+
+741
+00:38:47,100 --> 00:38:47,900
+Send it back to CTU.
+
+742
+00:38:48,000 --> 00:38:48,800
+Got it.
+
+743
+00:38:49,000 --> 00:38:50,000
+Tony, this is Jack.
+
+744
+00:38:50,100 --> 00:38:51,900
+Has anybody reported any outside movement?
+
+745
+00:38:52,000 --> 00:38:52,600
+No. Why?
+
+746
+00:38:53,000 --> 00:38:53,900
+The man is dead.
+
+747
+00:38:53,900 --> 00:38:55,700
+The girl is no longer in the apartment.
+
+748
+00:38:55,800 --> 00:38:57,700
+She couldn't have gotten past the perimeter teams.
+
+749
+00:38:57,700 --> 00:38:59,300
+I know, but there are plenty of other places to hide.
+
+750
+00:38:59,300 --> 00:39:03,000
+I want all teams to maintain their positions until we have time to search the other apartments.
+
+751
+00:39:03,300 --> 00:39:03,900
+Roger that.
+
+752
+00:39:04,800 --> 00:39:06,100
+All teams, hold position.
+
+753
+00:39:21,600 --> 00:39:22,300
+Drop your gun.
+
+754
+00:39:28,500 --> 00:39:29,000
+All right!
+
+755
+00:39:29,600 --> 00:39:30,100
+All right.
+
+756
+00:39:35,700 --> 00:39:36,300
+Kick it away.
+
+757
+00:39:42,400 --> 00:39:43,200
+Look, he's injured.
+
+758
+00:39:43,800 --> 00:39:44,400
+Why don't you let him go?
+
+759
+00:39:44,400 --> 00:39:45,500
+You can take me instead.
+
+760
+00:39:46,400 --> 00:39:47,100
+Your two-way.
+
+761
+00:39:53,500 --> 00:39:54,200
+Turn around.
+
+762
+00:39:54,700 --> 00:39:56,300
+On your knees, hands on your head.
+
+763
+00:40:03,400 --> 00:40:04,100
+Cuff him.
+
+764
+00:40:36,700 --> 00:40:37,300
+Get up.
+
+765
+00:40:53,600 --> 00:40:54,700
+Curtis, you should have it.
+
+766
+00:40:58,000 --> 00:40:58,600
+Whoa.
+
+767
+00:40:58,800 --> 00:40:59,400
+Is that him?
+
+768
+00:40:59,800 --> 00:41:00,500
+Is that him?!
+
+769
+00:41:00,600 --> 00:41:01,300
+Yeah.
+
+770
+00:41:01,800 --> 00:41:02,700
+Jack, that's him.
+
+771
+00:41:03,300 --> 00:41:05,000
+We have a positive id on the picture.
+
+772
+00:41:05,900 --> 00:41:07,000
+Okay, thank you, Curtis.
+
+773
+00:41:07,200 --> 00:41:08,400
+Tactical, this is Bauer.
+
+774
+00:41:08,400 --> 00:41:11,500
+I need five teams of two to initiate a search of the complex.
+
+775
+00:41:11,800 --> 00:41:14,400
+Start with the outer buildings along the perimeter, move your way in.
+
+776
+00:41:14,700 --> 00:41:16,000
+Copy that, they're being deployed now.
+
+777
+00:41:16,100 --> 00:41:16,900
+Tony, this is Jack.
+
+778
+00:41:16,900 --> 00:41:18,300
+We're initiating the search.
+
+779
+00:41:19,200 --> 00:41:20,300
+Tony, do you copy?
+
+780
+00:41:21,800 --> 00:41:23,700
+Castle, why is Almeida not on comm?
+
+781
+00:41:30,800 --> 00:41:33,700
+Tony you copy? Tony come in!
+
+782
+00:42:04,000 --> 00:42:04,900
+All teams, this is Bauer.
+
+783
+00:42:04,900 --> 00:42:06,600
+Castle is down Almeida is missing.
+
+784
+00:42:06,600 --> 00:42:09,300
+I repeat: Almeida is missing and possibly a hostage.
+
+785
+00:42:09,600 --> 00:42:11,400
+Our communications have been compromised.
+
+786
+00:42:11,500 --> 00:42:13,100
+Move over to secondary frequency.
+
+787
+00:42:13,200 --> 00:42:15,700
+CTU, I need more tactical personnel now.
+
+788
+00:42:16,800 --> 00:42:17,800
+CTU, do you read?
+
+789
+00:42:18,400 --> 00:42:19,000
+Michelle.
+
+790
+00:42:19,800 --> 00:42:20,500
+You heard him, people.
+
+791
+00:42:20,500 --> 00:42:21,500
+Shift profiles.
+
+792
+00:42:21,700 --> 00:42:23,300
+We may have a hostage situation.
+
+793
+00:42:24,000 --> 00:42:24,400
+Move.
+
+794
+00:42:24,400 --> 00:42:24,900
+Now!
+
+
+
+9999
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.tvsubtitles.net</font>

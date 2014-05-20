@@ -1,0 +1,3591 @@
+1
+00:00:13,534 --> 00:00:15,534
+BIERKO:
+<i>We release the Sentox here</i>
+
+2
+00:00:15,601 --> 00:00:17,667
+<i>and 200,000 people die.</i>
+
+3
+00:00:17,734 --> 00:00:20,234
+We need access to
+the control room.
+
+4
+00:00:20,300 --> 00:00:23,434
+CHLOE:
+<i>Jack, Bierko will be ready</i>
+<i>to deploy any minute.</i>
+
+5
+00:00:28,567 --> 00:00:31,401
+JACK:
+<i>If we could ignite that gas</i>
+<i>before it leaves the plant,</i>
+
+6
+00:00:31,467 --> 00:00:32,734
+<i>the Sentox will be incinerated.</i>
+
+7
+00:00:32,801 --> 00:00:35,334
+JACK:
+Bierko!
+
+8
+00:00:43,033 --> 00:00:43,967
+Give me a hand.
+
+9
+00:00:44,033 --> 00:00:46,134
+Organize an escort team.
+
+10
+00:00:46,200 --> 00:00:48,667
+You get him back
+to CTU alive.
+You got it.
+
+11
+00:00:48,734 --> 00:00:50,567
+I just word from the FAA
+
+12
+00:00:50,634 --> 00:00:53,667
+about a hijacking
+aboard a diplomatic flight.
+
+13
+00:00:53,734 --> 00:00:54,534
+So, what?
+
+14
+00:00:54,601 --> 00:00:56,367
+Jack Bauer is the hijacker.
+
+15
+00:00:56,434 --> 00:00:58,467
+GRAHAM:
+<i>What was he doing</i>
+<i>on that flight?</i>
+
+16
+00:00:58,534 --> 00:01:00,200
+Looking for the recording
+that implicates me
+
+17
+00:01:00,267 --> 00:01:02,167
+in David Palmer's death.
+
+18
+00:01:02,234 --> 00:01:06,601
+Order the plane down and grab
+Bauer before he can hurt us.
+
+19
+00:01:06,667 --> 00:01:09,834
+We need to take him down now,
+dead or alive.
+
+20
+00:01:09,900 --> 00:01:11,334
+Mr. President?
+
+21
+00:01:11,401 --> 00:01:13,134
+I don't care if Bauer's
+making threats or not,
+
+22
+00:01:13,200 --> 00:01:15,100
+that plane has
+to land immediately.
+
+23
+00:01:15,167 --> 00:01:18,300
+And when it lands,
+I want my secret service detail
+
+24
+00:01:18,367 --> 00:01:19,734
+to take him into custody.
+
+25
+00:01:19,801 --> 00:01:21,067
+Sit down!
+He has a gun!
+
+26
+00:01:21,134 --> 00:01:23,234
+Everybody just
+stay in your seats!
+
+27
+00:01:23,300 --> 00:01:25,200
+Do what I tell you
+and no one will get hurt!
+
+28
+00:01:25,267 --> 00:01:27,367
+Captain, this I Jack Bauer.
+
+29
+00:01:27,434 --> 00:01:29,467
+I'm speaking to you
+on a discreet channel.
+
+30
+00:01:29,534 --> 00:01:31,534
+The person that I'm
+looking for, the man
+with the evidence
+
+31
+00:01:31,601 --> 00:01:33,033
+that I need, is
+sitting next to you.
+
+32
+00:01:33,100 --> 00:01:34,667
+He's your copilot,
+Scott Evans.
+
+33
+00:01:34,734 --> 00:01:36,534
+JACK ( <i>over headset</i> ):
+You need to open the door.
+
+34
+00:01:40,067 --> 00:01:43,367
+Could you, uh, take the stick
+for a second?
+
+35
+00:01:44,401 --> 00:01:45,667
+( <i>captain grunts</i> )
+
+36
+00:01:45,734 --> 00:01:47,000
+( <i>struggling</i> )
+
+37
+00:01:47,067 --> 00:01:49,701
+I'm the only one
+who can fly this plane now!
+
+38
+00:01:52,567 --> 00:01:54,300
+Give me the recording.
+
+39
+00:01:57,467 --> 00:01:59,401
+Advise CTU I have the recording.
+
+40
+00:01:59,467 --> 00:02:01,367
+I'll be on the ground
+in less than 15 minutes.
+
+41
+00:02:01,434 --> 00:02:02,900
+Bauer's got the evidence.
+
+42
+00:02:02,967 --> 00:02:04,334
+He is in control of the plane.
+
+43
+00:02:04,401 --> 00:02:05,768
+What do we do?
+
+44
+00:02:05,834 --> 00:02:08,234
+You are going to have to shoot
+down that plane, Mr. President.
+
+45
+00:02:08,300 --> 00:02:11,200
+Otherwise, you'll go to prison
+
+46
+00:02:11,267 --> 00:02:14,467
+for treason and murder.
+
+47
+00:02:26,501 --> 00:02:29,634
+AIR TRAFFIC CONTROLLER:
+Sierra Tango, cleared to flight
+level 2-2-0, report reaching.
+
+48
+00:02:29,701 --> 00:02:33,634
+5-2-0, Sierra Tango descend
+to flight level 2-2-0.
+
+49
+00:02:33,701 --> 00:02:35,834
+We can expect the
+approach to Van Nuys.
+
+50
+00:02:35,900 --> 00:02:37,167
+Good.
+
+51
+00:02:37,234 --> 00:02:38,401
+This is Jack Bauer.
+
+52
+00:02:38,467 --> 00:02:39,868
+Can you patch me through
+to Karen Hayes?
+
+53
+00:02:39,933 --> 00:02:41,167
+( <i>over phone</i> ):
+Hold please.
+
+54
+00:02:41,234 --> 00:02:42,267
+I'm bleeding.
+
+55
+00:02:42,334 --> 00:02:43,801
+I think you broke my nose.
+
+56
+00:02:43,868 --> 00:02:45,367
+You'll get medical attention
+as soon as we're on the ground.
+
+57
+00:02:45,434 --> 00:02:48,834
+Right now, your only concern
+should be flying this plane.
+
+58
+00:02:48,900 --> 00:02:52,200
+( <i>over intercom</i> ):
+Miss Hayes, I've got Jack Bauer
+on line one.
+
+59
+00:02:52,267 --> 00:02:53,667
+Put him through.
+
+60
+00:02:53,734 --> 00:02:55,234
+Yes, Jack?
+
+61
+00:02:55,300 --> 00:02:57,100
+I've got the recording.
+It was on the copilot.
+
+62
+00:02:57,167 --> 00:02:59,167
+The copilot?
+Yeah, he was
+working for Henderson.
+
+63
+00:02:59,234 --> 00:03:01,467
+The captain's unconscious,
+but I've secured the copilot.
+
+64
+00:03:01,534 --> 00:03:03,300
+We're en route
+back to Van Nuys airfield.
+
+65
+00:03:03,367 --> 00:03:04,501
+What's our ETA?
+
+66
+00:03:04,567 --> 00:03:06,167
+21 minutes.
+
+67
+00:03:06,234 --> 00:03:08,267
+We're going to be
+on the ground in 21 minutes.
+
+68
+00:03:08,334 --> 00:03:09,467
+Karen, listen to me.
+
+69
+00:03:09,534 --> 00:03:10,768
+This recording proves
+that President Logan
+
+70
+00:03:10,834 --> 00:03:13,134
+was complicit
+in David Palmer's assassination.
+
+71
+00:03:13,200 --> 00:03:15,334
+It's imperative that we do not
+let it fall into the hands
+
+72
+00:03:15,401 --> 00:03:17,100
+of anyone that is loyal
+to the president.
+
+73
+00:03:17,167 --> 00:03:19,634
+As soon as we're on the ground,
+I'm going to need you
+
+74
+00:03:19,701 --> 00:03:21,868
+to provide me with a safe
+corridor back to CTU.
+
+75
+00:03:21,933 --> 00:03:23,567
+Jack, it's Bill.
+
+76
+00:03:23,634 --> 00:03:25,167
+I'm back here with Karen.
+I'll explain everything later.
+
+77
+00:03:25,234 --> 00:03:26,434
+We can dispatch a team
+
+78
+00:03:26,501 --> 00:03:27,667
+to meet you at the airfield.
+
+79
+00:03:27,734 --> 00:03:28,967
+They can head off
+any law enforcement,
+
+80
+00:03:29,033 --> 00:03:30,367
+take you
+into protective custody.
+
+81
+00:03:30,434 --> 00:03:31,434
+Okay, good.
+
+82
+00:03:31,501 --> 00:03:33,567
+Bill, how is Audrey?
+
+83
+00:03:33,634 --> 00:03:35,701
+Curtis just brought her in.
+She's in Medical
+
+84
+00:03:35,768 --> 00:03:38,000
+getting treated, but it looks
+like she's going to be okay.
+
+85
+00:03:38,067 --> 00:03:39,534
+Thank God.
+
+86
+00:03:39,601 --> 00:03:41,701
+Okay, I'll get back to you
+as soon as we're
+
+87
+00:03:41,768 --> 00:03:43,434
+on final approach.
+All right.
+
+88
+00:03:51,534 --> 00:03:53,000
+Audrey.
+
+89
+00:03:53,067 --> 00:03:54,768
+I just got off the phone
+with County General.
+
+90
+00:03:54,834 --> 00:03:56,868
+I have some great news.
+
+91
+00:03:56,933 --> 00:03:58,501
+Your father
+survived the crash.
+
+92
+00:03:58,567 --> 00:04:00,167
+He's alive?
+
+93
+00:04:00,234 --> 00:04:02,734
+Yeah, one of our teams
+picked him up
+
+94
+00:04:02,801 --> 00:04:04,634
+about 30 minutes ago
+at the accident site.
+
+95
+00:04:04,701 --> 00:04:07,601
+He's still in ICU, but they
+expect him to pull through.
+
+96
+00:04:07,667 --> 00:04:09,667
+Oh, my God.
+
+97
+00:04:09,734 --> 00:04:11,967
+We have a team
+stationed at the hospital.
+
+98
+00:04:12,033 --> 00:04:13,667
+He'll be well-protected.
+
+99
+00:04:14,701 --> 00:04:17,334
+Thank you.
+( <i>phone rings</i> )
+
+100
+00:04:17,401 --> 00:04:19,567
+I have to take this.
+
+101
+00:04:20,634 --> 00:04:23,067
+Curtis?
+
+102
+00:04:23,134 --> 00:04:25,033
+Thank you so much.
+
+103
+00:04:25,100 --> 00:04:26,334
+You're welcome.
+
+104
+00:04:26,401 --> 00:04:27,534
+This is Manning.
+
+105
+00:04:27,601 --> 00:04:28,801
+Is Henderson secured?
+
+106
+00:04:28,868 --> 00:04:30,167
+He's in Holding
+Room Three.
+Good.
+
+107
+00:04:30,234 --> 00:04:32,967
+I need you to take a team
+to pick up Jack.
+Where is he?
+
+108
+00:04:33,033 --> 00:04:35,300
+He's on a plane heading towards
+the Van Nuys airport.
+
+109
+00:04:35,367 --> 00:04:38,000
+ETA is 20 minutes.
+Why is he on a plane?
+
+110
+00:04:38,067 --> 00:04:40,200
+He had to commandeer the plane
+in order to secure the evidence
+
+111
+00:04:40,267 --> 00:04:41,634
+against President Logan.
+
+112
+00:04:41,701 --> 00:04:43,900
+I'll brief you
+with the details en route.
+
+113
+00:04:43,967 --> 00:04:46,234
+Curtis, I cannot emphasize
+strongly enough
+
+114
+00:04:46,300 --> 00:04:48,667
+the explosive nature of the
+evidence that Jack is carrying.
+
+115
+00:04:48,734 --> 00:04:50,900
+I need you to put him
+into protective custody
+
+116
+00:04:50,967 --> 00:04:52,567
+and bring him back here to CTU.
+
+117
+00:04:52,634 --> 00:04:54,033
+Understood.
+
+118
+00:04:54,100 --> 00:04:56,267
+President Logan will probably
+send his men to retrieve it.
+
+119
+00:04:56,334 --> 00:04:57,900
+You've got to get
+to Jack first.
+
+120
+00:04:57,967 --> 00:05:01,234
+We will. I'm heading out.
+
+121
+00:05:02,267 --> 00:05:04,033
+( <i>phone rings</i> )
+
+122
+00:05:04,100 --> 00:05:06,734
+Yes?
+
+123
+00:05:06,801 --> 00:05:08,234
+We have a solution
+that will allow you
+
+124
+00:05:08,300 --> 00:05:09,267
+to order the plane shot down.
+
+125
+00:05:09,334 --> 00:05:10,868
+I sure as hell hope so.
+
+126
+00:05:10,933 --> 00:05:13,300
+I may be the president, but
+there are protocols in place
+
+127
+00:05:13,367 --> 00:05:14,634
+that I can't
+just ignore.
+
+128
+00:05:14,701 --> 00:05:16,967
+What we're proposing will
+circumvent your protocols.
+
+129
+00:05:17,033 --> 00:05:18,401
+What is it?
+
+130
+00:05:18,467 --> 00:05:20,701
+We're going to simulate
+a VCI distress signal.
+
+131
+00:05:20,768 --> 00:05:24,033
+It'll be broadcast on the
+airplane's transponder code,
+
+132
+00:05:24,100 --> 00:05:25,534
+and it will appear to come
+from Bauer's flight.
+
+133
+00:05:25,601 --> 00:05:28,401
+Hold on. What is
+a VCI distress signal?
+
+134
+00:05:28,467 --> 00:05:31,234
+It's an emergency signal
+indicating that there's a
+hijacking in progress,
+
+135
+00:05:31,300 --> 00:05:34,033
+and that the perpetrators
+intend to use the
+aircraft as a weapon.
+
+136
+00:05:34,100 --> 00:05:35,734
+It'll give you the
+pretext to shoot it down.
+
+137
+00:05:35,801 --> 00:05:37,834
+There really is no other
+legitimate response
+
+138
+00:05:37,900 --> 00:05:39,868
+to this scenario, Mr. President.
+
+139
+00:05:39,933 --> 00:05:43,467
+All you need to do is appear
+to struggle with the ethics
+
+140
+00:05:43,534 --> 00:05:46,134
+and then give the order.
+
+141
+00:05:48,200 --> 00:05:49,434
+Mr. President?
+
+142
+00:05:49,501 --> 00:05:52,267
+Fine.
+
+143
+00:05:52,334 --> 00:05:53,267
+All right.
+
+144
+00:05:53,334 --> 00:05:55,933
+You sound reluctant.
+
+145
+00:05:58,000 --> 00:06:00,834
+I can't believe
+it's come to this.
+
+146
+00:06:00,900 --> 00:06:03,534
+I'm going to shoot
+down a plane
+
+147
+00:06:03,601 --> 00:06:05,933
+full of innocent people.
+
+148
+00:06:06,000 --> 00:06:08,467
+None of us is happy
+about this, Mr. President,
+
+149
+00:06:08,534 --> 00:06:09,768
+but you don't really
+have a choice.
+
+150
+00:06:09,834 --> 00:06:13,134
+Bauer has evidence implicating
+you in this conspiracy,
+
+151
+00:06:13,200 --> 00:06:16,067
+and I don't have to tell you
+what the consequences will be
+
+152
+00:06:16,134 --> 00:06:19,701
+for all of us
+if it's released.
+
+153
+00:06:25,567 --> 00:06:27,534
+We should contact Chloe
+and bring her in.
+
+154
+00:06:27,601 --> 00:06:29,134
+We're going to
+want her help
+
+155
+00:06:29,200 --> 00:06:30,334
+bringing Jack
+back to CTU.
+
+156
+00:06:30,401 --> 00:06:32,167
+HAYES:
+Fine.
+
+157
+00:06:32,234 --> 00:06:33,467
+Send an escort.
+
+158
+00:06:33,534 --> 00:06:35,367
+Karen, I appreciate this.
+
+159
+00:06:35,434 --> 00:06:36,834
+I know you're putting
+
+160
+00:06:36,900 --> 00:06:38,467
+everything on the line
+to help us.
+
+161
+00:06:38,534 --> 00:06:40,667
+All I can say is
+this recording better be
+
+162
+00:06:40,734 --> 00:06:42,834
+everything Jack
+claims it is.
+I know Jack.
+
+163
+00:06:42,900 --> 00:06:45,033
+I don't always agree
+with his methods,
+
+164
+00:06:45,100 --> 00:06:46,834
+but I trust his judgment.
+
+165
+00:06:48,933 --> 00:06:50,367
+I'll go make that call.
+
+166
+00:06:50,434 --> 00:06:52,567
+What's going on?
+
+167
+00:06:52,634 --> 00:06:53,834
+What's Buchanan doing
+out of Holding?
+
+168
+00:06:53,900 --> 00:06:55,000
+The situation
+has changed, Miles.
+
+169
+00:06:55,067 --> 00:06:56,801
+There's some new intel.
+
+170
+00:06:56,868 --> 00:06:58,200
+I haven't seen anything.
+What new intel?
+
+171
+00:06:58,267 --> 00:06:59,868
+I don't have time
+to explain it right now.
+
+172
+00:06:59,933 --> 00:07:01,300
+What does that mean?
+
+173
+00:07:01,367 --> 00:07:03,200
+It means that I'll brief you
+when I've got the chance.
+
+174
+00:07:03,267 --> 00:07:04,401
+Have you compiled the orders
+for Bierko's transfer?
+
+175
+00:07:04,467 --> 00:07:06,167
+I'm still working on them.
+
+176
+00:07:06,234 --> 00:07:08,734
+Let me know
+when you've got them.
+
+177
+00:07:15,334 --> 00:07:17,033
+What is it, Mike?
+
+178
+00:07:17,100 --> 00:07:20,234
+A situation has come up
+regarding the hijacked plane.
+
+179
+00:07:20,300 --> 00:07:22,667
+Tell me what's happening.
+
+180
+00:07:22,734 --> 00:07:26,167
+The FAA just picked up
+a VCI distress code.
+
+181
+00:07:26,234 --> 00:07:29,033
+It originated
+from flight ST-520.
+
+182
+00:07:29,100 --> 00:07:30,868
+What's a VCI distress code?
+
+183
+00:07:30,933 --> 00:07:33,868
+The VCI is a coding system
+that was recently installed
+
+184
+00:07:33,933 --> 00:07:35,734
+on all commercial airliners.
+
+185
+00:07:35,801 --> 00:07:38,167
+This particular code indicates
+that a hijacking is underway,
+
+186
+00:07:38,234 --> 00:07:40,267
+and that the plane
+is going to be used
+
+187
+00:07:40,334 --> 00:07:42,567
+to target installations
+on the ground.
+
+188
+00:07:42,634 --> 00:07:44,334
+Oh, my God.
+
+189
+00:07:44,401 --> 00:07:45,768
+Admiral Kirkland
+is standing by
+
+190
+00:07:45,834 --> 00:07:48,200
+on video-conference
+from Point Mugu.
+
+191
+00:07:48,267 --> 00:07:52,000
+He's ready to brief
+you with the details.
+
+192
+00:07:57,768 --> 00:07:59,033
+Admiral Kirkland,
+I'm Mike Novick.
+
+193
+00:07:59,100 --> 00:08:00,434
+I have the
+President here.
+
+194
+00:08:00,501 --> 00:08:01,933
+Mr. President.
+
+195
+00:08:02,000 --> 00:08:04,834
+Admiral. Mike's told me
+about this VCI signal.
+
+196
+00:08:04,900 --> 00:08:06,401
+How could it have been sent
+
+197
+00:08:06,467 --> 00:08:07,868
+without Bauer's knowledge?
+
+198
+00:08:07,933 --> 00:08:10,033
+Most likely, one of the pilots
+under duress secretly activated
+
+199
+00:08:10,100 --> 00:08:11,534
+the transponder code.
+
+200
+00:08:11,601 --> 00:08:13,033
+Let me get this straight.
+
+201
+00:08:13,100 --> 00:08:15,134
+At last report, Bauer was in
+the passenger cabin.
+
+202
+00:08:15,200 --> 00:08:16,967
+Does this mean that
+he's now in the cockpit
+
+203
+00:08:17,033 --> 00:08:18,534
+and that he's in control
+of the plane?
+
+204
+00:08:18,601 --> 00:08:21,467
+It appears that way, sir.
+
+205
+00:08:21,534 --> 00:08:22,967
+( <i>sighs</i> )
+
+206
+00:08:23,033 --> 00:08:24,467
+What do we do, Admiral?
+
+207
+00:08:24,534 --> 00:08:27,534
+Sir, the protocols for this
+scenario are clearly specified.
+
+208
+00:08:27,601 --> 00:08:29,701
+We're compelled
+to take preemptive action.
+
+209
+00:08:29,768 --> 00:08:31,501
+What action?
+
+210
+00:08:31,567 --> 00:08:33,300
+The aircraft must be shot down.
+
+211
+00:08:33,367 --> 00:08:35,667
+We've already scrambled an F-18
+out of Point Mugu.
+
+212
+00:08:35,734 --> 00:08:38,434
+We just need your approval
+to engage.
+
+213
+00:08:40,967 --> 00:08:45,067
+There are over 50 people
+on that plane, Admiral.
+
+214
+00:08:45,134 --> 00:08:47,501
+We have to think of the people
+on the ground, Mr. President.
+
+215
+00:08:47,567 --> 00:08:49,933
+Over 20 million citizens live
+in Los Angeles County,
+
+216
+00:08:50,000 --> 00:08:52,267
+each one of them
+is now a potential target.
+
+217
+00:08:52,334 --> 00:08:54,334
+I don't believe this.
+
+218
+00:08:54,401 --> 00:08:56,334
+Mr. President, if
+I can interject.
+
+219
+00:08:56,401 --> 00:08:58,534
+Admiral, it's hard for me
+to accept
+
+220
+00:08:58,601 --> 00:09:01,933
+that Bauer intends to use
+the aircraft as a weapon
+
+221
+00:09:02,000 --> 00:09:03,300
+against civilians.
+
+222
+00:09:03,367 --> 00:09:04,768
+From my briefing document,
+
+223
+00:09:04,834 --> 00:09:06,367
+Jack Bauer
+is a distraught individual
+
+224
+00:09:06,434 --> 00:09:07,667
+with a history
+of erratic behavior.
+
+225
+00:09:07,734 --> 00:09:10,768
+Jack Bauer has spent
+his entire career
+
+226
+00:09:10,834 --> 00:09:12,234
+protecting American lives.
+
+227
+00:09:12,300 --> 00:09:14,000
+I think there's a reason
+he's doing what he's doing.
+
+228
+00:09:14,067 --> 00:09:15,467
+What would that be?
+
+229
+00:09:15,534 --> 00:09:18,033
+I don't have the answer,
+
+230
+00:09:18,100 --> 00:09:20,033
+but we should at
+least try to find out.
+
+231
+00:09:20,100 --> 00:09:21,601
+We don't have the time.
+
+232
+00:09:21,667 --> 00:09:24,601
+Mr. President, we
+could have the F-18
+
+233
+00:09:24,667 --> 00:09:25,933
+shadow the aircraft.
+
+234
+00:09:26,000 --> 00:09:27,933
+We could issue
+a standing order
+
+235
+00:09:28,000 --> 00:09:29,768
+to fire
+only if the target deviates
+
+236
+00:09:29,834 --> 00:09:31,067
+from its present course.
+
+237
+00:09:31,134 --> 00:09:32,701
+That's not a viable option,
+Mr. President.
+
+238
+00:09:32,768 --> 00:09:33,967
+Why not?
+
+239
+00:09:34,033 --> 00:09:35,534
+Right now, that plane
+is over the desert.
+
+240
+00:09:35,601 --> 00:09:37,567
+In another 15 minutes,
+it'll be above Los Angeles.
+
+241
+00:09:37,634 --> 00:09:39,167
+If we're forced
+to shoot it down then,
+
+242
+00:09:39,234 --> 00:09:41,501
+there'll be facing massive
+casualties on the ground.
+
+243
+00:09:41,567 --> 00:09:43,033
+And, Mr. President,
+we must also consider
+
+244
+00:09:43,100 --> 00:09:45,367
+the possibility
+that Bauer intends to attack
+
+245
+00:09:45,434 --> 00:09:46,933
+the Presidential Retreat.
+
+246
+00:09:47,000 --> 00:09:48,334
+The Retreat?
+
+247
+00:09:48,401 --> 00:09:49,801
+You're inside the target zone,
+
+248
+00:09:49,868 --> 00:09:53,200
+and Bauer's already been accused
+of killing one president today.
+
+249
+00:09:53,267 --> 00:09:54,501
+The simple fact is, sir,
+
+250
+00:09:54,567 --> 00:09:56,000
+we don't know
+what his intentions are.
+
+251
+00:09:56,067 --> 00:09:57,200
+Mr. President...
+
+252
+00:09:57,267 --> 00:09:58,701
+Mike. Stop.
+
+253
+00:09:58,768 --> 00:10:01,834
+I've made my decision.
+
+254
+00:10:01,900 --> 00:10:05,734
+Admiral, I'm authorizing you
+to shoot down that plane.
+
+255
+00:10:05,801 --> 00:10:06,933
+Yes, sir.
+
+256
+00:10:07,000 --> 00:10:08,033
+Mr. President...
+
+257
+00:10:08,100 --> 00:10:09,267
+Mike, please.
+
+258
+00:10:11,234 --> 00:10:12,801
+Don't make this
+any more difficult for me
+
+259
+00:10:12,868 --> 00:10:14,601
+than it already is.
+
+260
+00:10:21,834 --> 00:10:23,401
+Miss Hayes.
+
+261
+00:10:23,467 --> 00:10:26,334
+This just came in
+over the interagency sub-net.
+
+262
+00:10:27,334 --> 00:10:29,300
+BUCHANAN:
+What is it?
+
+263
+00:10:32,567 --> 00:10:34,567
+We have to alert Jack.
+
+264
+00:10:43,801 --> 00:10:45,234
+This is Bauer.
+
+265
+00:10:45,300 --> 00:10:48,067
+Jack, air traffic control just
+received a VCI distress signal
+
+266
+00:10:48,134 --> 00:10:49,501
+from your aircraft.
+
+267
+00:10:49,567 --> 00:10:51,667
+That effectively authorizes
+President Logan
+
+268
+00:10:51,734 --> 00:10:52,734
+to shoot you down.
+
+269
+00:10:52,801 --> 00:10:53,868
+Shoot us down?
+
+270
+00:10:53,933 --> 00:10:55,200
+BUCHANAN:
+And F-18's been scrambled
+
+271
+00:10:55,267 --> 00:10:56,501
+out of Point Mugu, Jack.
+
+272
+00:10:56,567 --> 00:10:57,701
+You have eight to ten minutes
+at best.
+
+273
+00:10:57,768 --> 00:10:59,501
+Can you patch me through
+to the pilot
+
+274
+00:10:59,567 --> 00:11:00,534
+of the F-18?
+
+275
+00:11:00,601 --> 00:11:01,534
+No chance.
+
+276
+00:11:01,601 --> 00:11:02,801
+They're on a coded frequency.
+
+277
+00:11:02,868 --> 00:11:04,834
+We can try to get in touch
+with the White House.
+
+278
+00:11:04,900 --> 00:11:06,467
+And tell them what?
+
+279
+00:11:06,534 --> 00:11:08,367
+They don't want to hear
+anything I have to say.
+
+280
+00:11:08,434 --> 00:11:09,367
+Hold on.
+
+281
+00:11:09,434 --> 00:11:10,701
+We need to land this plane now.
+
+282
+00:11:10,768 --> 00:11:12,134
+We're 100 miles from
+the nearest airport.
+
+283
+00:11:12,200 --> 00:11:14,167
+They just scrambled an F-18
+to shoot us out of the sky.
+
+284
+00:11:14,234 --> 00:11:15,567
+We need to get
+on the ground now!
+
+285
+00:11:15,634 --> 00:11:16,933
+You didn't hear me.
+
+286
+00:11:17,000 --> 00:11:18,067
+There's nowhere to land.
+
+287
+00:11:18,134 --> 00:11:20,467
+How much runway do you need?
+
+288
+00:11:20,534 --> 00:11:22,234
+At least 5,000 feet.
+
+289
+00:11:22,300 --> 00:11:23,401
+Bill, do you hear me?
+
+290
+00:11:23,467 --> 00:11:24,567
+Yeah, Jack.
+
+291
+00:11:24,634 --> 00:11:26,267
+I need you to look
+for a stretch of freeway
+
+292
+00:11:26,334 --> 00:11:28,834
+5,000 feet long, straight enough
+for us to land on.
+
+293
+00:11:28,900 --> 00:11:30,033
+I'll pull up maps
+
+294
+00:11:30,100 --> 00:11:31,768
+in the area, Jack.
+It'll take a few seconds.
+
+295
+00:11:31,834 --> 00:11:33,300
+Get back to me as soon as
+
+296
+00:11:33,367 --> 00:11:34,467
+you've got something.
+
+297
+00:11:34,534 --> 00:11:35,801
+We can't land
+on the freeway.
+
+298
+00:11:35,868 --> 00:11:37,100
+Yes, we can.
+
+299
+00:11:37,167 --> 00:11:38,300
+It's late, there's a curfew.
+
+300
+00:11:38,367 --> 00:11:40,501
+There won't be any cars
+on the freeway.
+
+301
+00:11:40,567 --> 00:11:41,967
+Cuff your right hand
+
+302
+00:11:42,033 --> 00:11:44,834
+to the flight control, now.
+
+303
+00:11:50,401 --> 00:11:53,768
+All the way.
+
+304
+00:11:53,834 --> 00:11:55,834
+Start taking us down.
+
+305
+00:12:00,000 --> 00:12:01,900
+Do it now.
+
+306
+00:12:22,534 --> 00:12:25,201
+What's Chloe
+O'Brian doing here?
+
+307
+00:12:25,267 --> 00:12:26,967
+I don't know.
+
+308
+00:12:28,833 --> 00:12:29,934
+You can go.
+
+309
+00:12:30,000 --> 00:12:32,167
+What's going on?
+
+310
+00:12:32,234 --> 00:12:33,634
+An F-18's been scrambled
+
+311
+00:12:33,700 --> 00:12:34,634
+to shoot down Jack's plane.
+
+312
+00:12:34,700 --> 00:12:35,700
+Can you open
+up a socket
+
+313
+00:12:35,767 --> 00:12:37,634
+with the ATC radar
+tracking plot?
+
+314
+00:12:37,700 --> 00:12:38,967
+Yeah, I think so.
+
+315
+00:12:39,034 --> 00:12:41,367
+Do it, Chloe.
+We need to know
+the exact amount of time
+
+316
+00:12:41,434 --> 00:12:43,034
+Jack has before the
+fighter plane reaches him.
+
+317
+00:12:43,100 --> 00:12:44,034
+Okay.
+
+318
+00:12:44,100 --> 00:12:45,034
+Karen, look at this.
+
+319
+00:12:45,100 --> 00:12:46,634
+Two possible
+landing sites.
+
+320
+00:12:46,700 --> 00:12:48,034
+I think this one's
+the best shot.
+
+321
+00:12:48,100 --> 00:12:50,067
+I agree.
+Let's get Jack on the phone.
+
+322
+00:12:54,534 --> 00:12:55,601
+I need to speak with you.
+
+323
+00:12:59,401 --> 00:13:01,234
+We need to make an
+emergency landing.
+
+324
+00:13:01,301 --> 00:13:02,668
+Talk to your passengers
+and get them ready.
+
+325
+00:13:02,733 --> 00:13:03,934
+What's happening?
+Don't worry.
+
+326
+00:13:04,000 --> 00:13:05,434
+Everything's gonna be fine.
+Just get them ready.
+
+327
+00:13:06,800 --> 00:13:08,733
+Okay.
+
+328
+00:13:08,800 --> 00:13:09,900
+Listen up, everybody.
+
+329
+00:13:09,967 --> 00:13:11,401
+We're going to prepare
+
+330
+00:13:11,467 --> 00:13:12,800
+for an emergency landing.
+
+331
+00:13:12,867 --> 00:13:14,934
+The proper procedure...
+It's Bauer.
+
+332
+00:13:15,000 --> 00:13:16,767
+Jack, it's Bill, I think
+we found something.
+
+333
+00:13:16,833 --> 00:13:17,934
+Bill, hold
+on one sec.
+
+334
+00:13:18,000 --> 00:13:20,501
+I want to put you
+on speakerphone.
+
+335
+00:13:20,568 --> 00:13:21,900
+Go ahead.
+
+336
+00:13:21,967 --> 00:13:23,334
+It's a stretch
+of the 118 freeway
+
+337
+00:13:23,401 --> 00:13:25,568
+between mile
+marker 91 and 92.
+
+338
+00:13:25,634 --> 00:13:27,434
+There's about 4,000 feet,
+then there's an overpass.
+
+339
+00:13:27,501 --> 00:13:29,434
+That's not long enough.
+
+340
+00:13:29,501 --> 00:13:30,668
+It's the best
+we can do.
+
+341
+00:13:30,733 --> 00:13:31,634
+Copy that, Bill.
+
+342
+00:13:31,700 --> 00:13:33,301
+Hold on, give
+me a second.
+
+343
+00:13:33,367 --> 00:13:36,568
+You can either try and land this
+plane on the freeway or I will.
+
+344
+00:13:40,534 --> 00:13:41,534
+Give me the coordinates.
+
+345
+00:13:44,167 --> 00:13:45,601
+3-4-5-0.2 north
+
+346
+00:13:45,668 --> 00:13:49,668
+by 1-1-0-3-0.4 west.
+
+347
+00:13:49,733 --> 00:13:51,568
+We need to know
+where that F-18 is.
+
+348
+00:13:51,634 --> 00:13:54,467
+Jack, it's Chloe.
+I'm working on it.
+
+349
+00:13:54,534 --> 00:13:55,967
+CURTIS:
+Manning.
+
+350
+00:13:56,034 --> 00:13:57,134
+We have the exact location
+
+351
+00:13:57,201 --> 00:13:58,401
+where Jack's putting down.
+Go ahead.
+
+352
+00:13:58,467 --> 00:13:59,534
+It's the 118 freeway
+
+353
+00:13:59,601 --> 00:14:02,301
+between mile markers 91 and 92.
+He should be
+
+354
+00:14:02,367 --> 00:14:03,568
+on the ground
+within minutes.
+
+355
+00:14:03,634 --> 00:14:04,568
+Copy. We're redirecting.
+
+356
+00:14:04,634 --> 00:14:06,568
+118 freeway.
+Copy.
+
+357
+00:14:09,601 --> 00:14:11,134
+Mr. President,
+we're five minutes away.
+
+358
+00:14:11,201 --> 00:14:13,301
+I'm patching us in directly
+with the pilot of the F-18.
+
+359
+00:14:13,367 --> 00:14:14,833
+Go ahead.
+
+360
+00:14:14,900 --> 00:14:17,700
+KIRKLAND:
+<i>Bravo One, this is</i>
+<i>Admiral Kirkland.</i>
+
+361
+00:14:17,767 --> 00:14:19,134
+You're on with the president
+and myself.
+
+362
+00:14:19,201 --> 00:14:20,534
+Report status.
+
+363
+00:14:20,601 --> 00:14:23,833
+My radar is locked
+onto the target.
+
+364
+00:14:23,900 --> 00:14:26,401
+Target is in a steep descent.
+
+365
+00:14:26,467 --> 00:14:27,967
+Maintaining radar lock-on.
+
+366
+00:14:29,833 --> 00:14:31,234
+Okay, I've got
+the ATC radar plot.
+
+367
+00:14:31,301 --> 00:14:33,700
+Put it on the
+main screen.
+
+368
+00:14:33,767 --> 00:14:37,733
+BUCHANAN:
+Jack, the F-18
+is within 15 miles.
+
+369
+00:14:37,800 --> 00:14:39,134
+They're not
+gonna make it.
+
+370
+00:14:39,201 --> 00:14:40,833
+He's gonna be within the
+missile range in two minutes.
+
+371
+00:14:40,900 --> 00:14:42,234
+You're not
+descending fast enough.
+
+372
+00:14:42,301 --> 00:14:43,867
+If we increase the descent
+rate, we won't be able
+
+373
+00:14:43,934 --> 00:14:45,334
+to pull out of the dive.
+
+374
+00:14:45,401 --> 00:14:47,767
+If we don't get on the ground
+before that F-18 reaches us,
+
+375
+00:14:47,833 --> 00:14:49,934
+it's not gonna
+matter. Descend now!
+
+376
+00:14:56,301 --> 00:14:58,934
+( <i>people screaming</i> )
+
+377
+00:14:59,000 --> 00:15:01,401
+SUE:
+Put the oxygen masks on!
+
+378
+00:15:04,000 --> 00:15:06,800
+PILOT:
+Target has increased angle
+and rate of descent.
+
+379
+00:15:06,867 --> 00:15:08,967
+One minute from missile lock.
+
+380
+00:15:09,034 --> 00:15:11,668
+Jack, they're almost
+within weapons range.
+
+381
+00:15:13,000 --> 00:15:14,100
+The aircraft
+can't take this.
+
+382
+00:15:14,167 --> 00:15:15,134
+I have to pull up.
+
+383
+00:15:15,201 --> 00:15:16,267
+Not yet!
+
+384
+00:15:29,867 --> 00:15:32,434
+I can see the freeway!
+
+385
+00:15:35,301 --> 00:15:36,434
+Come on.
+
+386
+00:15:36,501 --> 00:15:39,434
+Okay, level up now! Now!
+
+387
+00:15:43,301 --> 00:15:45,100
+We can't pull out of the dive!
+
+388
+00:15:48,201 --> 00:15:49,767
+I need your help! Pull!
+
+389
+00:15:52,367 --> 00:15:53,334
+( <i>alarm sounding</i> )
+
+390
+00:15:53,401 --> 00:15:55,367
+Ground proximity alert.
+
+391
+00:15:57,967 --> 00:15:59,334
+20 seconds to missile lock.
+
+392
+00:15:59,401 --> 00:16:02,601
+Target's at 1,000 feet
+and leveling.
+
+393
+00:16:02,668 --> 00:16:03,634
+Leveling?
+
+394
+00:16:03,700 --> 00:16:05,034
+PILOT:
+Affirmative, sir.
+
+395
+00:16:05,100 --> 00:16:06,067
+What does that mean?
+
+396
+00:16:06,134 --> 00:16:08,434
+Target may be preparing to land.
+
+397
+00:16:08,501 --> 00:16:11,634
+The objective seems to be
+the 118 freeway.
+
+398
+00:16:15,700 --> 00:16:17,434
+Lower the landing gear!
+
+399
+00:16:17,501 --> 00:16:18,767
+We're going too fast!
+
+400
+00:16:18,833 --> 00:16:19,800
+Lower it!
+
+401
+00:16:24,568 --> 00:16:25,900
+He's lowering his landing gear.
+
+402
+00:16:27,434 --> 00:16:29,134
+The F-18's in range.
+
+403
+00:16:33,334 --> 00:16:34,668
+I have missile lock.
+
+404
+00:16:34,733 --> 00:16:36,568
+KIRKLAND:
+The aircraft is in
+a landing profile, sir.
+
+405
+00:16:36,634 --> 00:16:37,568
+I recommend we abort.
+
+406
+00:16:37,634 --> 00:16:39,000
+What?
+
+407
+00:16:39,067 --> 00:16:40,034
+The parameters
+have changed, sir.
+
+408
+00:16:40,100 --> 00:16:41,501
+I want that plane shot down!
+
+409
+00:16:41,568 --> 00:16:43,900
+Sir...
+Order your man to fire, now!
+
+410
+00:16:43,967 --> 00:16:45,234
+Mr. President!
+
+411
+00:16:45,301 --> 00:16:47,167
+Admiral Kirkland is right.
+
+412
+00:16:47,234 --> 00:16:48,668
+The aircraft's not a threat.
+
+413
+00:16:48,733 --> 00:16:50,201
+There's no reason to do this.
+
+414
+00:16:51,867 --> 00:16:53,733
+I implore you to reconsider.
+
+415
+00:17:01,100 --> 00:17:02,867
+Abort.
+
+416
+00:17:02,934 --> 00:17:03,900
+Yes, sir.
+
+417
+00:17:03,967 --> 00:17:05,167
+But if they
+don't land,
+
+418
+00:17:05,234 --> 00:17:07,501
+I want you to shoot that
+plane down immediately!
+
+419
+00:17:07,568 --> 00:17:08,534
+Yes, Mr. President.
+
+420
+00:17:08,601 --> 00:17:10,700
+Bravo One, hold fire.
+
+421
+00:17:10,767 --> 00:17:11,733
+I repeat, hold fire.
+
+422
+00:17:11,800 --> 00:17:14,000
+Copy, base.
+Bravo One holding fire.
+
+423
+00:17:14,067 --> 00:17:15,634
+We have Marine units
+deployed in the area.
+
+424
+00:17:15,700 --> 00:17:17,501
+I want them to cordon off
+the landing site
+
+425
+00:17:17,568 --> 00:17:18,568
+and apprehend Jack Bauer.
+
+426
+00:17:18,634 --> 00:17:20,467
+Yes, sir.
+
+427
+00:17:23,634 --> 00:17:26,000
+500 feet!
+
+428
+00:17:26,067 --> 00:17:28,534
+We're not gonna make it.
+
+429
+00:17:28,601 --> 00:17:30,601
+Come on.
+
+430
+00:17:37,167 --> 00:17:38,568
+CTU.
+
+431
+00:17:38,634 --> 00:17:39,568
+We've spotted the plane.
+
+432
+00:17:39,634 --> 00:17:40,934
+They're coming in for a landing.
+
+433
+00:17:41,000 --> 00:17:42,434
+We're heading towards them now.
+
+434
+00:17:42,501 --> 00:17:44,201
+I'm handing the controls
+back to you!
+
+435
+00:17:44,267 --> 00:17:46,867
+Touch it down!
+
+436
+00:17:46,934 --> 00:17:48,334
+We're still going too fast!
+
+437
+00:17:48,401 --> 00:17:49,401
+Touch it down!
+
+438
+00:17:56,367 --> 00:17:57,934
+( <i>people screaming</i> )
+
+439
+00:17:59,367 --> 00:18:00,401
+Target has touched down.
+
+440
+00:18:00,467 --> 00:18:02,800
+I'm clear.
+Returning to base.
+
+441
+00:18:28,334 --> 00:18:29,134
+Bill, we made it.
+
+442
+00:18:29,201 --> 00:18:31,167
+We're down on the ground.
+
+443
+00:18:31,234 --> 00:18:32,800
+Jack, we've redirected Curtis
+to your location.
+
+444
+00:18:32,867 --> 00:18:34,434
+He should be there
+in a few minutes.
+
+445
+00:18:34,501 --> 00:18:35,867
+I'm just east
+of the Balboa overpass.
+
+446
+00:18:35,934 --> 00:18:37,100
+Have him meet me there.
+
+447
+00:18:37,167 --> 00:18:39,700
+Send a secondary team
+to pick up the copilot
+
+448
+00:18:39,767 --> 00:18:41,167
+and EMTs for the pilot.
+
+449
+00:18:41,234 --> 00:18:43,000
+Got it.
+Get out of there, Jack!
+
+450
+00:18:49,634 --> 00:18:51,401
+Everyone, keep moving
+
+451
+00:18:51,467 --> 00:18:52,733
+to the rear
+of the plane!
+
+452
+00:18:52,800 --> 00:18:53,833
+Exit from the rear, now!
+
+453
+00:19:23,501 --> 00:19:25,134
+You should have followed
+through, Mr. President.
+
+454
+00:19:25,201 --> 00:19:26,767
+You should have ordered
+that pilot to fire.
+
+455
+00:19:26,833 --> 00:19:29,000
+They were landing on a freeway.
+
+456
+00:19:29,067 --> 00:19:31,000
+I had no pretext
+to shoot them down.
+
+457
+00:19:31,067 --> 00:19:32,401
+I had to abort.
+
+458
+00:19:32,467 --> 00:19:33,700
+It's going to be much harder
+
+459
+00:19:33,767 --> 00:19:34,934
+to contain now,
+if not impossible.
+
+460
+00:19:35,000 --> 00:19:35,934
+Bauer's on the ground.
+
+461
+00:19:36,000 --> 00:19:38,034
+He won't get far.
+
+462
+00:19:38,100 --> 00:19:39,634
+Even before
+the plane touched down,
+
+463
+00:19:39,700 --> 00:19:42,267
+I ordered two battalions
+of Marines into the area.
+
+464
+00:19:42,334 --> 00:19:44,934
+They're cordoning off the
+landing site, even as we speak.
+
+465
+00:19:45,000 --> 00:19:47,367
+Bauer...
+
+466
+00:19:47,434 --> 00:19:48,634
+has nowhere to run.
+
+467
+00:19:48,700 --> 00:19:50,700
+I hope you're right,
+Mr. President.
+
+468
+00:19:50,767 --> 00:19:51,733
+This is our last chance.
+
+469
+00:19:51,800 --> 00:19:52,733
+If Bauer gets through...
+
+470
+00:19:52,800 --> 00:19:55,401
+I know.
+
+471
+00:19:55,467 --> 00:19:57,467
+I know what's at stake, Graham.
+
+472
+00:20:00,867 --> 00:20:03,867
+I'll get back to you
+as soon as I have any news.
+
+473
+00:20:10,134 --> 00:20:12,367
+( <i>sirens wailing</i> )
+
+474
+00:20:12,434 --> 00:20:14,534
+( <i>garbled radio transmission</i> )
+
+475
+00:20:19,434 --> 00:20:22,501
+( <i>cell phone rings</i> )
+
+476
+00:20:22,568 --> 00:20:23,501
+Yeah.
+
+477
+00:20:23,568 --> 00:20:24,767
+Curtis, it's Jack!
+
+478
+00:20:24,833 --> 00:20:26,367
+Go ahead.
+The Marines are moving in.
+
+479
+00:20:26,434 --> 00:20:27,800
+They're setting up a perimeter.
+Where are you?
+
+480
+00:20:27,867 --> 00:20:29,201
+We're approaching your position
+from the north.
+
+481
+00:20:33,401 --> 00:20:34,534
+Okay, I got you.
+
+482
+00:20:34,601 --> 00:20:36,367
+I'll meet you on the north side
+of the freeway.
+
+483
+00:20:40,601 --> 00:20:42,601
+( <i>garbled radio transmission</i> )
+
+484
+00:20:59,201 --> 00:21:00,501
+They know I'm
+still in the area.
+
+485
+00:21:00,568 --> 00:21:02,534
+We got to get
+out of here.
+Head south on Variel. Move.
+
+486
+00:21:13,100 --> 00:21:14,234
+Damn it.
+
+487
+00:21:14,301 --> 00:21:16,167
+You're gonna have to try
+and talk your way
+
+488
+00:21:16,234 --> 00:21:17,601
+through the roadblock.
+
+489
+00:21:17,668 --> 00:21:18,733
+Get your hands up!
+
+490
+00:21:23,067 --> 00:21:25,234
+Hands where
+we can see them.
+
+491
+00:21:25,301 --> 00:21:26,700
+We're federal agents.
+
+492
+00:21:26,767 --> 00:21:27,900
+Los Angeles
+
+493
+00:21:27,967 --> 00:21:30,034
+Counter Terrorist Unit.
+
+494
+00:21:30,100 --> 00:21:32,100
+We've been given orders
+to detain everybody inside
+
+495
+00:21:32,167 --> 00:21:33,568
+this perimeter.
+We're all on
+
+496
+00:21:33,634 --> 00:21:34,833
+the same team here, Commander.
+
+497
+00:21:34,900 --> 00:21:36,501
+We're trying to
+apprehend the suspect
+
+498
+00:21:36,568 --> 00:21:37,934
+who hijacked that plane.
+
+499
+00:21:38,000 --> 00:21:39,167
+Jack Bauer?
+That's right.
+
+500
+00:21:39,234 --> 00:21:40,467
+Now, let us
+do our job.
+
+501
+00:21:40,534 --> 00:21:41,668
+I need to see individual ID's.
+
+502
+00:21:41,733 --> 00:21:42,867
+I'm gonna call this in.
+
+503
+00:21:42,934 --> 00:21:44,100
+We don't have time
+for this, Commander.
+
+504
+00:21:44,167 --> 00:21:45,568
+The longer we sit here,
+the better chance
+
+505
+00:21:45,634 --> 00:21:46,833
+Bauer has of slipping
+through the net.
+
+506
+00:21:46,900 --> 00:21:48,100
+This will only take
+a few minutes.
+
+507
+00:21:48,167 --> 00:21:50,634
+A few minutes is all Bauer needs
+to escape.
+
+508
+00:21:50,700 --> 00:21:52,501
+We're not prepared
+to let that happen.
+
+509
+00:21:52,568 --> 00:21:53,733
+Now we're moving out.
+
+510
+00:21:53,800 --> 00:21:55,800
+If you really want to fire
+on federal agents,
+
+511
+00:21:55,867 --> 00:21:58,134
+that's your call.
+
+512
+00:22:00,134 --> 00:22:01,700
+Stand down.
+
+513
+00:22:01,767 --> 00:22:05,301
+Move out.
+
+514
+00:22:05,367 --> 00:22:07,501
+Stand down!
+
+515
+00:22:17,534 --> 00:22:18,934
+Head east for a while,
+then turn south.
+
+516
+00:22:19,000 --> 00:22:20,100
+Yes, sir.
+
+517
+00:22:20,167 --> 00:22:22,301
+Buchanan.
+
+518
+00:22:22,367 --> 00:22:23,534
+It's Curtis.
+We've got Jack,
+
+519
+00:22:23,601 --> 00:22:25,401
+and we're headed back in.
+Okay, Curtis.
+
+520
+00:22:25,467 --> 00:22:26,601
+Marines are all over the place.
+
+521
+00:22:26,668 --> 00:22:28,234
+Barely got past one
+of the patrols.
+
+522
+00:22:28,301 --> 00:22:30,267
+They must be taking
+direct orders from Logan.
+
+523
+00:22:30,334 --> 00:22:31,434
+There's no other explanation.
+
+524
+00:22:31,501 --> 00:22:32,601
+We can't take the
+chance of running
+
+525
+00:22:32,668 --> 00:22:33,833
+into any more
+of these patrols.
+
+526
+00:22:33,900 --> 00:22:35,067
+We'll stick to
+the back streets.
+
+527
+00:22:35,134 --> 00:22:35,900
+Understood.
+
+528
+00:22:35,967 --> 00:22:38,767
+( <i>phone rings</i> )
+
+529
+00:22:38,833 --> 00:22:40,067
+Hayes.
+
+530
+00:22:40,134 --> 00:22:41,967
+MILES:
+I want to know what's going on.
+
+531
+00:22:42,034 --> 00:22:43,934
+Miles, I told you
+I would tell you
+
+532
+00:22:44,000 --> 00:22:45,434
+when I felt the
+time was right.
+
+533
+00:22:45,501 --> 00:22:47,067
+I'm sitting here
+watching you work
+
+534
+00:22:47,134 --> 00:22:48,534
+with two people under arrest
+
+535
+00:22:48,601 --> 00:22:50,668
+for aiding and abetting
+a federal fugitive.
+
+536
+00:22:50,733 --> 00:22:52,534
+If you don't talk to me,
+
+537
+00:22:52,601 --> 00:22:54,767
+I'll have to get my answers
+somewhere else.
+
+538
+00:22:54,833 --> 00:22:56,934
+I'll be right there.
+
+539
+00:22:58,334 --> 00:23:00,833
+You can't tell him.
+
+540
+00:23:00,900 --> 00:23:02,634
+I can't hold him
+off any longer.
+
+541
+00:23:02,700 --> 00:23:03,833
+You really think
+that's a good idea?
+
+542
+00:23:04,867 --> 00:23:06,934
+I have to trust him.
+
+543
+00:23:07,000 --> 00:23:08,867
+He's been nothing but loyal.
+
+544
+00:23:08,934 --> 00:23:10,434
+I probably shouldn't have
+
+545
+00:23:10,501 --> 00:23:12,800
+kept him in the
+dark this long.
+
+546
+00:23:12,867 --> 00:23:14,867
+I'll be right back.
+
+547
+00:23:28,000 --> 00:23:30,733
+I don't appreciate
+being threatened, Miles.
+
+548
+00:23:30,800 --> 00:23:32,900
+And I don't appreciate
+being shut out.
+
+549
+00:23:34,568 --> 00:23:37,134
+We've worked a lot
+of years together, Karen,
+
+550
+00:23:37,201 --> 00:23:38,467
+and I have never wavered
+
+551
+00:23:38,534 --> 00:23:41,568
+in my allegiance.
+
+552
+00:23:41,634 --> 00:23:43,833
+I don't deserve this.
+
+553
+00:23:46,833 --> 00:23:48,900
+No, you don't.
+
+554
+00:23:51,367 --> 00:23:52,767
+Come with me.
+
+555
+00:24:09,800 --> 00:24:11,767
+Jack Bauer's
+acquired evidence
+
+556
+00:24:11,833 --> 00:24:14,234
+implicating President Logan
+in David Palmer's death.
+
+557
+00:24:14,301 --> 00:24:16,334
+Have you seen this evidence?
+
+558
+00:24:16,401 --> 00:24:18,034
+No, but Bauer's bringing it
+here now.
+
+559
+00:24:18,100 --> 00:24:19,401
+What is it?
+
+560
+00:24:19,467 --> 00:24:21,334
+It's a recording
+of a conversation
+
+561
+00:24:21,401 --> 00:24:22,900
+between the president
+and an accomplice.
+
+562
+00:24:22,967 --> 00:24:24,234
+But you haven't heard it?
+No.
+
+563
+00:24:24,301 --> 00:24:25,301
+And that's what you're doing
+
+564
+00:24:25,367 --> 00:24:26,967
+with Buchanan and O'Brian?
+
+565
+00:24:27,034 --> 00:24:28,767
+Covertly helping Bauer?
+
+566
+00:24:28,833 --> 00:24:30,367
+Yes.
+
+567
+00:24:30,434 --> 00:24:32,301
+For the past
+three hours,
+
+568
+00:24:32,367 --> 00:24:34,534
+President Logan has done
+everything in his power
+
+569
+00:24:34,601 --> 00:24:36,601
+to keep Jack from
+getting back here alive.
+
+570
+00:24:36,668 --> 00:24:39,234
+You're working against the most
+powerful man in the world,
+
+571
+00:24:39,301 --> 00:24:40,867
+and you haven't actually heard
+the evidence.
+
+572
+00:24:40,934 --> 00:24:43,034
+This is why I didn't
+talk to you, Miles.
+
+573
+00:24:43,100 --> 00:24:45,534
+Because you knew
+I'd talk you out of it.
+Yes, I know
+
+574
+00:24:45,601 --> 00:24:46,700
+what I'm doing is risky.
+
+575
+00:24:46,767 --> 00:24:48,568
+If I am wrong,
+my career is over.
+
+576
+00:24:48,634 --> 00:24:50,900
+I could be brought
+up on charges.
+Not just your career, Karen.
+
+577
+00:24:50,967 --> 00:24:52,234
+I am doing this because
+I believe
+
+578
+00:24:52,301 --> 00:24:53,401
+that Bauer is telling the truth.
+
+579
+00:24:53,467 --> 00:24:54,568
+But you don't know.
+
+580
+00:24:54,634 --> 00:24:56,800
+Okay, okay.
+
+581
+00:24:56,867 --> 00:24:59,767
+Let's say he is.
+
+582
+00:24:59,833 --> 00:25:02,634
+Let's say that recording
+implicates Logan.
+
+583
+00:25:02,700 --> 00:25:04,634
+Then what are you going to do?
+
+584
+00:25:04,700 --> 00:25:06,668
+Are you going to arrest
+
+585
+00:25:06,733 --> 00:25:09,000
+the President
+of the United States?
+
+586
+00:25:09,067 --> 00:25:11,134
+That will be up
+to the attorney general.
+
+587
+00:25:11,201 --> 00:25:12,134
+You're depending on...
+
+588
+00:25:12,201 --> 00:25:13,967
+I'm sorry
+to interrupt.
+Yes.
+
+589
+00:25:14,034 --> 00:25:15,134
+They're ready
+to move Bierko.
+
+590
+00:25:15,201 --> 00:25:16,867
+Thank you.
+I'll be right out.
+
+591
+00:25:20,134 --> 00:25:24,267
+Look, I have to go over
+the transfer protocols.
+
+592
+00:25:24,334 --> 00:25:26,568
+I know that what I'm asking
+from you is difficult.
+
+593
+00:25:28,000 --> 00:25:31,000
+Everything rests with
+what's on that recording.
+
+594
+00:25:32,967 --> 00:25:35,934
+Tell me what you need.
+
+595
+00:25:36,000 --> 00:25:37,267
+Bauer will be here any minute.
+
+596
+00:25:37,334 --> 00:25:40,100
+The best way for you to help
+me is to go back out there
+
+597
+00:25:40,167 --> 00:25:41,601
+and keep things
+running smoothly.
+
+598
+00:25:41,668 --> 00:25:43,134
+All right.
+Miles?
+
+599
+00:25:44,534 --> 00:25:46,334
+It's imperative
+this stay between us.
+
+600
+00:25:46,401 --> 00:25:47,568
+Of course.
+
+601
+00:25:47,634 --> 00:25:49,700
+Thank you.
+
+602
+00:26:12,267 --> 00:26:13,334
+Thank you.
+
+603
+00:26:13,401 --> 00:26:14,668
+We have a full
+
+604
+00:26:14,733 --> 00:26:16,434
+tactical complement,
+enhanced ordinance package,
+
+605
+00:26:16,501 --> 00:26:18,733
+two vehicle escort.
+
+606
+00:26:20,601 --> 00:26:23,401
+Vladimir Bierko,
+you're being transferred
+
+607
+00:26:23,467 --> 00:26:28,367
+to a primary holding facility
+at our district headquarters.
+
+608
+00:26:28,434 --> 00:26:31,100
+Let me know the second
+he arrives.
+
+609
+00:26:31,167 --> 00:26:33,034
+Understood. Let's move out.
+
+610
+00:27:40,300 --> 00:27:42,666
+Where the hell is Mike Novick?
+
+611
+00:27:42,733 --> 00:27:44,300
+SECRETARY:
+He's moments away, sir.
+
+612
+00:27:44,366 --> 00:27:46,533
+You told me that
+three minutes ago.
+
+613
+00:27:46,600 --> 00:27:48,533
+Yes, sir.
+
+614
+00:27:51,000 --> 00:27:52,466
+I'm sorry, Mr. President.
+
+615
+00:27:52,533 --> 00:27:54,600
+I was on the phone
+with Colonel Owens.
+
+616
+00:27:54,666 --> 00:27:56,566
+He's the Marine
+field commander on the site.
+
+617
+00:27:56,633 --> 00:27:57,733
+Is Bauer in custody?
+
+618
+00:27:57,800 --> 00:27:58,867
+No, sir.
+
+619
+00:27:58,933 --> 00:28:00,133
+What happened?
+
+620
+00:28:00,200 --> 00:28:03,167
+As ordered, the Marines
+sealed off a one-mile radius
+
+621
+00:28:03,234 --> 00:28:04,334
+around the landing site.
+
+622
+00:28:04,399 --> 00:28:06,033
+They've completed a sweep
+of the area.
+
+623
+00:28:06,100 --> 00:28:07,200
+And?
+
+624
+00:28:07,267 --> 00:28:11,234
+And it's Colonel Owens'
+estimation
+
+625
+00:28:11,300 --> 00:28:14,600
+that Bauer is no longer inside
+
+626
+00:28:14,666 --> 00:28:16,466
+the perimeter.
+
+627
+00:28:16,533 --> 00:28:18,033
+He got away.
+
+628
+00:28:18,100 --> 00:28:20,200
+It appears so, sir.
+
+629
+00:28:22,533 --> 00:28:24,833
+I can't believe this.
+
+630
+00:28:24,900 --> 00:28:27,733
+Uh, Mr. President,
+it's only a matter of time
+
+631
+00:28:27,800 --> 00:28:30,433
+before Bauer's apprehended.
+
+632
+00:28:44,499 --> 00:28:46,499
+Sir, are you all right?
+
+633
+00:29:00,566 --> 00:29:02,900
+Thank you, Mike.
+
+634
+00:29:02,967 --> 00:29:05,167
+I need some
+time alone now.
+
+635
+00:29:14,466 --> 00:29:16,466
+( <i>door closes</i> )
+
+636
+00:29:22,267 --> 00:29:24,399
+( <i>phone ringing</i> )
+
+637
+00:29:29,800 --> 00:29:32,334
+( <i>phone continues ringing</i> )
+
+638
+00:29:45,566 --> 00:29:48,200
+( <i>phone ringing</i> )
+
+639
+00:29:58,933 --> 00:30:01,033
+Jack, the attorney general's
+on his way
+
+640
+00:30:01,100 --> 00:30:02,366
+to his office
+right now.
+
+641
+00:30:02,433 --> 00:30:04,000
+He'll be ready for
+a video conference
+
+642
+00:30:04,067 --> 00:30:05,033
+in ten minutes.
+
+643
+00:30:05,100 --> 00:30:06,399
+Okay, good.
+
+644
+00:30:06,466 --> 00:30:08,399
+Chloe, I want you to prepare
+the recording for playback.
+
+645
+00:30:08,466 --> 00:30:11,133
+I want you to clean
+it up and apply a
+digital signature so
+
+646
+00:30:11,200 --> 00:30:12,867
+that we can establish
+a chain of evidence.
+
+647
+00:30:12,933 --> 00:30:15,366
+Okay.
+You need to work alone.
+
+648
+00:30:15,433 --> 00:30:17,234
+I don't want anyone else
+near that recording.
+
+649
+00:30:17,300 --> 00:30:19,867
+You don't ever let
+it out of your sight.
+I won't.
+
+650
+00:30:19,933 --> 00:30:21,366
+You said I had ten minutes.
+
+651
+00:30:21,433 --> 00:30:22,666
+I'd like to see Audrey.
+
+652
+00:30:22,733 --> 00:30:24,334
+Of course.
+She's in Medical.
+
+653
+00:30:24,433 --> 00:30:27,200
+Thank you.
+
+654
+00:30:30,000 --> 00:30:33,433
+Well, when will I be able
+to speak with him?
+
+655
+00:30:34,566 --> 00:30:37,366
+All right, I understand.
+
+656
+00:30:37,433 --> 00:30:39,633
+Well, just let him know...
+
+657
+00:30:42,466 --> 00:30:45,200
+Can you please tell him
+that his daughter called
+
+658
+00:30:45,267 --> 00:30:46,933
+and that...
+
+659
+00:30:47,000 --> 00:30:49,000
+she loves him very much.
+
+660
+00:30:49,067 --> 00:30:51,466
+Thank you.
+
+661
+00:30:51,533 --> 00:30:53,399
+It looks like
+my dad's gonna be all right.
+
+662
+00:30:53,466 --> 00:30:55,533
+Yeah, I know, I heard.
+
+663
+00:30:58,967 --> 00:31:01,766
+Oh, God, I'm so glad to see you.
+
+664
+00:31:01,833 --> 00:31:03,867
+Me, too.
+
+665
+00:31:11,766 --> 00:31:14,300
+We did it.
+
+666
+00:31:14,366 --> 00:31:15,499
+We got the evidence.
+
+667
+00:31:15,566 --> 00:31:16,766
+Oh.
+
+668
+00:31:16,833 --> 00:31:18,566
+The attorney general's
+going to hear it.
+
+669
+00:31:18,633 --> 00:31:19,900
+So it's over?
+
+670
+00:31:19,967 --> 00:31:22,466
+Yeah.
+
+671
+00:31:22,533 --> 00:31:24,433
+President Logan's going to pay
+
+672
+00:31:24,499 --> 00:31:26,833
+for David Palmer's
+assassination.
+
+673
+00:31:28,633 --> 00:31:30,833
+Thank you.
+
+674
+00:31:37,334 --> 00:31:39,433
+Close your eyes.
+
+675
+00:31:39,499 --> 00:31:41,833
+I'm going to sit with
+you for a minute.
+
+676
+00:32:33,234 --> 00:32:34,933
+( <i>phone rings</i> )
+
+677
+00:32:35,000 --> 00:32:36,234
+Yes.
+
+678
+00:32:36,300 --> 00:32:37,867
+LOGAN:
+Graham.
+
+679
+00:32:37,933 --> 00:32:39,466
+I've been trying to reach you.
+
+680
+00:32:39,533 --> 00:32:40,867
+I know.
+
+681
+00:32:40,933 --> 00:32:42,334
+Bauer slipped
+through the cordon,
+
+682
+00:32:42,399 --> 00:32:44,366
+didn't he?
+Yes.
+
+683
+00:32:44,433 --> 00:32:47,800
+I've just been told that
+the attorney general's office
+
+684
+00:32:47,867 --> 00:32:51,399
+received a phone call
+from the director of CTU.
+
+685
+00:32:51,466 --> 00:32:53,700
+I think it's
+fairly obvious
+
+686
+00:32:53,766 --> 00:32:55,867
+they're in possession
+of the recording.
+
+687
+00:32:55,933 --> 00:32:59,533
+I think that phone
+call was about you.
+
+688
+00:32:59,600 --> 00:33:01,933
+I didn't expect
+it would to happen so soon.
+
+689
+00:33:03,766 --> 00:33:05,733
+I am sorry, Charles.
+
+690
+00:33:05,800 --> 00:33:07,234
+You don't
+deserve this.
+
+691
+00:33:07,300 --> 00:33:11,167
+Listen, Graham, despite
+how things turned out...
+
+692
+00:33:13,267 --> 00:33:15,334
+...I still believe that
+we were in the right.
+
+693
+00:33:15,399 --> 00:33:16,733
+I still believe
+that we acted
+
+694
+00:33:16,800 --> 00:33:18,200
+in the best interest
+of the country.
+
+695
+00:33:18,267 --> 00:33:20,466
+And we have to keep
+putting the country's well-being
+
+696
+00:33:20,533 --> 00:33:21,900
+ahead of our own.
+
+697
+00:33:21,967 --> 00:33:25,900
+The spectacle of a sitting
+president on trial for murder
+
+698
+00:33:25,967 --> 00:33:27,433
+would be devastating.
+
+699
+00:33:27,499 --> 00:33:31,000
+Yes. Yes, it would.
+
+700
+00:33:31,067 --> 00:33:33,833
+Aside from the psychological
+damage to the country,
+
+701
+00:33:33,900 --> 00:33:36,533
+a trial would expose
+certain realities
+
+702
+00:33:36,600 --> 00:33:38,366
+that should never
+see the light of day.
+
+703
+00:33:40,399 --> 00:33:43,600
+If only we could keep
+such a trial from taking place.
+
+704
+00:33:45,933 --> 00:33:47,733
+That thought occurred to me,
+as well.
+
+705
+00:33:47,800 --> 00:33:49,466
+I'm glad we agree.
+
+706
+00:33:51,533 --> 00:33:53,733
+I want you to know
+I've taken steps to ensure
+
+707
+00:33:53,800 --> 00:33:55,666
+that you and your associates
+
+708
+00:33:55,733 --> 00:33:58,334
+won't be implicated
+in any of this.
+
+709
+00:33:58,399 --> 00:34:00,967
+I appreciate that, Charles.
+
+710
+00:34:01,033 --> 00:34:02,466
+We all do.
+
+711
+00:34:07,300 --> 00:34:09,867
+There's nothing more to say.
+
+712
+00:34:09,933 --> 00:34:11,766
+I'm going to hang up now.
+
+713
+00:34:11,833 --> 00:34:17,466
+There are, uh, a few things I'd
+like to take care of before...
+
+714
+00:34:18,499 --> 00:34:20,533
+Good-bye, Charles.
+
+715
+00:34:22,566 --> 00:34:25,334
+Good-bye, Graham.
+
+716
+00:35:05,532 --> 00:35:07,599
+Martha, may I come in?
+
+717
+00:35:09,632 --> 00:35:11,866
+Now you want to talk?
+
+718
+00:35:11,933 --> 00:35:13,332
+Marti, please?
+
+719
+00:35:15,365 --> 00:35:17,532
+What do you want?
+
+720
+00:35:28,999 --> 00:35:31,465
+Is there something else
+you want to confess?
+
+721
+00:35:31,532 --> 00:35:33,899
+No.
+
+722
+00:35:46,899 --> 00:35:49,699
+I want to tell you
+how sorry I am...
+
+723
+00:35:49,766 --> 00:35:52,699
+for everything.
+
+724
+00:35:58,799 --> 00:36:03,365
+When you forget to give me
+something for my birthday,
+
+725
+00:36:03,432 --> 00:36:05,899
+that's when you
+say you're sorry.
+
+726
+00:36:07,933 --> 00:36:09,266
+I know what I did was wrong.
+
+727
+00:36:09,332 --> 00:36:11,266
+It was horribly wrong
+and unforgivable.
+
+728
+00:36:11,332 --> 00:36:14,999
+I know that.
+
+729
+00:36:15,066 --> 00:36:20,732
+But what I can't live with
+is the fact that I hurt you.
+
+730
+00:36:20,799 --> 00:36:23,300
+That's the last thing
+I wanted to do.
+
+731
+00:36:27,866 --> 00:36:30,200
+Marti?
+
+732
+00:36:30,266 --> 00:36:35,465
+Marti, please.
+
+733
+00:36:35,532 --> 00:36:37,732
+That's the truth.
+
+734
+00:36:41,666 --> 00:36:43,766
+The truth.
+
+735
+00:36:47,833 --> 00:36:49,833
+( <i>sniffles</i> )
+
+736
+00:36:51,833 --> 00:36:53,465
+You know what really
+gets me, Charles?
+
+737
+00:36:53,532 --> 00:36:55,566
+What?
+
+738
+00:36:55,632 --> 00:36:58,566
+That you had me
+going for so long.
+
+739
+00:37:00,632 --> 00:37:05,066
+I had no idea you
+were such a good liar.
+
+740
+00:37:05,133 --> 00:37:08,432
+If I wasn't so horrified by the
+fact that I'm married to you,
+
+741
+00:37:08,499 --> 00:37:12,432
+I might actually be impressed.
+
+742
+00:37:38,432 --> 00:37:40,566
+( <i>sighs</i> )
+
+743
+00:38:09,099 --> 00:38:11,099
+* *
+
+744
+00:38:43,233 --> 00:38:45,233
+* *
+
+745
+00:39:15,300 --> 00:39:19,566
+( <i>phone ringing</i> )
+
+746
+00:39:27,699 --> 00:39:29,033
+Yes.
+
+747
+00:39:29,099 --> 00:39:30,999
+SECRETARY:
+I have an urgent call
+for you, sir.
+
+748
+00:39:31,066 --> 00:39:34,866
+He says his name
+is Miles Papazian from CTU.
+
+749
+00:39:34,933 --> 00:39:37,099
+I don't want to talk
+to anyone from CTU.
+
+750
+00:39:37,166 --> 00:39:39,233
+He insists that you'll want
+to speak to him.
+
+751
+00:39:39,300 --> 00:39:41,566
+He says it's about Jack Bauer.
+
+752
+00:39:50,033 --> 00:39:51,365
+Put him through.
+
+753
+00:39:51,432 --> 00:39:54,365
+You're on with the President.
+
+754
+00:39:54,432 --> 00:39:56,732
+MILES:
+Mr. President?
+
+755
+00:39:56,799 --> 00:39:58,266
+Yes, go ahead.
+
+756
+00:39:58,332 --> 00:40:00,599
+You don't know me;
+my name is Miles Papazian.
+
+757
+00:40:00,666 --> 00:40:03,233
+I work under Karen Hayes.
+
+758
+00:40:03,300 --> 00:40:04,933
+What is this about?
+
+759
+00:40:04,999 --> 00:40:06,233
+It's about a recording, sir,
+
+760
+00:40:06,300 --> 00:40:10,899
+that Jack Bauer
+has just delivered here to CTU.
+
+761
+00:40:10,966 --> 00:40:14,666
+Sir, my understanding is
+it's a recording
+
+762
+00:40:14,732 --> 00:40:17,465
+of a conversation of yours
+that, if leaked,
+
+763
+00:40:17,532 --> 00:40:22,133
+could significantly compromise
+national security.
+
+764
+00:40:22,200 --> 00:40:23,933
+Go on.
+
+765
+00:40:23,999 --> 00:40:25,966
+My superior, Ms. Hayes,
+
+766
+00:40:26,033 --> 00:40:29,233
+is working with Bauer
+and Bill Buchanan.
+
+767
+00:40:29,300 --> 00:40:31,966
+Their intention
+is to play the recording
+
+768
+00:40:32,033 --> 00:40:33,732
+for the attorney general.
+
+769
+00:40:35,766 --> 00:40:37,599
+Why are you telling me this?
+
+770
+00:40:37,666 --> 00:40:42,632
+Because, sir...
+I feel compelled to intervene.
+
+771
+00:40:42,699 --> 00:40:48,332
+And I just I wanted to make sure
+that you would approve.
+
+772
+00:40:51,799 --> 00:40:57,066
+I do, Mr. Papazian,
+I do approve.
+
+773
+00:40:59,099 --> 00:41:04,666
+Listen, I'm going to text you...
+my private number.
+
+774
+00:41:04,732 --> 00:41:07,666
+Let me know how it goes.
+
+775
+00:41:07,732 --> 00:41:09,933
+And, Miles...
+
+776
+00:41:11,966 --> 00:41:13,732
+...I promise you,
+I won't forget this.
+
+777
+00:41:13,799 --> 00:41:16,099
+Thank you, sir.
+
+778
+00:41:16,166 --> 00:41:18,066
+That's all I wanted to hear.
+
+779
+00:41:18,133 --> 00:41:23,699
+Mr. President, I look forward
+to speaking with you again soon.
+
+780
+00:41:50,033 --> 00:41:53,999
+* *
+
+781
+00:42:02,966 --> 00:42:04,365
+Karen wants to
+know how long
+
+782
+00:42:04,432 --> 00:42:06,200
+before the
+teleconference starts?
+
+783
+00:42:06,266 --> 00:42:08,532
+Five minutes--
+get out of here, Miles.
+
+784
+00:42:08,599 --> 00:42:10,532
+We'll be ready?
+
+785
+00:42:10,599 --> 00:42:12,300
+Not if you keep
+interrupting me.
+
+786
+00:42:12,365 --> 00:42:13,666
+I'm just doing my job, Chloe.
+
+787
+00:42:13,732 --> 00:42:15,200
+Well, if your job
+
+788
+00:42:15,266 --> 00:42:17,933
+is to slow things down, then
+you're doing really good work.
+
+789
+00:42:17,999 --> 00:42:19,866
+I'll tell Karen
+you'll be ready.
+
+790
+00:42:19,933 --> 00:42:22,033
+Thanks.
+
+
+
+9999
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.tvsubtitles.net</font>

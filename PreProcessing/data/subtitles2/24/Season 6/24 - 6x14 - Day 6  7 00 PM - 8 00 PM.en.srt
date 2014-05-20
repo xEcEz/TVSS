@@ -1,0 +1,4036 @@
+1
+00:00:02,901 --> 00:00:07,901
+
+2
+00:00:07,901 --> 00:00:12,901
+
+3
+00:00:12,901 --> 00:00:14,301
+Abu Fayed,
+
+4
+00:00:14,368 --> 00:00:15,800
+a citizen of your country,
+
+5
+00:00:15,867 --> 00:00:17,067
+enters the United States,
+
+6
+00:00:17,134 --> 00:00:18,734
+detonates a nuclear bomb
+
+7
+00:00:18,800 --> 00:00:20,067
+killing thousands.
+
+8
+00:00:20,134 --> 00:00:23,034
+Next, Assad attempts
+to assassinate the president.
+
+9
+00:00:23,101 --> 00:00:25,567
+AMBASSADOR:
+ <i>You know fully well</i>
+ <i>that we have cooperated</i>
+
+10
+00:00:25,634 --> 00:00:27,800
+with you since
+the inception of this crisis.
+
+11
+00:00:27,867 --> 00:00:29,834
+I had an understanding
+with your president.
+
+12
+00:00:29,901 --> 00:00:31,667
+And now you're going
+to have one with me.
+
+13
+00:00:31,734 --> 00:00:34,500
+You help us find those nukes
+before another goes off,
+
+14
+00:00:34,567 --> 00:00:36,901
+or I'm going to unleash
+the full power of our military
+
+15
+00:00:36,967 --> 00:00:38,533
+on your country.
+
+16
+00:00:38,600 --> 00:00:40,533
+VASILI:
+I'm terminating the American.
+
+17
+00:00:40,600 --> 00:00:42,201
+Do you confirm?
+
+18
+00:00:42,268 --> 00:00:43,500
+Yes.
+
+19
+00:00:45,301 --> 00:00:47,500
+(grunting)
+
+20
+00:00:47,567 --> 00:00:49,433
+MARKOV:
+ <i>The American has shot Vasili.</i>
+
+21
+00:00:49,500 --> 00:00:51,667
+He's in the basement.
+
+22
+00:00:51,734 --> 00:00:53,101
+Shut down the phone lines, DSL,
+
+23
+00:00:53,167 --> 00:00:54,867
+ <i>everything!</i>
+
+24
+00:00:54,934 --> 00:00:56,500
+JACK:
+ <i>Morris, it's Jack.</i>
+
+25
+00:00:56,567 --> 00:00:59,001
+I know how
+to find Gredenko.
+
+26
+00:00:59,067 --> 00:01:00,001
+He's in the...
+(dial tone)
+
+27
+00:01:00,067 --> 00:01:00,967
+Morris?
+
+28
+00:01:01,034 --> 00:01:03,368
+Jack? Jack?
+
+29
+00:01:04,934 --> 00:01:06,167
+Jack Bauer's currently
+being held captive 
+
+30
+00:01:06,234 --> 00:01:07,533
+in the Russian consulate.
+
+31
+00:01:07,600 --> 00:01:10,400
+Doyle will help you
+put a tactical profile together
+
+32
+00:01:10,467 --> 00:01:12,334
+for an assault on the consulate.
+
+33
+00:01:12,400 --> 00:01:14,767
+DOYLE:
+ <i>Our primary objective</i>
+
+34
+00:01:14,834 --> 00:01:16,767
+is to abduct Anatoly Markov,
+the consul.
+
+35
+00:01:16,834 --> 00:01:19,268
+According to Jack, Markov knows
+how to find Gredenko,
+
+36
+00:01:19,334 --> 00:01:22,201
+who controls the remaining
+three suitcase nukes.
+
+37
+00:01:22,268 --> 00:01:23,800
+The Americans are coming in.
+
+38
+00:01:23,867 --> 00:01:25,567
+I thought you had that
+under control.
+
+39
+00:01:25,634 --> 00:01:28,101
+ <i>Won't be long</i>
+ <i>before they have your position.</i>
+
+40
+00:01:28,167 --> 00:01:29,634
+This drone is ready to launch.
+
+41
+00:01:29,700 --> 00:01:31,201
+Arm the bomb.
+
+42
+00:01:31,268 --> 00:01:32,867
+What's going on
+at the Russian consulate?
+
+43
+00:01:32,934 --> 00:01:35,067
+Jack Bauer's still at large
+and somewhere inside.
+
+44
+00:01:35,134 --> 00:01:37,467
+ <i>We have to go in.</i>
+
+45
+00:01:44,433 --> 00:01:45,567
+Drop your weapon!
+
+46
+00:01:48,700 --> 00:01:50,500
+My name is Jack Bauer.
+
+47
+00:01:50,567 --> 00:01:52,334
+You need to contact
+Bill Buchanan.
+
+48
+00:01:52,400 --> 00:01:53,901
+Tell him that
+Fayed and Gredenko
+
+49
+00:01:53,967 --> 00:01:54,934
+are in the Shadow Valley.
+
+50
+00:01:55,001 --> 00:01:56,700
+Patch me in
+with Buchanan.
+
+51
+00:02:07,567 --> 00:02:10,533
+(indistinct radio transmissions)
+
+52
+00:02:23,700 --> 00:02:25,001
+Medevac's on the way.
+
+53
+00:02:25,067 --> 00:02:26,134
+How you holding up?
+
+54
+00:02:26,201 --> 00:02:27,634
+I'm fine.
+Doc?
+
+55
+00:02:27,700 --> 00:02:29,268
+He may have floating
+rib fragments 
+
+56
+00:02:29,334 --> 00:02:31,334
+which could cause
+internal bleeding.
+
+57
+00:02:31,400 --> 00:02:32,800
+He needs
+to be stabilized.
+
+58
+00:02:32,867 --> 00:02:34,268
+Agent Doyle,
+I told you I'm fine.
+
+59
+00:02:34,334 --> 00:02:35,600
+I want to be involved
+in this mission.
+
+60
+00:02:35,667 --> 00:02:37,600
+CTU has the ball, Jack.
+
+61
+00:02:37,667 --> 00:02:39,634
+Right now, this is out
+of your hands.
+
+62
+00:02:46,767 --> 00:02:48,301
+We now believe Gredenko
+is in possession
+
+63
+00:02:48,368 --> 00:02:51,268
+of at least five
+RQ-2 Aerial Drones
+
+64
+00:02:51,334 --> 00:02:52,533
+(over speakerphone):
+somewhere in Shadow Valley.
+
+65
+00:02:52,600 --> 00:02:53,834
+RQ-2s?
+
+66
+00:02:53,901 --> 00:02:55,368
+Unmanned stealth aircraft
+
+67
+00:02:55,433 --> 00:02:58,067
+which can be remotely piloted
+from anywhere in the world.
+
+68
+00:02:58,134 --> 00:02:59,467
+And Gredenko's arming them
+
+69
+00:02:59,533 --> 00:03:01,700
+with the nuclear weapons
+he provided to Fayed?
+
+70
+00:03:01,767 --> 00:03:03,201
+Yes, sir.
+
+71
+00:03:03,268 --> 00:03:05,467
+We're redirecting satellite
+coverage over the Mojave Desert,
+
+72
+00:03:05,533 --> 00:03:07,834
+and the Air Force is scrambling
+F-16s from Edwards.
+
+73
+00:03:07,901 --> 00:03:10,433
+But you have no idea how
+close Fayed and Gredenko are
+
+74
+00:03:10,500 --> 00:03:11,834
+to launching
+these drones?
+
+75
+00:03:11,901 --> 00:03:12,867
+No, sir, we don't.
+
+76
+00:03:12,934 --> 00:03:14,867
+(sighs):
+All right, Bill.
+
+77
+00:03:14,934 --> 00:03:16,533
+You keep me updated.
+
+78
+00:03:16,600 --> 00:03:17,901
+Yes, sir.
+
+79
+00:03:22,901 --> 00:03:24,800
+GREDENKO:
+Bring the trucks around.
+
+80
+00:03:24,867 --> 00:03:26,600
+We are moving out now.
+
+81
+00:03:26,667 --> 00:03:27,867
+What's wrong?
+
+82
+00:03:27,934 --> 00:03:29,767
+How many drones
+have been armed?
+
+83
+00:03:29,834 --> 00:03:31,001
+Just this one.
+
+84
+00:03:31,067 --> 00:03:32,368
+GREDENKO:
+Damn it.
+
+85
+00:03:32,433 --> 00:03:33,901
+We need to launch it now.
+
+86
+00:03:33,967 --> 00:03:36,368
+Get it ready.
+
+87
+00:03:36,433 --> 00:03:37,500
+Go, go.
+
+88
+00:03:37,567 --> 00:03:39,001
+Tell me what's wrong.
+
+89
+00:03:41,800 --> 00:03:43,001
+What's wrong?
+
+90
+00:03:43,067 --> 00:03:45,334
+The Americans
+know our location.
+
+91
+00:03:45,400 --> 00:03:47,001
+How?
+
+92
+00:03:47,067 --> 00:03:48,600
+It was Markov, huh?
+
+93
+00:03:48,667 --> 00:03:51,201
+Markov told them.
+
+94
+00:03:51,268 --> 00:03:54,167
+All that matters is
+that they know we are here.
+
+95
+00:03:54,234 --> 00:03:57,234
+We need to launch the drone
+before they close in.
+
+96
+00:03:57,301 --> 00:04:00,167
+We have three bombs
+and three targets.
+
+97
+00:04:00,234 --> 00:04:03,234
+We'll find a way to deliver
+the other two bombs.
+
+98
+00:04:05,001 --> 00:04:09,034
+All this time we've tolerated
+your condescension,
+
+99
+00:04:09,101 --> 00:04:11,334
+berating us for losing
+the other bombs.
+
+100
+00:04:11,400 --> 00:04:13,301
+But now it's your fault.
+
+101
+00:04:13,368 --> 00:04:15,234
+Markov was your man.
+
+102
+00:04:15,301 --> 00:04:17,433
+Blame me all you want,
+but if we stay here,
+
+103
+00:04:17,500 --> 00:04:19,400
+we'll be captured
+or killed.
+
+104
+00:04:22,767 --> 00:04:25,234
+Refit the other bombs
+into their casings
+
+105
+00:04:25,301 --> 00:04:26,567
+and load them on the truck.
+
+106
+00:04:26,634 --> 00:04:28,234
+Do it now!
+
+107
+00:04:28,301 --> 00:04:29,967
+Take them out!
+
+108
+00:04:31,167 --> 00:04:33,600
+We're accelerating our schedule.
+
+109
+00:04:33,667 --> 00:04:35,301
+Why?
+
+110
+00:04:35,368 --> 00:04:36,834
+I don't have time to explain.
+
+111
+00:04:36,901 --> 00:04:41,134
+I need you to launch
+drone 0-7-0-9.
+
+112
+00:04:41,201 --> 00:04:44,167
+I haven't finished implementing
+the evasion vectors.
+
+113
+00:04:44,234 --> 00:04:46,567
+They'll shoot it down
+before it reaches its target.
+
+114
+00:04:46,634 --> 00:04:48,500
+Launch the drone.
+
+115
+00:04:48,567 --> 00:04:51,767
+You'll execute evasion tactics
+once it's in the air.
+
+116
+00:04:51,834 --> 00:04:53,834
+Yes, sir.
+
+117
+00:05:13,767 --> 00:05:15,567
+(engine whooshing)
+
+118
+00:05:25,734 --> 00:05:27,934
+We need to leave now.
+
+119
+00:05:30,834 --> 00:05:33,967
+Come on, let's go.
+
+120
+00:05:37,067 --> 00:05:38,034
+We're repositioning
+our satellites
+
+121
+00:05:38,101 --> 00:05:39,500
+as fast as we can, sir.
+
+122
+00:05:39,567 --> 00:05:40,800
+As soon as we make
+visual contact,
+
+123
+00:05:40,867 --> 00:05:41,967
+we'll uplink a real-time feed
+
+124
+00:05:42,034 --> 00:05:43,600
+to your command.
+(quietly):
+Here.
+
+125
+00:05:43,667 --> 00:05:45,667
+(over phone):
+Lives are at stake, Yassir.
+Get me that intel.
+
+126
+00:05:45,734 --> 00:05:47,467
+Yes, sir.
+
+127
+00:05:49,101 --> 00:05:50,834
+You okay?
+
+128
+00:05:52,901 --> 00:05:55,600
+The truth? No, not really.
+
+129
+00:05:55,667 --> 00:05:56,967
+Hey.
+
+130
+00:05:57,034 --> 00:05:58,901
+We're going to get
+through this, okay?
+
+131
+00:05:58,967 --> 00:06:01,234
+I hope so.
+
+132
+00:06:07,967 --> 00:06:09,901
+Is there
+a problem, Chloe?
+
+133
+00:06:09,967 --> 00:06:11,500
+Yeah.
+
+134
+00:06:11,567 --> 00:06:13,368
+Are you going to tell us
+what it is?
+
+135
+00:06:13,433 --> 00:06:15,001
+I was installing
+security upgrades,
+
+136
+00:06:15,067 --> 00:06:17,334
+and I noticed you were using
+Milo's clearance code.
+
+137
+00:06:17,400 --> 00:06:19,334
+Which, in case
+you didn't know,
+
+138
+00:06:19,400 --> 00:06:21,268
+is a felony security breach.
+
+139
+00:06:21,334 --> 00:06:23,167
+No, it must be a mistake.
+
+140
+00:06:23,234 --> 00:06:24,867
+My system's been glitchy,
+and I think I...
+
+141
+00:06:24,934 --> 00:06:26,201
+It's not a glitch, Milo.
+
+142
+00:06:26,268 --> 00:06:28,101
+Nadia's been working
+with your user I.D.
+
+143
+00:06:28,167 --> 00:06:30,034
+So unless she stole it,
+you gave it to her.
+
+144
+00:06:30,101 --> 00:06:33,167
+Milo was just trying
+to help me do my work.
+Nadia...
+
+145
+00:06:33,234 --> 00:06:34,934
+Homeland Security
+sent down
+
+146
+00:06:35,001 --> 00:06:36,834
+an order restricting
+my security access
+
+147
+00:06:36,901 --> 00:06:39,034
+because I was born
+in the Middle East.
+
+148
+00:06:39,101 --> 00:06:42,533
+I've heard of that directive,
+and I think it's wrong for us
+
+149
+00:06:42,600 --> 00:06:44,667
+to be racially profiling our
+own agents, but it's still
+
+150
+00:06:44,734 --> 00:06:47,234
+a felony security breach
+for you to be using Milo's code.
+
+151
+00:06:47,301 --> 00:06:49,334
+Chloe...
+
+152
+00:06:51,201 --> 00:06:53,667
+If you report this,
+
+153
+00:06:53,734 --> 00:06:55,700
+we can't help the situation
+
+154
+00:06:55,767 --> 00:06:57,800
+if we're fired and arrested.
+
+155
+00:06:57,867 --> 00:07:00,901
+If I wanted to report you,
+I wouldn't be talking to you.
+
+156
+00:07:00,967 --> 00:07:03,533
+I'm telling you this so
+that you'll be careful.
+
+157
+00:07:03,600 --> 00:07:05,268
+I mean, I noticed it.
+
+158
+00:07:05,334 --> 00:07:08,101
+Someone else is going
+to notice it sooner or later.
+
+159
+00:07:13,201 --> 00:07:14,467
+BUCHANAN:
+Nadia?
+
+160
+00:07:14,533 --> 00:07:16,301
+Yes, sir.
+
+161
+00:07:16,368 --> 00:07:18,067
+Morris has a satellite visual
+on Shadow Valley.
+
+162
+00:07:18,134 --> 00:07:21,268
+It looks like the terrorists
+have launched a single drone.
+
+163
+00:07:21,334 --> 00:07:23,334
+I'm conferencing
+with General Walsh now.
+
+164
+00:07:23,400 --> 00:07:24,634
+I'll be right there, sir.
+
+165
+00:07:24,700 --> 00:07:27,001
+Coordinate with first-responders
+in all target zones.
+
+166
+00:07:28,067 --> 00:07:30,067
+Put General Walsh through.
+
+167
+00:07:30,134 --> 00:07:31,634
+You're on with
+Bill Buchanan, sir.
+
+168
+00:07:31,700 --> 00:07:33,400
+This is Walsh.
+
+169
+00:07:33,467 --> 00:07:36,433
+BUCHANAN:
+General, we've made visual
+contact with a single drone.
+
+170
+00:07:36,500 --> 00:07:38,001
+We're tracking it on satellite.
+
+171
+00:07:38,067 --> 00:07:40,268
+It's heading on a northwest
+vector out of Shadow Valley.
+
+172
+00:07:40,334 --> 00:07:42,400
+Altitude is 3,300 feet
+and climbing.
+
+173
+00:07:42,467 --> 00:07:44,600
+Velocity is 360 miles an hour.
+
+174
+00:07:44,667 --> 00:07:47,234
+I'm looking at the specs
+on the RQ-2 now.
+
+175
+00:07:47,301 --> 00:07:48,634
+It's got a
+low-profile design,
+
+176
+00:07:48,700 --> 00:07:51,433
+virtually impossible
+to detect by radar.
+
+177
+00:07:51,500 --> 00:07:54,268
+We'll need to manually guide
+our F-16s to intercept.
+
+178
+00:07:54,334 --> 00:07:56,700
+We're uplinking
+a video feed to you now.
+
+179
+00:07:56,767 --> 00:07:58,800
+Have you determined
+its intended target?
+
+180
+00:07:58,867 --> 00:07:59,967
+Yes. This is Nadia Yassir.
+
+181
+00:08:00,034 --> 00:08:01,734
+The closest target
+is downtown Los Angeles.
+
+182
+00:08:01,800 --> 00:08:03,201
+That's a four-minute window.
+
+183
+00:08:03,268 --> 00:08:07,368
+Maximum airspeed of an RQ-2
+is 400 miles per hour.
+
+184
+00:08:07,433 --> 00:08:10,767
+My F-16s should be able to
+intercept it within two minutes.
+
+185
+00:08:12,734 --> 00:08:14,268
+MORRIS:
+Um...
+
+186
+00:08:14,334 --> 00:08:15,268
+that may be a problem.
+
+187
+00:08:15,334 --> 00:08:17,167
+I can't find the drone.
+
+188
+00:08:19,834 --> 00:08:21,767
+The drone's gone.
+
+189
+00:08:21,834 --> 00:08:22,800
+How can it be gone?
+
+190
+00:08:22,867 --> 00:08:24,067
+It was passing between grids,
+
+191
+00:08:24,134 --> 00:08:25,301
+but when I switched
+satellites...
+
+192
+00:08:25,368 --> 00:08:26,967
+Readjust based on
+projected vectors.
+
+193
+00:08:27,034 --> 00:08:28,301
+I'm doing that now, General,
+
+194
+00:08:28,368 --> 00:08:29,800
+it's just not where
+it's supposed to be.
+
+195
+00:08:29,867 --> 00:08:33,634
+Until you find it, I'll have my
+F-16s stay in a holding pattern.
+
+196
+00:08:37,400 --> 00:08:39,600
+(beeping)
+
+197
+00:08:39,667 --> 00:08:41,368
+Yes?
+
+198
+00:08:41,433 --> 00:08:43,800
+I've accessed our connection
+to CTU.
+
+199
+00:08:43,867 --> 00:08:46,201
+I've disabled
+their tracking capability.
+
+200
+00:08:46,268 --> 00:08:47,400
+Then they cannot
+
+201
+00:08:47,467 --> 00:08:49,301
+detect the drone?
+
+202
+00:08:49,368 --> 00:08:51,334
+No. And I'll be able
+to keep it hidden
+
+203
+00:08:51,400 --> 00:08:54,467
+from their satellites until
+we've hit the target.
+
+204
+00:08:54,533 --> 00:09:00,667
+Good. I'll contact you again
+once we are out of the area.
+
+205
+00:09:02,767 --> 00:09:06,268
+Sir, I was just talking
+to Bill Buchanan at CTU.
+
+206
+00:09:06,334 --> 00:09:08,001
+They were tracking
+one of the drones.
+
+207
+00:09:08,067 --> 00:09:09,700
+They've now lost
+visual contact with it.
+
+208
+00:09:09,767 --> 00:09:11,234
+Lost visual contact?
+
+209
+00:09:11,301 --> 00:09:12,433
+Yeah, it's unclear
+
+210
+00:09:12,500 --> 00:09:13,667
+just how, sir.
+
+211
+00:09:13,734 --> 00:09:15,500
+They just simply
+can't find it.
+
+212
+00:09:15,567 --> 00:09:17,867
+We have the most sophisticated
+satellite network in the world.
+
+213
+00:09:17,934 --> 00:09:19,600
+How the hell did this happen?
+
+214
+00:09:19,667 --> 00:09:22,334
+CTU is still trying
+to determine that, sir.
+
+215
+00:09:22,400 --> 00:09:24,268
+What about
+the military?
+
+216
+00:09:24,334 --> 00:09:25,767
+Well, they've got three
+squadrons looking for it,
+
+217
+00:09:25,834 --> 00:09:27,034
+but these drones
+are invisible
+
+218
+00:09:27,101 --> 00:09:29,567
+to radar, so the pilots
+are limited to making
+
+219
+00:09:29,634 --> 00:09:32,867
+visual ID at night
+over hundreds of square miles.
+
+220
+00:09:32,934 --> 00:09:35,967
+Now, CTU has a ranked list
+
+221
+00:09:36,034 --> 00:09:37,400
+of potential
+targets.
+
+222
+00:09:37,467 --> 00:09:39,400
+They're running civil
+disaster scenarios...
+
+223
+00:09:39,467 --> 00:09:40,600
+Lisa?
+
+224
+00:09:40,667 --> 00:09:41,901
+Sir?
+
+225
+00:09:41,967 --> 00:09:44,634
+Advance the meeting
+with the Joint Chiefs.
+
+226
+00:09:44,700 --> 00:09:45,867
+When do you want
+it to happen?
+
+227
+00:09:45,934 --> 00:09:47,467
+Right away.
+
+228
+00:09:47,533 --> 00:09:49,134
+Wait, sir. Why...
+
+229
+00:09:49,201 --> 00:09:50,901
+Why are we assembling
+the Joint Chiefs?
+
+230
+00:09:50,967 --> 00:09:53,201
+I warned
+the ambassador, Tom.
+
+231
+00:09:53,268 --> 00:09:54,800
+You heard me tell him
+
+232
+00:09:54,867 --> 00:09:57,433
+that I'd hold his country
+responsible
+
+233
+00:09:57,500 --> 00:10:00,867
+if another nuclear weapon
+was detonated on our soil.
+
+234
+00:10:00,934 --> 00:10:02,867
+Sir, there's
+absolutely no evidence
+
+235
+00:10:02,934 --> 00:10:06,067
+that his country
+either sponsored these attacks
+
+236
+00:10:06,134 --> 00:10:07,901
+or is even in support of them.
+
+237
+00:10:07,967 --> 00:10:09,967
+His people need
+to understand
+
+238
+00:10:10,034 --> 00:10:12,500
+that I'm not just
+rattling my saber.
+
+239
+00:10:12,567 --> 00:10:13,834
+They need to see
+
+240
+00:10:13,901 --> 00:10:16,368
+with their own eyes
+that I will answer this threat
+
+241
+00:10:16,433 --> 00:10:18,901
+with an in-kind
+military response.
+
+242
+00:10:20,834 --> 00:10:22,301
+Wait.
+
+243
+00:10:22,368 --> 00:10:25,167
+"In kind," sir?
+
+244
+00:10:25,234 --> 00:10:27,167
+I want the Joint Chiefs
+
+245
+00:10:27,234 --> 00:10:31,134
+to draw up our own target list
+for a nuclear strike.
+
+246
+00:10:57,433 --> 00:10:59,901
+--At its rated speed, the drone
+should have reached Los Angeles,
+
+247
+00:10:59,967 --> 00:11:01,967
+so we can eliminate us
+as a target.
+
+248
+00:11:02,034 --> 00:11:03,867
+In the next few minutes,
+I can take Santa Barbara
+
+249
+00:11:03,934 --> 00:11:05,334
+and San Diego off the list.
+
+250
+00:11:05,433 --> 00:11:07,368
+How many targets does that leave
+within the drone's range?
+
+251
+00:11:07,433 --> 00:11:10,567
+Counting cities with populations
+over a million...
+
+252
+00:11:10,634 --> 00:11:11,767
+fifteen.
+
+253
+00:11:11,834 --> 00:11:13,667
+We have to narrow it down.
+
+254
+00:11:13,734 --> 00:11:16,533
+Assuming they want the maximum
+civilian death toll,
+
+255
+00:11:16,600 --> 00:11:18,967
+how many likely targets
+within the drone's range?
+
+256
+00:11:19,034 --> 00:11:21,101
+Areas with the highest
+population density are
+
+257
+00:11:21,167 --> 00:11:23,967
+San Francisco, Las Vegas
+and Phoenix.
+
+258
+00:11:24,034 --> 00:11:26,400
+Confirm that NEST teams and
+First Responders have deployed
+
+259
+00:11:26,467 --> 00:11:27,734
+in those cities.
+
+260
+00:11:27,800 --> 00:11:30,234
+Morris, make sure the
+Air Force prioritizes
+
+261
+00:11:30,301 --> 00:11:33,101
+their search
+on that basis.
+Yup.
+
+262
+00:11:33,167 --> 00:11:35,234
+(gasps)
+
+263
+00:11:35,301 --> 00:11:37,268
+Give me the projected
+coordinates.
+
+264
+00:11:42,034 --> 00:11:43,101
+Bill.
+
+265
+00:11:43,167 --> 00:11:44,334
+Bill, did we pick up
+Gredenko?
+
+266
+00:11:44,400 --> 00:11:45,433
+We're working on it.
+
+267
+00:11:45,500 --> 00:11:47,567
+Bill, what happened?
+
+268
+00:11:47,634 --> 00:11:49,600
+Gredenko escaped.
+
+269
+00:11:49,667 --> 00:11:50,734
+But not before
+launching one
+
+270
+00:11:50,800 --> 00:11:51,867
+of the drones.
+
+271
+00:11:51,934 --> 00:11:54,334
+How close is the Air Force
+to intercepting it?
+
+272
+00:11:54,400 --> 00:11:55,767
+F-16s were minutes away,
+then the drone disappeared
+
+273
+00:11:55,834 --> 00:11:57,433
+from the satellite grid;
+we're still looking for it.
+
+274
+00:11:57,500 --> 00:11:59,867
+Jack.
+
+275
+00:11:59,934 --> 00:12:01,268
+Get to medical.
+
+276
+00:12:01,334 --> 00:12:02,500
+There's nothing
+you can do here.
+
+277
+00:12:02,567 --> 00:12:04,301
+Just keep me
+informed, please.
+I will.
+
+278
+00:12:04,368 --> 00:12:07,134
+Doyle, I want you
+to run point
+
+279
+00:12:07,201 --> 00:12:08,567
+on the search for
+Fayed and Gredenko.
+
+280
+00:12:08,634 --> 00:12:10,901
+Milo's monitoring from
+the Situation Room.
+
+281
+00:12:10,967 --> 00:12:12,268
+I'll be right there.
+
+282
+00:12:20,034 --> 00:12:22,167
+I'll see you over at Medical.
+
+283
+00:12:23,667 --> 00:12:25,134
+Hey.
+Hey.
+
+284
+00:12:25,201 --> 00:12:26,834
+Could we have a moment, please?
+
+285
+00:12:26,901 --> 00:12:28,234
+They said you
+were hurt.
+
+286
+00:12:28,301 --> 00:12:30,268
+I'm, I'm fine.
+
+287
+00:12:35,400 --> 00:12:37,600
+As soon as all
+of this is over,
+
+288
+00:12:37,667 --> 00:12:39,634
+I'll come by and check
+on you and Josh.
+
+289
+00:12:42,467 --> 00:12:46,167
+I always regretted things didn't
+work out between us...
+
+290
+00:12:46,234 --> 00:12:48,700
+and...
+
+291
+00:12:48,767 --> 00:12:51,234
+I always believed
+you did, too.
+
+292
+00:12:58,934 --> 00:13:01,134
+Maybe I was wrong.
+
+293
+00:13:02,201 --> 00:13:04,334
+No, you weren't.
+
+294
+00:13:04,400 --> 00:13:07,268
+Listen, Marilyn,
+
+295
+00:13:07,334 --> 00:13:10,767
+before I was taken prisoner
+by the Chinese...
+
+296
+00:13:10,834 --> 00:13:12,934
+I, I was with someone.
+
+297
+00:13:13,001 --> 00:13:17,034
+She doesn't even know
+I'm still alive, but...
+
+298
+00:13:17,101 --> 00:13:19,167
+I need to talk to her...
+
+299
+00:13:19,234 --> 00:13:21,234
+see what happens.
+
+300
+00:13:21,301 --> 00:13:25,034
+Are you talking
+about Audrey Raines?
+
+301
+00:13:26,433 --> 00:13:28,067
+Yeah.
+
+302
+00:13:30,167 --> 00:13:31,467
+You don't know.
+
+303
+00:13:31,533 --> 00:13:33,567
+Do you?
+(sighs)
+
+304
+00:13:33,634 --> 00:13:35,234
+Jack, I'm...
+
+305
+00:13:35,301 --> 00:13:38,467
+I'm sorry to be the one
+to have to tell you this...
+
+306
+00:13:39,533 --> 00:13:42,634
+Audrey's dead.
+
+307
+00:13:42,700 --> 00:13:44,834
+I don't know all the details,
+I just know what I read
+
+308
+00:13:44,901 --> 00:13:46,334
+in the paper
+about her accident.
+
+309
+00:13:46,400 --> 00:13:47,667
+What accident? When?
+
+310
+00:13:47,734 --> 00:13:49,500
+It was a few months ago.
+
+311
+00:13:49,567 --> 00:13:51,500
+It was a car accident.
+
+312
+00:13:51,567 --> 00:13:53,567
+Somewhere in China.
+
+313
+00:13:55,600 --> 00:13:57,934
+China.
+
+314
+00:13:58,001 --> 00:14:00,400
+Excuse me.
+
+315
+00:14:00,467 --> 00:14:01,500
+I'm sorry.
+
+316
+00:14:01,567 --> 00:14:03,567
+I have to go.
+
+317
+00:14:03,634 --> 00:14:05,600
+(panting)
+
+318
+00:14:11,500 --> 00:14:12,700
+CHLOE:
+There'll be separate
+channels open
+
+319
+00:14:12,767 --> 00:14:15,467
+for all First Responders
+in at-risk cities...
+
+320
+00:14:15,533 --> 00:14:18,101
+All First Responders
+should coordi...
+
+321
+00:14:18,167 --> 00:14:20,901
+Why the hell didn't anybody
+tell me about Audrey?
+
+322
+00:14:22,600 --> 00:14:25,034
+Mr. Buchanan didn't want to tell
+you when you first got back,
+
+323
+00:14:25,101 --> 00:14:26,201
+because we all thought
+
+324
+00:14:26,268 --> 00:14:28,734
+Fayed was just going
+to kill you.
+
+325
+00:14:28,800 --> 00:14:31,067
+But I probably should have.
+
+326
+00:14:31,134 --> 00:14:32,400
+I'm sorry.
+
+327
+00:14:32,467 --> 00:14:34,368
+She was in China looking for me?
+
+328
+00:14:34,433 --> 00:14:35,800
+She was the one
+who figured out
+
+329
+00:14:35,867 --> 00:14:36,967
+the Chinese had taken you.
+
+330
+00:14:37,034 --> 00:14:38,268
+Apparently she spent
+the past year
+
+331
+00:14:38,334 --> 00:14:39,567
+going through
+back channels,
+
+332
+00:14:39,634 --> 00:14:40,800
+to try to get you out.
+
+333
+00:14:40,867 --> 00:14:42,934
+The rest of it's
+classified by Division,
+
+334
+00:14:43,001 --> 00:14:44,268
+I don't know any more.
+
+335
+00:14:44,334 --> 00:14:45,700
+We were asked
+
+336
+00:14:45,767 --> 00:14:46,800
+to send the DNA records,
+
+337
+00:14:46,867 --> 00:14:48,433
+so that they could
+get a positive ID
+
+338
+00:14:48,500 --> 00:14:51,268
+on the remains...
+which I guess they did.
+
+339
+00:14:51,334 --> 00:14:52,600
+I want that file.
+
+340
+00:14:52,667 --> 00:14:54,667
+All right, Jack.
+
+341
+00:14:54,734 --> 00:14:56,301
+Now!
+
+342
+00:14:56,368 --> 00:14:58,001
+I have to dig it up
+in archives.
+
+343
+00:14:58,067 --> 00:14:59,201
+Just do it.
+
+344
+00:15:11,201 --> 00:15:12,600
+The Secretary of Defense
+
+345
+00:15:12,667 --> 00:15:14,634
+and the Chairman
+of the Joint Chiefs
+will be attending
+
+346
+00:15:14,700 --> 00:15:16,500
+in person, the State
+will be monitoring
+via satellite.
+
+347
+00:15:16,567 --> 00:15:18,368
+And the rest of the
+Cabinet will be provided
+
+348
+00:15:18,433 --> 00:15:20,234
+with video
+transcripts.
+Good.
+
+349
+00:15:20,301 --> 00:15:22,834
+You should also know that
+Karen Hayes will be attending.
+
+350
+00:15:24,433 --> 00:15:26,734
+I thought I told you I wanted
+her excluded from this.
+
+351
+00:15:28,433 --> 00:15:31,001
+She supported Wayne Palmer's
+policy of appeasement.
+
+352
+00:15:31,067 --> 00:15:32,600
+She's going to be a problem.
+
+353
+00:15:32,667 --> 00:15:34,433
+Well, there was nothing
+I could do.
+
+354
+00:15:34,500 --> 00:15:35,667
+She's still acting
+
+355
+00:15:35,734 --> 00:15:36,901
+National Security
+Advisor.
+
+356
+00:15:36,967 --> 00:15:39,834
+But I've only given her
+current circumstances.
+
+357
+00:15:39,901 --> 00:15:42,368
+Any objection to your plans will
+not be able to gain traction.
+
+358
+00:15:42,433 --> 00:15:43,634
+(chuckles)
+
+359
+00:15:43,700 --> 00:15:47,134
+Oh, I've known Karen Hayes
+for many years.
+
+360
+00:15:47,201 --> 00:15:49,967
+It's always been a mistake
+to underestimate...
+
+361
+00:15:50,034 --> 00:15:52,934
+her.
+
+362
+00:15:56,167 --> 00:15:58,001
+Hello, Tom.
+
+363
+00:15:58,067 --> 00:16:01,034
+Somebody push
+you down the stairs?
+
+364
+00:16:01,101 --> 00:16:03,600
+No, Karen, I tripped
+over your ineptitude.
+
+365
+00:16:03,667 --> 00:16:05,634
+On that subject,
+welcome back.
+
+366
+00:16:05,700 --> 00:16:08,700
+Look, Tom,
+I don't want to play games.
+
+367
+00:16:08,767 --> 00:16:11,067
+I won't let you
+blackmail me again.
+
+368
+00:16:11,134 --> 00:16:12,700
+So you do what you need to do,
+
+369
+00:16:12,767 --> 00:16:14,400
+I am here to represent
+the President,
+
+370
+00:16:14,467 --> 00:16:16,167
+and I intend to stay.
+
+371
+00:16:16,234 --> 00:16:17,533
+All right, fair enough.
+
+372
+00:16:18,800 --> 00:16:20,001
+Karen.
+
+373
+00:16:20,067 --> 00:16:21,901
+No one is sorrier than I am
+
+374
+00:16:21,967 --> 00:16:23,301
+about what happened to Wayne.
+
+375
+00:16:25,368 --> 00:16:27,201
+Well, at least we have that
+in common.
+
+376
+00:16:43,400 --> 00:16:44,934
+Please be seated.
+
+377
+00:16:50,600 --> 00:16:53,067
+As many of you
+are already aware,
+
+378
+00:16:53,134 --> 00:16:55,600
+the terrorist who attacked us
+this morning,
+
+379
+00:16:55,667 --> 00:16:58,934
+Abu Fayed, with the help
+of Dmitri Gredenko,
+
+380
+00:16:59,001 --> 00:17:01,400
+has launched an aerial drone
+that we believe is armed
+
+381
+00:17:01,467 --> 00:17:03,867
+with another nuclear bomb.
+
+382
+00:17:05,567 --> 00:17:09,334
+Efforts are ongoing
+to locate this drone.
+
+383
+00:17:09,400 --> 00:17:11,734
+But should
+those efforts fail,
+
+384
+00:17:11,800 --> 00:17:13,901
+we are looking at a second
+nuclear attack on our country
+
+385
+00:17:13,967 --> 00:17:14,934
+in less than ten hours.
+
+386
+00:17:15,001 --> 00:17:16,867
+And I am determined
+
+387
+00:17:16,934 --> 00:17:18,767
+not to let this
+attack happen
+
+388
+00:17:18,834 --> 00:17:22,134
+without a military response
+on our part.
+
+389
+00:17:22,201 --> 00:17:24,934
+A military response
+directed against
+
+390
+00:17:25,001 --> 00:17:27,001
+whom, Mr. Vice
+President?
+
+391
+00:17:27,067 --> 00:17:28,301
+We were under the impression
+
+392
+00:17:28,368 --> 00:17:30,334
+that these terrorists were
+essentially stateless.
+
+393
+00:17:30,400 --> 00:17:33,934
+Secretary Kanin, that is
+the fiction they hide behind.
+
+394
+00:17:34,001 --> 00:17:35,600
+But...
+
+395
+00:17:35,667 --> 00:17:37,201
+everyone in this room knows
+
+396
+00:17:37,268 --> 00:17:39,433
+that elements within
+Abu Fayed's country
+
+397
+00:17:39,500 --> 00:17:42,001
+train and fund terrorist
+organizations like his.
+
+398
+00:17:42,067 --> 00:17:43,167
+It is time
+
+399
+00:17:43,234 --> 00:17:45,734
+to hold them
+accountable.
+
+400
+00:17:45,800 --> 00:17:47,400
+The Ambassador
+has just been informed
+
+401
+00:17:47,467 --> 00:17:48,600
+that if the nuclear weapon
+
+402
+00:17:48,667 --> 00:17:50,301
+on that drone detonates,
+
+403
+00:17:50,368 --> 00:17:54,034
+we will retaliate
+with our own nuclear strike.
+
+404
+00:17:54,101 --> 00:17:55,301
+Now this will be
+
+405
+00:17:55,368 --> 00:17:58,400
+a warning shot, not
+a full-scale attack.
+
+406
+00:17:58,467 --> 00:18:01,800
+The Joint Chiefs have been
+instructed to identify
+
+407
+00:18:01,867 --> 00:18:03,934
+an unpopulated area
+
+408
+00:18:04,001 --> 00:18:06,500
+where there will be limited
+civilian casualties.
+
+409
+00:18:06,567 --> 00:18:07,667
+Admiral.
+
+410
+00:18:07,734 --> 00:18:10,700
+The closest match
+we have 
+
+411
+00:18:10,767 --> 00:18:13,268
+to that scenario
+is territory near
+their northern border.
+
+412
+00:18:13,334 --> 00:18:16,368
+We believe this should result
+in fewer than 2,000 deaths.
+
+413
+00:18:16,433 --> 00:18:19,034
+Long-term damage from
+radioactive fallout, however,
+
+414
+00:18:19,101 --> 00:18:21,500
+could double that number,
+depending on ground conditions.
+
+415
+00:18:21,567 --> 00:18:23,834
+I can accept that.
+
+416
+00:18:23,901 --> 00:18:25,334
+Mr. Vice President,
+
+417
+00:18:25,400 --> 00:18:27,101
+I'm sure you're aware
+that our intelligence suggests
+
+418
+00:18:27,167 --> 00:18:29,334
+that their government
+can't control
+
+419
+00:18:29,400 --> 00:18:30,467
+Fayed either.
+
+420
+00:18:30,533 --> 00:18:32,101
+They are doing the best
+that they can.
+
+421
+00:18:32,167 --> 00:18:36,134
+And I'm saying they need to
+figure out a way to do better.
+
+422
+00:18:36,201 --> 00:18:37,734
+Something tells me
+
+423
+00:18:37,800 --> 00:18:40,034
+that once this bomb hits,
+they will.
+
+424
+00:18:40,101 --> 00:18:43,634
+If this bomb hits,
+the opposite will hold true.
+
+425
+00:18:43,700 --> 00:18:46,101
+The moderates will be driven
+from power,
+
+426
+00:18:46,167 --> 00:18:47,600
+the terrorists' position
+will be strengthened there
+
+427
+00:18:47,667 --> 00:18:49,467
+and in the region,
+and I don't hear anyone
+
+428
+00:18:49,533 --> 00:18:53,001
+talking about the Chinese
+or Russian response to this.
+
+429
+00:18:53,067 --> 00:18:55,467
+We could start another
+world war.
+
+430
+00:18:55,533 --> 00:18:57,533
+If I thought there was a high
+likelihood of that,
+
+431
+00:18:57,600 --> 00:18:59,234
+I wouldn't be suggesting this.
+
+432
+00:18:59,301 --> 00:19:00,867
+Mr. Vice President,
+
+433
+00:19:00,934 --> 00:19:03,533
+the stakes are too high
+for this decision to be based
+
+434
+00:19:03,600 --> 00:19:05,567
+on your personal
+judgment.
+
+435
+00:19:05,634 --> 00:19:07,167
+It is my opinion
+
+436
+00:19:07,234 --> 00:19:11,134
+that this course of action would
+be dangerous and reckless.
+
+437
+00:19:11,201 --> 00:19:15,067
+Consider your concern
+registered, Karen.
+
+438
+00:19:17,567 --> 00:19:20,700
+But the debate is over.
+
+439
+00:19:20,767 --> 00:19:22,400
+America must start
+
+440
+00:19:22,467 --> 00:19:24,901
+to stand up
+for herself.
+
+441
+00:19:24,967 --> 00:19:26,734
+The attacks on this
+country must stop!
+
+442
+00:19:26,800 --> 00:19:29,433
+And as acting
+Commander In Chief,
+
+443
+00:19:29,500 --> 00:19:32,268
+I believe this is the best way
+to make that happen.
+
+444
+00:19:36,600 --> 00:19:38,767
+Admiral,
+
+445
+00:19:38,834 --> 00:19:42,067
+have a nuclear strike sub
+standing by.
+
+446
+00:20:03,068 --> 00:20:04,867
+--Nadia?
+
+447
+00:20:04,934 --> 00:20:07,300
+I never got those SIM files
+you were gonna send me.
+
+448
+00:20:07,367 --> 00:20:08,867
+Oh, yeah, your system
+was overloaded.
+
+449
+00:20:08,934 --> 00:20:10,200
+So I gave them to Morris,
+
+450
+00:20:10,267 --> 00:20:12,267
+he's going to take care
+of it for you.
+Morris?
+
+451
+00:20:12,333 --> 00:20:14,068
+Yeah.
+
+452
+00:20:14,134 --> 00:20:16,168
+I mean, you really think
+he can handle it?
+
+453
+00:20:16,233 --> 00:20:19,034
+Well, he seems
+to be himself again.
+
+454
+00:20:19,101 --> 00:20:22,867
+Is he himself because he had
+a drink and he smoothed out?
+
+455
+00:20:22,934 --> 00:20:25,467
+I don't think so.
+
+456
+00:20:31,034 --> 00:20:32,034
+Hey.
+
+457
+00:20:32,101 --> 00:20:33,434
+What are you doing?
+
+458
+00:20:33,500 --> 00:20:36,467
+Setting up a reverse
+data stream on the drone's
+
+459
+00:20:36,534 --> 00:20:38,200
+satellite intel,
+okay?
+
+460
+00:20:38,267 --> 00:20:40,767
+Morris seems better.
+
+461
+00:20:40,834 --> 00:20:43,600
+Is that a question?
+
+462
+00:20:43,667 --> 00:20:46,267
+Is he?
+
+463
+00:20:46,333 --> 00:20:48,034
+Yes.
+
+464
+00:20:48,101 --> 00:20:50,867
+Look, I need you
+to do me a favor.
+
+465
+00:20:50,934 --> 00:20:51,901
+No.
+
+466
+00:20:51,967 --> 00:20:53,333
+I need you to check his breathe.
+
+467
+00:20:53,400 --> 00:20:55,001
+If he's better, great.
+
+468
+00:20:55,068 --> 00:20:56,168
+If he had a drink
+
+469
+00:20:56,233 --> 00:20:57,567
+and he's headed
+for another crash
+
+470
+00:20:57,634 --> 00:20:59,300
+we need to know about that.
+
+471
+00:20:59,367 --> 00:21:02,300
+Fine.
+
+472
+00:21:12,934 --> 00:21:15,634
+Thanks, darling.
+
+473
+00:21:21,333 --> 00:21:22,500
+What was that for?
+
+474
+00:21:22,567 --> 00:21:24,534
+Just checking
+your breath.
+
+475
+00:21:29,534 --> 00:21:30,967
+He's fine.
+
+476
+00:21:31,034 --> 00:21:32,867
+Thank you.
+
+477
+00:21:33,934 --> 00:21:35,901
+(typing)
+
+478
+00:21:35,967 --> 00:21:38,600
+Got to love this place.
+
+479
+00:21:38,667 --> 00:21:39,834
+HAYES:
+Tom.
+
+480
+00:21:39,901 --> 00:21:40,867
+Tom.
+
+481
+00:21:40,934 --> 00:21:42,034
+Yes, Karen, I hear you.
+
+482
+00:21:42,101 --> 00:21:44,267
+You can't possibly
+be in favor
+
+483
+00:21:44,333 --> 00:21:46,200
+of Daniels' plan for
+a nuclear strike.
+
+484
+00:21:46,267 --> 00:21:47,634
+You heard the Vice President.
+
+485
+00:21:47,701 --> 00:21:50,600
+It's a warning shot
+into an unpopulated area.
+
+486
+00:21:50,667 --> 00:21:53,333
+It is a military offensive
+on foreign soil.
+
+487
+00:21:53,400 --> 00:21:55,200
+And you and
+I both know
+
+488
+00:21:55,267 --> 00:21:58,134
+it will be impossible
+to contain.
+
+489
+00:21:58,200 --> 00:22:01,367
+Tom, you know this is
+insane, I know you do.
+
+490
+00:22:01,434 --> 00:22:02,600
+I saw you in
+that meeting.
+
+491
+00:22:02,667 --> 00:22:04,333
+I saw the doubt in your eyes.
+
+492
+00:22:04,400 --> 00:22:07,233
+Do not presume
+
+493
+00:22:07,300 --> 00:22:09,600
+to know what I am
+thinking or feeling.
+
+494
+00:22:09,667 --> 00:22:11,200
+I serve at the discretion
+
+495
+00:22:11,267 --> 00:22:12,834
+of those above me.
+
+496
+00:22:12,901 --> 00:22:14,567
+You serve the interests
+of the President.
+
+497
+00:22:14,634 --> 00:22:16,068
+And you know that
+Wayne would not
+
+498
+00:22:16,134 --> 00:22:17,701
+sign off on this course
+of action.
+
+499
+00:22:17,767 --> 00:22:19,001
+Wayne was wrong.
+
+500
+00:22:19,068 --> 00:22:21,101
+Every decision
+he made today was wrong--
+
+501
+00:22:21,168 --> 00:22:23,001
+rejecting
+my security initiatives,
+
+502
+00:22:23,068 --> 00:22:24,267
+using Assad as an appeal
+
+503
+00:22:24,333 --> 00:22:26,300
+to extremist groups.
+
+504
+00:22:26,367 --> 00:22:27,767
+And look what we've been led to!
+
+505
+00:22:27,834 --> 00:22:28,867
+You can't seriously
+believe that.
+
+506
+00:22:28,934 --> 00:22:29,867
+You just cannot!
+
+507
+00:22:29,934 --> 00:22:32,233
+Doesn't matter what I believe.
+
+508
+00:22:32,300 --> 00:22:34,600
+As long as the President
+is in a coma,
+
+509
+00:22:34,667 --> 00:22:37,300
+Daniels is the acting
+Commander in Chief.
+
+510
+00:22:37,367 --> 00:22:38,500
+Now, if you want him
+
+511
+00:22:38,567 --> 00:22:41,168
+to abort that missile launch,
+you had better pray
+
+512
+00:22:41,233 --> 00:22:45,267
+that CTU can find
+and stop that drone.
+
+513
+00:22:48,967 --> 00:22:51,300
+We've got ground teams
+on all roads leading out
+
+514
+00:22:51,367 --> 00:22:53,200
+of Shadow Valley looking
+for Fayed and Gredenko,
+
+515
+00:22:53,267 --> 00:22:55,767
+but with SAT support dedicated
+to finding the drone,
+
+516
+00:22:55,834 --> 00:22:57,001
+there's not much to go on.
+
+517
+00:22:57,068 --> 00:22:58,168
+MILO:
+And CalTrans doesn't have
+
+518
+00:22:58,233 --> 00:22:59,967
+any cameras set up
+in the outlying areas.
+
+519
+00:23:00,034 --> 00:23:01,767
+Mr. Buchanan, we figured out
+
+520
+00:23:01,834 --> 00:23:03,434
+how the drone
+is able to stay hidden
+
+521
+00:23:03,500 --> 00:23:04,534
+from our satellites.
+
+522
+00:23:04,600 --> 00:23:06,600
+Whoever is piloting it
+is able to anticipate
+
+523
+00:23:06,667 --> 00:23:07,801
+our repositioning directives,
+
+524
+00:23:07,867 --> 00:23:09,534
+flying through the gaps
+in the images.
+
+525
+00:23:09,600 --> 00:23:11,134
+How can he do that?
+
+526
+00:23:11,200 --> 00:23:12,734
+CHLOE:
+Our satellite data
+is being relayed
+
+527
+00:23:12,801 --> 00:23:14,567
+to the drone pilot
+through a workstation here.
+
+528
+00:23:14,634 --> 00:23:15,767
+We have a leak.
+
+529
+00:23:18,801 --> 00:23:20,300
+One of our own people?
+
+530
+00:23:20,367 --> 00:23:21,534
+Looks that way.
+
+531
+00:23:21,600 --> 00:23:23,200
+Can you isolate the workstation?
+
+532
+00:23:23,267 --> 00:23:25,467
+No. It's being masked
+through a sub-circuit.
+
+533
+00:23:25,534 --> 00:23:27,168
+Morris is working on it now,
+but there are
+
+534
+00:23:27,233 --> 00:23:28,300
+over 50 stations
+in this building.
+
+535
+00:23:28,367 --> 00:23:29,300
+It could take an hour
+
+536
+00:23:29,367 --> 00:23:30,367
+to do a
+signature trace.
+
+537
+00:23:30,434 --> 00:23:31,434
+We don't have an hour.
+
+538
+00:23:34,567 --> 00:23:35,600
+Run a trace match
+
+539
+00:23:35,667 --> 00:23:37,134
+on Nadia Yassir's
+station.
+
+540
+00:23:38,001 --> 00:23:39,367
+Why Nadia?
+
+541
+00:23:39,434 --> 00:23:40,467
+Do it.
+
+542
+00:23:40,534 --> 00:23:41,701
+MILO: Wait, you
+think just because
+
+543
+00:23:41,767 --> 00:23:42,801
+she's a Muslim,
+that gives you the right...
+
+544
+00:23:42,867 --> 00:23:44,168
+I'm following
+standard protocol.
+
+545
+00:23:44,233 --> 00:23:45,500
+Standard protocol?
+She's already
+been tagged
+
+546
+00:23:45,567 --> 00:23:46,734
+and given restricted clearance.
+
+547
+00:23:46,801 --> 00:23:47,801
+(scoffs)
+
+548
+00:23:47,867 --> 00:23:49,434
+And, yeah,
+
+549
+00:23:49,500 --> 00:23:51,434
+she is a Muslim.
+
+550
+00:23:51,500 --> 00:23:52,634
+That's enough to go on.
+
+551
+00:23:52,701 --> 00:23:54,168
+Everyone here
+is thinking it,
+
+552
+00:23:54,233 --> 00:23:55,600
+even if they won't say it.
+
+553
+00:23:55,667 --> 00:23:57,400
+You're a racist.
+
+554
+00:23:57,467 --> 00:23:58,400
+BUCHANAN:
+Milo,
+
+555
+00:23:58,467 --> 00:23:59,834
+I understand your distaste.
+
+556
+00:23:59,901 --> 00:24:02,168
+But we have to vet every
+system in the building.
+
+557
+00:24:02,233 --> 00:24:04,434
+There's no reason
+not to start with hers.
+
+558
+00:24:04,500 --> 00:24:06,667
+No, sir, there's every reason.
+
+559
+00:24:06,734 --> 00:24:09,233
+Nadia Yassir's 100 percent
+loyal to this country.
+
+560
+00:24:09,300 --> 00:24:10,534
+She is not a terrorist.
+
+561
+00:24:10,600 --> 00:24:12,534
+Is this assessment based on
+some private knowledge?
+
+562
+00:24:12,600 --> 00:24:14,500
+Or is it because you're
+itching to sleep with her?
+
+563
+00:24:14,567 --> 00:24:16,134
+Son of a...
+BUCHANAN:
+All right!
+
+564
+00:24:16,200 --> 00:24:16,867
+That's enough!
+
+565
+00:24:18,333 --> 00:24:20,367
+Agent Doyle,
+
+566
+00:24:20,434 --> 00:24:21,867
+that was way out of line.
+
+567
+00:24:21,934 --> 00:24:24,367
+We don't have time for
+your personal differences.
+
+568
+00:24:24,434 --> 00:24:27,667
+We have to find out
+who's subverting our system.
+
+569
+00:24:31,434 --> 00:24:32,467
+It is Nadia.
+
+570
+00:24:33,934 --> 00:24:35,867
+The signature trace
+matches her computer.
+
+571
+00:24:35,934 --> 00:24:37,567
+Shut down her workstation.
+
+572
+00:24:37,634 --> 00:24:40,134
+CHLOE:
+I'm trying. The only way to cut
+the data flow is to reboot
+
+573
+00:24:40,200 --> 00:24:41,634
+CTU's mainframe.
+
+574
+00:24:41,701 --> 00:24:43,667
+We'd be without system power
+for more than 20 minutes.
+
+575
+00:24:43,734 --> 00:24:45,367
+Get security on the floor now.
+
+576
+00:24:54,600 --> 00:24:56,333
+Surrender
+your station.
+
+577
+00:24:56,400 --> 00:24:57,734
+Excuse me?
+
+578
+00:24:57,801 --> 00:25:00,467
+Who are you streaming
+our satellite data to?
+What?!
+
+579
+00:25:00,534 --> 00:25:02,034
+Where is the pilot?
+BUCHANAN:
+Doyle, damn it,
+
+580
+00:25:02,101 --> 00:25:03,068
+that's enough!
+
+581
+00:25:06,801 --> 00:25:07,934
+Take her to holding.
+
+582
+00:25:08,001 --> 00:25:10,801
+Bill, don't let,
+don't let him do this!
+
+583
+00:25:10,867 --> 00:25:12,168
+What are
+you doing?!
+
+584
+00:25:14,168 --> 00:25:15,333
+Bill, I'm innocent!
+
+585
+00:25:15,400 --> 00:25:16,901
+I'm not a traitor!
+
+586
+00:25:25,434 --> 00:25:26,500
+Morris,
+
+587
+00:25:26,567 --> 00:25:28,200
+secure her station.
+
+588
+00:25:28,267 --> 00:25:29,834
+See if you can
+run a back trace
+
+589
+00:25:29,901 --> 00:25:31,367
+on that leak.
+
+590
+00:25:31,434 --> 00:25:33,200
+Find out where
+the feed is going.
+
+591
+00:25:33,267 --> 00:25:35,233
+Excuse me.
+
+592
+00:25:48,834 --> 00:25:49,967
+Victor.
+
+593
+00:25:50,034 --> 00:25:53,434
+What is the drone's
+current position?
+
+594
+00:25:53,500 --> 00:25:56,034
+130 miles
+
+595
+00:25:56,101 --> 00:25:58,034
+southeast of target.
+
+596
+00:25:58,101 --> 00:26:00,801
+Have you locked in
+the GPS coordinates?
+
+597
+00:26:00,867 --> 00:26:02,267
+Yes.
+
+598
+00:26:02,333 --> 00:26:05,400
+The bomb will detonate
+over San Francisco
+
+599
+00:26:05,467 --> 00:26:07,101
+within 20 minutes.
+
+600
+00:26:25,633 --> 00:26:27,900
+--WELTON:
+...you want the drip
+to stay steady.
+
+601
+00:26:27,967 --> 00:26:31,067
+Add in some glucose
+after about an hour.
+
+602
+00:26:31,134 --> 00:26:32,267
+If you see anything,
+any movement,
+
+603
+00:26:32,334 --> 00:26:33,700
+twitch of the
+eyelids, you get me.
+
+604
+00:26:33,767 --> 00:26:35,867
+Got it?
+
+605
+00:26:36,934 --> 00:26:38,500
+Dr. Welton,
+
+606
+00:26:38,567 --> 00:26:39,900
+I need to speak
+with you.
+
+607
+00:26:39,967 --> 00:26:41,334
+I don't have much time,
+Ms. Hayes.
+
+608
+00:26:41,401 --> 00:26:43,301
+What's the President's
+condition?
+
+609
+00:26:43,368 --> 00:26:45,167
+It's worsened
+in the last 15 minutes.
+
+610
+00:26:45,234 --> 00:26:46,667
+There was a buildup of
+
+611
+00:26:46,734 --> 00:26:47,667
+intracranial pressure.
+
+612
+00:26:47,734 --> 00:26:48,900
+We had to induce a coma
+
+613
+00:26:48,967 --> 00:26:50,134
+to relieve the swelling.
+
+614
+00:26:50,201 --> 00:26:51,201
+I see.
+
+615
+00:26:51,267 --> 00:26:52,834
+Good news is
+we stopped it in time.
+
+616
+00:26:52,900 --> 00:26:54,934
+Doesn't seem to have been
+any neural damage,
+
+617
+00:26:55,001 --> 00:26:57,234
+and his vitals are
+surprisingly strong.
+
+618
+00:26:57,301 --> 00:26:59,001
+He's a fighter.
+
+619
+00:26:59,067 --> 00:27:00,834
+We have that much going for us.
+Excuse me.
+
+620
+00:27:00,900 --> 00:27:01,967
+Doctor...
+
+621
+00:27:02,034 --> 00:27:03,334
+Yes.
+
+622
+00:27:03,401 --> 00:27:05,767
+Is there any way that you can
+
+623
+00:27:05,834 --> 00:27:07,368
+bring the President
+back to consciousness?
+
+624
+00:27:07,434 --> 00:27:10,167
+I know this is an
+unusual request,
+
+625
+00:27:10,234 --> 00:27:13,667
+but it's a matter of national
+security that I speak with him.
+
+626
+00:27:13,734 --> 00:27:15,101
+I'm sorry.
+
+627
+00:27:15,167 --> 00:27:17,101
+It could pose
+a serious risk to his life.
+
+628
+00:27:17,167 --> 00:27:18,201
+I couldn't possibly
+authorize it.
+
+629
+00:27:18,267 --> 00:27:19,401
+Who could?
+
+630
+00:27:19,468 --> 00:27:22,267
+I'd need consent
+from his family.
+
+631
+00:27:22,334 --> 00:27:23,834
+His sister is here.
+
+632
+00:27:23,900 --> 00:27:26,700
+But I would strongly
+advise against it.
+
+633
+00:27:26,767 --> 00:27:28,067
+If the swelling
+isn't contained,
+
+634
+00:27:28,134 --> 00:27:31,401
+the President could suffer
+permanent brain damage.
+
+635
+00:27:31,468 --> 00:27:33,434
+I have to go, Ms. Hayes.
+
+636
+00:28:03,967 --> 00:28:06,401
+* *
+
+637
+00:28:12,500 --> 00:28:14,667
+This is insane.
+
+638
+00:28:16,167 --> 00:28:18,167
+Nadia can't be involved in this.
+
+639
+00:28:18,234 --> 00:28:20,533
+The signal was routed
+through her station.
+
+640
+00:28:20,600 --> 00:28:21,600
+We can't ignore that fact.
+
+641
+00:28:21,667 --> 00:28:23,134
+Do you really believe that Nadia
+
+642
+00:28:23,201 --> 00:28:25,500
+is helping the terrorists?
+
+643
+00:28:25,567 --> 00:28:27,468
+I don't want to believe it,
+but I really don't know.
+
+644
+00:28:29,067 --> 00:28:31,134
+Doyle's an ass.
+
+645
+00:28:31,201 --> 00:28:32,533
+He's doing his job.
+
+646
+00:28:32,600 --> 00:28:34,600
+If we want him to stop,
+we have to prove she's innocent.
+
+647
+00:28:36,900 --> 00:28:38,834
+Hello. Think I
+got something.
+
+648
+00:28:38,900 --> 00:28:40,167
+What is it?
+
+649
+00:28:40,234 --> 00:28:41,434
+I've set up
+a feedback pulse.
+
+650
+00:28:41,500 --> 00:28:43,101
+Whoever Nadia's feeding
+our data stream to
+
+651
+00:28:43,167 --> 00:28:45,101
+will read it as some
+static in the line,
+
+652
+00:28:45,167 --> 00:28:46,967
+but we may be able
+to ride the pulse
+
+653
+00:28:47,034 --> 00:28:48,867
+back to its source, find
+the location of the drone pilot.
+
+654
+00:28:48,934 --> 00:28:51,034
+I've got it.
+
+655
+00:28:51,101 --> 00:28:53,001
+1530 Hillcrest.
+
+656
+00:28:53,067 --> 00:28:54,134
+Hillcrest, that's close.
+
+657
+00:28:54,201 --> 00:28:55,334
+Bloody close--
+three blocks away.
+
+658
+00:28:55,401 --> 00:28:56,967
+Okay, tell Buchanan.
+
+659
+00:29:00,334 --> 00:29:02,767
+I'm asking you once
+again, cooperate.
+
+660
+00:29:02,834 --> 00:29:06,134
+Help me put
+an end to this.
+
+661
+00:29:07,967 --> 00:29:09,500
+(sighs)
+
+662
+00:29:11,633 --> 00:29:14,001
+(gasps)
+
+663
+00:29:14,067 --> 00:29:15,468
+I'm warning you.
+
+664
+00:29:15,533 --> 00:29:19,468
+I will do what's necessary
+to get the answers I need.
+
+665
+00:29:19,533 --> 00:29:21,201
+Do you understand?
+
+666
+00:29:21,267 --> 00:29:23,967
+Do you understand?
+
+667
+00:29:25,867 --> 00:29:27,834
+(gasping)
+
+668
+00:29:34,667 --> 00:29:36,401
+I understand everything.
+
+669
+00:29:38,468 --> 00:29:40,134
+I read your file.
+
+670
+00:29:40,201 --> 00:29:44,067
+I know what you did in Denver.
+
+671
+00:29:44,134 --> 00:29:45,834
+You enjoy hurting people.
+
+672
+00:29:45,900 --> 00:29:48,034
+You get off on it.
+
+673
+00:29:48,101 --> 00:29:49,533
+We're not here to talk about me.
+
+674
+00:29:49,600 --> 00:29:51,500
+We're here to talk about
+
+675
+00:29:51,567 --> 00:29:53,667
+what you know.
+
+676
+00:29:53,734 --> 00:29:57,500
+I don't know anything!
+
+677
+00:29:57,567 --> 00:29:58,900
+MILO:
+Get away from
+her, Doyle.
+
+678
+00:30:01,667 --> 00:30:03,234
+I said let her go.
+
+679
+00:30:03,301 --> 00:30:05,134
+What the hell
+are you doing?
+
+680
+00:30:05,201 --> 00:30:06,867
+We got the drone
+pilot's location
+
+681
+00:30:06,934 --> 00:30:08,101
+through Nadia's computer.
+
+682
+00:30:08,167 --> 00:30:10,533
+Where is it?
+
+683
+00:30:11,600 --> 00:30:13,101
+Three blocks from here.
+
+684
+00:30:13,167 --> 00:30:14,767
+1530 Hillcrest.
+
+685
+00:30:17,633 --> 00:30:19,600
+We're not through
+with her, Milo.
+
+686
+00:30:24,134 --> 00:30:26,101
+(gasps)
+
+687
+00:30:26,167 --> 00:30:28,934
+Are you okay?
+
+688
+00:30:34,500 --> 00:30:36,034
+Milo?
+
+689
+00:30:36,101 --> 00:30:39,767
+You know I didn't have anything
+to do with this.
+
+690
+00:30:46,800 --> 00:30:48,734
+Get out of here.
+
+691
+00:31:19,700 --> 00:31:23,134
+* *
+
+692
+00:31:49,700 --> 00:31:51,067
+Agent, what's going on?
+
+693
+00:31:51,134 --> 00:31:52,700
+We have a location
+on the drone's pilot.
+
+694
+00:31:52,767 --> 00:31:54,434
+We're mobilizing now.
+
+695
+00:31:59,767 --> 00:32:03,067
+BUCHANAN:
+As you know, whoever's
+piloting the drone
+
+696
+00:32:03,134 --> 00:32:05,301
+is operating in close
+proximity to CTU.
+
+697
+00:32:05,368 --> 00:32:08,134
+I'm instituting a level
+one security lock-down.
+
+698
+00:32:08,201 --> 00:32:11,301
+All provisional safeguards are
+in effect until further notice.
+
+699
+00:32:11,368 --> 00:32:13,900
+Let's go to work!
+
+700
+00:32:15,767 --> 00:32:18,434
+Marcy...
+
+701
+00:32:18,500 --> 00:32:19,900
+contact LAPD.
+
+702
+00:32:19,967 --> 00:32:21,368
+Have them coordinate
+with tactical.
+
+703
+00:32:21,434 --> 00:32:23,667
+Seal off a perimeter.
+Yes, sir.
+
+704
+00:32:24,967 --> 00:32:26,600
+Chloe...
+
+705
+00:32:26,667 --> 00:32:27,867
+have they confirmed
+the address?
+
+706
+00:32:27,934 --> 00:32:29,167
+Yes, it's a relay station.
+
+707
+00:32:29,234 --> 00:32:30,667
+I've got the building
+specs and layout.
+
+708
+00:32:30,734 --> 00:32:32,134
+I'm gonna need a PDA
+and a phone.
+
+709
+00:32:32,201 --> 00:32:33,667
+I'll get them for you.
+Thanks.
+
+710
+00:32:33,734 --> 00:32:35,401
+Jack, what are you doing?
+
+711
+00:32:35,468 --> 00:32:38,067
+I'm going with the team.
+
+712
+00:32:38,134 --> 00:32:40,368
+You're injured.
+You should be in medical.
+
+713
+00:32:40,434 --> 00:32:42,633
+You should have told me
+about Audrey, Bill.
+
+714
+00:32:45,633 --> 00:32:48,134
+We were asking you to give
+your life, Jack.
+
+715
+00:32:48,201 --> 00:32:50,434
+I didn't think it
+was right to tell you
+about Audrey's accident.
+
+716
+00:32:50,500 --> 00:32:51,834
+It wasn't an accident.
+She was murdered.
+
+717
+00:32:51,900 --> 00:32:53,001
+No one knows that for sure.
+
+718
+00:32:53,067 --> 00:32:55,034
+I do.
+
+719
+00:32:55,101 --> 00:32:56,900
+Bill, Audrey gave
+
+720
+00:32:56,967 --> 00:32:59,067
+her life trying to get me
+out of a Chinese prison
+
+721
+00:32:59,134 --> 00:33:01,101
+because she thought
+I was worth it.
+
+722
+00:33:01,167 --> 00:33:04,101
+I'm not going to let
+her die for nothing now.
+
+723
+00:33:04,167 --> 00:33:05,934
+I'm going to finish this.
+
+724
+00:33:06,001 --> 00:33:07,967
+And when I do,
+
+725
+00:33:08,034 --> 00:33:10,468
+I'm gonna track down the people
+responsible for her murder,
+
+726
+00:33:10,533 --> 00:33:12,734
+and I'm going to take
+care of them, too.
+
+727
+00:33:14,167 --> 00:33:16,734
+Please, you have to
+let me finish this.
+
+728
+00:33:16,800 --> 00:33:18,800
+All right.
+
+729
+00:33:18,867 --> 00:33:21,567
+I'll tell Doyle
+you're running point.
+
+730
+00:33:39,434 --> 00:33:41,700
+--The drone is approaching
+the city.
+
+731
+00:33:41,767 --> 00:33:43,800
+I'm beginning descent now.
+
+732
+00:33:43,867 --> 00:33:46,534
+How long until the bomb
+detonates?
+
+733
+00:33:46,600 --> 00:33:49,034
+At its current speed,
+the drone will reach
+
+734
+00:33:49,101 --> 00:33:51,667
+the target perimeter
+within three minutes.
+
+735
+00:33:51,733 --> 00:33:53,167
+It will detonate automatically
+
+736
+00:33:53,234 --> 00:33:54,867
+when it reaches
+the perimeter line.
+
+737
+00:33:54,934 --> 00:33:57,967
+I'll bring it in
+at an altitude of 500 feet
+
+738
+00:33:58,034 --> 00:33:59,800
+to achieve maximum damage.
+
+739
+00:33:59,867 --> 00:34:03,867
+Don't worry, tovarish,
+everything is set.
+
+740
+00:34:03,934 --> 00:34:06,934
+It will happen exactly
+as you planned.
+
+741
+00:34:07,000 --> 00:34:10,067
+Concentrate on
+the task at hand.
+
+742
+00:34:10,134 --> 00:34:11,568
+Then call me when it's done.
+
+743
+00:34:11,633 --> 00:34:13,234
+Yes, sir.
+
+744
+00:34:20,434 --> 00:34:22,733
+Bill, it's Jack.
+We're in position.
+
+745
+00:34:22,800 --> 00:34:24,934
+The gate was open,
+there's a utility truck
+
+746
+00:34:25,000 --> 00:34:26,334
+parked behind the building.
+
+747
+00:34:26,401 --> 00:34:28,101
+Our back-trace shows
+the intrusion
+
+748
+00:34:28,167 --> 00:34:29,367
+into our system is
+coming from a room
+
+749
+00:34:29,434 --> 00:34:31,767
+in the northwest corner
+of the switching station.
+
+750
+00:34:31,834 --> 00:34:34,733
+Jack, I'm looking at an updated
+schematic now. Your most direct 
+
+751
+00:34:34,800 --> 00:34:36,900
+route is through the rear
+entrance, to the left.
+
+752
+00:34:36,967 --> 00:34:38,900
+Okay. Did you get that?
+Yeah.
+
+753
+00:34:38,967 --> 00:34:41,000
+(grunts)
+Do you want me
+on point?
+
+754
+00:34:41,067 --> 00:34:42,700
+I got it.
+
+755
+00:34:42,767 --> 00:34:43,934
+Let's go.
+
+756
+00:34:44,000 --> 00:34:45,967
+Whatever you say.
+
+757
+00:35:10,800 --> 00:35:12,633
+(clattering)
+What was that?
+
+758
+00:35:12,700 --> 00:35:14,667
+Go check.
+
+759
+00:35:38,967 --> 00:35:40,301
+(gunshot, groaning)
+
+760
+00:35:52,800 --> 00:35:55,468
+Let's get a medic.
+
+761
+00:35:55,534 --> 00:35:57,067
+Chloe, it's Jack.
+Do you copy?
+
+762
+00:35:57,134 --> 00:35:57,934
+We copy.
+
+763
+00:35:58,000 --> 00:35:58,967
+Jack, what's your status?
+
+764
+00:35:59,034 --> 00:36:00,167
+The drone pilot is down.
+
+765
+00:36:00,234 --> 00:36:01,568
+I'm at his controls now.
+
+766
+00:36:01,633 --> 00:36:03,000
+The target is
+San Francisco.
+
+767
+00:36:03,067 --> 00:36:05,101
+I repeat, the target
+is San Francisco.
+
+768
+00:36:05,167 --> 00:36:07,134
+Alert local law enforcement
+and First Responders
+
+769
+00:36:07,201 --> 00:36:08,700
+in the area, and
+open a channel
+
+770
+00:36:08,767 --> 00:36:10,733
+with the Regional Control
+Center up there.
+Got it.
+
+771
+00:36:14,468 --> 00:36:16,967
+These controls are
+for navigation only.
+
+772
+00:36:17,034 --> 00:36:18,067
+There is no way
+
+773
+00:36:18,134 --> 00:36:19,468
+to deactivate the
+bomb remotely.
+
+774
+00:36:19,534 --> 00:36:21,367
+CTU, we're linking you in now.
+You should have it.
+
+775
+00:36:21,434 --> 00:36:22,501
+It's coming through.
+
+776
+00:36:22,568 --> 00:36:24,501
+Jack, is there any way
+for you to determine
+
+777
+00:36:24,568 --> 00:36:26,267
+what triggering
+mechanism they're using?
+
+778
+00:36:26,334 --> 00:36:28,334
+It looks like they wired
+a GPS module into the bomb.
+
+779
+00:36:28,401 --> 00:36:30,201
+It'll detonate as
+soon as it crosses
+
+780
+00:36:30,267 --> 00:36:31,367
+its designated
+perimeter.
+
+781
+00:36:31,434 --> 00:36:32,867
+I'm trying
+to steer it away now.
+
+782
+00:36:32,934 --> 00:36:34,900
+Don't turn the drone
+too sharply,
+
+783
+00:36:34,967 --> 00:36:36,600
+or it'll stall,
+and you'll lose control.
+
+784
+00:36:36,667 --> 00:36:37,800
+Copy that.
+
+785
+00:36:37,867 --> 00:36:38,967
+On its current course,
+
+786
+00:36:39,034 --> 00:36:40,633
+the drone will cross
+the perimeter
+
+787
+00:36:40,700 --> 00:36:42,034
+and detonate
+in 30 seconds.
+
+788
+00:36:47,667 --> 00:36:49,600
+Jack, you're getting
+a stabilizer warning.
+
+789
+00:36:49,667 --> 00:36:50,700
+I see it.
+
+790
+00:36:50,767 --> 00:36:52,733
+20 seconds.
+
+791
+00:37:01,067 --> 00:37:02,633
+Ten seconds.
+
+792
+00:37:05,800 --> 00:37:07,767
+Okay, it's turning.
+
+793
+00:37:10,134 --> 00:37:13,534
+The drone did not
+cross the perimeter.
+
+794
+00:37:13,600 --> 00:37:14,700
+I'm fighting a stall.
+
+795
+00:37:14,767 --> 00:37:15,934
+I'm losing control
+of the drone.
+
+796
+00:37:16,000 --> 00:37:18,000
+I need to find a
+place to land it now.
+
+797
+00:37:18,067 --> 00:37:20,301
+All right, according
+to the specs,
+
+798
+00:37:20,367 --> 00:37:22,568
+it's gonna need 500 feet
+of runway to land.
+
+799
+00:37:22,633 --> 00:37:24,700
+Okay, closest to the drone's
+current position,
+
+800
+00:37:24,767 --> 00:37:26,501
+there's a long stretch
+of residential road
+
+801
+00:37:26,568 --> 00:37:28,134
+straight ahead of you.
+
+802
+00:37:28,201 --> 00:37:30,501
+That's a negative. Find me
+an area that's unpopulated.
+
+803
+00:37:30,568 --> 00:37:31,900
+Hold on.
+
+804
+00:37:35,633 --> 00:37:37,767
+If you can get
+the drone farther east,
+
+805
+00:37:37,834 --> 00:37:39,600
+there's an industrial
+park along the Bay.
+
+806
+00:37:39,667 --> 00:37:41,067
+I'm uploading
+the coordinates now.
+
+807
+00:37:41,134 --> 00:37:44,134
+Have Regional Command deploy
+units to the area immediately.
+
+808
+00:37:44,201 --> 00:37:45,568
+Regional Command...
+
+809
+00:37:45,633 --> 00:37:47,667
+Come on.
+
+810
+00:38:03,034 --> 00:38:05,101
+(engine whooshing)
+
+811
+00:38:12,000 --> 00:38:13,067
+The drone is down.
+
+812
+00:38:18,767 --> 00:38:20,700
+(clanking)
+
+813
+00:38:30,733 --> 00:38:32,934
+MORRIS: Mr. Buchanan,
+none of the First
+Responders in San Francisco
+
+814
+00:38:33,000 --> 00:38:34,700
+are reporting a detonation.
+The bomb did not
+
+815
+00:38:34,767 --> 00:38:35,800
+go off on impact.
+
+816
+00:38:35,867 --> 00:38:38,267
+Jack, did you copy that?
+Yeah.
+
+817
+00:38:38,334 --> 00:38:41,000
+Can we get a visual
+from anyone at the site?
+
+818
+00:38:41,067 --> 00:38:43,201
+I'm showing a fire
+and rescue unit already
+
+819
+00:38:43,267 --> 00:38:45,568
+arriving at the scene.
+
+820
+00:38:45,633 --> 00:38:47,334
+What's the status on the pilot?
+
+821
+00:38:47,401 --> 00:38:48,867
+He's alive, barely.
+
+822
+00:38:48,934 --> 00:38:50,900
+Do whatever you have to
+to get him conscious.
+
+823
+00:38:53,967 --> 00:38:55,934
+(sirens blaring)
+
+824
+00:39:03,501 --> 00:39:05,733
+(indistinct radio transmission)
+
+825
+00:39:05,800 --> 00:39:07,767
+(beeping)
+
+826
+00:39:09,700 --> 00:39:11,967
+Get the Geiger counter.
+(beeping continues)
+
+827
+00:39:19,434 --> 00:39:21,234
+(static crackling)
+
+828
+00:39:24,067 --> 00:39:25,900
+(crackling continues,
+then ceases)
+
+829
+00:39:25,967 --> 00:39:27,967
+Move out! There's radioactive
+
+830
+00:39:28,034 --> 00:39:30,267
+material in this area!
+Pull back
+
+831
+00:39:30,334 --> 00:39:32,667
+and wait for HAZMAT.
+Move it!
+
+832
+00:39:55,401 --> 00:39:57,434
+Sir,
+
+833
+00:39:57,501 --> 00:40:00,501
+I have Bill Buchanan
+on line one.
+
+834
+00:40:01,568 --> 00:40:03,000
+Bill, what do you have?
+
+835
+00:40:03,067 --> 00:40:04,501
+Mr. Vice President,
+
+836
+00:40:04,568 --> 00:40:06,600
+the drone was intercepted
+before the nuclear bomb
+
+837
+00:40:06,667 --> 00:40:08,667
+was able to detonate.
+Oh, thank God.
+
+838
+00:40:08,733 --> 00:40:10,000
+Congratulations, sir.
+
+839
+00:40:10,067 --> 00:40:13,201
+We were able to take control
+of the aircraft,
+
+840
+00:40:13,267 --> 00:40:14,800
+crash-landing it
+in an industrial park
+
+841
+00:40:14,867 --> 00:40:16,067
+at the edge of the city.
+
+842
+00:40:16,134 --> 00:40:17,800
+But in the process,
+
+843
+00:40:17,867 --> 00:40:19,501
+the bomb's nuclear
+core was compromised,
+
+844
+00:40:19,568 --> 00:40:22,201
+and radioactive
+material was released.
+
+845
+00:40:22,267 --> 00:40:23,401
+So what we're essentially
+
+846
+00:40:23,468 --> 00:40:25,000
+dealing with is a dirty bomb.
+
+847
+00:40:25,067 --> 00:40:27,000
+Sir, this was not
+a dispersal device.
+
+848
+00:40:27,067 --> 00:40:28,468
+It was a radiological spill.
+
+849
+00:40:28,534 --> 00:40:30,900
+It was an attack
+on our nation.
+
+850
+00:40:34,900 --> 00:40:36,301
+Bill, are there casualties?
+
+851
+00:40:36,367 --> 00:40:38,534
+Local Responders
+got there before HAZMAT.
+
+852
+00:40:38,600 --> 00:40:39,767
+They were almost
+certainly exposed
+
+853
+00:40:39,834 --> 00:40:42,367
+to fatal doses of
+radiation, but so far,
+
+854
+00:40:42,434 --> 00:40:44,134
+it appears that
+radioactive material
+
+855
+00:40:44,201 --> 00:40:45,534
+was not widely dispersed.
+
+856
+00:40:45,600 --> 00:40:48,401
+Casualties should
+be minimal.
+
+857
+00:40:48,468 --> 00:40:50,934
+At least we've got that to be
+grateful for. Thanks, Bill.
+
+858
+00:41:00,633 --> 00:41:02,767
+Proceed with the warning strike
+as planned.
+
+859
+00:41:02,834 --> 00:41:05,067
+Sir, the primary
+attack was averted.
+
+860
+00:41:05,134 --> 00:41:07,401
+CTU was successful.
+
+861
+00:41:07,468 --> 00:41:10,000
+There will be civilian
+deaths, as well as untold
+
+862
+00:41:10,067 --> 00:41:11,301
+environmental damage.
+
+863
+00:41:11,367 --> 00:41:13,401
+I hardly consider
+that a success.
+
+864
+00:41:13,468 --> 00:41:15,167
+The damage will be minimal
+
+865
+00:41:15,234 --> 00:41:17,234
+compared to what
+we just avoided.
+
+866
+00:41:17,301 --> 00:41:19,501
+Sir, I think we should
+consider ourselves fortunate.
+
+867
+00:41:19,568 --> 00:41:21,501
+Tom?
+
+868
+00:41:21,568 --> 00:41:23,568
+Sir?
+
+869
+00:41:23,633 --> 00:41:26,800
+Mr. Vice President,
+we were led to believe
+that this warning shot
+
+870
+00:41:26,867 --> 00:41:29,367
+would be fired
+only in response
+
+871
+00:41:29,434 --> 00:41:31,867
+to the detonation
+of a nuclear device.
+
+872
+00:41:31,934 --> 00:41:34,367
+That is a technicality, Tom.
+
+873
+00:41:35,834 --> 00:41:37,867
+I gave fair warning
+to the Prime Minister,
+
+874
+00:41:37,934 --> 00:41:39,733
+and I intend to carry it out.
+
+875
+00:41:43,267 --> 00:41:44,401
+Secretary Kanin?
+
+876
+00:41:44,468 --> 00:41:47,101
+How long will
+it take to move
+
+877
+00:41:47,167 --> 00:41:49,034
+the submarine
+into position?
+
+878
+00:41:49,101 --> 00:41:51,401
+Once you've given the order...
+
+879
+00:41:51,468 --> 00:41:53,468
+within the hour.
+
+880
+00:41:55,967 --> 00:41:57,301
+The order is given.
+
+881
+00:41:57,367 --> 00:41:59,834
+Launch the missile...
+
+882
+00:42:01,000 --> 00:42:03,134
+...as soon as they're in range.
+
+883
+00:42:03,134 --> 00:42:08,134
+
+
+
+9999
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.tvsubtitles.net</font>

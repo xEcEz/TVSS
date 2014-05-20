@@ -1,0 +1,287 @@
+﻿1
+00:00:50,670 --> 00:01:07,020  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+nice, nice cave man uh...what is this a, a cave? oh it is a cave. so i guess we're going inside this cave.
+
+2
+00:01:09,620 --> 00:01:13,130  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+don't you ever say anything?
+
+3
+00:01:22,800 --> 00:01:26,090  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+look at what eye can do.
+
+4
+00:01:35,760 --> 00:01:39,400  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+eye do that all the t-eye-me
+
+5
+00:02:01,810 --> 00:02:09,100  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+woo-yah. that's how you break somebody off right there. that sucker sure can run. did you nail his ass?
+
+6
+00:02:09,130 --> 00:02:15,610  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+no one outruns my bullets man. they're...fast!
+
+7
+00:02:15,630 --> 00:02:20,190  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+i don't know what you're talkin about man, cuz he done outrun your bullets. he outran them like yesterday man.
+
+8
+00:02:20,250 --> 00:02:22,700  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+like whew
+
+9
+00:02:23,150 --> 00:02:24,510  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+damn dude.
+
+10
+00:02:24,550 --> 00:02:29,050  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+come on man, look at em, they're fast.
+
+11
+00:02:29,300 --> 00:02:31,830  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+man you sure can squeeze the trigger man.
+
+12
+00:02:31,850 --> 00:02:37,500  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+dude...that is a hand, that is a fast hand.
+
+13
+00:02:37,570 --> 00:02:42,930  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+nah wait, step off man, step off. get off, get off me, go go go -- stop it, stop, stop moving around. just stay still dude.
+
+14
+00:02:42,950 --> 00:02:44,120  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+naw shorty.
+
+15
+00:02:44,180 --> 00:02:45,210  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+you're all over the place.
+
+16
+00:02:45,230 --> 00:02:47,260  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+you're gonna blow my damn head off.
+
+17
+00:02:47,300 --> 00:02:54,150  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+oh wait, no i know. so, wait, so...don't stay still, move around cuz...i got this
+
+18
+00:02:54,180 --> 00:02:58,080  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+no you don't. you straight up lyin.
+
+19
+00:02:58,110 --> 00:03:03,250  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+thank you dawg. that's exactly what i need, a shot of this petron right here.
+
+20
+00:03:03,520 --> 00:03:04,850  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+ah...
+
+21
+00:03:06,410 --> 00:03:08,010  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+what is that?
+
+22
+00:03:08,260 --> 00:03:10,220  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+...it's a hand.
+
+23
+00:03:10,270 --> 00:03:11,890  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+no way.
+
+24
+00:03:14,220 --> 00:03:18,930  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+i wonder uh...whose hand it could be.
+
+25
+00:03:26,320 --> 00:03:37,040  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+wow man. now this is a nice chair. this ain't no nagalhyde, this is a real leather chair.
+
+26
+00:03:56,390 --> 00:04:01,020  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+man what the hell you playin man, is that old booger haze?
+
+27
+00:04:03,490 --> 00:04:12,030  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+hey man, don't get pissed. i'm just sayin, it sounded remotely like booger haze.
+
+28
+00:04:56,500 --> 00:05:00,630  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+you know.... this town really pisses me off.
+
+29
+00:05:00,680 --> 00:05:03,810  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+i know. it pisses me off too.
+
+30
+00:05:03,850 --> 00:05:15,410  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+there's not one person in here who will race me. and that is sure to piss off the guy who owns the fastest car in the west. or the east. doesn't matter.
+
+31
+00:05:15,510 --> 00:05:22,210  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+honestly, no one cares about your poor little car.... it's also so boring.
+
+32
+00:05:22,250 --> 00:05:37,860  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+well...... they better start caring...... cuz i care about it alot. you dig?
+
+33
+00:05:37,880 --> 00:05:48,860  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+oh i dig. and i know that you dig what you dig. but i hope he digs what you dig. he's watching you know.
+
+34
+00:05:48,910 --> 00:06:01,570  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+then watch on my brother. watch as the black shark turns it all the way up.
+
+35
+00:06:11,490 --> 00:06:19,650  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+something's telling me this hand knows more than it's telling me. this hand is up to somethin.
+
+36
+00:06:20,040 --> 00:06:23,860  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+it knows some stuff...and it won't tell us.
+
+37
+00:06:23,920 --> 00:06:35,460  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+for real tho man, i think it's trying to straight up trip. i think it's trying to hamburger it's way into eatin us a hot dog or somethin homie. cuz i had a hot dog in my day man. boy dem franks, whoo!
+
+38
+00:06:35,560 --> 00:06:40,290  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+mmm...no...not that.
+
+39
+00:06:40,390 --> 00:06:43,400  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+that's the hand that cut off m-eye leg.
+
+40
+00:06:43,520 --> 00:06:47,650  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+no...that's the hand that cut off m-eye leg.
+
+41
+00:06:47,690 --> 00:06:50,080  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+no, m-eye leg.
+
+42
+00:06:50,160 --> 00:06:52,450  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+no, m-eye leg.
+
+43
+00:06:52,510 --> 00:06:57,560  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+i have an idea that involes skillet and i...leaving.
+
+44
+00:06:58,300 --> 00:06:59,660  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+what do you want us to do?
+
+45
+00:06:59,710 --> 00:07:07,350  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+um...stuff. just do some stuff. we'll be back
+
+46
+00:07:07,470 --> 00:07:08,400  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+but where are you going?
+
+47
+00:07:08,420 --> 00:07:13,780  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+where are you going? where haven't we ever been?
+
+48
+00:07:17,310 --> 00:07:25,430  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+you just gonna let him leave like that? and leave us here with a broken hand to get us killed? man, how you gonna do me like that? playa my, my head hurts.
+
+49
+00:07:25,480 --> 00:07:38,030  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+every time i damn turn around it's either a eyeball or a hand or somethin, always goin wrong up in here. what the hell am i doing in here? i'm all tired man, i'm tired of this sh-, this sh- get me all sh- in my head.
+
+50
+00:07:38,190 --> 00:07:41,520  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+you are so mean when you're drunk.
+
+51
+00:07:43,480 --> 00:07:56,920  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+how much did it cost the car? is this your car cuz it's neat. what kind of car is this? that's a neat car. where'd you get this car? ...
+
+52
+00:08:03,520 --> 00:08:09,010  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+... that bitch knows too much.
+
+53
+00:08:12,850 --> 00:08:14,970  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+get in.
+
+54
+00:08:16,010 --> 00:08:28,300  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+what song is this, did you download it? where'd you get it, where'd you get this song? where'd you buy it? can you burn it for me? can you burn me this song? will you burn this song for me? where are we going? what song is this, what song is it, are we there yet? are we there? are we there? are we there?
+
+55
+00:08:38,310 --> 00:08:46,230  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+this was free. somehow this was free. and the gas is free too.
+
+56
+00:08:46,320 --> 00:08:48,070  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+guy in a coma.
+
+57
+00:08:53,660 --> 00:08:58,220  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+i have to pee, i have to pee, i have to pee, i have to pee, i have to pee, i have to pee, i have to pee, i have to pee.
+
+58
+00:08:58,300 --> 00:09:00,170  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+where's little mighty mouse going?
+
+59
+00:09:00,230 --> 00:09:11,830  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+oh, i don't know. why don't you put this car, this poor boring little car in gear and chase him.
+
+60
+00:09:11,870 --> 00:09:16,480  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+it's in the gear. it only has one.
+
+61
+00:09:21,920 --> 00:09:29,870  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+ooh...what happened? i guess now you have a more serious problem than having to pee.
+
+62
+00:09:29,960 --> 00:09:34,260  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+that wasn't nice, that wasn't nice, that wasn't nice, you can't kill me.
+
+63
+00:09:39,490 --> 00:09:42,210  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+hmm, i guess roostre's still at that party.
+
+64
+00:09:48,070 --> 00:09:51,440  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+oh, you hear that? shhh, listen.
+
+65
+00:09:56,080 --> 00:09:57,930  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+load up.
+
+66
+00:10:05,460 --> 00:10:07,330  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+let's get into the shack.
+
+67
+00:10:17,140 --> 00:10:25,350  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+what? they, they're gone, they're not there anymore. oh shee...
+
+68
+00:10:31,050 --> 00:10:35,290  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+oh. good find.
+
+69
+00:10:56,700 --> 00:10:58,450  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+now what do we do.
+
+70
+00:10:59,760 --> 00:11:05,430  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+holy shee. damn roostre.
+
+71
+00:11:15,390 --> 00:11:20,000  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+"i know you."
+
+9999
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.tvsubtitles.net</font>

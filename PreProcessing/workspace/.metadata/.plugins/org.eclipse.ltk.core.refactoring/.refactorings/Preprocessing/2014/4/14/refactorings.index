@@ -1,0 +1,10 @@
+1396432333690	Move compilation units
+1396432339900	Move compilation units
+1396432365670	Rename type 'SubtitlesParser'
+1396454399299	Rename type 'SeasonMerger'
+1396455994060	Delete element
+1396455996924	Delete element
+1396457989254	Rename local variable 'mergedSeasonName'
+1396458019741	Rename method 'createSeasonName'
+1396458110413	Rename type 'EpToSeasonMerger'
+1396520966457	Delete elements

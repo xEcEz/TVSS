@@ -1,0 +1,1858 @@
+<br />
+<b>Notice</b>:  Undefined variable: tmp in <b>/home/bierdopje.com/www/includes/classes/users/user.class.php</b> on line <b>656</b><br />
+<br />
+<b>Notice</b>:  Undefined index:  sessionid in <b>/home/bierdopje.com/www/includes/classes/users/user.class.php</b> on line <b>1063</b><br />
+<br />
+<b>Notice</b>:  Undefined index:  showid in <b>/home/bierdopje.com/www/includes/classes/shows/sub.class.php</b> on line <b>51</b><br />
+<br />
+<b>Notice</b>:  Undefined index:  added in <b>/home/bierdopje.com/www/includes/classes/shows/sub.class.php</b> on line <b>52</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: sublang in <b>/home/bierdopje.com/www/includes/engines/downloads.engine.php</b> on line <b>49</b><br />
+<br />
+<b>Warning</b>:  Cannot modify header information - headers already sent by (output started at /home/bierdopje.com/www/includes/classes/users/user.class.php:656) in <b>/home/bierdopje.com/www/includes/engines/downloads.engine.php</b> on line <b>51</b><br />
+<br />
+<b>Warning</b>:  Cannot modify header information - headers already sent by (output started at /home/bierdopje.com/www/includes/classes/users/user.class.php:656) in <b>/home/bierdopje.com/www/includes/engines/downloads.engine.php</b> on line <b>51</b><br />
+<br />
+<b>Warning</b>:  Cannot modify header information - headers already sent by (output started at /home/bierdopje.com/www/includes/classes/users/user.class.php:656) in <b>/home/bierdopje.com/www/includes/engines/downloads.engine.php</b> on line <b>51</b><br />
+<br />
+<b>Warning</b>:  Cannot modify header information - headers already sent by (output started at /home/bierdopje.com/www/includes/classes/users/user.class.php:656) in <b>/home/bierdopje.com/www/includes/engines/downloads.engine.php</b> on line <b>51</b><br />
+1
+00:00:06,156 --> 00:00:08,645
+I'm gonna duck uptown
+and have lunch with my boyfriend.
+
+2
+00:00:08,770 --> 00:00:09,693
+Yes, ma'am.
+
+3
+00:00:09,818 --> 00:00:12,510
+Is that code for some kind
+of older gal medical procedure?
+
+4
+00:00:12,680 --> 00:00:14,693
+No, I really have a boyfriend.
+
+5
+00:00:14,818 --> 00:00:17,015
+- Look, he's handsome and a doctor.
+- A doctor?
+
+6
+00:00:17,185 --> 00:00:18,819
+Well, don't get too attached.
+
+7
+00:00:18,944 --> 00:00:21,071
+As soon as people realize
+his tonics don't work,
+
+8
+00:00:21,196 --> 00:00:22,783
+it's on to the next town.
+
+9
+00:00:23,505 --> 00:00:25,357
+You know what I have a craving for?
+
+10
+00:00:25,972 --> 00:00:28,135
+Jerk chicken from that place
+in Mill Basin?
+
+11
+00:00:28,260 --> 00:00:29,069
+And some?
+
+12
+00:00:29,259 --> 00:00:31,947
+Catalog photos of expectant mothers
+in their swimming suits?
+
+13
+00:00:32,416 --> 00:00:34,407
+You are my radar O'Reilly.
+
+14
+00:00:34,692 --> 00:00:38,003
+Now get in here and rub my feet
+till you hear a chopper coming.
+
+15
+00:00:40,667 --> 00:00:41,582
+How's Tracy?
+
+16
+00:00:41,751 --> 00:00:43,953
+- What's his mood?
+- Upbeat and confused.
+
+17
+00:00:44,144 --> 00:00:47,055
+- Perfect. You know his contract is up.
+- Has it been that long?
+
+18
+00:00:47,180 --> 00:00:50,174
+We sure have done some crazy things
+with Tracy in the last three years.
+
+19
+00:00:51,017 --> 00:00:52,167
+We sure have.
+
+20
+00:00:52,636 --> 00:00:54,956
+I'm thinking about some of them now.
+
+21
+00:00:55,706 --> 00:00:56,556
+Me too.
+
+22
+00:00:57,671 --> 00:00:59,873
+Anyway, I'm handling
+the Tracy thing myself.
+
+23
+00:00:59,998 --> 00:01:02,184
+Right. Play hardball.
+Get your business jollies.
+
+24
+00:01:02,412 --> 00:01:05,834
+Sadly enough this time, with Tracy,
+it's not about money anymore.
+
+25
+00:01:05,959 --> 00:01:08,901
+His video game made a fortune
+and he invested all of it in a company
+
+26
+00:01:09,069 --> 00:01:11,736
+that dismantles bank signs.
+They're doing very well.
+
+27
+00:01:11,905 --> 00:01:14,107
+- You don't think he's gonna leave?
+- Don't worry.
+
+28
+00:01:14,232 --> 00:01:17,701
+When you're above money, personal
+relationships become your currency.
+
+29
+00:01:17,826 --> 00:01:20,036
+Tracy and I have become quite close.
+
+30
+00:01:20,305 --> 00:01:22,452
+Look. We got BFF bracelets.
+
+31
+00:01:22,577 --> 00:01:24,207
+You guys are best friends forever?
+
+32
+00:01:24,405 --> 00:01:26,455
+That's not what that stands for.
+
+33
+00:01:29,227 --> 00:01:31,177
+Why would you celebrate that?
+
+34
+00:01:32,230 --> 00:01:34,033
+Tell me where you went
+to school again?
+
+35
+00:01:34,158 --> 00:01:35,219
+Well... I...
+
+36
+00:01:35,387 --> 00:01:37,662
+- You really look nice today.
+- Thank you.
+
+37
+00:01:37,787 --> 00:01:40,437
+- Do you know her?
+- No, I don't think so.
+
+38
+00:01:41,222 --> 00:01:43,207
+Wait! No!
+That's my car!
+
+39
+00:01:43,688 --> 00:01:44,728
+Meter's expired.
+
+40
+00:01:44,924 --> 00:01:46,574
+I forgot to get quarters.
+
+41
+00:01:48,013 --> 00:01:49,941
+You know what?
+I got quarters.
+
+42
+00:01:50,713 --> 00:01:52,623
+- Thanks, officer.
+- You're welcome.
+
+43
+00:01:53,980 --> 00:01:55,795
+People sure are nice to you.
+
+44
+00:01:55,920 --> 00:01:56,855
+I guess.
+
+45
+00:01:56,980 --> 00:01:58,903
+Excuse me.
+I'm Calvin Klein
+
+46
+00:01:59,580 --> 00:02:02,495
+and I think you should be
+my next underwear model.
+
+47
+00:02:02,885 --> 00:02:03,955
+Well, thanks.
+
+48
+00:02:05,526 --> 00:02:08,029
+You don't wanna get a card,
+phone number?
+
+49
+00:02:09,046 --> 00:02:10,996
+Subtitles: - Feygnasse Team -
+
+50
+00:02:11,121 --> 00:02:12,408
+Synch: Collioure.
+
+51
+00:02:12,533 --> 00:02:14,091
+Proofreading: So., Valpi.
+
+52
+00:02:24,555 --> 00:02:26,779
+Episode 315:
+"The Bubble"
+
+53
+00:02:34,863 --> 00:02:37,363
+You went to Plunder for lunch?
+How did you get a table?
+
+54
+00:02:37,533 --> 00:02:40,742
+I don't know. It was packed.
+But they just gave Drew a table.
+
+55
+00:02:40,912 --> 00:02:43,951
+It's ridiculous how people treat him.
+The chef sent over food.
+
+56
+00:02:44,076 --> 00:02:45,255
+Ladies sent drinks.
+
+57
+00:02:45,380 --> 00:02:47,224
+Mayer Bloomberg asked him to dance.
+
+58
+00:02:47,689 --> 00:02:49,877
+Beautiful people
+are treated differently from...
+
+59
+00:02:50,408 --> 00:02:52,421
+moderately...
+pleasant-looking people.
+
+60
+00:02:52,790 --> 00:02:54,988
+- It's true.
+- They live in a bubble.
+
+61
+00:02:55,292 --> 00:02:57,792
+A bubble of free drinks,
+kindness, and outdoor sex.
+
+62
+00:02:57,917 --> 00:03:00,970
+How did Drew turn out as well as he did
+going through life like that?
+
+63
+00:03:01,139 --> 00:03:04,292
+The bubble isn't always a bad thing.
+Look at me. I turned out OK, didn't I?
+
+64
+00:03:04,417 --> 00:03:06,045
+I want you to pay close attention
+
+65
+00:03:06,170 --> 00:03:08,620
+to the following
+over-the-top eye roll.
+
+66
+00:03:09,293 --> 00:03:10,522
+Oh brother!
+
+67
+00:03:10,921 --> 00:03:12,671
+I don't share this often.
+
+68
+00:03:13,820 --> 00:03:16,870
+But this is a photo of me
+when I was 25 years old.
+
+69
+00:03:17,423 --> 00:03:18,673
+What the... what?
+
+70
+00:03:19,328 --> 00:03:20,865
+You have a superman chest!
+
+71
+00:03:21,035 --> 00:03:22,423
+- I know.
+- Oh, my god.
+
+72
+00:03:22,548 --> 00:03:25,398
+The lady will have
+two tickets to the gun show.
+
+73
+00:03:25,659 --> 00:03:27,413
+And your eyes are so much bluer.
+
+74
+00:03:27,613 --> 00:03:29,797
+- What happened to your eyes?
+- My point is,
+
+75
+00:03:30,166 --> 00:03:33,552
+the bubble doesn't last forever. So get
+in there with Drew and enjoy those perks
+
+76
+00:03:33,677 --> 00:03:35,589
+- while you can.
+- Can I keep that?
+
+77
+00:03:36,137 --> 00:03:37,537
+It's my only copy.
+
+78
+00:03:42,056 --> 00:03:43,680
+Everyone gather around please.
+
+79
+00:03:43,850 --> 00:03:46,140
+Actor announcement.
+As you probably know,
+
+80
+00:03:46,309 --> 00:03:49,348
+especially if you read page six
+of my publicist's emails,
+
+81
+00:03:49,557 --> 00:03:52,647
+I have decided to cut my hair
+and donate it to charity.
+
+82
+00:03:52,817 --> 00:03:55,484
+But, why would you cut
+your beautiful hair?
+
+83
+00:03:55,995 --> 00:03:58,204
+You look just how I picture
+Mary Magdalene.
+
+84
+00:03:58,329 --> 00:04:02,030
+Because, I'm a selfless person
+who can't get arrested in this town.
+
+85
+00:04:02,309 --> 00:04:04,311
+Meanwhile,
+Tracy's face is everywhere.
+
+86
+00:04:04,436 --> 00:04:07,187
+I already explained that.
+That was a police sketch of a flasher
+
+87
+00:04:07,312 --> 00:04:09,789
+who happened to look
+like Tracy... We hope.
+
+88
+00:04:09,959 --> 00:04:12,375
+- Whatever. He's hogging the buzz.
+- You've got buzz.
+
+89
+00:04:12,544 --> 00:04:14,816
+You were in that magazine that time.
+
+90
+00:04:17,507 --> 00:04:19,456
+I don't even know
+what you're referring to.
+
+91
+00:04:19,581 --> 00:04:21,174
+And that was two years ago.
+
+92
+00:04:21,299 --> 00:04:23,491
+As usual, I have to create
+my own opportunities.
+
+93
+00:04:23,692 --> 00:04:26,431
+No one will be talking about
+Tracy Jordan this Friday
+
+94
+00:04:26,601 --> 00:04:28,933
+when I cut my hair off
+on The Today Show.
+
+95
+00:04:31,033 --> 00:04:33,271
+You're what I think
+Judas looks like.
+
+96
+00:04:36,301 --> 00:04:38,944
+I hope you know
+how much we value you here
+
+97
+00:04:39,448 --> 00:04:42,458
+at TGS. I like to think
+of this staff as a family.
+
+98
+00:04:42,689 --> 00:04:44,271
+This is better than a family.
+
+99
+00:04:44,396 --> 00:04:46,993
+No one around here asks me
+for my damn bone marrow.
+
+100
+00:04:47,163 --> 00:04:49,012
+Why don't we make this
+easy on ourselves
+
+101
+00:04:49,137 --> 00:04:51,237
+and renew your existing contract
+
+102
+00:04:51,425 --> 00:04:53,036
+with a 3% increase?
+
+103
+00:04:57,617 --> 00:04:59,457
+Sorry it took me so long to answer.
+
+104
+00:04:59,582 --> 00:05:02,425
+I was just thinking about
+how weird it is that we eat birds.
+
+105
+00:05:02,594 --> 00:05:04,394
+All right, we have a deal.
+
+106
+00:05:04,691 --> 00:05:07,514
+You see how easy negotiating can be
+when it's not really about money.
+
+107
+00:05:07,682 --> 00:05:09,645
+How's this really not about money?
+
+108
+00:05:09,770 --> 00:05:12,185
+Obviously you don't need to work.
+
+109
+00:05:12,657 --> 00:05:13,978
+What's that now, Charles?
+
+110
+00:05:14,147 --> 00:05:16,439
+I'm just saying
+you made $300 million
+
+111
+00:05:16,608 --> 00:05:18,703
+last year,
+so there's no financial need
+
+112
+00:05:18,828 --> 00:05:21,214
+for you to continue
+with the show, but...
+
+113
+00:05:21,339 --> 00:05:24,039
+I never thought of it like that.
+Thank you.
+
+114
+00:05:24,874 --> 00:05:26,368
+I quit. Goodbye.
+
+115
+00:05:29,713 --> 00:05:32,254
+Had he really not put that together?
+
+116
+00:05:32,500 --> 00:05:35,208
+Tracy's is a tactile
+kinesthetic learning style.
+
+117
+00:05:36,905 --> 00:05:38,256
+So help me god...
+
+118
+00:05:42,193 --> 00:05:44,471
+It's nice of those guys
+to give up their court for us.
+
+119
+00:05:44,596 --> 00:05:45,696
+Yes, for us.
+
+120
+00:05:49,119 --> 00:05:52,559
+So I should probably warn you
+I was pro in college.
+
+121
+00:05:52,786 --> 00:05:53,598
+What?
+
+122
+00:05:53,723 --> 00:05:55,287
+I started teaching kids at the Y
+
+123
+00:05:55,412 --> 00:05:58,190
+and then all their mothers wanted
+to take private lessons from me.
+
+124
+00:05:58,358 --> 00:06:00,364
+But I promise
+I'll take it easy on you.
+
+125
+00:06:19,569 --> 00:06:21,338
+It's been a long time since college?
+
+126
+00:06:21,699 --> 00:06:22,839
+What do you mean?
+
+127
+00:06:23,008 --> 00:06:25,164
+Excuse me.
+Do you give lessons?
+
+128
+00:06:35,033 --> 00:06:38,439
+- Now what is this?
+- Dr. Drew's salmon bourguignon.
+
+129
+00:06:38,984 --> 00:06:40,523
+What is this orangey taste?
+
+130
+00:06:40,693 --> 00:06:41,607
+Gatorade.
+
+131
+00:06:53,395 --> 00:06:54,454
+That was awesome.
+
+132
+00:07:04,804 --> 00:07:07,558
+Are you choking?
+I'm a doctor. Stay calm.
+
+133
+00:07:07,683 --> 00:07:09,219
+I just need to shake it loose.
+
+134
+00:07:10,681 --> 00:07:13,057
+Don't panic. I just need something
+to push it down with.
+
+135
+00:07:13,225 --> 00:07:16,434
+Do you have a chopstick
+or a fireplace match or something?
+
+136
+00:07:20,043 --> 00:07:21,276
+There you go.
+
+137
+00:07:23,902 --> 00:07:25,146
+Jack, there you are.
+
+138
+00:07:25,271 --> 00:07:28,238
+- I need to talk to you about something.
+- The Tracy deal is a process.
+
+139
+00:07:28,939 --> 00:07:30,548
+We are in process.
+
+140
+00:07:31,035 --> 00:07:32,826
+Something happened with Drew.
+
+141
+00:07:32,994 --> 00:07:35,317
+- He's not a BFF?
+- No! Never.
+
+142
+00:07:35,664 --> 00:07:36,860
+It's the bubble.
+
+143
+00:07:36,985 --> 00:07:39,333
+He is a doctor who doesn't know
+the Heimlich maneuver.
+
+144
+00:07:39,592 --> 00:07:41,334
+He can't play tennis.
+He can't cook.
+
+145
+00:07:41,505 --> 00:07:43,355
+He's as bad at sex as I am.
+
+146
+00:07:43,571 --> 00:07:44,983
+But he has no idea.
+
+147
+00:07:45,108 --> 00:07:47,388
+That is the danger
+of being super handsome.
+
+148
+00:07:47,513 --> 00:07:49,662
+When you're in the bubble,
+nobody tells you the truth.
+
+149
+00:07:49,787 --> 00:07:51,804
+For years I thought
+I spoke excellent French.
+
+150
+00:07:55,211 --> 00:07:57,058
+Drew deserves to be told the truth.
+
+151
+00:07:57,227 --> 00:07:59,463
+He's a good person who is a victim
+
+152
+00:07:59,625 --> 00:08:02,773
+of our nation's obscene
+cult of superficiality.
+
+153
+00:08:02,941 --> 00:08:05,942
+Did you tell him
+that he was no good in tennis?
+
+154
+00:08:06,111 --> 00:08:09,070
+No, I let him win cause I wanted
+to make out with him in the cab.
+
+155
+00:08:09,680 --> 00:08:12,228
+It's not fair
+to let Drew live a lie.
+
+156
+00:08:12,441 --> 00:08:15,138
+- And I think I'm the woman to fix him.
+- Be careful.
+
+157
+00:08:15,263 --> 00:08:18,204
+You wake a sleepwalker,
+you risk getting urinated on.
+
+158
+00:08:18,612 --> 00:08:20,421
+Or thanked... on.
+
+159
+00:08:23,336 --> 00:08:25,220
+- Mr. Jordan quit.
+- What?
+
+160
+00:08:26,259 --> 00:08:28,209
+I thought you were in process.
+
+161
+00:08:28,467 --> 00:08:31,259
+Tracy's taking a strong position
+right now in the negotiation.
+
+162
+00:08:31,429 --> 00:08:34,886
+It's not unheard of for him to stay home
+while I formulate my counter-proposal.
+
+163
+00:08:35,011 --> 00:08:37,928
+What if it doesn't work?
+What if he doesn't come back?
+
+164
+00:08:39,018 --> 00:08:41,269
+When I get upset my accent come out!
+
+165
+00:08:41,439 --> 00:08:44,897
+And when it gets to comin' out
+I can't get to talkin'...
+
+166
+00:08:45,919 --> 00:08:47,525
+I have a show on Friday.
+
+167
+00:08:47,695 --> 00:08:48,933
+It will be rectified.
+
+168
+00:08:49,058 --> 00:08:50,486
+I didn't mean to upset you.
+
+169
+00:08:50,655 --> 00:08:53,573
+Mr. Donaghy told us not to tell you
+but I couldn't hold it in anymore.
+
+170
+00:08:53,743 --> 00:08:56,409
+Wait a minute. Are you hiding
+your screw-up from me?
+
+171
+00:08:56,997 --> 00:08:58,809
+Don't cling to this.
+
+172
+00:08:59,415 --> 00:09:00,410
+Be a manager.
+
+173
+00:09:00,535 --> 00:09:03,195
+Control your people.
+Buy better clothes.
+
+174
+00:09:03,320 --> 00:09:06,151
+I'm allowing this because
+I made a misstep. I'm handling it.
+
+175
+00:09:06,276 --> 00:09:08,296
+And Tracy will be here
+by Friday night.
+
+176
+00:09:08,466 --> 00:09:09,747
+Just get it done.
+
+177
+00:09:09,872 --> 00:09:11,893
+Nope, I lost it.
+That was Batman.
+
+178
+00:09:16,149 --> 00:09:18,220
+Thank you team Jenna for being here.
+
+179
+00:09:18,345 --> 00:09:20,214
+Obviously my Today Show
+charity haircut
+
+180
+00:09:20,339 --> 00:09:22,268
+is just the first step
+in my reinvention.
+
+181
+00:09:22,437 --> 00:09:25,289
+- This is serial killer language.
+- My mother's boyfriend raised me
+
+182
+00:09:25,414 --> 00:09:27,815
+to believe that a woman's hair
+is her crowning glory.
+
+183
+00:09:27,992 --> 00:09:29,821
+A haircut
+can make or break a career.
+
+184
+00:09:29,946 --> 00:09:32,417
+Before the Rachel, Jennifer Aniston
+was just a chunky nobody
+
+185
+00:09:32,542 --> 00:09:34,947
+- who couldn't get a job.
+- Wasn't she already on Friends?
+
+186
+00:09:35,117 --> 00:09:37,367
+Richard Esposito, move to the back.
+
+187
+00:09:37,646 --> 00:09:40,170
+If I make the wrong choice,
+I could end up like Keri Russell,
+
+188
+00:09:40,295 --> 00:09:41,412
+<i>Felicity</i>, season 2.
+
+189
+00:09:41,775 --> 00:09:45,000
+Let's brainstorm. Everyone shout out
+words that describe my beauty.
+
+190
+00:09:45,168 --> 00:09:46,751
+- Fading.
+- '80s.
+
+191
+00:09:46,921 --> 00:09:47,721
+1880s.
+
+192
+00:09:50,909 --> 00:09:53,424
+- You needed me?
+- You know Rick from accounting?
+
+193
+00:09:53,594 --> 00:09:55,552
+- I don't. Hi.
+- Hi, nice to meet you.
+
+194
+00:09:56,864 --> 00:09:59,812
+I have arrange
+for one of Tracy's childhood idols
+
+195
+00:09:59,937 --> 00:10:01,489
+to reach out to him.
+
+196
+00:10:04,270 --> 00:10:05,860
+- <i>Hello?</i>
+- Tracy, this is Jack.
+
+197
+00:10:05,985 --> 00:10:08,356
+I have someone here
+who wants to speak with you.
+
+198
+00:10:09,143 --> 00:10:10,354
+This is Bill Cosby.
+
+199
+00:10:10,527 --> 00:10:13,237
+- Really? This is your strategy?
+- I heard him do this at a party.
+
+200
+00:10:13,553 --> 00:10:15,850
+I want you to come back to the TGS
+
+201
+00:10:15,975 --> 00:10:18,366
+for the people who like
+the jokes and the things.
+
+202
+00:10:18,670 --> 00:10:21,245
+<i>Bill Cosby, you got a lot of nerve
+getting on the phone with me</i>
+
+203
+00:10:21,413 --> 00:10:23,496
+<i>after what you did
+to my aunt Paulette!</i>
+
+204
+00:10:23,672 --> 00:10:25,957
+I think you're confusing me
+with someone else.
+
+205
+00:10:26,127 --> 00:10:27,710
+<i>1971, Cincinnati.</i>
+
+206
+00:10:28,237 --> 00:10:30,736
+<i>She was the cocktail waitress
+with the droopy eye.</i>
+
+207
+00:10:30,861 --> 00:10:33,090
+I'm the guy with the pudding...
+
+208
+00:10:33,259 --> 00:10:34,727
+<i>Try to tell me what to do?</i>
+
+209
+00:10:34,852 --> 00:10:37,999
+<i>Dr. Heathcliff Huxtable
+with your light-ass kids.</i>
+
+210
+00:10:38,759 --> 00:10:41,121
+<i>Why would you make me
+talk to this man?</i>
+
+211
+00:10:41,823 --> 00:10:42,932
+Don't hang up.
+
+212
+00:10:43,180 --> 00:10:46,044
+Tracy, this is Billy Dee Williams.
+I just wanna say I love your work.
+
+213
+00:10:46,169 --> 00:10:47,519
+It's very smooth.
+
+214
+00:11:00,286 --> 00:11:02,449
+Sorry I'm late.
+Why are you waiting here?
+
+215
+00:11:02,574 --> 00:11:05,162
+I put our name in
+but it's gonna be a 45 minute wait.
+
+216
+00:11:05,390 --> 00:11:07,207
+What?
+I'll go talk to the hostess.
+
+217
+00:11:08,228 --> 00:11:09,936
+I wanna show you something.
+
+218
+00:11:10,061 --> 00:11:12,295
+We're going to wait for the table.
+
+219
+00:11:16,630 --> 00:11:17,727
+I hate this.
+
+220
+00:11:18,693 --> 00:11:20,593
+This is gonna be unpleasant.
+
+221
+00:11:21,155 --> 00:11:23,306
+As Tracy's family and inner circle,
+
+222
+00:11:23,475 --> 00:11:25,016
+I wanted to enlist your help.
+
+223
+00:11:25,185 --> 00:11:28,010
+While I'm sure all of you
+treasure him being home more...
+
+224
+00:11:28,135 --> 00:11:30,873
+I'm sorry. You want our help
+with your problem?
+
+225
+00:11:31,131 --> 00:11:32,982
+You need to get
+our father back to work.
+
+226
+00:11:33,152 --> 00:11:34,567
+That's what I'm trying to do.
+
+227
+00:11:34,736 --> 00:11:37,068
+You wanna see what he packed me
+for lunch today?
+
+228
+00:11:37,740 --> 00:11:38,890
+Mayonnaise...
+
+229
+00:11:39,829 --> 00:11:41,982
+- And a pack of cigarettes.
+- That is unfortunate.
+
+230
+00:11:42,107 --> 00:11:45,036
+He set up a home recording studio
+in our rec room.
+
+231
+00:11:45,288 --> 00:11:47,715
+<i>My girl has a fat neck</i>
+
+232
+00:11:47,946 --> 00:11:49,791
+I'm sharp.
+Let's do it again.
+
+233
+00:11:49,959 --> 00:11:52,766
+Thanks to you, I now have
+an unemployed father.
+
+234
+00:11:52,964 --> 00:11:56,255
+You trying to make a stereotype
+out of me? Did you even vote for Obama?
+
+235
+00:11:56,425 --> 00:11:58,842
+We've heard from Tracy junior.
+Where is your mother?
+
+236
+00:11:59,010 --> 00:12:02,387
+Gone to take a spa week at Canyon Ranch
+before my dad broke it in half.
+
+237
+00:12:02,645 --> 00:12:05,765
+What's that supposed to mean? I should
+not have to hear that. I'm a child!
+
+238
+00:12:05,935 --> 00:12:07,808
+Tracy junior, George Foreman,
+
+239
+00:12:08,124 --> 00:12:10,658
+I want to get your father back to work
+just as much as you do.
+
+240
+00:12:10,783 --> 00:12:12,994
+But what do I offer the man
+who has everything?
+
+241
+00:12:13,119 --> 00:12:14,401
+I don't know what to do.
+
+242
+00:12:14,526 --> 00:12:16,464
+I didn't come here
+to hear more excuses.
+
+243
+00:12:16,589 --> 00:12:19,026
+I'm here to see the dumbest
+cracker in all of New York.
+
+244
+00:12:19,151 --> 00:12:21,489
+You gotta fix this, Donaghy.
+Fix this!
+
+245
+00:12:21,835 --> 00:12:24,028
+You know I don't see it on the menu
+
+246
+00:12:24,153 --> 00:12:26,285
+but I would love a catfish po'boy
+
+247
+00:12:26,454 --> 00:12:28,217
+and a diet raspberry Fanta.
+
+248
+00:12:28,342 --> 00:12:29,538
+That is a great idea.
+
+249
+00:12:29,707 --> 00:12:32,124
+Let me order that for you.
+Excuse me.
+
+250
+00:12:32,343 --> 00:12:34,493
+We will have a turkeyburger deluxe
+
+251
+00:12:34,618 --> 00:12:37,667
+and a catfish po'boy
+with a diet raspberry Fanta.
+
+252
+00:12:38,208 --> 00:12:40,032
+I'm gonna come back in five minutes
+
+253
+00:12:40,157 --> 00:12:41,885
+you try to order off the menu again
+
+254
+00:12:42,053 --> 00:12:44,388
+I will smack those glasses
+off your face.
+
+255
+00:12:45,294 --> 00:12:47,149
+- Thank you.
+- You're welcome.
+
+256
+00:12:49,135 --> 00:12:51,561
+What was that?
+Why didn't she call you "sweetheart"?
+
+257
+00:12:51,865 --> 00:12:54,504
+And where's the complimentary
+app sampler? What's going on?
+
+258
+00:12:55,226 --> 00:12:57,233
+This is how most people live.
+
+259
+00:12:58,153 --> 00:13:00,413
+See, because of your whole,
+you know,
+
+260
+00:13:00,538 --> 00:13:02,823
+- Disney prince thing...
+- Actually they used
+
+261
+00:13:02,991 --> 00:13:05,491
+footage of me from high school
+swim team to draw prince Eric.
+
+262
+00:13:05,660 --> 00:13:07,410
+Right, because of that...
+
+263
+00:13:07,835 --> 00:13:09,663
+you live in a bubble
+
+264
+00:13:09,832 --> 00:13:12,791
+where people do what you want
+and tell you what you wanna hear.
+
+265
+00:13:13,026 --> 00:13:15,859
+- I don't think that's true.
+- I'm gonna tell you for your own good.
+
+266
+00:13:15,984 --> 00:13:18,463
+You can't put Gatorade on salmon.
+
+267
+00:13:18,670 --> 00:13:21,624
+Yes, you can. The hot Italian lady
+from the food network told me so.
+
+268
+00:13:21,749 --> 00:13:23,408
+Did she say it on TV?
+
+269
+00:13:23,720 --> 00:13:27,236
+She said it to me when she jumped
+escalators to try to talk to...
+
+270
+00:13:30,677 --> 00:13:33,388
+I don't wanna live that way.
+I don't want you to treat me that way.
+
+271
+00:13:33,513 --> 00:13:34,438
+Are you sure?
+
+272
+00:13:34,961 --> 00:13:36,087
+I'm an adult.
+
+273
+00:13:36,386 --> 00:13:38,482
+You can be honest with me.
+I can take it.
+
+274
+00:13:47,665 --> 00:13:50,494
+- That's game. Your serve.
+- That's it! I quit!
+
+275
+00:13:50,977 --> 00:13:53,330
+This racquet is a fart
+and you cheat!
+
+276
+00:13:53,682 --> 00:13:55,394
+You're a cheating bitch!
+
+277
+00:14:02,930 --> 00:14:04,217
+I need your help.
+
+278
+00:14:04,385 --> 00:14:06,844
+You know Tracy quite well,
+wouldn't you say?
+
+279
+00:14:07,231 --> 00:14:10,431
+I know Mr. Jordan like the back
+of my stepfather Ron's hand.
+
+280
+00:14:10,601 --> 00:14:12,433
+I know all his ATM pin codes.
+
+281
+00:14:12,602 --> 00:14:14,750
+I know when he's cranky
+and needs his binky.
+
+282
+00:14:14,875 --> 00:14:17,725
+I know that by binky
+he means 1970s pornography.
+
+283
+00:14:17,900 --> 00:14:20,191
+So how is he functioning
+without you?
+
+284
+00:14:20,570 --> 00:14:22,443
+I'm still doing everything for him.
+
+285
+00:14:22,612 --> 00:14:25,239
+Tonight I have to ride my bike
+over to his house in New Jersey
+
+286
+00:14:25,364 --> 00:14:26,780
+to hold his hand during <i>Lost</i>.
+
+287
+00:14:26,949 --> 00:14:28,575
+That's it, don't you see?
+
+288
+00:14:29,003 --> 00:14:31,745
+- You're our ace in the hole.
+- How dare you!
+
+289
+00:14:31,913 --> 00:14:33,512
+You're what I've been looking for.
+
+290
+00:14:33,637 --> 00:14:36,415
+The one thing at TGS
+that Tracy cannot live without.
+
+291
+00:14:36,681 --> 00:14:38,126
+Now, I need you...
+
+292
+00:14:38,412 --> 00:14:40,170
+to cut Tracy off completely.
+
+293
+00:14:40,445 --> 00:14:42,338
+I don't know if I could do that.
+
+294
+00:14:42,509 --> 00:14:45,627
+You want him to come back, don't you?
+This is the only way.
+
+295
+00:14:45,977 --> 00:14:48,052
+Don't answer that.
+It could be Tracy.
+
+296
+00:14:48,284 --> 00:14:51,305
+But I have to answer the phones.
+That's my job.
+
+297
+00:14:56,666 --> 00:14:58,461
+Hello. Studio 6H.
+
+298
+00:14:59,015 --> 00:15:00,015
+This is...
+
+299
+00:15:00,481 --> 00:15:01,483
+Cranston.
+
+300
+00:15:02,040 --> 00:15:04,073
+Hey Cranston,
+I was looking for Kenneth.
+
+301
+00:15:04,198 --> 00:15:05,528
+<i>He's not here.</i>
+
+302
+00:15:06,093 --> 00:15:08,925
+But I'm sure wherever he is,
+he loves you very much.
+
+303
+00:15:19,033 --> 00:15:21,753
+You seem really stressed out.
+You wanna talk about what's going on?
+
+304
+00:15:22,018 --> 00:15:23,671
+I just hope it's not a mistake.
+
+305
+00:15:24,048 --> 00:15:26,508
+Maybe it is.
+But you have to listen to your heart.
+
+306
+00:15:26,676 --> 00:15:29,009
+But why meddle
+with something that was great?
+
+307
+00:15:29,910 --> 00:15:31,012
+It'll grow back.
+
+308
+00:15:31,369 --> 00:15:32,180
+What?
+
+309
+00:15:32,348 --> 00:15:34,224
+We're talking about my hair, right?
+
+310
+00:15:36,245 --> 00:15:37,592
+<i>Fat neck girl</i>
+
+311
+00:15:37,717 --> 00:15:40,015
+<i>Let me count your neck rings</i>
+
+312
+00:15:42,028 --> 00:15:43,204
+I'm thirsty!
+
+313
+00:15:44,394 --> 00:15:45,265
+Family!
+
+314
+00:15:45,715 --> 00:15:47,665
+Who's in charge of my thirst?
+
+315
+00:15:55,430 --> 00:15:57,880
+Why hasn't Kenneth
+called me back yet?
+
+316
+00:15:58,005 --> 00:15:59,086
+I miss him.
+
+317
+00:16:02,062 --> 00:16:03,512
+Why are you crying?
+
+318
+00:16:06,072 --> 00:16:07,881
+This is too hard, Mr. Donaghy.
+
+319
+00:16:08,051 --> 00:16:09,991
+I cannot stand by while Mr. Jordan
+
+320
+00:16:10,116 --> 00:16:12,344
+dies of dehydration
+in his recording studio.
+
+321
+00:16:12,852 --> 00:16:15,736
+Plus, I've started
+to dream as Cranston.
+
+322
+00:16:16,640 --> 00:16:19,893
+The more desperate Tracy becomes
+the more our plan is working.
+
+323
+00:16:20,062 --> 00:16:23,480
+Next thing he'll do is show up here.
+He'll demand you go with. You say no.
+
+324
+00:16:23,666 --> 00:16:25,516
+Stay strong and he'll cave.
+
+325
+00:16:26,283 --> 00:16:27,233
+Trust me.
+
+326
+00:16:27,358 --> 00:16:28,570
+I hope your right.
+
+327
+00:16:29,273 --> 00:16:31,448
+Because you're playing
+with people's lives here.
+
+328
+00:16:32,006 --> 00:16:33,906
+Don't you think I know that?
+
+329
+00:16:36,372 --> 00:16:38,871
+We are back with sketch comedian
+Jenna Maroney.
+
+330
+00:16:39,041 --> 00:16:41,874
+Thank you, Meredith.
+But please, I'm not a hero.
+
+331
+00:16:42,043 --> 00:16:43,516
+Just trying to raise awareness
+
+332
+00:16:43,641 --> 00:16:46,129
+that I'm more than that hot chick
+on Tracy Jordan's show.
+
+333
+00:16:46,297 --> 00:16:49,182
+- So this is for Locks of Love?
+- Locks of Love turned me down.
+
+334
+00:16:49,307 --> 00:16:51,888
+They said my hair was too processed
+for a sick person to wear.
+
+335
+00:16:52,013 --> 00:16:54,887
+But this is for a wonderful charity
+called Merkins of Hope.
+
+336
+00:16:56,314 --> 00:16:57,681
+Let's make the big cut.
+
+337
+00:16:58,827 --> 00:17:01,268
+So what about that crazy news
+that Tracy Jordan
+
+338
+00:17:01,438 --> 00:17:03,138
+- has quit TGS?
+- What?
+
+339
+00:17:03,764 --> 00:17:05,982
+Word is he quit
+over a contract dispute.
+
+340
+00:17:06,150 --> 00:17:08,326
+Guess you're the only star
+left on that show.
+
+341
+00:17:08,601 --> 00:17:10,916
+Stop cutting my hair!
+I don't need this anymore!
+
+342
+00:17:12,522 --> 00:17:13,405
+It's OK.
+
+343
+00:17:13,824 --> 00:17:15,784
+It's OK.
+I can fix this.
+
+344
+00:17:19,471 --> 00:17:22,511
+Is Tracy still not here?
+We have 3 hours before the show.
+
+345
+00:17:22,636 --> 00:17:26,012
+Security told me that
+he's in the building, so it's working.
+
+346
+00:17:26,489 --> 00:17:29,251
+Now it's all up
+to Kenneth Ellen Parcell.
+
+347
+00:17:31,921 --> 00:17:34,803
+I've been calling you. Has Cranston
+not been giving you my messages?
+
+348
+00:17:36,233 --> 00:17:37,389
+He told me.
+
+349
+00:17:37,891 --> 00:17:39,517
+Well... don't worry.
+
+350
+00:17:39,977 --> 00:17:41,957
+Just came to get a few of my things.
+
+351
+00:17:42,082 --> 00:17:43,732
+Then I won't bother you.
+
+352
+00:17:48,484 --> 00:17:50,943
+All right,
+I guess that's everything.
+
+353
+00:17:51,441 --> 00:17:53,074
+But I want you to know
+
+354
+00:17:53,199 --> 00:17:54,853
+if I walk out that door,
+
+355
+00:17:54,978 --> 00:17:56,572
+I'm not gonna call again.
+
+356
+00:17:56,697 --> 00:17:57,697
+It's over.
+
+357
+00:17:58,244 --> 00:17:59,494
+You understand?
+
+358
+00:18:03,058 --> 00:18:04,373
+I can't do this.
+
+359
+00:18:04,896 --> 00:18:06,546
+I'm sorry, but I can't.
+
+360
+00:18:09,210 --> 00:18:12,257
+Mr. Donaghy wanted me to stop
+talking to you so you'd come back.
+
+361
+00:18:12,425 --> 00:18:14,466
+So you used Cranston
+as his gatekeeper.
+
+362
+00:18:14,591 --> 00:18:16,067
+I'm very disappointed.
+
+363
+00:18:16,486 --> 00:18:18,026
+I know, I blew it.
+
+364
+00:18:18,350 --> 00:18:21,328
+I guess I'm only farm strong
+and not heart strong.
+
+365
+00:18:21,453 --> 00:18:23,878
+Fine. Go and help him.
+I shouldn't have tried to...
+
+366
+00:18:24,003 --> 00:18:25,890
+manipulate the two of you that way.
+
+367
+00:18:26,015 --> 00:18:28,313
+But I will need you
+to turn in your page jacket.
+
+368
+00:18:30,444 --> 00:18:31,257
+What?
+
+369
+00:18:31,382 --> 00:18:33,386
+Your main duty
+was taking care of Tracy.
+
+370
+00:18:33,511 --> 00:18:34,820
+He no longer works here.
+
+371
+00:18:34,990 --> 00:18:37,573
+Therefore your services
+are no longer required.
+
+372
+00:18:37,742 --> 00:18:38,852
+As a page?
+
+373
+00:18:40,737 --> 00:18:42,870
+Wait a minute.
+You want to fire my boy Ken?
+
+374
+00:18:43,039 --> 00:18:44,792
+Stay out of this.
+It's not your concern.
+
+375
+00:18:44,917 --> 00:18:46,791
+- Unless.
+- Unless what?
+
+376
+00:18:46,959 --> 00:18:50,025
+You said Kenneth can't work here
+because I don't work here.
+
+377
+00:18:50,150 --> 00:18:52,254
+But if I work here, so can Kenneth.
+
+378
+00:18:53,023 --> 00:18:55,633
+- I don't understand.
+- Of course you don't, you idiot.
+
+379
+00:18:56,094 --> 00:18:57,510
+I'm coming back to work!
+
+380
+00:18:57,786 --> 00:18:58,990
+With Kenneth!
+
+381
+00:18:59,174 --> 00:19:00,722
+Damn you and your meddling.
+
+382
+00:19:00,890 --> 00:19:02,515
+I'll be in my dressing room.
+
+383
+00:19:02,683 --> 00:19:04,017
+Atta boy. Come on.
+
+384
+00:19:07,231 --> 00:19:09,412
+I've gotta get back
+into that bubble.
+
+385
+00:19:18,222 --> 00:19:19,910
+Sir, you are pulling that look off.
+
+386
+00:19:20,035 --> 00:19:23,328
+I wanted to apologize for my behavior
+the other day on the tennis court.
+
+387
+00:19:23,606 --> 00:19:25,078
+That is not who I am.
+
+388
+00:19:25,247 --> 00:19:27,623
+- But you made me feel like a loser
+- Cause you lost.
+
+389
+00:19:28,665 --> 00:19:30,946
+Maybe I shouldn't
+have done that to you, but...
+
+390
+00:19:31,218 --> 00:19:32,711
+you have so much potential.
+
+391
+00:19:32,881 --> 00:19:34,505
+But I'm happy this way.
+
+392
+00:19:35,002 --> 00:19:37,101
+I didn't like it outside the bubble.
+
+393
+00:19:37,659 --> 00:19:39,855
+- It was very ironic.
+- No, it wasn't.
+
+394
+00:19:39,980 --> 00:19:42,151
+- That's not how you use that word...
+- Stop it.
+
+395
+00:19:42,276 --> 00:19:44,015
+I wanna use ironic however I want.
+
+396
+00:19:44,447 --> 00:19:46,177
+I wanna stay in the bubble.
+
+397
+00:19:47,109 --> 00:19:48,645
+And I want you in there with me.
+
+398
+00:19:50,230 --> 00:19:51,130
+Come on.
+
+399
+00:19:51,525 --> 00:19:52,773
+Come away with me.
+
+400
+00:19:53,234 --> 00:19:55,526
+We can go upstate
+on my new motorcycle.
+
+401
+00:20:01,010 --> 00:20:02,866
+I don't think this is going to work.
+
+402
+00:20:06,219 --> 00:20:08,164
+I guess I'll see you around then.
+
+403
+00:20:09,208 --> 00:20:10,576
+Or as the french say,
+
+404
+00:20:14,971 --> 00:20:16,214
+I'll see you around.
+
+9999
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.tvsubtitles.net</font>

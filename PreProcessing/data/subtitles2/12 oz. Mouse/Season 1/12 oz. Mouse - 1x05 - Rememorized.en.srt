@@ -1,0 +1,454 @@
+﻿1
+00:00:40,320 --> 00:00:43,220  SSA: Dialogue, Layer: 0, Style: Default, Name: MAN/WOMAN, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Today's a good day for playing catch.
+
+2
+00:00:51,130 --> 00:00:53,460  SSA: Dialogue, Layer: 0, Style: Default, Name: MAN/WOMAN, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+I wonder who will play catch with me today.
+
+3
+00:00:53,960 --> 00:00:57,830  SSA: Dialogue, Layer: 0, Style: Default, Name: MAN/WOMAN, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+What the? Stop! Where's everyone going?
+
+4
+00:00:57,830 --> 00:01:02,260  SSA: Dialogue, Layer: 0, Style: Default, Name: SQUARE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Well, first off, all those people are actually following me,
+
+5
+00:01:02,760 --> 00:01:09,560  SSA: Dialogue, Layer: 0, Style: Default, Name: SQUARE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+because I have a seven thousand mile global head start. So if you think I'm following them,
+
+6
+00:01:09,560 --> 00:01:13,560  SSA: Dialogue, Layer: 0, Style: Default, Name: SQUARE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+you are wrong. I am a leader, not a follower.
+
+7
+00:01:13,560 --> 00:01:15,300  SSA: Dialogue, Layer: 0, Style: Default, Name: MAN/WOMAN, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+You play catch with me now.
+
+8
+00:01:15,300 --> 00:01:17,810  SSA: Dialogue, Layer: 0, Style: Default, Name: SQUARE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+No, uh... no way in hell.
+
+9
+00:01:17,810 --> 00:01:19,150  SSA: Dialogue, Layer: 0, Style: Default, Name: MAN/WoMAN, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Do you know how to play catch?
+
+10
+00:01:19,150 --> 00:01:22,690  SSA: Dialogue, Layer: 0, Style: Default, Name: SQUARE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+I know how to play you give me forty dollars.
+
+11
+00:01:22,690 --> 00:01:27,590  SSA: Dialogue, Layer: 0, Style: Default, Name: MAN/WOMAN, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+It's easy. I throw ball, and you catch ball. Try it now.
+
+12
+00:01:29,320 --> 00:01:32,030  SSA: Dialogue, Layer: 0, Style: Default, Name: MAN/WOMAN, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+You didn't catch the ball. Try again.
+
+13
+00:01:34,150 --> 00:01:36,230  SSA: Dialogue, Layer: 0, Style: Default, Name: SQUARE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+I don't have any arms.
+
+14
+00:01:36,230 --> 00:01:37,100  SSA: Dialogue, Layer: 0, Style: Default, Name: MAN/WOMAN, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Oh.
+
+15
+00:01:37,540 --> 00:01:43,300  SSA: Dialogue, Layer: 0, Style: Default, Name: SQUARE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+And now that you've made me admit what you wrongfully think is a medical inconsistency,
+
+16
+00:01:43,740 --> 00:01:48,960  SSA: Dialogue, Layer: 0, Style: Default, Name: SQUARE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+I have to go. I'm extremely late, and you are the one who has problems, not me.
+
+17
+00:01:50,730 --> 00:01:52,350  SSA: Dialogue, Layer: 0, Style: Default, Name: MAN/WOMAN, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Hey! You wanna play catch?
+
+18
+00:01:52,350 --> 00:01:57,000  SSA: Dialogue, Layer: 0, Style: Default, Name: RHODA, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Uh, no! I do not. Hey, uh, d'ya happen to see where everyone went to?
+
+19
+00:01:57,000 --> 00:01:59,000  SSA: Dialogue, Layer: 0, Style: Default, Name: MAN/WOMAN, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Yes.
+
+20
+00:01:59,800 --> 00:02:02,520  SSA: Dialogue, Layer: 0, Style: Default, Name: RHODA, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+OKay. Which, uh, way was that to?
+
+21
+00:02:02,520 --> 00:02:08,880  SSA: Dialogue, Layer: 0, Style: Default, Name: MAN/WOMAN, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+You're ending your sentences in prepositional phrases. You better stop ending your sentences in prepositional phrases.
+
+22
+00:02:08,880 --> 00:02:10,040  SSA: Dialogue, Layer: 0, Style: Default, Name: RHODA, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Or what?
+
+23
+00:02:10,040 --> 00:02:12,290  SSA: Dialogue, Layer: 0, Style: Default, Name: MAN/WOMAN, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Or I'll make it look like you killed me.
+
+24
+00:02:13,070 --> 00:02:18,990  SSA: Dialogue, Layer: 0, Style: Default, Name: RHODA, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Yeah, look, I'm, I was late because I had to close the bar, and I don't ever close the bar, but I closed it, okay?
+
+25
+00:02:18,990 --> 00:02:22,020  SSA: Dialogue, Layer: 0, Style: Default, Name: RHODA, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+So if you wanna live, tell me where they went to.
+
+26
+00:02:22,020 --> 00:02:23,080  SSA: Dialogue, Layer: 0, Style: Default, Name: MAN/WOMAN, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Never.
+
+27
+00:02:32,390 --> 00:02:36,860  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Whoa, whoa, whoa, Skillet, down, down, Skillet. Stop. Everybody stop.
+
+28
+00:02:36,960 --> 00:02:41,330  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+When I go like this: , that's when you hit the cymbal.
+
+29
+00:02:45,100 --> 00:02:47,390  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+No, man. You're still doin' it wrong.
+
+30
+00:02:48,290 --> 00:02:51,240  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+What'd you, um... what'd you do with the cymbals?
+
+31
+00:02:53,480 --> 00:02:54,870  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Come in.
+
+32
+00:02:59,700 --> 00:03:02,280  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK (On the TV), MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Welcome to the shark show.
+
+33
+00:03:02,280 --> 00:03:09,660  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK (On the TV), MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Um, tonight is gonna be really fun, 'cause we have, uh, Pronto here.
+
+34
+00:03:12,050 --> 00:03:13,540  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK (On the TV), MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+And here's Pronto.
+
+35
+00:03:17,000 --> 00:03:24,210  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK (On the TV), MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Anyway, Pronto, to my left, lives in a condo down off Quiver.
+
+36
+00:03:24,210 --> 00:03:31,280  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK (On the TV), MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+He's into, uh, archery. Archery, mouse. You hear that?
+
+37
+00:03:31,830 --> 00:03:41,940  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK (On the TV), MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Pronto's into archery. He's the best. He's an archerist, Mouse. An archerist.
+
+38
+00:03:44,680 --> 00:03:45,700  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+That's a good show.
+
+39
+00:03:46,690 --> 00:03:50,020  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Oh. You're right. It's not a good show at all.
+
+40
+00:03:51,850 --> 00:03:57,690  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+I know, um, I'm hungry too, but there's only a hand and a cold phone in the icebox.
+
+41
+00:04:28,880 --> 00:04:31,060  SSA: Dialogue, Layer: 0, Style: Default, Name: PEANUT, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Everybody, don't move.
+
+42
+00:04:31,060 --> 00:04:34,880  SSA: Dialogue, Layer: 0, Style: Default, Name: PEANUT, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+St- stop moving around so much. Around.
+
+43
+00:04:36,310 --> 00:04:40,630  SSA: Dialogue, Layer: 0, Style: Default, Name: PEANUT, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Now, gimme the cash!
+
+44
+00:04:42,120 --> 00:04:47,850  SSA: Dialogue, Layer: 0, Style: Default, Name: PEANUT, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Come- come on, guys! I'm, I'm totally s-, I'm totally serious.
+
+45
+00:05:09,630 --> 00:05:21,070  SSA: Dialogue, Layer: 0, Style: Default, Name: PEANUT, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+I'm not foolin'.  F-f-f-f-foolin'! Around. Give it to me! Gimme the cash.
+
+46
+00:05:21,070 --> 00:05:27,280  SSA: Dialogue, Layer: 0, Style: Default, Name: PEANUT, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Oh, god!  The Leppard rocks. Right?
+
+47
+00:05:27,280 --> 00:05:35,990  SSA: Dialogue, Layer: 0, Style: Default, Name: PEANUT, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+F-foolin'.  I'm starving!
+
+48
+00:05:53,810 --> 00:06:05,500  SSA: Dialogue, Layer: 0, Style: Default, Name: PEANUT, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+I'm gonna count  to like three, okay, and everybody who can gimme the cash , they better give it to me.
+
+49
+00:06:05,880 --> 00:06:10,490  SSA: Dialogue, Layer: 0, Style: Default, Name: PEANUT, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+All right? Like, now. Everybody.
+
+50
+00:06:19,950 --> 00:06:26,380  SSA: Dialogue, Layer: 0, Style: Default, Name: PEANUT, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Okay. Gimme the cash!  Gimme some fries.
+
+51
+00:06:38,760 --> 00:06:42,570  SSA: Dialogue, Layer: 0, Style: Default, Name: PEANUT, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Is it, is it kinda hot in here?
+
+52
+00:07:14,960 --> 00:07:20,480  SSA: Dialogue, Layer: 0, Style: Default, Name: PEANUT, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Everybody? Where'd ya go? Gimme some fries.
+
+53
+00:07:20,620 --> 00:07:31,730  SSA: Dialogue, Layer: 0, Style: Default, Name: PEANUT, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+You better gimme the cash, right, 'cause then, I'll have the cash, okay, and then people, they come up to me, and they, and, I'll say, they'll say...
+
+54
+00:07:31,730 --> 00:07:34,850  SSA: Dialogue, Layer: 0, Style: Default, Name: PEANUT, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Hold on, hold on. Let me start over. Let me start over.
+
+55
+00:07:34,850 --> 00:07:44,970  SSA: Dialogue, Layer: 0, Style: Default, Name: PEANUT, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+People might come up to me, and they, and say, can I have some cash, or some money? And I'll say, no way dude!
+
+56
+00:07:44,970 --> 00:07:48,170  SSA: Dialogue, Layer: 0, Style: Default, Name: PEANUT, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Awesome. When did that happen?
+
+57
+00:07:48,170 --> 00:07:52,240  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Who was that... person we were fighting?
+
+58
+00:07:53,090 --> 00:07:54,200  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+I don't know either.
+
+59
+00:07:54,200 --> 00:07:57,980  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Where is everyone? And why?
+
+60
+00:08:00,270 --> 00:08:02,970  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+He, uh... he doesn't count, man.
+
+61
+00:08:02,970 --> 00:08:07,530  SSA: Dialogue, Layer: 0, Style: Default, Name: ANNOYING WOMAN, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Officer, you can't sleep here. Officer? Officer, you can't sleep here, officer.
+
+62
+00:08:07,530 --> 00:08:08,030  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Stop.
+
+63
+00:08:08,030 --> 00:08:09,270  SSA: Dialogue, Layer: 0, Style: Default, Name: ANNOYING WOMAN, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+You can't sleep here, officer.
+
+64
+00:08:09,270 --> 00:08:10,280  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Stop.
+
+65
+00:08:10,280 --> 00:08:13,950  SSA: Dialogue, Layer: 0, Style: Default, Name: ANNOYING WOMAN, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+{i1}You can't sleep here. {i01}Stop.{0} {i1}Officer-{i01} Stop it.{0} {i1}You can't sleep here.{i0} {1}Stop it.{0}
+
+66
+00:08:14,480 --> 00:08:15,980  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Who are you?
+
+67
+00:08:15,980 --> 00:08:20,080  SSA: Dialogue, Layer: 0, Style: Default, Name: ANNOYING WOMAN, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+I don't have to tell you who I am. You don't ask me who I am, you don't know me, you don't need to know who I am,
+
+68
+00:08:20,080 --> 00:08:23,600  SSA: Dialogue, Layer: 0, Style: Default, Name: ANNOYING WOMAN, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+you don't know who I am, you don't ask me who I am, you don't know me, you don't need to know who I am, you don't know who I am.
+
+69
+00:08:23,900 --> 00:08:27,790  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSe, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+I know. No one knows who you are. Congratulations.
+
+70
+00:08:27,790 --> 00:08:30,860  SSA: Dialogue, Layer: 0, Style: Default, Name: ANNOYING WOMAN, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+I don't have to say thank you to you. I said, I don't have to say thank you to you.
+
+71
+00:08:30,860 --> 00:08:33,780  SSA: Dialogue, Layer: 0, Style: Default, Name: ANNOYING WOMAN, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+I don't have to say thank you to you. I said, I don't have to say thank you to you.
+
+72
+00:08:33,780 --> 00:08:35,410  SSA: Dialogue, Layer: 0, Style: Default, Name: ANNOYING WOMAN, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+I don't have to say thank you to you.
+
+73
+00:08:43,740 --> 00:08:44,770  SSA: Dialogue, Layer: 0, Style: Default, Name: LIQUOR, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Oh, it's you.
+
+74
+00:08:44,770 --> 00:08:46,770  SSA: Dialogue, Layer: 0, Style: Default, Name: MAN/WOMAN, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+No one will play catch with me.
+
+75
+00:08:47,720 --> 00:08:48,280  SSA: Dialogue, Layer: 0, Style: Default, Name: LIQUOR, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Good!
+
+76
+00:08:48,280 --> 00:08:50,450  SSA: Dialogue, Layer: 0, Style: Default, Name: MAN/WOMAN, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+My job at the diner is not workin' out.
+
+77
+00:08:50,640 --> 00:08:54,410  SSA: Dialogue, Layer: 0, Style: Default, Name: MAN/WOMAN, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+I would rather play catch all day than work at that diner with the food.
+
+78
+00:08:54,970 --> 00:08:57,100  SSA: Dialogue, Layer: 0, Style: Default, Name: LIQUOR, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+I have an idea, and it's a good one.
+
+79
+00:08:57,100 --> 00:08:57,730  SSA: Dialogue, Layer: 0, Style: Default, Name: MAN/WOMAN, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Tell me.
+
+80
+00:08:57,730 --> 00:09:01,400  SSA: Dialogue, Layer: 0, Style: Default, Name: LIQUOR, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Go outside, stand in the road, every time you see a car, flip it off.
+
+81
+00:09:01,980 --> 00:09:03,560  SSA: Dialogue, Layer: 0, Style: Default, Name: MAN/WOMAN, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+What will that do?
+
+82
+00:09:03,560 --> 00:09:04,890  SSA: Dialogue, Layer: 0, Style: Default, Name: LIQUOR, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+It'll be neat.
+
+83
+00:09:04,890 --> 00:09:10,850  SSA: Dialogue, Layer: 0, Style: Default, Name: SQUARE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+I hope you know how very lucky you are to know me, since I'm so incredibly incredible.
+
+84
+00:09:10,850 --> 00:09:13,950  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Yeah. I am.
+
+85
+00:09:13,950 --> 00:09:18,570  SSA: Dialogue, Layer: 0, Style: Default, Name: SQUARE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+I heard that your greeny friend had a hankerin' for circus dogs.
+
+86
+00:09:18,570 --> 00:09:19,240  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+I know.
+
+87
+00:09:19,240 --> 00:09:23,780  SSA: Dialogue, Layer: 0, Style: Default, Name: SQUARE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+And that new guy got himself a prize. That's what I heard.
+
+88
+00:09:23,780 --> 00:09:27,320  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+You are so... talk so much.
+
+89
+00:09:27,320 --> 00:09:33,350  SSA: Dialogue, Layer: 0, Style: Default, Name: SQUARE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Well I'm just stating the obvious, which makes me one hundred percent right during all conversation.
+
+90
+00:09:33,350 --> 00:09:36,270  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Yeah, so uh, you sure this'll work?
+
+91
+00:09:36,270 --> 00:09:44,990  SSA: Dialogue, Layer: 0, Style: Default, Name: SQUARE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Has it ever not succeeded? Notice how I didn't use the F word because that word is to be not found in my vocab.
+
+92
+00:09:46,170 --> 00:09:50,800  SSA: Dialogue, Layer: 0, Style: Default, Name: SQUARE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Keep that thing away, or I won't do this.
+
+93
+00:09:50,800 --> 00:09:52,030  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Do it.
+
+94
+00:09:52,030 --> 00:10:01,990  SSA: Dialogue, Layer: 0, Style: Default, Name: SQUARE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Do it, please. Okay, you win. Miglo lamafla verniminin.
+
+95
+00:10:04,200 --> 00:10:06,820  SSA: Dialogue, Layer: 0, Style: Default, Name: SQUARE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+It is done. I did it.
+
+96
+00:10:06,820 --> 00:10:07,740  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Get out.
+
+97
+00:10:07,740 --> 00:10:09,570  SSA: Dialogue, Layer: 0, Style: Default, Name: SQUARE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+I will bill you.
+
+98
+00:10:09,570 --> 00:10:10,320  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+All the way out.
+
+99
+00:10:10,320 --> 00:10:11,570  SSA: Dialogue, Layer: 0, Style: Default, Name: SQUARE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+In a huge way.
+
+100
+00:10:11,570 --> 00:10:14,360  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Yeah, keep goin'. Keep goin'.
+
+101
+00:10:14,360 --> 00:10:19,250  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Just, no, just keep goin', 'til i stop saying keep going.
+
+102
+00:10:19,250 --> 00:10:22,440  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Keep going. Keep going.
+
+103
+00:10:22,440 --> 00:10:26,530  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Can you even still hear me? Good.
+
+104
+00:10:29,020 --> 00:10:30,350  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+What the?
+
+105
+00:10:31,510 --> 00:10:32,820  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+What's up with your problem?
+
+106
+00:10:32,820 --> 00:10:35,240  SSA: Dialogue, Layer: 0, Style: Default, Name: MAN/WOMAN, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Sea cells run dry over the sea cell.
+
+107
+00:10:36,080 --> 00:10:36,790  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+The what?
+
+108
+00:10:36,790 --> 00:10:39,230  SSA: Dialogue, Layer: 0, Style: Default, Name: MAN/WOMAN, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Sea cells run dry over the sea cell.
+
+109
+00:10:40,260 --> 00:10:41,100  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Um...
+
+110
+00:10:41,100 --> 00:10:41,540  SSA: Dialogue, Layer: 0, Style: Default, Name: MAN/WOMAN, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Sea cells run dry over-
+
+111
+00:10:41,650 --> 00:10:43,760  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Stop. Get in.
+
+112
+00:10:50,770 --> 00:10:51,880  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+No way.
+
+113
+00:10:51,880 --> 00:10:53,880  SSA: Dialogue, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect:
+
+9999
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.tvsubtitles.net</font>

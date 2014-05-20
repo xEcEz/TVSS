@@ -1,0 +1,2586 @@
+1
+00:00:01,000 --> 00:00:03,990
+24
+
+2
+00:00:04,000 --> 00:00:09,990
+Season07
+
+3
+00:00:10,000 --> 00:00:11,400
+Episode18
+
+4
+00:00:11,410 --> 00:00:13,770
+********
+
+5
+00:00:13,780 --> 00:00:15,370
+Mr. Knowles,my name is jack bauer.
+
+6
+00:00:15,380 --> 00:00:18,860
+Jonas hodges is in possession
+of a military-grade bioweapon.
+
+7
+00:00:19,430 --> 00:00:21,710
+I was contaminated when trying
+to intercept the canisters.
+
+8
+00:00:21,740 --> 00:00:23,700
+I promise you,sir,the
+weapon is on your base.
+
+9
+00:00:23,710 --> 00:00:25,430
+Do you have any idea
+where they might be?
+
+10
+00:00:25,470 --> 00:00:26,730
+Think I might.
+
+11
+00:00:26,760 --> 00:00:29,310
+I have an order from the
+president of the united states.
+
+12
+00:00:29,330 --> 00:00:30,660
+To search this building.
+
+13
+00:00:30,690 --> 00:00:32,370
+Are there weapons of mass destruction?
+
+14
+00:00:32,380 --> 00:00:33,960
+Are there weapons of any kind?
+
+15
+00:00:34,000 --> 00:00:38,840
+You've got five minutes to get these helicopters
+flying out of here with all of you on board.
+
+16
+00:00:38,860 --> 00:00:41,330
+Larry,I want you and your men
+to pull out on hodges' timetable.
+
+17
+00:00:41,350 --> 00:00:43,210
+Tony,you're gonna need  to
+find a way to stay behind.
+
+18
+00:00:43,250 --> 00:00:46,370
+We're gonna get your vectors  over to a
+man  that we contacted  inside starkwood.
+
+19
+00:00:46,400 --> 00:00:49,650
+His name is douglas knowles. He
+believes he knows where the weapons are.
+
+20
+00:00:50,100 --> 00:00:51,880
+Stay here. I'll be right back.
+
+21
+00:00:53,450 --> 00:00:56,260
+Jack! We need a medic!
+
+22
+00:00:56,770 --> 00:00:58,810
+The bioagent is more
+virulent than we thought.
+
+23
+00:00:58,850 --> 00:01:01,080
+All we're doing here is
+just masking the symptoms.
+
+24
+00:01:01,100 --> 00:01:02,680
+I understand.
+
+25
+00:01:03,430 --> 00:01:05,650
+- There's something you may want to consider.
+- What's that?
+
+26
+00:01:05,660 --> 00:01:09,070
+A possible treatment using stem cells
+from a genetically compatible donor.
+
+27
+00:01:09,100 --> 00:01:11,350
+I saw your file,and it
+says you have a daughter.
+
+28
+00:01:11,360 --> 00:01:13,860
+I don't want my daughter
+involved in this.
+
+29
+00:01:13,870 --> 00:01:16,470
+Jack.It should be her choice.
+
+30
+00:01:16,490 --> 00:01:19,290
+Well,it's not. I'm the one who's dying.
+
+31
+00:01:19,660 --> 00:01:21,960
+I'm in. But they got knowles.
+
+32
+00:01:21,970 --> 00:01:24,090
+A little loyalty.
+
+33
+00:01:24,100 --> 00:01:26,110
+Wasn't that the least I deserved?
+
+34
+00:01:26,130 --> 00:01:28,590
+You can't take on the
+federal government.
+
+35
+00:01:32,260 --> 00:01:34,430
+I have a visual on the weapon.
+
+36
+00:01:34,870 --> 00:01:36,600
+Okay,those are the canisters.
+
+37
+00:01:36,610 --> 00:01:39,340
+I'll notify admiral smith the
+target is located and confirmed.
+
+38
+00:01:39,350 --> 00:01:42,490
+You remember starkwood
+was deployed to pakistan,
+
+39
+00:01:42,520 --> 00:01:45,660
+that we requisitioned a
+missile system at that time.
+
+40
+00:01:46,190 --> 00:01:49,510
+Well,three of those missiles
+are now loaded with a pathogen
+
+41
+00:01:49,530 --> 00:01:52,180
+and aimed at cities on
+our eastern seaboard.
+
+42
+00:01:52,200 --> 00:01:55,520
+You will keep this conversation to
+yourself and turn the planes around.
+
+43
+00:01:55,550 --> 00:01:58,200
+And if you do not
+comply,madam president,
+
+44
+00:01:58,210 --> 00:02:01,510
+I will have no choice but
+to launch those missiles.
+
+45
+00:02:01,530 --> 00:02:03,310
+Abort the air strike,admiral smith.
+
+46
+00:02:03,350 --> 00:02:05,250
+- Ma'am,with all respect...
+- damn it,admiral.
+
+47
+00:02:05,260 --> 00:02:07,810
+Abort the air strike immediately!
+
+48
+00:02:09,400 --> 00:02:13,610
+**********
+
+49
+00:02:36,280 --> 00:02:37,950
+Tony,it's jack. Do you copy?
+
+50
+00:02:37,960 --> 00:02:39,420
+Jack,what the hell is going on?
+
+51
+00:02:39,440 --> 00:02:40,890
+Where are those f-18s?
+
+52
+00:02:40,910 --> 00:02:43,020
+Tim woods just called
+from the white house.
+
+53
+00:02:43,030 --> 00:02:44,870
+The president canceled the air strike.
+
+54
+00:02:44,880 --> 00:02:46,360
+What? Why?
+
+55
+00:02:46,370 --> 00:02:49,830
+She doesn't believe our intel is strong
+enough to justify military action.
+
+56
+00:02:49,840 --> 00:02:51,680
+Is she out of her mind?
+
+57
+00:02:51,710 --> 00:02:53,380
+Jack,I saw those
+canisters with my own eyes.
+
+58
+00:02:53,410 --> 00:02:55,030
+So did you. They're in that bunker.
+
+59
+00:02:55,040 --> 00:02:56,950
+She's not gonna get any
+better intel than that.
+
+60
+00:02:56,960 --> 00:02:58,280
+I know. It doesn't make
+any sense,but right now,
+
+61
+00:02:58,290 --> 00:03:00,860
+we've got a presidential order to
+pull you out of the starkwood compound,
+
+62
+00:03:00,890 --> 00:03:02,040
+along with the perimeter teams.
+
+63
+00:03:02,070 --> 00:03:04,360
+Tony,larry's been told
+the president's decision.
+
+64
+00:03:04,380 --> 00:03:06,880
+He's preparing to move his teams out,but
+he's got to get you out of there first.
+
+65
+00:03:06,910 --> 00:03:11,060
+He'll be sending you coordinates for an
+exfiltration point along the southwest perimeter.
+
+66
+00:03:12,200 --> 00:03:15,050
+- Tony?
+- Hold on a second.
+
+67
+00:03:22,610 --> 00:03:24,540
+Tony,what's going on?
+
+68
+00:03:25,380 --> 00:03:28,010
+Jack,I might know why the president
+called off that air strike.
+
+69
+00:03:28,030 --> 00:03:29,450
+What do you mean?
+
+70
+00:03:29,480 --> 00:03:32,030
+I think starkwood's got
+surface-to-surface missiles.
+
+71
+00:03:32,650 --> 00:03:34,780
+That's how they're gonna
+deploy the bioweapon.
+
+72
+00:03:34,800 --> 00:03:36,740
+How do you know this?
+
+73
+00:03:36,770 --> 00:03:40,480
+A fuel truck just pulled up next to the
+bunker where they're storing the weapons.
+
+74
+00:03:41,570 --> 00:03:45,140
+They're pumping rp-7
+into an underground depot.
+
+75
+00:03:45,160 --> 00:03:46,590
+What's rp-7?
+
+76
+00:03:46,610 --> 00:03:50,040
+It's a propellant only used in
+surface-to-surface missiles. Tony,are you sure?
+
+77
+00:03:50,050 --> 00:03:52,730
+I'm looking right at it,jack.
+
+78
+00:03:54,110 --> 00:03:55,380
+Do you have any c-4 on you?
+
+79
+00:03:55,410 --> 00:03:57,500
+Yeah,I've got three charges
+and a remote detonator.
+
+80
+00:03:57,520 --> 00:04:00,370
+Do you think you can gain access
+to the underground fuel depot?
+
+81
+00:04:00,390 --> 00:04:03,390
+Yeah,I think we've got a
+play,but I've got to move soon...
+
+82
+00:04:03,400 --> 00:04:05,360
+before that fuel truck pulls away.
+
+83
+00:04:05,390 --> 00:04:07,720
+Okay,I want you to maintain your
+position. I'm gonna call the president.
+
+84
+00:04:07,730 --> 00:04:09,440
+Come with me.
+
+85
+00:04:14,680 --> 00:04:16,820
+What is it,tim?
+
+86
+00:04:18,400 --> 00:04:21,890
+Madam president,the joint chiefs are
+beginning to question your decision
+
+87
+00:04:21,920 --> 00:04:24,500
+to call off the air
+strike against starkwood.
+
+88
+00:04:24,950 --> 00:04:28,490
+They think the intelligence we received
+from tony almeida was sufficient
+
+89
+00:04:28,540 --> 00:04:31,680
+and that we may be missing an
+opportunity to destroy the bioweapons.
+
+90
+00:04:31,710 --> 00:04:34,710
+I gave my orders,tim. No air strike.
+
+91
+00:04:34,720 --> 00:04:38,800
+No military action of any
+kind against starkwood.
+
+92
+00:04:39,730 --> 00:04:42,710
+Now,I asked you to handle
+the joint chiefs; handle them.
+
+93
+00:04:42,740 --> 00:04:45,260
+I'll do my best,ma'am,but if I may...
+
+94
+00:04:45,690 --> 00:04:48,460
+what is our next move?
+
+95
+00:04:49,650 --> 00:04:52,840
+Jonas hodges is coming
+to the white house.
+
+96
+00:04:53,130 --> 00:04:56,050
+He wants to speak with me alone.
+
+97
+00:04:56,080 --> 00:04:58,510
+- For what possible reason?
+- I don't know.
+
+98
+00:04:58,520 --> 00:05:00,860
+Madam president,shouldn't your
+advisors be at that meeting?
+
+99
+00:05:00,900 --> 00:05:04,340
+Tim,stop asking me questions.
+
+100
+00:05:06,830 --> 00:05:12,700
+If you want to help,make sure as few people as
+possible know that jonas hodges is coming here.
+
+101
+00:05:12,710 --> 00:05:16,250
+and bring him in through the
+southeast service entrance.
+
+102
+00:05:17,600 --> 00:05:18,370
+Yes?
+
+103
+00:05:18,410 --> 00:05:22,000
+Madam president,jack bauer and
+renee walker are calling from fbi.
+
+104
+00:05:22,020 --> 00:05:23,430
+You did speak to fbi?
+
+105
+00:05:23,470 --> 00:05:26,520
+Yes,ma'am,five minutes ago. I gave them
+your reason for calling off the air strike,
+
+106
+00:05:26,530 --> 00:05:30,090
+but I must warn you,they
+were skeptical as well.
+
+107
+00:05:30,100 --> 00:05:32,690
+Be ready for hodges.
+
+108
+00:05:38,040 --> 00:05:40,470
+Mr. Bauer,agent walker,this
+is the president.
+
+109
+00:05:40,490 --> 00:05:41,980
+Madam president,we need to talk.
+
+110
+00:05:42,000 --> 00:05:45,000
+No,mr. Bauer,we don'T.
+You need to listen.
+
+111
+00:05:45,010 --> 00:05:48,290
+I appreciate everything that you
+have done in gathering this intel,
+
+112
+00:05:48,300 --> 00:05:52,190
+but I still need more before I can
+authorize an air strike. I'm sorry.
+
+113
+00:05:52,200 --> 00:05:56,080
+Madam president,with all due respect,I
+don't believe you're being truthful with us.
+
+114
+00:05:57,550 --> 00:05:58,650
+Excuse me?
+
+115
+00:05:58,690 --> 00:06:00,860
+I think you called off the
+air strike because jonas hodges
+
+116
+00:06:00,880 --> 00:06:03,630
+is in possession of surface-to-surface
+missiles armed with the bioweapon,
+
+117
+00:06:03,670 --> 00:06:07,480
+and he's threatening to use them in
+case you try to take action against him.
+
+118
+00:06:08,250 --> 00:06:11,920
+Madam president,tony almeida witnessed
+a truck pumping rp-7 rocket fuel
+
+119
+00:06:11,960 --> 00:06:16,530
+into an underground depot situated right next to
+the bunker where the bioweapons are being stored.
+
+120
+00:06:16,540 --> 00:06:20,810
+The only purpose for rp-7 rocket
+fuel is to launch missiles.
+
+121
+00:06:23,230 --> 00:06:26,450
+Madam president,please
+just tell us the truth.
+
+122
+00:06:27,060 --> 00:06:32,350
+Jack,hodges has 13 python
+missiles armed with the bioweapons.
+
+123
+00:06:32,370 --> 00:06:35,640
+Three are currently
+aimed at american cities.
+
+124
+00:06:35,670 --> 00:06:38,290
+He demanded that i recall
+the planes,or he would launch.
+
+125
+00:06:38,300 --> 00:06:40,450
+- What does hodges want?
+- I don't know...
+
+126
+00:06:40,460 --> 00:06:42,020
+but he's requested a
+face-to-face meeting.
+
+127
+00:06:42,040 --> 00:06:43,650
+He'll be at the white
+house in a few minutes.
+
+128
+00:06:43,700 --> 00:06:47,010
+Madam president,the only reason he wants a
+face-to-face meeting is to lay out his demands,
+
+129
+00:06:47,040 --> 00:06:49,070
+and whatever they are,you
+cannot negotiate with him.
+
+130
+00:06:49,090 --> 00:06:52,410
+I'm not planning on
+negotiating with him,jack.
+
+131
+00:06:52,420 --> 00:06:56,110
+Once he places his cards on the
+table,I am sure that I can...
+
+132
+00:06:56,130 --> 00:06:59,920
+I can make him realize the
+futility of what he is trying to do.
+
+133
+00:06:59,960 --> 00:07:03,770
+Jonas hodges is a traitor and a terrorist,and
+after everything that's happened today,
+
+134
+00:07:03,780 --> 00:07:07,760
+are you really naive enough to believe that
+you can simply talk to him and change his mind?
+
+135
+00:07:07,800 --> 00:07:11,670
+I'm not new at this,jack,and right
+now,I don't have another option.
+
+136
+00:07:11,700 --> 00:07:14,680
+Madam president,you do. Tony
+almeida is still inside starkwood.
+
+137
+00:07:14,690 --> 00:07:16,860
+I ordered him exfiltrated immediately.
+
+138
+00:07:16,880 --> 00:07:18,000
+What's he still doing there?
+
+139
+00:07:18,030 --> 00:07:20,000
+I asked him to stand by
+until I could talk to you.
+
+140
+00:07:20,010 --> 00:07:22,010
+He believes he can gain
+access to the fuel depot
+
+141
+00:07:22,060 --> 00:07:25,210
+and lay a series of explosive
+charges and take the missiles out.
+
+142
+00:07:25,240 --> 00:07:27,880
+Now,I believe this can
+work,but we need to act quickly.
+
+143
+00:07:27,930 --> 00:07:29,350
+What about the bioweapons?
+
+144
+00:07:29,390 --> 00:07:32,040
+Rp-7 rocket fuel
+burns at 5,000 degrees.
+
+145
+00:07:32,060 --> 00:07:33,130
+There will be nothing left.
+
+146
+00:07:33,140 --> 00:07:36,760
+Once the weapons are destroyed,larry moss and his
+teams can move in on starkwood and lock it down.
+
+147
+00:07:37,780 --> 00:07:42,370
+Hodges gave standing orders to his men to
+launch the missiles at the first detection
+
+148
+00:07:42,380 --> 00:07:43,970
+of government inrference.
+
+149
+00:07:44,020 --> 00:07:47,960
+If almeida is detected,thousands
+of americans will die,jack.
+
+150
+00:07:47,980 --> 00:07:49,760
+Madam president,I know
+that there's a risk,
+
+151
+00:07:49,800 --> 00:07:54,180
+but I would not be asking you to do
+this if I didn't think it would work.
+
+152
+00:07:54,190 --> 00:07:57,840
+Please,I am begging you. Trust me.
+
+153
+00:08:03,430 --> 00:08:05,940
+How long did the
+doctors give you to live?
+
+154
+00:08:08,880 --> 00:08:13,940
+Uh,they're not sure,but the
+pathogen has started to take effect.
+
+155
+00:08:17,040 --> 00:08:20,520
+Then there's not much i can
+threaten you with,is there?
+
+156
+00:08:21,200 --> 00:08:25,390
+I expect you'll do
+what you think is right.
+
+157
+00:08:33,510 --> 00:08:36,190
+what the hell does that mean?
+
+158
+00:08:36,460 --> 00:08:38,820
+She wants us to go in.
+
+159
+00:08:38,840 --> 00:08:40,110
+But she didn't authorize it.
+
+160
+00:08:40,140 --> 00:08:44,150
+She can'T. She needs this
+to be a covert operation.
+
+161
+00:08:44,160 --> 00:08:46,930
+If something were to go wrong and
+those missiles were to be launched,
+
+162
+00:08:46,960 --> 00:08:49,870
+the president needs to be able to swear
+under oath that we were working on our own.
+
+163
+00:08:49,900 --> 00:08:54,180
+She wants us to go in. Notify
+larry. We need to move fast.
+
+164
+00:08:59,300 --> 00:09:00,900
+I told you I'd get
+you to the white house.
+
+165
+00:09:00,940 --> 00:09:04,690
+I just didn't think it would
+be under these conditions.
+
+166
+00:09:07,730 --> 00:09:10,450
+It was brilliant,you know.
+
+167
+00:09:10,460 --> 00:09:12,630
+What was that,sir?
+
+168
+00:09:12,650 --> 00:09:17,430
+What you did to make almeida
+think that you were betraying me.
+
+169
+00:09:17,440 --> 00:09:19,910
+- Quite brilliant.
+- Thank you,sir.
+
+170
+00:09:20,880 --> 00:09:25,530
+You put yourself in harm's
+way,greg,and I'll never forget that.
+
+171
+00:09:28,520 --> 00:09:31,350
+I can't believe... I'm feeling nervous.
+
+172
+00:09:31,360 --> 00:09:34,150
+You're gonna do fine,sir.
+
+173
+00:09:34,890 --> 00:09:37,320
+- Thank you,tim.
+- You're welcome.
+
+174
+00:09:39,010 --> 00:09:42,350
+So,it sounds to me like the president
+didn't actually authorize this.
+
+175
+00:09:42,360 --> 00:09:44,150
+Technically,no. It was more of an...
+
+176
+00:09:44,160 --> 00:09:47,930
+an indirect order,but believe
+me,larry,she wants this to happen.
+
+177
+00:09:47,960 --> 00:09:51,260
+She's gonna meet with hodges,and
+we're gonna blow those fuel tanks.
+
+178
+00:09:52,790 --> 00:09:55,140
+Larry,do you have a problem with this?
+
+179
+00:09:57,750 --> 00:10:00,950
+As a matter of fact,no. None whatsoever.
+
+180
+00:10:01,390 --> 00:10:05,010
+These starkwood bastards drew on my men.
+I'm looking forward to getting back in there.
+
+181
+00:10:05,020 --> 00:10:08,010
+All right,have your teams hold
+their position and be ready to move.
+
+182
+00:10:08,030 --> 00:10:11,110
+- Believe me,you'll know when it happens.
+- All right.
+
+183
+00:10:27,380 --> 00:10:29,400
+- Tony,it's jack. Do you copy?
+- Yeah,I'm here.
+
+184
+00:10:29,410 --> 00:10:31,350
+You were right about the missiles.
+The president confirmed it.
+
+185
+00:10:31,360 --> 00:10:33,710
+We're gonna have to carry
+this out as a covert operation.
+
+186
+00:10:33,740 --> 00:10:37,240
+Larry and his men are standing by to lock down
+starkwood as soon as the missiles have been destroyed.
+
+187
+00:10:37,250 --> 00:10:38,790
+- Good.
+- Tony...
+
+188
+00:10:38,800 --> 00:10:40,990
+I need to know that you can
+do this without being detected.
+
+189
+00:10:41,020 --> 00:10:45,300
+Hodges's given his men standing orders to launch
+those missiles if there's a breach of any kind.
+
+190
+00:10:45,310 --> 00:10:47,300
+Yeah. I can do it.
+
+191
+00:10:47,310 --> 00:10:50,490
+- Okay. Good luck.
+- Yeah.
+
+192
+00:11:03,220 --> 00:11:05,240
+We're done here.
+
+193
+00:11:05,250 --> 00:11:07,650
+I'm going to go run a perimeter check.
+
+194
+00:11:07,660 --> 00:11:09,090
+You said you just finished one.
+
+195
+00:11:09,120 --> 00:11:10,790
+I know.
+
+196
+00:11:10,820 --> 00:11:13,880
+But I don't think we can
+be too careful right now.
+
+197
+00:11:35,660 --> 00:11:36,900
+- Yeah.
+- it's me.
+
+198
+00:11:36,910 --> 00:11:39,220
+Auxiliary tanks are fueled and ready.
+
+199
+00:11:39,470 --> 00:11:41,830
+Confirmed. I'll be
+down in a few minutes.
+
+200
+00:11:41,840 --> 00:11:43,930
+Copy that.
+
+201
+00:11:45,850 --> 00:11:49,320
+Freeze! Let me see your hands.
+
+202
+00:11:53,290 --> 00:11:55,140
+Almeida.
+
+203
+00:11:55,170 --> 00:11:58,320
+Put your gun on the ground. Slowly.
+
+204
+00:12:03,710 --> 00:12:06,360
+Kick it.
+
+205
+00:12:09,420 --> 00:12:12,820
+drag him under the truck. Now! Let's go!
+
+206
+00:12:25,020 --> 00:12:26,870
+Hands up.
+
+207
+00:12:26,880 --> 00:12:28,400
+What do you think you're doing?
+
+208
+00:12:28,420 --> 00:12:31,060
+You're going to take me
+down to the fuel tanks.
+
+209
+00:12:31,070 --> 00:12:32,890
+Let's go.
+
+210
+00:12:49,670 --> 00:12:51,960
+Open it up.
+
+211
+00:12:57,900 --> 00:12:59,890
+Go ahead.
+
+212
+00:13:25,930 --> 00:13:28,000
+President will see you now.
+
+213
+00:13:28,010 --> 00:13:29,980
+Very good. Thank you.
+
+214
+00:13:34,770 --> 00:13:36,400
+Mr. Hodges.
+
+215
+00:13:36,430 --> 00:13:38,360
+Madam president.
+
+216
+00:13:38,380 --> 00:13:41,580
+This is greg seaton,my associate.
+
+217
+00:13:41,600 --> 00:13:46,220
+He's a remarkable man. Doesn't look
+remarkle,but believe me,he's a genius.
+
+218
+00:13:47,070 --> 00:13:50,060
+Yes,I know mr. Seaton.
+
+219
+00:13:51,430 --> 00:13:54,010
+Thank you,gentlemen.
+
+220
+00:13:54,800 --> 00:13:56,930
+It never gets old,does it?
+
+221
+00:13:57,250 --> 00:14:00,380
+Stepping into the... the oval office.
+
+222
+00:14:00,390 --> 00:14:03,600
+Almost smells of history.
+
+223
+00:14:03,610 --> 00:14:06,280
+- Can we sit?
+- Please.
+
+224
+00:14:07,050 --> 00:14:10,940
+You know,this is the first time I've
+been in this room since you were elected?
+
+225
+00:14:10,950 --> 00:14:12,500
+I'm aware of that,yes.
+
+226
+00:14:12,520 --> 00:14:16,980
+Under your predecessor,I used to
+drop by every couple of months.
+
+227
+00:14:16,990 --> 00:14:21,750
+I'd brief president daniels on what
+was really going on in the world.
+
+228
+00:14:22,430 --> 00:14:25,660
+And you've been excluded now.
+
+229
+00:14:25,670 --> 00:14:28,270
+- Is that what this is about?
+- No,ma'am.
+
+230
+00:14:28,280 --> 00:14:32,360
+It's about allowing starkwood to fulfill
+the purpose for which it was founded:
+
+231
+00:14:32,400 --> 00:14:33,910
+Protecting this country.
+
+232
+00:14:33,940 --> 00:14:36,620
+You have been attacking this country.
+
+233
+00:14:36,670 --> 00:14:41,260
+You and general juma have killed
+hundreds of innocent people,
+
+234
+00:14:41,290 --> 00:14:44,240
+including my son.
+
+235
+00:14:45,430 --> 00:14:50,120
+Madam president,I'm
+deeply sorry for your loss,
+
+236
+00:14:50,170 --> 00:14:53,950
+and my heart breaks for all
+the lives that were taken today,
+
+237
+00:14:54,000 --> 00:14:56,820
+but I'm shocked that you would think
+that I had anything to do with it.
+
+238
+00:14:56,850 --> 00:15:00,650
+We have evidence that you've
+been working with juma.
+
+239
+00:15:01,340 --> 00:15:04,510
+Your intelligence
+agencies have failed you.
+
+240
+00:15:04,550 --> 00:15:08,610
+If I had kno what juma was up to,I would
+have done everything in my power to stop him.
+
+241
+00:15:08,650 --> 00:15:14,470
+So let's push aside all these baseless
+accusations and maybe we can do some business here.
+
+242
+00:15:14,480 --> 00:15:17,290
+I'm listening.
+
+243
+00:15:17,860 --> 00:15:22,200
+Madam president,I know
+you're a student of history,
+
+244
+00:15:22,250 --> 00:15:25,330
+and so you're well aware
+that our nation's independence
+
+245
+00:15:25,340 --> 00:15:27,480
+was won with the aid of private armies,
+
+246
+00:15:27,570 --> 00:15:29,610
+and we can't survive without them.
+
+247
+00:15:29,620 --> 00:15:32,380
+Look how easy it was to get
+bioweapons into this country.
+
+248
+00:15:32,410 --> 00:15:35,790
+Our defenses are fragile.
+They're on the verge of collapse.
+
+249
+00:15:35,800 --> 00:15:39,090
+But it's not too late
+to do something about it.
+
+250
+00:15:39,120 --> 00:15:41,850
+So what are you suggesting?
+
+251
+00:15:41,860 --> 00:15:45,460
+In short,I want a seat at the table.
+
+252
+00:15:45,500 --> 00:15:51,140
+Starkwood needs to be involved in the shaping
+of military policy,domestic and global.
+
+253
+00:15:52,080 --> 00:15:55,980
+It sounds more like you want a
+seat at the head of the table.
+
+254
+00:15:55,990 --> 00:15:58,650
+Madam president,I'm notere
+to supplant your authority.
+
+255
+00:15:58,710 --> 00:16:00,920
+What I'm proposing is a partnership.
+
+256
+00:16:00,960 --> 00:16:05,540
+Think of starkwood as the fifth
+branch of the military. Greg?
+
+257
+00:16:09,080 --> 00:16:13,440
+This contains the protocols that will
+serve as the basis of our agreement.
+
+258
+00:16:14,630 --> 00:16:17,280
+I suggest that we review them together.
+
+259
+00:16:17,330 --> 00:16:22,930
+Jonas,I agreed to this meeting because
+I wanted to hear what you had to say.
+
+260
+00:16:22,940 --> 00:16:25,940
+But what you're proposing is blackmail.
+
+261
+00:16:25,960 --> 00:16:28,170
+Well,that's putting it in
+the worst possible light.
+
+262
+00:16:28,230 --> 00:16:32,320
+You are threatening to
+kill thousands of people.
+
+263
+00:16:33,810 --> 00:16:36,750
+I'm not proud of this chapter.
+
+264
+00:16:36,760 --> 00:16:39,740
+I'm the first to admit it.
+
+265
+00:16:39,760 --> 00:16:43,160
+And it's time to turn the page. This
+country has seen enough bloodshed today.
+
+266
+00:16:43,170 --> 00:16:46,040
+For the sake of the american
+people,madam president,
+
+267
+00:16:46,070 --> 00:16:51,100
+I implore you to work with
+me,and let's move past this.
+
+268
+00:16:58,410 --> 00:17:02,300
+Pick up the document,madam president.
+
+269
+00:17:24,990 --> 00:17:27,740
+Let's go. Come on. Get up
+now,or I'll leave you down here.
+
+270
+00:17:27,750 --> 00:17:30,880
+And you don't want that
+believe me. Get up! Let's go!
+
+271
+00:18:24,370 --> 00:18:26,140
+what is it?
+
+272
+00:18:26,160 --> 00:18:28,570
+Code 363. That's a government breach.
+
+273
+00:18:28,580 --> 00:18:30,550
+- We're supposed to launch.
+- Are you sure it's not a false alarm?
+
+274
+00:18:30,560 --> 00:18:32,440
+No way to tell.
+
+275
+00:18:32,460 --> 00:18:33,840
+We've got standing orders,though.
+
+276
+00:18:33,870 --> 00:18:36,130
+Let's start the launch sequence.
+
+277
+00:18:42,700 --> 00:18:44,780
+too late.
+
+278
+00:18:55,960 --> 00:18:58,480
+Launch sequence complete.
+Target is locked.
+
+279
+00:18:58,490 --> 00:18:59,670
+Enter the firing codes.
+
+280
+00:18:59,700 --> 00:19:01,380
+Sir,we need to confirm this.
+
+281
+00:19:01,400 --> 00:19:02,770
+That's not the correct protocol.
+
+282
+00:19:02,810 --> 00:19:05,710
+We're about to kill 10,000 people.
+We should get someone on the phone.
+
+283
+00:19:06,630 --> 00:19:09,430
+Enter the codes. Now!
+
+284
+00:19:09,440 --> 00:19:11,740
+No,sir.
+
+285
+00:19:47,960 --> 00:19:52,610
+that's it. That's us. Let's
+go. We're a go! We're a go!
+
+286
+00:20:03,220 --> 00:20:05,410
+- it's done.
+- Tony?
+
+287
+00:20:06,330 --> 00:20:07,510
+Tony,do you copy?
+
+288
+00:20:07,540 --> 00:20:09,820
+An explosion of that magnitude
+would have shorted out his com.
+
+289
+00:20:09,850 --> 00:20:11,200
+We're gonna have to wait for
+larry and his men to move in.
+
+290
+00:20:20,320 --> 00:20:25,090
+It says here that you want active status
+in the pentagon's strategic planning group.
+
+291
+00:20:25,110 --> 00:20:27,040
+That's correct.
+
+292
+00:20:27,050 --> 00:20:30,270
+That would give you access to
+level 6 classified material.
+
+293
+00:20:30,300 --> 00:20:32,760
+Not even the vice president
+has that clearance.
+
+294
+00:20:32,790 --> 00:20:35,360
+These points are nonnegotiable.
+
+295
+00:20:35,390 --> 00:20:37,740
+I'm not here to debate them.
+
+296
+00:20:37,760 --> 00:20:43,740
+Let's review the next section,which concerns
+senate oversight of starkwood field operations.
+
+297
+00:20:43,750 --> 00:20:46,360
+I'm sorry to interrupt,madam
+president,but I need to speak with you.
+
+298
+00:20:46,390 --> 00:20:47,770
+Can it wait?
+
+299
+00:20:47,800 --> 00:20:49,740
+No,ma'am,it can'T.
+
+300
+00:20:50,090 --> 00:20:52,970
+- Will you excuse me for a moment?
+- Of course.
+
+301
+00:21:04,210 --> 00:21:07,640
+satcom has just detected a massive
+explosion on the starkwood compound.
+
+302
+00:21:07,670 --> 00:21:09,970
+The bioweapons facility
+has been destroyed.
+
+303
+00:21:10,000 --> 00:21:11,500
+- Are you sure?
+- Yes,ma'am.
+
+304
+00:21:11,510 --> 00:21:13,800
+Judging by the size of the
+explosion,nothing could have survived.
+
+305
+00:21:13,820 --> 00:21:15,950
+But I don't know how this
+happened. This wasn't us.
+
+306
+00:21:15,960 --> 00:21:19,300
+- Call fbi and have them lock down starood.
+- They're already moving in.
+
+307
+00:21:19,310 --> 00:21:23,940
+Good. And when this is over,I
+want to speak to jack bauer.
+
+308
+00:21:23,950 --> 00:21:26,380
+- Yes,ma'am.
+- You know...
+
+309
+00:21:28,800 --> 00:21:31,110
+I'm not sure I'm reaching her.
+
+310
+00:21:31,140 --> 00:21:33,800
+I think you handled it perfectly,sir.
+
+311
+00:21:35,050 --> 00:21:37,480
+We'll see.
+
+312
+00:21:39,370 --> 00:21:40,590
+What the hell is this?
+
+313
+00:21:40,620 --> 00:21:44,480
+Put this document into evidence,and
+take these men into custody.
+
+314
+00:21:44,490 --> 00:21:46,220
+What are you thinking?
+Have you lost your mind?
+
+315
+00:21:46,230 --> 00:21:50,650
+Jonas,we've taken out
+your missiles. It's over.
+
+316
+00:21:52,550 --> 00:21:54,570
+That's impossible.
+
+317
+00:21:54,600 --> 00:21:56,720
+It's the truth.
+
+318
+00:21:56,730 --> 00:21:58,540
+And you're under arrest.
+
+319
+00:21:58,570 --> 00:22:00,580
+You are a terrorist and a murderer,
+
+320
+00:22:00,610 --> 00:22:05,760
+and I'm gonna do everything in my power to
+make sure that you pay dearly for your crimes.
+
+321
+00:22:07,700 --> 00:22:11,740
+My only crime is that I'm
+trying to protect my country!
+
+322
+00:22:12,300 --> 00:22:14,130
+You think this ends with me?
+
+323
+00:22:14,140 --> 00:22:16,970
+I'm just a small cog
+in a very big machine.
+
+324
+00:22:16,980 --> 00:22:18,910
+Hold on.
+
+325
+00:22:21,030 --> 00:22:24,440
+You can't even begin to
+imagine what you're up against.
+
+326
+00:22:24,450 --> 00:22:27,590
+What are you talking about?
+
+327
+00:22:27,600 --> 00:22:30,360
+You'll find out.
+
+328
+00:22:34,000 --> 00:22:36,860
+Get him out of here.
+
+329
+00:23:07,300 --> 00:23:10,950
+the advanced biohazard team is reporting no trace
+of the bioweapon anywhere near the blast sight.
+
+330
+00:23:10,980 --> 00:23:13,760
+- It was incinerated in the explosion.
+- Good.
+
+331
+00:23:14,070 --> 00:23:16,500
+- Any word on tony?
+- Not yet. Larry's searching the compound now.
+
+332
+00:23:16,510 --> 00:23:18,460
+We should hear something soon.
+
+333
+00:23:18,470 --> 00:23:21,370
+Mr. Bauer,you have a phone
+call; it's the president.
+
+334
+00:23:22,110 --> 00:23:25,420
+I'll take it in the conference
+room. Thank you. I'll be right back.
+
+335
+00:23:36,390 --> 00:23:37,630
+Madam president.
+
+336
+00:23:37,660 --> 00:23:41,300
+Mr. Bauer,jonas hodges is under arrest.
+
+337
+00:23:42,260 --> 00:23:44,930
+That's good news. That's very good.
+
+338
+00:23:45,260 --> 00:23:49,080
+Jack,you and your team
+provided me with an option.
+
+339
+00:23:49,090 --> 00:23:52,190
+And for that,I am deeply grateful.
+
+340
+00:23:52,200 --> 00:23:54,070
+And so are the american people.
+
+341
+00:23:54,110 --> 00:23:59,150
+Madam president,it was tony almeida who
+risked his life to destroy those missiles.
+
+342
+00:23:59,160 --> 00:24:02,070
+And as you know,he's facing arrest
+for things he did leading up to today,
+
+343
+00:24:02,110 --> 00:24:05,900
+and I was hoping that maybe you could...
+
+344
+00:24:06,900 --> 00:24:09,650
+yes,mr. Bauer?
+
+345
+00:24:13,430 --> 00:24:15,830
+Jack?
+
+346
+00:24:16,820 --> 00:24:18,840
+Um,I'm sorry,I...
+
+347
+00:24:18,850 --> 00:24:20,970
+completely forgot what I was saying.
+
+348
+00:24:20,990 --> 00:24:23,770
+You were talking about mr. Almeida.
+
+349
+00:24:23,810 --> 00:24:27,820
+And my answer is yes,I-I will
+take his actions into account.
+
+350
+00:24:27,850 --> 00:24:30,300
+Thank you.
+
+351
+00:24:31,670 --> 00:24:34,190
+What's happening?
+
+352
+00:24:34,740 --> 00:24:36,860
+I-I-I'm not
+exactly sure.
+
+353
+00:24:36,890 --> 00:24:40,030
+Jack,I am so sorry
+you're going through this.
+
+354
+00:24:40,040 --> 00:24:42,720
+I wish that there were
+something I could do.
+
+355
+00:24:42,740 --> 00:24:45,970
+M-madam president,I
+appreciate this phone call.
+
+356
+00:24:45,990 --> 00:24:48,020
+But I'm sorry. I-I have to go.
+
+357
+00:24:48,030 --> 00:24:50,290
+- Of course.
+- Thank you.
+
+358
+00:24:58,350 --> 00:25:00,340
+jonas hodges has been arrested.
+
+359
+00:25:00,350 --> 00:25:02,230
+Let me know as soon as you got tony.
+
+360
+00:25:02,250 --> 00:25:04,630
+I need to go see dr. Mace
+
+361
+00:25:06,120 --> 00:25:07,530
+Yes,madam president?
+
+362
+00:25:07,560 --> 00:25:09,960
+Call ben landry at cdc.
+
+363
+00:25:09,990 --> 00:25:13,960
+Tell him that I want real-time
+updates on jack bauer's condition.
+
+364
+00:25:13,990 --> 00:25:15,750
+Yes,ma'am.
+
+365
+00:25:27,140 --> 00:25:32,130
+we've secured all entry points and command posts and
+are sweeping the compound on a grid-by-grid basis.
+
+366
+00:25:32,140 --> 00:25:34,400
+- Are you meeting any resistance?
+- No.
+
+367
+00:25:34,410 --> 00:25:37,580
+They're surrendering
+peacefully and cooperating.
+
+368
+00:25:37,590 --> 00:25:42,350
+St of the men on this base,I don't think
+they had any idea what was going on.
+
+369
+00:25:42,380 --> 00:25:44,090
+What about almeida?
+
+370
+00:25:44,120 --> 00:25:47,030
+- Uh,he's here. We found him.
+- Is he okay?
+
+371
+00:25:47,040 --> 00:25:50,090
+Some cuts and bruises,but
+otherwise,he's in pretty good shape.
+
+372
+00:25:50,120 --> 00:25:52,520
+Good. Good. Jack will
+be glad to hear that.
+
+373
+00:25:52,530 --> 00:25:55,290
+Listen,renee...
+
+374
+00:25:55,310 --> 00:25:57,450
+we've known each other
+a long time,you know.
+
+375
+00:25:57,470 --> 00:25:59,590
+Um,so much stuff has happened today.
+
+376
+00:25:59,620 --> 00:26:02,860
+Yeah. We have a lot
+to talk about. I know.
+
+377
+00:26:02,870 --> 00:26:03,890
+Excuse me,agent walker.
+
+378
+00:26:03,910 --> 00:26:06,640
+- Your visitshe's in the waiting area.
+- Okay,thank you.
+
+379
+00:26:07,130 --> 00:26:08,980
+Larry,I've got to go. Kim bauer's here.
+
+380
+00:26:08,990 --> 00:26:11,630
+- Jack's daughter? - Yes.
+I-I asked her to come.
+
+381
+00:26:11,640 --> 00:26:16,570
+There's this experimental treatment for jack's
+disease,but he needs compatible stem cells.
+
+382
+00:26:16,590 --> 00:26:19,310
+It's a long shot,but it's
+the only hope he's got.
+
+383
+00:26:19,910 --> 00:26:22,160
+Okay. Let me know how it goes,all right?
+
+384
+00:26:22,170 --> 00:26:25,370
+- I will. I'm going off com.
+- All right.
+
+385
+00:26:28,700 --> 00:26:30,840
+did they say something about kim bauer?
+
+386
+00:26:30,870 --> 00:26:37,150
+Yeah,she's at fbi helping with a treatment for
+jack,some,uh,some kind of stem cell therapy.
+
+387
+00:26:37,160 --> 00:26:39,870
+So they think he's gonna be all right?
+
+388
+00:26:39,880 --> 00:26:42,290
+Didn't sound promising.
+
+389
+00:26:44,130 --> 00:26:47,380
+Listen,tony,this isn't
+easy for me,but,uh...
+
+390
+00:26:47,970 --> 00:26:51,020
+I'm under orders to take
+you into federal custody.
+
+391
+00:26:51,320 --> 00:26:53,830
+- Yeah,I know.
+- You did a brave thing here.
+
+392
+00:26:53,840 --> 00:26:56,620
+Probably saved thousands of lives.
+
+393
+00:26:56,630 --> 00:27:00,530
+For the record,I don't think
+this is how you should be repaid.
+
+394
+00:27:00,560 --> 00:27:03,280
+I appreciate that,but,uh...
+
+395
+00:27:03,870 --> 00:27:06,760
+I'm ready to pay for what I've done.
+
+396
+00:27:06,770 --> 00:27:09,210
+Get the cuffs off him,will you?
+
+397
+00:27:09,830 --> 00:27:13,350
+Chopper's on the way. I'll be
+taking you back to fbi,all right?
+
+398
+00:27:16,990 --> 00:27:19,680
+Memory loss is consistent
+with the disease,mr. Bauer.
+
+399
+00:27:19,690 --> 00:27:22,810
+I just wouldn't have expected
+it to manifest this quickly.
+
+400
+00:27:22,830 --> 00:27:25,830
+It's not just memory loss.
+
+401
+00:27:26,640 --> 00:27:28,840
+It feels like...
+
+402
+00:27:30,970 --> 00:27:33,670
+I don't know exactly how to explain it.
+
+403
+00:27:33,680 --> 00:27:38,360
+I feel like,uh,like I'm
+losing some part of myself.
+
+404
+00:27:38,890 --> 00:27:44,570
+The disease profile includes personality
+changes,sometimes even hallucinations.
+
+405
+00:27:44,970 --> 00:27:47,830
+But this is a weaponized
+pathogen we don't know much about.
+
+406
+00:27:47,860 --> 00:27:51,150
+Military's still combing through the
+remains of the bioweapons lab in sangala,
+
+407
+00:27:51,180 --> 00:27:54,050
+so we expect to learn
+something very soon.
+
+408
+00:27:54,080 --> 00:27:57,340
+You were able to give me something
+that controlled the shaking.
+
+409
+00:27:58,150 --> 00:28:01,430
+Is there anything that you can give
+me that would help me with this?
+
+410
+00:28:01,440 --> 00:28:04,810
+No. I'm sorry.
+
+411
+00:28:06,400 --> 00:28:10,360
+Okay. Thank you. Excuse me.
+
+412
+00:28:23,020 --> 00:28:25,450
+jack,is it all right?
+
+413
+00:28:25,500 --> 00:28:29,830
+Yeah,um,I'm gonna need to go on record
+about everything that happened today.
+
+414
+00:28:29,860 --> 00:28:30,870
+And we need to do it soon.
+
+415
+00:28:30,910 --> 00:28:33,840
+I'm not sure how much longer I'm gonna
+be le to provide you with the details.
+
+416
+00:28:33,870 --> 00:28:38,150
+Okay. First,there's something
+that you need to know.
+
+417
+00:28:38,440 --> 00:28:40,340
+What?
+
+418
+00:28:40,380 --> 00:28:43,200
+It's about kim. She's here,jack.
+
+419
+00:28:43,210 --> 00:28:47,440
+I told her that you were sick and that she
+might be able to help with the treatment.
+
+420
+00:28:48,250 --> 00:28:49,590
+You did...
+
+421
+00:28:51,980 --> 00:28:56,260
+you did what? Come here. Come here.
+
+422
+00:29:01,100 --> 00:29:03,360
+Who the hell do you think you are?
+
+423
+00:29:03,370 --> 00:29:06,740
+Who the hell do you think you are?
+
+424
+00:29:06,750 --> 00:29:09,180
+You think this is easy?
+
+425
+00:29:09,190 --> 00:29:12,310
+You think you understand what I'm
+going through? Because you don'T.
+
+426
+00:29:12,320 --> 00:29:14,240
+I am dying.
+
+427
+00:29:14,270 --> 00:29:17,630
+And I was okay with
+it. I could handle it.
+
+428
+00:29:18,150 --> 00:29:21,310
+And now you've put in
+front of me the one thing,
+
+429
+00:29:21,320 --> 00:29:23,870
+the one thing that is
+gonna make this unbearable.
+
+430
+00:29:23,900 --> 00:29:25,860
+- Jack,listen...
+- no,you listen to me.
+
+431
+00:29:25,870 --> 00:29:29,830
+I specifically told you do
+not drag my daughter into this.
+
+432
+00:29:29,840 --> 00:29:32,100
+No one dragged her into anything.
+
+433
+00:29:32,140 --> 00:29:34,720
+She's been trying to see you all day.
+
+434
+00:29:40,240 --> 00:29:41,810
+What?
+
+435
+00:29:41,860 --> 00:29:44,790
+She was at the senate
+hearing this morning.
+
+436
+00:29:45,290 --> 00:29:48,960
+She flew out from L.A.To be there,but we
+pulled you out before she could see you.
+
+437
+00:29:49,000 --> 00:29:51,060
+She's been leaving messages
+at our office all day.
+
+438
+00:29:51,090 --> 00:29:53,720
+They just didn't get to me till now.
+
+439
+00:29:57,580 --> 00:29:59,270
+If you want,I can tell
+her that you're not here.
+
+440
+00:29:59,280 --> 00:30:02,980
+I can tell her that you can't see her.
+
+441
+00:30:05,410 --> 00:30:08,220
+Can't do that.
+
+442
+00:30:12,240 --> 00:30:15,270
+- Where is she?
+- Down the hall.
+
+443
+00:30:16,640 --> 00:30:18,620
+Show me.
+
+444
+00:30:51,340 --> 00:30:53,650
+daddy.
+
+445
+00:30:56,710 --> 00:30:59,210
+How are you feeling?
+
+446
+00:30:59,880 --> 00:31:02,180
+I'm-I'm okay.
+
+447
+00:31:02,210 --> 00:31:04,370
+You're not in any pain?
+
+448
+00:31:04,650 --> 00:31:07,060
+No.
+
+449
+00:31:08,020 --> 00:31:10,550
+Come sit down.
+
+450
+00:31:24,500 --> 00:31:27,420
+Did agent walker tell you
+that I was trying to find you?
+
+451
+00:31:28,530 --> 00:31:30,700
+Yeah.
+
+452
+00:31:31,260 --> 00:31:36,160
+I've tried everything to track you down:
+State department,private investigators.
+
+453
+00:31:36,190 --> 00:31:39,770
+Every time I got a phone number or
+an address,you were already gone.
+
+454
+00:31:39,780 --> 00:31:41,620
+I'm sorry.
+
+455
+00:31:42,240 --> 00:31:45,690
+I thought I was doing the best
+thing for you by staying away.
+
+456
+00:31:48,020 --> 00:31:50,970
+Daddy,I've missed you so much.
+
+457
+00:31:54,720 --> 00:31:57,500
+I've missed you,too.
+
+458
+00:32:00,180 --> 00:32:03,820
+You need to know how sorry I am for everything
+that you've had to live through because of me.
+
+459
+00:32:03,830 --> 00:32:05,570
+No,don't do that.
+
+460
+00:32:05,600 --> 00:32:08,530
+Don't put that on yourself. I'm
+the one that should apologize.
+
+461
+00:32:08,540 --> 00:32:10,000
+I pushed you away.
+
+462
+00:32:10,020 --> 00:32:15,240
+And instead of taking responsibility for all
+the mistakes I've made in my life,I blamed you.
+
+463
+00:32:16,110 --> 00:32:20,330
+And it was stupid and immature.
+
+464
+00:32:22,610 --> 00:32:25,790
+And now,all the time that we've lost...
+
+465
+00:32:28,670 --> 00:32:33,390
+agent walker told me that there's
+a chance-- a small chance--
+
+466
+00:32:33,410 --> 00:32:37,220
+that I could help you,and
+you don't want me to.
+
+467
+00:32:37,230 --> 00:32:39,610
+The treatment is experimental.
+
+468
+00:32:39,630 --> 00:32:42,170
+and I don't think it's going to work.
+
+469
+00:32:42,180 --> 00:32:44,860
+And you don't want to because
+you're afraid to ask me.
+
+470
+00:32:44,870 --> 00:32:47,100
+No.
+
+471
+00:32:48,330 --> 00:32:51,080
+There's a risk to you.
+
+472
+00:32:51,090 --> 00:32:54,070
+A small risk... worth taking.
+
+473
+00:32:54,080 --> 00:32:56,720
+Not to me.
+
+474
+00:32:57,450 --> 00:33:00,550
+Kim... I'm dying.
+
+475
+00:33:01,320 --> 00:33:05,250
+And whatever small chance there
+is to stop that from happening--
+
+476
+00:33:06,170 --> 00:33:10,860
+it is not worth the pain for me to
+let you sit there and watch me die.
+
+477
+00:33:10,870 --> 00:33:14,280
+Daddy,I don't want to lose you.
+
+478
+00:33:14,300 --> 00:33:17,390
+- Come here.
+- I don'T.
+
+479
+00:33:17,910 --> 00:33:20,540
+sweetheart,it's going to be all right.
+
+480
+00:33:20,550 --> 00:33:24,000
+It's gonna be all right. I promise you.
+
+481
+00:33:28,900 --> 00:33:34,130
+what is it? what?
+
+482
+00:33:37,280 --> 00:33:39,820
+sweetheart,I'm sorry...
+
+483
+00:33:40,670 --> 00:33:43,360
+but you need to go.
+
+484
+00:33:45,010 --> 00:33:48,060
+Please,baby,please,I'm begging you.
+
+485
+00:33:49,140 --> 00:33:51,870
+- I love you so much.
+- Honey,I love you,too.
+
+486
+00:33:51,880 --> 00:33:56,450
+Please,baby. thank you. Go.
+
+487
+00:34:39,330 --> 00:34:42,600
+perimeter 2 to dispatch:
+Auxiliary gate 6 is clear.
+
+488
+00:34:42,640 --> 00:34:45,360
+Copy that,p-2. Hold your position.
+
+489
+00:34:54,480 --> 00:34:58,730
+Freeze! Show me your hands. Get 'em up!
+
+490
+00:35:10,470 --> 00:35:11,640
+P-2 to dispatch.
+
+491
+00:35:11,660 --> 00:35:14,390
+I have an agent down and a
+suspect in custody. Code red.
+
+492
+00:35:14,400 --> 00:35:15,580
+Copy that,p-2.
+
+493
+00:35:15,610 --> 00:35:18,310
+All available agents
+respond to auxiliary gate 6.
+
+494
+00:35:18,320 --> 00:35:20,580
+Drop the bag.
+
+495
+00:35:25,750 --> 00:35:28,240
+Hands on the hood.
+
+496
+00:35:46,890 --> 00:35:49,930
+P-2 to dispatch. Put me through
+to agent moss. It's urgent.
+
+497
+00:35:54,000 --> 00:35:55,160
+agent moss.
+
+498
+00:35:55,190 --> 00:35:57,710
+Agent moss,this is davis
+at auxiliary gate 6.
+
+499
+00:35:57,730 --> 00:35:59,860
+I have a starkwood op in custody.
+
+500
+00:35:59,880 --> 00:36:01,400
+He killed one of our agents.
+
+501
+00:36:01,430 --> 00:36:05,310
+He was carrying a canister of the bioweapon,trying
+to smuggle it out using one of our vehicles.
+
+502
+00:36:05,320 --> 00:36:07,410
+What? Are you sure?
+
+503
+00:36:07,420 --> 00:36:09,740
+I'm looking at it right now.
+
+504
+00:36:12,870 --> 00:36:16,340
+Agent davis? Davis?
+
+505
+00:36:22,700 --> 00:36:26,060
+- walker.
+- Renee,we got a breach in the cordon at gate 6.
+
+506
+00:36:26,070 --> 00:36:28,610
+One of the starkwood ops-- he's
+got a canister of the bioweapon.
+
+507
+00:36:28,620 --> 00:36:29,380
+What?
+
+508
+00:36:29,410 --> 00:36:32,770
+It was id'd by agent davis,who
+I believe has just been shot.
+
+509
+00:36:32,810 --> 00:36:34,910
+The suspect may be
+fleeing in an fbi vehicle,
+
+510
+00:36:34,940 --> 00:36:38,600
+so I need you to close down all access roads,and
+alert perimeter units  and metro police.
+
+511
+00:36:38,640 --> 00:36:41,130
+- Janis,get me dc metro.
+- I'm gonna pursue it from the air.
+
+512
+00:36:41,560 --> 00:36:43,970
+Let's go! Let us up!
+
+513
+00:36:45,210 --> 00:36:47,880
+renee,alert homeland,let
+them know what's going on.
+
+514
+00:36:47,910 --> 00:36:49,750
+Are we thinking this
+is another attack,larry?
+
+515
+00:36:49,780 --> 00:36:53,610
+I don't know,but there's enough prion variant in
+one of those canisters to take out a small city.
+
+516
+00:37:18,720 --> 00:37:23,160
+Agent miller,are there any major roadways in our
+perimeter that starkwood eratives could have used?
+
+517
+00:37:23,170 --> 00:37:25,480
+Yes,sir. We're coming up on highway 42.
+
+518
+00:37:25,490 --> 00:37:26,890
+Should I turn us that way?
+
+519
+00:37:26,950 --> 00:37:29,970
+Yes,until we get a stronger
+directive from agent walker.
+
+520
+00:37:29,990 --> 00:37:31,810
+Roger that.
+
+521
+00:37:31,820 --> 00:37:35,350
+Yes,sir. We'll keep homeland
+apprised with real-time updates.
+
+522
+00:37:36,490 --> 00:37:38,390
+Did you access the gps locator system?
+
+523
+00:37:38,410 --> 00:37:41,350
+Yeah,I'm scanning transponders
+for the stolen fbi vehicle.
+
+524
+00:37:41,370 --> 00:37:42,160
+How long will that take?
+
+525
+00:37:42,190 --> 00:37:44,860
+As long as it takes for
+the satellite to reposition.
+
+526
+00:37:45,490 --> 00:37:49,450
+When you spoke to larry,you
+mentioned an attack?
+
+527
+00:37:50,040 --> 00:37:53,710
+The starkwood operative we're trying to
+find stole a canister of the bioweapon.
+
+528
+00:37:54,200 --> 00:37:56,510
+I thought tony almeida
+destroyed all the weapons.
+
+529
+00:37:56,520 --> 00:37:57,470
+Apparently not.
+
+530
+00:37:57,500 --> 00:37:59,780
+how did this operative
+get past our perimeter?
+
+531
+00:37:59,810 --> 00:38:02,160
+Shot and killed two of our agents.
+
+532
+00:38:03,360 --> 00:38:04,860
+This is it.
+
+533
+00:38:04,890 --> 00:38:07,950
+The suspect is getting off
+highway 42 at smoketree avenue.
+
+534
+00:38:07,980 --> 00:38:09,790
+He's heading toward
+the industrial corridor.
+
+535
+00:38:09,830 --> 00:38:12,200
+- Put me on the interagency channel.
+- Go ahead.
+
+536
+00:38:12,210 --> 00:38:14,080
+All units,this is agent walker with fbi.
+
+537
+00:38:14,120 --> 00:38:16,770
+Suspect has exited
+highway 42 at smoketree.
+
+538
+00:38:16,800 --> 00:38:18,810
+He's heading north into
+the industrial corridor.
+
+539
+00:38:18,840 --> 00:38:20,630
+Units in the vicinity,please respond.
+
+540
+00:38:20,660 --> 00:38:22,590
+Renee,it's me. We're
+over smoketree right now.
+
+541
+00:38:22,600 --> 00:38:24,510
+We're redirecting,and
+we'll tighten our pursuit.
+
+542
+00:38:24,550 --> 00:38:26,960
+Got it. I'll reroute swat
+team alpha to the scene.
+
+543
+00:38:28,620 --> 00:38:32,090
+Swat team alpha,we need to set up a
+roadblock at the fairfax county line.
+
+544
+00:38:32,120 --> 00:38:35,010
+Dc metro's covering the district
+line in case he tries to double back.
+
+545
+00:38:35,040 --> 00:38:37,350
+********
+
+546
+00:38:43,030 --> 00:38:45,450
+Sir. I have a visual.
+
+547
+00:38:46,030 --> 00:38:47,920
+Yeah. Got him.
+
+548
+00:38:54,410 --> 00:38:56,460
+Send us lower.
+
+549
+00:39:03,000 --> 00:39:06,010
+yeah,he's pulling off the
+road. Get us down there now.
+
+550
+00:39:09,040 --> 00:39:11,510
+renee,it's larry. Suspect is on
+foot. We can't wait for backup.
+
+551
+00:39:11,520 --> 00:39:15,160
+- We're moving in right now.
+- All right. Swat team's a few minutes out.
+
+552
+00:39:15,170 --> 00:39:17,000
+- Careful,larry.
+- Yeah.
+
+553
+00:39:18,380 --> 00:39:21,050
+Remember,suspect has a
+canister,so pick your shots.
+
+554
+00:39:21,090 --> 00:39:22,870
+If possible,let's take him alive.
+
+555
+00:39:22,880 --> 00:39:25,050
+Yes,sir.
+
+556
+00:39:31,240 --> 00:39:34,360
+we got to get out of here.
+Almeida,cover. Let's go.
+
+557
+00:39:34,750 --> 00:39:36,890
+Come on!
+
+558
+00:40:07,170 --> 00:40:08,620
+- relax.
+- I'm okay.
+
+559
+00:40:08,630 --> 00:40:10,750
+Relax.
+
+560
+00:40:14,620 --> 00:40:16,220
+Tony.
+
+561
+00:40:17,260 --> 00:40:19,870
+tony! Tony!
+
+562
+00:40:27,180 --> 00:40:29,500
+what...
+
+563
+00:40:30,950 --> 00:40:33,260
+I'm sorry,larry.
+
+564
+00:40:34,200 --> 00:40:37,400
+god...
+
+565
+00:41:25,500 --> 00:41:27,390
+let me see it.
+
+566
+00:41:49,110 --> 00:41:51,310
+How the hell do we get out of here?
+
+567
+00:41:51,320 --> 00:41:53,550
+I want you to take
+this,find a place to hide.
+
+568
+00:41:53,590 --> 00:41:55,310
+- Wait for my call.
+- What about you?
+
+569
+00:41:55,320 --> 00:42:00,470
+I'm gonna wait on the fbi,figure
+out a way to get you out of here. Go!
+
+9999
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.tvsubtitles.net</font>

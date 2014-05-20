@@ -1,0 +1,2954 @@
+1
+00:00:11,511 --> 00:00:13,775
+<i>[Jack Bauer]</i>
+<i>Previously on</i> 24.
+
+2
+00:00:13,847 --> 00:00:16,782
+What the hell is this? All our screens
+for the eastern quadrant are locked.
+
+3
+00:00:16,850 --> 00:00:21,150
+I took out your control units.
+I want you to see what we can do.
+
+4
+00:00:21,221 --> 00:00:23,587
+Get ready to make the course change.
+
+5
+00:00:23,656 --> 00:00:27,558
+- G.S.A. 117, this is Northeast Three Control.
+- Go ahead, Air Traffic Control.
+
+6
+00:00:27,627 --> 00:00:29,492
+We have a new runway assignment for you.
+
+7
+00:00:29,562 --> 00:00:33,726
+Sid, there's another plane landing on 4 Right.
+It crosses 31 Left.
+
+8
+00:00:33,800 --> 00:00:36,064
+G.S.A. 117, pull up.
+4 Right, pull up.
+
+9
+00:00:36,136 --> 00:00:39,503
+[Passengers Screaming]
+
+10
+00:00:39,572 --> 00:00:43,406
+That was just a warning shot.
+Whatever we do next, it'll be the real thing.
+
+11
+00:00:43,476 --> 00:00:47,572
+- Get the module ready.
+- [Emerson] As promised.
+
+12
+00:00:47,647 --> 00:00:51,083
+GeneralJuma will be pleased.
+
+13
+00:00:51,151 --> 00:00:54,780
+<i>Perhaps now would be a good time to make</i>
+<i>your demands known to President Taylor.</i>
+
+14
+00:00:54,854 --> 00:00:57,345
+Make the preparations.
+Your government is about to <i>pay...</i>
+
+15
+00:00:57,424 --> 00:01:01,485
+a very steep price
+for interfering in our affairs.
+
+16
+00:01:01,561 --> 00:01:04,086
+They assumed my son killed himself.
+
+17
+00:01:04,164 --> 00:01:06,098
+<i>They didn't look deeply enough</i>
+<i>at anything.</i>
+
+18
+00:01:06,166 --> 00:01:08,760
+The authorities have already questioned
+your son's girlfriend, sir.
+
+19
+00:01:08,835 --> 00:01:10,632
+<i>You're not going anywhere</i>
+<i>till I get the truth.</i>
+
+20
+00:01:10,703 --> 00:01:13,263
+- Sir.
+- You know who murdered my son.
+
+21
+00:01:13,339 --> 00:01:15,000
+He killed himself.
+
+22
+00:01:15,075 --> 00:01:19,102
+I'm gonna find out what you're hiding.
+And when I do, God help you.
+
+23
+00:01:20,280 --> 00:01:22,305
+You're right.
+He's not one of ours.
+
+24
+00:01:22,382 --> 00:01:26,079
+- <i>We'll follow him, see if</i>
+<i>he leads us to Almeida. Dornan!</i>
+- That's not the right move.
+
+25
+00:01:26,152 --> 00:01:29,883
+<i>You can't bring anyone else into this.</i>
+- What the hell's goin' on?
+
+26
+00:01:29,956 --> 00:01:33,323
+We're following up on a lead, and
+I will fill you in if and when we find something.
+
+27
+00:01:33,393 --> 00:01:36,487
+I do not like this.
+I just flat-out lied to my boss.
+
+28
+00:01:36,563 --> 00:01:40,624
+I told you I would help you find Tony Almeida,
+but you're gonna have to let me do it my way.
+
+29
+00:01:41,468 --> 00:01:44,403
+Tony! Stop!
+
+30
+00:01:50,710 --> 00:01:53,679
+<i>The device is gone.</i>
+<i>The locator files have been deleted.</i>
+
+31
+00:01:53,746 --> 00:01:56,374
+Where is it?
+
+32
+00:02:00,420 --> 00:02:03,355
+What the hell happened to you?
+
+33
+00:02:05,125 --> 00:02:09,721
+<i>[Jack Bauer] The following takes place</i>
+<i>between 10:00 a.m. And 11:00 a.m.</i>
+
+34
+00:02:11,164 --> 00:02:14,156
+- Where's Almeida now?
+- He's in transit to F.B.I. Headquarters.
+
+35
+00:02:14,234 --> 00:02:16,794
+- He'll be formally interrogated there.
+- I don't understand.
+
+36
+00:02:16,870 --> 00:02:18,997
+Almeida was orchestrating these attacks.
+
+37
+00:02:19,072 --> 00:02:22,303
+<i>Lfhe doesn't have the C.I.P. Device,</i>
+<i>who does?</i>
+
+38
+00:02:22,375 --> 00:02:25,867
+[Kanin] The F.B.I. Has learned that Almeida
+handed off the device to someone else.
+
+39
+00:02:25,945 --> 00:02:29,381
+- They don't know who.
+- I may have an answer to that question,
+Madam President.
+
+40
+00:02:29,449 --> 00:02:33,010
+- I'm listening.
+- Almeida's working for theJuma regime.
+
+41
+00:02:33,086 --> 00:02:37,386
+Approximately five minutes ago, an audio message
+was routed to the State Department subnet.
+
+42
+00:02:37,457 --> 00:02:40,620
+It's from Colonel Iké Dubaku.
+He's Juma's right-hand man.
+
+43
+00:02:40,693 --> 00:02:42,627
+<i>He's known as the Butcher of Sangala.</i>
+
+44
+00:02:42,695 --> 00:02:45,255
+- <i>Over 300,000 people were murdered.</i>
+- I know who he is.
+
+45
+00:02:45,331 --> 00:02:48,232
+What did the message say?
+
+46
+00:02:48,301 --> 00:02:51,668
+Think you should hear it yourself.
+
+47
+00:02:51,738 --> 00:02:56,539
+President Taylor,
+this is Colonel Iké Dubaku.
+
+48
+00:02:56,609 --> 00:02:59,510
+<i>As you have no doubt confirmed...</i>
+
+49
+00:02:59,579 --> 00:03:04,278
+<i>the near collision atJ.F.K.</i>
+<i>International was no accident.</i>
+
+50
+00:03:04,350 --> 00:03:08,719
+<i>We have the C.I.P. Device.</i>
+<i>We have the capability...</i>
+
+51
+00:03:08,788 --> 00:03:13,225
+<i>to kill tens of thousands of Americans...</i>
+
+52
+00:03:13,293 --> 00:03:16,091
+<i>and we are prepared to do so.</i>
+
+53
+00:03:16,162 --> 00:03:22,067
+<i>We demand the complete and immediate</i>
+<i>withdrawal of the U.S. Naval strike force...</i>
+
+54
+00:03:22,135 --> 00:03:27,368
+<i>to a position west of the 23rd meridian</i>
+<i>by this time tomorrow.</i>
+
+55
+00:03:27,440 --> 00:03:29,431
+<i>In order to meet this timeline...</i>
+
+56
+00:03:29,509 --> 00:03:33,878
+<i>we require satellite confirmation</i>
+<i>within three hours...</i>
+
+57
+00:03:33,947 --> 00:03:37,849
+<i>that the carrier air wing</i>
+<i>is in full retreat.</i>
+
+58
+00:03:39,085 --> 00:03:43,419
+<i>Don't sacrifice your fellow countrymen...</i>
+
+59
+00:03:43,489 --> 00:03:45,821
+<i>Madam President.</i>
+
+60
+00:03:45,892 --> 00:03:51,125
+<i>Allow the people of Sangala</i>
+<i>to determine their own destiny.</i>
+
+61
+00:03:51,197 --> 00:03:54,189
+<i>Stand your forces down.</i>
+
+62
+00:03:54,267 --> 00:03:57,725
+<i>Voiceprint's an 89% match.</i>
+<i>It's Dubaku.</i>
+
+63
+00:03:57,804 --> 00:04:01,205
+- There's little doubt.
+- Looks like your suspicions were correct,
+Madam President.
+
+64
+00:04:01,274 --> 00:04:04,072
+- This is about Africa.
+- My God.
+
+65
+00:04:04,143 --> 00:04:08,341
+Dubaku should have been tried
+for war crimes years ago.
+
+66
+00:04:08,414 --> 00:04:10,279
+Now he's giving us ultimatums.
+
+67
+00:04:10,350 --> 00:04:14,150
+We cannot let this monster hold our country
+hostage. Where do we stand on the planes?
+
+68
+00:04:14,220 --> 00:04:16,017
+There's still 2,500 planes in the air.
+
+69
+00:04:16,089 --> 00:04:18,455
+We have got to shore up the <i>firewall...</i>
+
+70
+00:04:18,524 --> 00:04:20,617
+<i>so that the C.I.P. Device</i>
+<i>will be rendered useless.</i>
+
+71
+00:04:20,693 --> 00:04:23,526
+We now think we can reengineer
+the code in six days.
+
+72
+00:04:23,596 --> 00:04:26,531
+Six days? We don't have
+the luxury of six hours.
+
+73
+00:04:26,599 --> 00:04:30,933
+I'm sorry, Madam President, but there's no way
+we can rebuild the firewall in that time frame.
+
+74
+00:04:35,608 --> 00:04:38,475
+I want you to instigate
+a series of restricted alerts.
+
+75
+00:04:38,544 --> 00:04:40,705
+Keep it to first responders only.
+
+76
+00:04:40,780 --> 00:04:43,010
+We want people to be ready
+in case we're attacked <i>again...</i>
+
+77
+00:04:43,082 --> 00:04:45,676
+- but we don't want to start a panic.
+- Yes, Madam President.
+
+78
+00:04:48,154 --> 00:04:50,918
+And gentlemen, Almeida is our only lead.
+
+79
+00:04:50,990 --> 00:04:52,981
+Make sure the F.B.I.
+Is aware of the demands.
+
+80
+00:04:53,059 --> 00:04:55,550
+They need to work Almeida
+from the Africa <i>side...</i>
+
+81
+00:04:55,628 --> 00:04:59,496
+- and they need to know
+we don't have a lot of time.
+- Yes, ma'am.
+
+82
+00:05:25,191 --> 00:05:27,182
+Come on.
+
+83
+00:05:29,896 --> 00:05:31,887
+Keep your head down.
+
+84
+00:05:45,478 --> 00:05:47,708
+<i>Get him ready for questioning.</i>
+
+85
+00:05:52,151 --> 00:05:54,711
+I want an explanation.
+
+86
+00:05:54,787 --> 00:05:58,314
+You went after that shooter without backup
+or authorization, and then refused to tell me why.
+
+87
+00:05:58,391 --> 00:06:01,224
+- Now, I wanna know.
+- Look, we didn't know who might be listening.
+
+88
+00:06:01,294 --> 00:06:04,821
+- Someone in this office is helping Almeida.
+- What?
+
+89
+00:06:04,897 --> 00:06:06,990
+The F.B.I. Has been compromised, Larry.
+There's a leak.
+
+90
+00:06:08,601 --> 00:06:11,263
+Based on what?
+Excuse me! This is private.
+
+91
+00:06:11,337 --> 00:06:13,999
+Tony knew we were going to Schector's
+office before we even got there.
+
+92
+00:06:14,073 --> 00:06:16,234
+<i>That's how he managed</i>
+<i>to get a sniper in position.</i>
+
+93
+00:06:16,309 --> 00:06:18,436
+<i>The tip had to come from your office.</i>
+
+94
+00:06:18,511 --> 00:06:21,139
+<i>And whoever it was helped Schector's</i>
+<i>assassin get out of the building.</i>
+
+95
+00:06:21,214 --> 00:06:24,115
+He's right, Larry.
+That's why we couldn't tell you.
+
+96
+00:06:24,183 --> 00:06:26,583
+<i>You had a full perimeter, right?</i>
+<i>Covered every exit?</i>
+
+97
+00:06:26,652 --> 00:06:29,212
+How else do you think he got out of there?
+
+98
+00:06:31,724 --> 00:06:34,420
+All right. Assuming this is true,
+you got any idea who it could be?
+
+99
+00:06:34,494 --> 00:06:36,792
+No. We didn't see it.
+But we know that it went down.
+
+100
+00:06:36,863 --> 00:06:39,058
+It could be anyone in the Bureau.
+
+101
+00:06:39,132 --> 00:06:41,464
+<i>You need to tighten</i>
+<i>your circle around Tony.</i>
+
+102
+00:06:41,534 --> 00:06:45,129
+You can't let any information that he gives you
+get back to the people he's working <i>with...</i>
+
+103
+00:06:45,204 --> 00:06:48,105
+otherwise you will never
+get that C.I.P. Device.
+
+104
+00:06:51,911 --> 00:06:53,970
+- All right.
+- <i>[Cell Phone Ringing]</i>
+
+105
+00:06:54,046 --> 00:06:56,708
+We'll limit access to
+Level Four clearance and above.
+
+106
+00:06:56,783 --> 00:06:59,047
+HaveJanis run the security protocols.
+
+107
+00:06:59,118 --> 00:07:01,348
+- See if she can track down this lead.
+- <i>[Cell Phone Beeps]</i>
+
+108
+00:07:01,421 --> 00:07:04,151
+- It's Moss.
+- <i>[Man] Sir, I have the White House calling.</i>
+
+109
+00:07:04,223 --> 00:07:07,215
+- <i>Yeah, I'll- I'll take it in my office.</i>
+- <i>Yes, sir.</i>
+
+110
+00:07:07,293 --> 00:07:10,160
+- Yeah.
+- <i>[Cell Phone Beeps]</i>
+
+111
+00:07:10,229 --> 00:07:12,220
+It's the White House.
+
+112
+00:07:14,100 --> 00:07:18,127
+From now on, keep me in the loop.
+
+113
+00:07:18,204 --> 00:07:21,196
+And he doesn't do a damn thing
+without telling me.
+
+114
+00:07:24,444 --> 00:07:26,537
+[Exhales]
+
+115
+00:07:26,612 --> 00:07:30,673
+- We had to tell him. We had no choice.
+- <i>You trust him?</i>
+
+116
+00:07:30,750 --> 00:07:34,151
+No question.
+There's no one I trust more.
+
+117
+00:07:36,556 --> 00:07:39,047
+Where are they gonna hold Tony?
+
+118
+00:07:41,394 --> 00:07:44,727
+<i>I am gonna have to lift up your shirt.</i>
+
+119
+00:07:57,844 --> 00:07:59,835
+Is that comfortable for you?
+
+120
+00:08:02,582 --> 00:08:04,948
+Take that as a yes.
+
+121
+00:08:12,592 --> 00:08:15,186
+- <i>[Renee] Is he hooked up?</i>
+- <i>[Janis] Yeah, we're ready to go.</i>
+
+122
+00:08:16,796 --> 00:08:20,698
+<i>Janis, I'll run this session.</i>
+<i>I want you to handle something else.</i>
+
+123
+00:08:20,766 --> 00:08:25,226
+- What else?
+- Plugging a security leak.
+
+124
+00:08:25,304 --> 00:08:26,965
+What?
+
+125
+00:08:27,039 --> 00:08:29,371
+We think someone in this office
+has been helping Almeida.
+
+126
+00:08:29,442 --> 00:08:32,104
+They've kicked this up
+to Level Four clearance.
+
+127
+00:08:32,178 --> 00:08:35,045
+I want you to vet all communication
+and information flow.
+
+128
+00:08:35,114 --> 00:08:37,378
+Red tag every data point
+that has to do with Almeida.
+
+129
+00:08:37,450 --> 00:08:40,283
+<i>[Janis] Okay. Well, do we have</i>
+<i>any idea who it is?</i>
+
+130
+00:08:40,353 --> 00:08:44,551
+- No, we don't.
+I'm hoping you can help us find out.
+- Okay.
+
+131
+00:08:44,624 --> 00:08:49,152
+[Exhales] Okay, there's a 0.2 deviation
+on the blood pressure <i>monitor...</i>
+
+132
+00:08:49,228 --> 00:08:51,196
+and you're gonna have
+to compensate for that.
+
+133
+00:08:51,264 --> 00:08:53,255
+Thanks, Janis.
+
+134
+00:08:53,332 --> 00:08:57,462
+<i>[Door Closes]</i>
+
+135
+00:09:08,481 --> 00:09:11,712
+Sorry about your friend, Jack.
+I know you were <i>hoping...</i>
+
+136
+00:09:11,784 --> 00:09:15,049
+he wasn't capable
+of doing something like this.
+
+137
+00:09:16,088 --> 00:09:18,181
+Yeah.
+
+138
+00:09:30,636 --> 00:09:33,764
+[Chattering]
+
+139
+00:09:33,839 --> 00:09:37,502
+- Hey, what's going on?
+Why are we in Level Four lockdown?
+- Don't worry about it.
+
+140
+00:09:37,577 --> 00:09:39,772
+- Just do your job.
+- How am I supposed to do my <i>job...</i>
+
+141
+00:09:39,845 --> 00:09:42,439
+when I can't get through to half
+the server nodes in the building?
+
+142
+00:09:42,515 --> 00:09:45,006
+You're sifting through the evidence
+gathered at Almeida's arrest site.
+
+143
+00:09:45,084 --> 00:09:46,984
+That does not require
+Level Four clearance.
+
+144
+00:09:47,053 --> 00:09:50,216
+You have everything you need
+to do your work. Please.
+
+145
+00:09:56,896 --> 00:10:00,423
+<i>[Speaking French]</i>
+
+146
+00:10:03,869 --> 00:10:05,860
+Nichols.
+
+147
+00:10:10,142 --> 00:10:13,942
+It's confirmed.
+The F.B.I. Has Almeida.
+
+148
+00:10:14,013 --> 00:10:16,538
+Then we should move on.
+There's nothing we can do.
+
+149
+00:10:16,616 --> 00:10:20,074
+No. We have assets inside the Bureau.
+We use them to help get him out.
+
+150
+00:10:20,152 --> 00:10:22,882
+No, it's too risky. We'd be
+<i>jeopardizing the entire mission.
+
+151
+00:10:22,955 --> 00:10:25,515
+- Almeida's not that important.
+- What about the next operation? Tony's prepped.
+
+152
+00:10:25,591 --> 00:10:28,822
+- He's ready to go.
+- You'll just have to find someone else.
+
+153
+00:10:28,894 --> 00:10:30,828
+I realize you and Tony are friends.
+
+154
+00:10:30,896 --> 00:10:33,990
+I don't like throwing him to the wolves
+any more than you do.
+
+155
+00:10:34,066 --> 00:10:37,001
+But he knew what he was getting into.
+
+156
+00:10:37,069 --> 00:10:40,596
+I just spoke with Juma. The American troops
+are still in position near our country.
+
+157
+00:10:40,673 --> 00:10:43,141
+TellJuma to be patient.
+
+158
+00:10:43,209 --> 00:10:46,076
+President Taylor just received
+your demands.
+
+159
+00:10:46,145 --> 00:10:49,012
+Then perhaps it is time for
+a more forceful demonstration.
+
+160
+00:10:49,081 --> 00:10:51,413
+If it comes to that, we'll be ready.
+
+161
+00:10:51,484 --> 00:10:54,476
+<i>For now, let's give the White House</i>
+<i>a little more time to respond.</i>
+
+162
+00:10:58,658 --> 00:11:00,592
+For now.
+
+163
+00:11:06,699 --> 00:11:09,259
+- <i>[Rapid Beeping]</i>
+- <i>[Door Opens]</i>
+
+164
+00:11:09,335 --> 00:11:11,530
+Agent Walker.
+
+165
+00:11:11,604 --> 00:11:14,732
+<i>[Door Closes]</i>
+
+166
+00:11:17,076 --> 00:11:19,101
+Almeida's working for theJuma regime.
+
+167
+00:11:19,178 --> 00:11:22,409
+- What are you talking about?
+- The president just received a set of demands.
+
+168
+00:11:22,481 --> 00:11:25,814
+- They're from Colonel Iké Dubaku.
+- Dubaku?
+
+169
+00:11:25,885 --> 00:11:28,649
+Looks like he contracted Almeida
+to build the C.I.P. Module.
+
+170
+00:11:28,721 --> 00:11:32,589
+- And now, he's using it
+to blackmail the White House.
+- How?
+
+171
+00:11:34,326 --> 00:11:38,353
+- Excuse me?
+- How is he gonna blackmail the White House?
+
+172
+00:11:38,431 --> 00:11:42,128
+By insisting we stand down
+the invasion force off the coast of Sangala.
+
+173
+00:11:42,201 --> 00:11:45,102
+If the president doesn't
+comply with his <i>demands...</i>
+
+174
+00:11:45,171 --> 00:11:47,731
+Dubaku is gonna start killing Americans.
+
+175
+00:11:48,808 --> 00:11:51,743
+I can get you your C.I.P. Device.
+
+176
+00:11:51,811 --> 00:11:53,802
+Just let me talk to him.
+
+177
+00:11:55,347 --> 00:11:58,441
+I know him. I know how he thinks.
+We have a history.
+
+178
+00:11:58,517 --> 00:12:01,315
+<i>I can use it against him.</i>
+
+179
+00:12:01,387 --> 00:12:05,289
+He's gotten us this far, Larry.
+It makes sense.
+
+180
+00:12:07,393 --> 00:12:11,591
+You're running out of time.
+You don't have a better option.
+
+181
+00:12:11,664 --> 00:12:13,655
+[Sighs]
+
+182
+00:12:32,284 --> 00:12:34,980
+- <i>[Rapid Beeping]</i>
+- <i>[Door Opens]</i>
+
+183
+00:12:37,757 --> 00:12:39,748
+Give us the room.
+
+184
+00:12:45,531 --> 00:12:47,465
+<i>[Door Closes]</i>
+
+185
+00:12:49,468 --> 00:12:52,995
+I watched you die in my arms.
+
+186
+00:12:53,072 --> 00:12:56,007
+You want to explain to me
+how you're still alive?
+
+187
+00:12:59,211 --> 00:13:04,376
+[Scoffs] Didn't think so.
+Why don't I tell you what I know.
+
+188
+00:13:06,452 --> 00:13:08,818
+I know that you're working
+for theJuma regime.
+
+189
+00:13:08,888 --> 00:13:10,822
+<i>The White House</i>
+<i>just got their demands...</i>
+
+190
+00:13:10,890 --> 00:13:15,384
+and you have to know
+that I will never let that happen.
+
+191
+00:13:17,363 --> 00:13:19,923
+So why don't you
+save yourself some <i>time...</i>
+
+192
+00:13:22,735 --> 00:13:24,669
+and some <i>pain...</i>
+
+193
+00:13:24,737 --> 00:13:27,399
+and tell me
+where the C.I.P. Device is.
+
+194
+00:13:29,775 --> 00:13:31,709
+- I can't tell you that, Jack.
+- <i>Damn it, Tony.</i>
+
+195
+00:13:31,777 --> 00:13:34,245
+You are not just facing charges
+for domestic terrorism.
+
+196
+00:13:34,313 --> 00:13:37,874
+You are gonna face international charges
+for aiding and abetting a genocide.
+
+197
+00:13:37,950 --> 00:13:40,714
+They will give you the death penalty.
+
+198
+00:13:40,786 --> 00:13:42,720
+<i>Come on. Just work with me on this.</i>
+
+199
+00:13:42,788 --> 00:13:45,518
+<i>I could help you cut a deal.</i>
+<i>I can maybe even get you immunity.</i>
+
+200
+00:13:45,591 --> 00:13:48,617
+You're wasting your breath, Jack.
+If I were <i>you...</i>
+
+201
+00:13:48,694 --> 00:13:52,596
+I'd tell the president to withdraw those troops,
+because Dubaku's serious.
+
+202
+00:13:52,665 --> 00:13:56,123
+He's ready to take thousands of American lives
+unless his demands are met.
+
+203
+00:13:56,202 --> 00:13:59,296
+Why the hell are you doing this?
+
+204
+00:13:59,371 --> 00:14:03,569
+Juma wanted the C.I.P. Module,
+and he was willing to pay for it.
+
+205
+00:14:07,980 --> 00:14:12,076
+- I don't believe you.
+- Come on, Jack.
+
+206
+00:14:12,151 --> 00:14:14,244
+Don't act so surprised.
+
+207
+00:14:14,320 --> 00:14:18,120
+Money is the only reason
+I have left for doin' anything.
+
+208
+00:14:18,190 --> 00:14:20,124
+The government took care of that.
+
+209
+00:14:20,192 --> 00:14:23,525
+The government did not kill Michelle.
+Charles Logan did.
+
+210
+00:14:23,596 --> 00:14:26,656
+Charles Logan is a product
+of his environment.
+
+211
+00:14:26,732 --> 00:14:29,929
+The government poisons
+everything in its path.
+
+212
+00:14:30,002 --> 00:14:33,438
+You know that better than me, Jack.
+Look what they did to you.
+
+213
+00:14:33,639 --> 00:14:36,267
+Damn it, Tony!
+We are not talking about me!
+
+214
+00:14:36,342 --> 00:14:38,674
+Oh, we're not?
+
+215
+00:14:39,778 --> 00:14:41,746
+You're asking me why I'm doing this.
+
+216
+00:14:41,814 --> 00:14:43,748
+I could ask you the same question.
+
+217
+00:14:43,816 --> 00:14:47,582
+Here you are, working for the same people
+who wanna put you in prison.
+
+218
+00:14:47,653 --> 00:14:50,884
+The same people who killed everything
+you love and left you with nothing.
+
+219
+00:14:50,956 --> 00:14:53,789
+- <i>Your daughter wants nothing</i>
+<i>to do with you, Teri's dead-</i>
+- Shut up.
+
+220
+00:14:53,859 --> 00:14:56,191
+- Audrey Raines, Miles-
+- I said shut up!
+
+221
+00:14:56,262 --> 00:15:00,790
+No, Jack! No! You need to hear this!
+You need to start living in the real world!
+
+222
+00:15:00,866 --> 00:15:04,996
+Because every second you help the government,
+you're spittin' on Teri's grave!
+
+223
+00:15:06,272 --> 00:15:08,172
+Get up!
+
+224
+00:15:09,408 --> 00:15:11,103
+- He's losing it.
+- Hold on. Hold on.
+
+225
+00:15:11,176 --> 00:15:13,906
+- Tell me where the device is!
+- [Breathing Rapidly]
+
+226
+00:15:13,979 --> 00:15:17,346
+So help me God, I will kill you,
+and you will stay dead this time.
+
+227
+00:15:17,416 --> 00:15:19,350
+Where is the device?
+
+228
+00:15:19,418 --> 00:15:21,648
+[Grunts]
+
+229
+00:15:22,955 --> 00:15:28,655
+This is your last chance.
+Where is it?
+
+230
+00:15:28,727 --> 00:15:32,788
+- Where is it?
+- [Grunting]
+
+231
+00:15:32,865 --> 00:15:35,231
+Deep Sky.
+
+232
+00:15:35,301 --> 00:15:37,292
+What did you just say?
+
+233
+00:15:37,369 --> 00:15:39,360
+- Son of a bitch.
+- Give him a few more seconds.
+
+234
+00:15:39,438 --> 00:15:42,737
+- Few more seconds, he'll be dead.
+- Deep Sky.
+
+235
+00:15:42,808 --> 00:15:45,299
+Jack, let him go!
+
+236
+00:15:45,377 --> 00:15:48,676
+<i>Get him out ofhere!</i>
+
+237
+00:15:48,747 --> 00:15:52,080
+- [Gasping]
+- Get him out of here, now!
+
+238
+00:15:52,151 --> 00:15:54,483
+<i>[Gasping Continues]</i>
+
+239
+00:15:54,553 --> 00:15:57,044
+I need a medic in here to check him out.
+
+240
+00:16:08,100 --> 00:16:10,898
+- Keep an eye on him.
+- <i>You got it.</i>
+
+241
+00:16:10,970 --> 00:16:13,461
+- [Beeps]
+- Deep Sky.
+
+242
+00:16:14,573 --> 00:16:17,542
+<i>[Beeping]</i>
+
+243
+00:16:21,847 --> 00:16:23,838
+[Modulated Voice]
+Hello.
+
+244
+00:16:26,251 --> 00:16:29,084
+- This is Jack Bauer.
+- Yes?
+
+245
+00:16:29,154 --> 00:16:31,918
+- I was told to call you.
+- By whom?
+
+246
+00:16:31,991 --> 00:16:33,982
+Tony Almeida.
+
+247
+00:16:36,395 --> 00:16:41,196
+He gave me this old C.T.U.
+Emergency phone code- Deep Sky.
+
+248
+00:16:41,266 --> 00:16:43,200
+[Beeps]
+
+249
+00:16:44,470 --> 00:16:46,563
+It's Bill, Jack.
+
+250
+00:16:46,638 --> 00:16:48,765
+Bill, what the hell's going on?
+
+251
+00:16:48,841 --> 00:16:51,867
+- Where is Tony?
+- F.B.I. Headquarters. He's been arrested.
+
+252
+00:16:51,944 --> 00:16:53,571
+Arrested?
+
+253
+00:16:53,645 --> 00:16:56,273
+He orchestrated a terrorist attack
+on the United States today.
+
+254
+00:16:56,348 --> 00:16:59,442
+I was interrogating him.
+
+255
+00:16:59,518 --> 00:17:03,318
+- How'd you get involved in this?
+- The F.B.I. Brought me in to help track him down.
+
+256
+00:17:03,389 --> 00:17:05,755
+We need to talk, Jack.
+
+257
+00:17:05,824 --> 00:17:07,758
+I'll call you back
+on a secure V.P.N. Line.
+
+258
+00:17:07,826 --> 00:17:10,818
+- What the hell is going on?
+- I need 10 minutes to set up the V.P.N. Line.
+
+259
+00:17:10,896 --> 00:17:13,990
+- I don't have 10 minutes!
+- Ten minutes, Jack.
+
+260
+00:17:21,240 --> 00:17:24,698
+I can't believe this.
+LfTony's been arrested, it's over.
+
+261
+00:17:25,711 --> 00:17:28,339
+Are you gonna tellJack everything?
+
+262
+00:17:28,414 --> 00:17:30,780
+We wanna get Tony back undercover,
+we'll need his help.
+
+263
+00:17:30,849 --> 00:17:33,909
+I don't thinkJack's
+in a very helpful frame of mind.
+
+264
+00:17:34,987 --> 00:17:37,478
+He's our only hope.
+
+265
+00:17:37,556 --> 00:17:40,491
+<i>[Beeping]</i>
+
+266
+00:17:52,838 --> 00:17:54,499
+- <i>Hello, Henry.</i>
+- Ethan.
+
+267
+00:17:54,573 --> 00:17:56,541
+I got your message about Sangala.
+
+268
+00:17:56,608 --> 00:17:59,668
+- Where's Allison?
+- She's in her office.
+
+269
+00:17:59,745 --> 00:18:01,440
+Henry-
+
+270
+00:18:04,216 --> 00:18:08,710
+The president is in
+an impossible situation right now.
+
+271
+00:18:08,787 --> 00:18:11,915
+She needs your support,
+but you can't give it to <i>her...</i>
+
+272
+00:18:11,990 --> 00:18:16,290
+if you keep going off on these
+paranoid fantasies about Roger.
+
+273
+00:18:16,361 --> 00:18:19,353
+I know about Samantha Roth.
+I know you accosted her in her office.
+
+274
+00:18:19,431 --> 00:18:22,161
+She's hiding something
+about my son's murder.
+
+275
+00:18:23,836 --> 00:18:26,862
+Roger wasn't murdered.
+He committed suicide.
+
+276
+00:18:26,939 --> 00:18:30,875
+The coroner's office made that determination,
+and the F.B.I. Confirmed it.
+
+277
+00:18:30,943 --> 00:18:34,879
+They didn't look hard enough.
+Ethan, I know my son.
+
+278
+00:18:34,947 --> 00:18:36,881
+He did not kill himself.
+
+279
+00:18:36,949 --> 00:18:40,350
+- He wasn't depressed. He had no reason.
+- What if he did have a reason?
+
+280
+00:18:40,419 --> 00:18:44,048
+- I would have known.
+- Not if he didn't tell you.
+
+281
+00:18:44,123 --> 00:18:47,559
+Not if he was too ashamed to tell you
+or the president.
+
+282
+00:18:47,626 --> 00:18:50,288
+What are you talking about?
+
+283
+00:18:50,362 --> 00:18:53,923
+Roger was about to be investigated
+by the S.E.C. For insider trading.
+
+284
+00:18:55,501 --> 00:18:58,265
+He'd used information
+he could only have <i>gotten...</i>
+
+285
+00:18:58,337 --> 00:19:00,362
+through his access to the president.
+
+286
+00:19:00,439 --> 00:19:05,433
+Before the S.E.C. Opened the investigation,
+he killed himself.
+
+287
+00:19:05,511 --> 00:19:07,445
+I don't believe it.
+
+288
+00:19:07,513 --> 00:19:10,004
+It's all in <i>here...</i>
+
+289
+00:19:11,550 --> 00:19:13,518
+in the S.E.C. Case file.
+
+290
+00:19:13,585 --> 00:19:16,383
+Why is this the first time
+I'm hearing about this?
+
+291
+00:19:16,455 --> 00:19:19,686
+Frank Boylan agreed to bury the <i>case...</i>
+
+292
+00:19:19,758 --> 00:19:22,192
+as a political favor to the president.
+
+293
+00:19:22,261 --> 00:19:24,559
+My wife knew about this,
+and she didn't tell me?
+
+294
+00:19:24,630 --> 00:19:30,125
+She wanted to. But she also wanted
+to protect your memory of your son.
+
+295
+00:19:30,202 --> 00:19:33,638
+- You were in so much pain-
+- Damn it, Ethan, he was my son.
+I deserved the truth.
+
+296
+00:19:33,705 --> 00:19:35,935
+And keeping it from you
+was a terrible mistake.
+
+297
+00:19:36,008 --> 00:19:39,774
+I realize that now.
+But the president and I both <i>thought...</i>
+
+298
+00:19:39,845 --> 00:19:42,746
+you were moving on with your life.
+
+299
+00:19:43,815 --> 00:19:46,579
+Mr. Kanin.
+The president wants to see you.
+
+300
+00:19:50,956 --> 00:19:53,948
+Does she know you're telling me this now?
+
+301
+00:19:54,026 --> 00:19:57,655
+No. And I think it best
+we keep it that <i>way...</i>
+
+302
+00:19:57,729 --> 00:20:02,063
+at least till this crisis is resolved.
+
+303
+00:20:13,278 --> 00:20:15,473
+I felt I had to tell him, sir.
+I'm sorry.
+
+304
+00:20:21,987 --> 00:20:23,921
+[Man, Indistinct]
+
+305
+00:20:23,989 --> 00:20:27,186
+All right. Thank you.
+
+306
+00:20:27,259 --> 00:20:30,922
+<i>[Kanin]</i>
+<i>Madam President, you wanted to see me?</i>
+
+307
+00:20:30,996 --> 00:20:34,693
+Admiral Smith laid out the timeline
+for withdrawing our forces.
+
+308
+00:20:34,766 --> 00:20:37,030
+He's saying to meet Dubaku's <i>demands...</i>
+
+309
+00:20:37,102 --> 00:20:40,333
+we need to order the pullback
+by 1:00 p.m.
+
+310
+00:20:40,405 --> 00:20:45,001
+- [Exhales] That's not much time.
+- <i>No, it isn't.</i>
+
+311
+00:20:45,077 --> 00:20:48,308
+Well, maybe this man Almeida will tell us
+where to find the C.I.P. Device.
+
+312
+00:20:48,380 --> 00:20:51,781
+No. Tim Woods
+<i>just heard from the Bureau.
+
+313
+00:20:51,850 --> 00:20:54,284
+So far, Almeida's
+refusing to cooperate.
+
+314
+00:20:54,353 --> 00:20:57,447
+- Well, maybe he's just positioning for a deal.
+- Tim doesn't think so.
+
+315
+00:20:57,522 --> 00:21:01,117
+He said we shouldn't count
+on Almeida to talk.
+
+316
+00:21:01,193 --> 00:21:03,821
+I see.
+
+317
+00:21:03,895 --> 00:21:06,659
+<i>So...</i>
+
+318
+00:21:06,732 --> 00:21:10,429
+unless I order our forces
+to stand <i>down...</i>
+
+319
+00:21:10,502 --> 00:21:14,996
+<i>I'll be condemning</i>
+<i>innocent Americans to death.</i>
+
+320
+00:21:15,073 --> 00:21:17,507
+And if we <i>capitulate...</i>
+
+321
+00:21:17,576 --> 00:21:21,706
+thousands of Sangalans
+will be slaughtered.
+
+322
+00:21:28,720 --> 00:21:30,984
+How did this happen, Ethan?
+
+323
+00:21:32,324 --> 00:21:35,816
+<i>How could we have been</i>
+<i>so caught off guard?</i>
+
+324
+00:21:35,894 --> 00:21:40,558
+And now, to have to decide
+between two impossible choices.
+
+325
+00:21:40,632 --> 00:21:43,863
+Well, at least one of those <i>choices...</i>
+
+326
+00:21:43,935 --> 00:21:48,429
+does stand a good chance
+of preserving American lives.
+
+327
+00:21:48,507 --> 00:21:52,170
+- You mean withdrawal.
+- We are nearing the time
+where we may have to consider it.
+
+328
+00:21:52,244 --> 00:21:54,769
+We're not there yet, Ethan.
+
+329
+00:21:56,014 --> 00:21:57,948
+<i>I can't discuss this...</i>
+
+330
+00:21:58,016 --> 00:22:01,508
+not until we have explored
+every possible option.
+
+331
+00:22:04,256 --> 00:22:06,349
+Tell the F.B.I. To keep
+working on Almeida.
+
+332
+00:22:07,526 --> 00:22:09,517
+Yes, Madam President.
+
+333
+00:22:10,629 --> 00:22:12,688
+[Beeping]
+
+334
+00:22:18,437 --> 00:22:22,396
+<i>Mr. Buchanan,</i>
+<i>I've got the secure line.</i>
+
+335
+00:22:22,474 --> 00:22:24,669
+- All right. Dial the number.
+- <i>[Beeping]</i>
+
+336
+00:22:26,178 --> 00:22:28,408
+[Ringing]
+
+337
+00:22:28,480 --> 00:22:31,108
+Bill, stop screwin' around.
+Tell me what the hell is going on.
+
+338
+00:22:31,183 --> 00:22:35,244
+Jack, Tony is not a terrorist. He's working
+deep cover. He's working with me.
+
+339
+00:22:35,320 --> 00:22:38,448
+We have proof that he tried to bring down
+two commercial airliners.
+
+340
+00:22:38,523 --> 00:22:41,219
+You don't know the whole story.
+It's part of an ongoing operation.
+
+341
+00:22:41,293 --> 00:22:44,990
+Operation? What kind of an operation puts
+hundreds if not thousands of lives in danger?
+
+342
+00:22:45,063 --> 00:22:49,397
+Jack, please. You need to listen.
+Our government is corrupted.
+
+343
+00:22:49,468 --> 00:22:54,565
+There are people on the inside who are
+actively aiding Dubaku and theJuma regime.
+
+344
+00:22:54,639 --> 00:23:00,475
+Point is, Tony was supposed
+to be near the C.I.P. Module the whole time.
+
+345
+00:23:00,545 --> 00:23:04,777
+With him in custody, we've lost our ability
+to control it and to attack this conspiracy.
+
+346
+00:23:04,850 --> 00:23:06,784
+Who's a part of the conspiracy?
+Give me names.
+
+347
+00:23:06,852 --> 00:23:09,480
+We don't know the extent of it,
+but we have reason to <i>believe...</i>
+
+348
+00:23:09,554 --> 00:23:12,022
+that members of the president's
+inner council are on payroll.
+
+349
+00:23:12,090 --> 00:23:13,853
+Who's shepherding the investigation?
+Which agency?
+
+350
+00:23:13,925 --> 00:23:15,688
+That's just it, Jack.
+There's no shepherd.
+
+351
+00:23:15,761 --> 00:23:20,164
+There's no agency.
+This corruption runs deep and wide.
+
+352
+00:23:20,232 --> 00:23:22,166
+We're working outside the government.
+
+353
+00:23:22,234 --> 00:23:24,429
+That's why we have to
+get Tony back undercover.
+
+354
+00:23:24,503 --> 00:23:26,494
+He's at F.B.I. Headquarters, Bill.
+
+355
+00:23:26,571 --> 00:23:31,474
+I never said it was gonna be easy.
+But we have to try.
+
+356
+00:23:31,543 --> 00:23:35,104
+- Chloe's already into their system.
+- Chloe's working on this?
+
+357
+00:23:35,180 --> 00:23:38,581
+- Hi, Jack. It's good to hear your voice.
+- Yeah, you too.
+
+358
+00:23:38,650 --> 00:23:42,950
+I saw the hearings on C-SPAN.
+I can't believe what the senator said to you.
+
+359
+00:23:43,021 --> 00:23:45,319
+You looked good, though.
+
+360
+00:23:45,390 --> 00:23:47,950
+[Buchanan] Jack, we need your help
+to get Tony out of there.
+
+361
+00:23:48,026 --> 00:23:49,960
+There's an agent at the F.B.I.
+Renee Walker.
+
+362
+00:23:50,028 --> 00:23:51,825
+- <i>She could help.</i>
+- No, the F.B.I. Been compromised.
+
+363
+00:23:51,897 --> 00:23:54,866
+Somebody in the Bureau is aiding Dubaku.
+
+364
+00:23:54,933 --> 00:23:57,026
+You don't understand, Bill.
+I trust her.
+
+365
+00:23:57,102 --> 00:24:01,004
+If you think you need to use her to get Tony
+out of F.B.I. Headquarters, then do it.
+
+366
+00:24:01,072 --> 00:24:03,165
+But you'll be making her a target.
+
+367
+00:24:04,776 --> 00:24:06,710
+No, you're right.
+
+368
+00:24:06,778 --> 00:24:09,406
+You're right. We'll do it your way.
+I can get to Tony myself.
+
+369
+00:24:09,481 --> 00:24:12,507
+- But Chloe's gonna have to
+get us out of the building.
+- We're already on it.
+
+370
+00:24:12,584 --> 00:24:15,985
+- Get back to me as soon as you're ready.
+- I'm on my way, Chloe.
+
+371
+00:24:22,494 --> 00:24:25,429
+<i>[Beeping]</i>
+
+372
+00:24:38,677 --> 00:24:42,704
+Hey, Sean, you know those data-mining
+plug-ins we downloaded last week?
+
+373
+00:24:42,781 --> 00:24:45,079
+Where did we file those?
+
+374
+00:24:45,150 --> 00:24:47,618
+Where did we file those?
+
+375
+00:24:47,686 --> 00:24:50,211
+Uh, yeah.
+File folder A-76.
+
+376
+00:24:50,288 --> 00:24:53,189
+- Do you need help with something?
+- <i>No. Why?</i>
+
+377
+00:24:53,258 --> 00:24:56,159
+You seem confused.
+
+378
+00:24:56,228 --> 00:24:59,925
+I just don't like havin' to dance around
+this Level Four lockdown.
+
+379
+00:24:59,998 --> 00:25:04,059
+Oh. I thought you'd welcome the opportunity
+to complain about something.
+
+380
+00:25:27,192 --> 00:25:29,592
+<i>[Cell Phone Rings]</i>
+
+381
+00:25:35,033 --> 00:25:36,967
+- <i>[Beeps]</i>
+- Hello?
+
+382
+00:25:37,035 --> 00:25:40,061
+Mr. Taylor, it's Samantha.
+
+383
+00:25:40,138 --> 00:25:42,606
+I was going to call you.
+
+384
+00:25:42,674 --> 00:25:46,041
+I owe you an apology, Sam.
+
+385
+00:25:46,111 --> 00:25:50,241
+- I was wrong to confront you like that.
+- Uh, no, you weren't.
+
+386
+00:25:52,951 --> 00:25:55,442
+- I wasn't completely honest with you.
+- What do you mean?
+
+387
+00:25:58,290 --> 00:26:01,987
+Roger didn't commit suicide, Mr. Taylor.
+He was murdered.
+
+388
+00:26:06,965 --> 00:26:09,092
+I need to see you, alone.
+
+389
+00:26:09,167 --> 00:26:11,260
+Will you meet me?
+
+390
+00:26:13,438 --> 00:26:15,463
+Of course.
+
+391
+00:26:15,540 --> 00:26:18,338
+[Larry]
+Where's the C.I.P. Device, Tony?
+
+392
+00:26:19,544 --> 00:26:21,569
+Who'd you give it to?
+
+393
+00:26:23,715 --> 00:26:25,774
+The people you're taking money from-
+
+394
+00:26:25,850 --> 00:26:30,514
+thought you'd might like to see
+some of their handiwork.
+
+395
+00:26:33,592 --> 00:26:39,531
+You know how many people they've killed
+since they went back into Sangala?
+
+396
+00:26:39,598 --> 00:26:45,195
+Huh?
+200,000 and counting.
+
+397
+00:26:45,270 --> 00:26:48,000
+Most of them women and children.
+Tony.
+
+398
+00:26:50,809 --> 00:26:53,573
+You really want this on your conscience?
+
+399
+00:26:57,949 --> 00:27:01,385
+My conscience is clear.
+
+400
+00:27:01,453 --> 00:27:06,857
+<i>And nothing you can say or do will change that.</i>
+<i>So why don't you do the smart thing...</i>
+
+401
+00:27:06,925 --> 00:27:09,553
+and tell President Taylor
+to stand down the strike force.
+
+402
+00:27:09,628 --> 00:27:14,656
+Because unless she does,
+planes will be falling from the sky.
+
+403
+00:27:14,733 --> 00:27:18,692
+And then you'll have a whole new
+batch of photos to look at.
+
+404
+00:27:19,938 --> 00:27:22,566
+Only this <i>time...</i>
+
+405
+00:27:22,641 --> 00:27:25,007
+they'll be of dead Americans.
+
+406
+00:27:27,479 --> 00:27:30,039
+Larry, we need to talk.
+
+407
+00:27:38,423 --> 00:27:41,551
+- <i>[Rapid Beeping]</i>
+- <i>[Door Opens]</i>
+
+408
+00:27:44,129 --> 00:27:46,597
+- Almeida's not gonna break.
+- <i>We don't know that.</i>
+
+409
+00:27:46,665 --> 00:27:48,826
+He's a trained C.T.U. Agent.
+
+410
+00:27:48,900 --> 00:27:51,266
+He's conducted interrogations
+<i>just like this one.
+
+411
+00:27:51,336 --> 00:27:54,430
+There's nothing you can say to him that
+he hasn't said himself a hundred times.
+
+412
+00:27:54,506 --> 00:27:56,371
+- So what are you suggesting? We give up?
+- No.
+
+413
+00:27:56,441 --> 00:27:59,205
+I'm suggesting we might need
+a more forceful approach.
+
+414
+00:28:01,012 --> 00:28:04,607
+- You mean torture.
+- There are methods of coercion
+we haven't even considered.
+
+415
+00:28:04,683 --> 00:28:09,086
+- Pharmaceuticals-
+- I can't believe you want
+to have this conversation.
+
+416
+00:28:09,154 --> 00:28:11,714
+- You're not hearing the argument.
+- The argument is crazy.
+
+417
+00:28:11,790 --> 00:28:14,384
+It's illegal, and it's over.
+
+418
+00:28:14,459 --> 00:28:16,552
+As a matter of fact,
+I want Bauer out of here.
+
+419
+00:28:16,628 --> 00:28:19,062
+He's a wild card. He's dangerous.
+I want him out of the building.
+
+420
+00:28:19,130 --> 00:28:21,291
+Go. Process him out.
+I will continue here.
+
+421
+00:28:21,366 --> 00:28:24,665
+Go, go, now.
+
+422
+00:28:31,743 --> 00:28:33,734
+[Sighs]
+
+423
+00:28:40,885 --> 00:28:43,786
+<i>Renee, I was just about to call you.</i>
+<i>I may have found the leak.</i>
+
+424
+00:28:43,855 --> 00:28:46,187
+<i>Someone did a runaround</i>
+<i>on the Level Four lockdown.</i>
+
+425
+00:28:46,257 --> 00:28:49,420
+They circumvented the security fence
+and they hacked into the F.A.A. Database.
+
+426
+00:28:49,494 --> 00:28:52,759
+- F.A.A. Are you sure?
+- Positive. I don't know what
+they were doing in <i>there...</i>
+
+427
+00:28:52,831 --> 00:28:55,664
+but they had to navigate some
+very sophisticated tagger software.
+
+428
+00:28:55,734 --> 00:28:57,599
+- When was this?
+- Just a few minutes ago.
+
+429
+00:28:57,669 --> 00:29:01,435
+- Any idea who it was?
+- No, but I might be able to pull
+a user I.D. Out of the terminal.
+
+430
+00:29:01,506 --> 00:29:03,406
+- Okay. Which terminal?
+- Mainframe room, terminal three.
+
+431
+00:29:03,475 --> 00:29:05,773
+- Check it out. Let me know what you find.
+- Okay.
+
+432
+00:29:07,378 --> 00:29:10,609
+Agent Teller. I need you to prepare
+a debriefing packet forJack Bauer.
+
+433
+00:29:10,682 --> 00:29:13,549
+- And bring me his personal effects.
+- I'll bring 'em right to you.
+
+434
+00:29:13,618 --> 00:29:15,609
+Thanks.
+I'll be in my office.
+
+435
+00:29:29,868 --> 00:29:32,462
+- [Rapid Beeping]
+- [Lock Clicks]
+
+436
+00:29:50,288 --> 00:29:52,256
+<i>[Keyboard Clacking]</i>
+
+437
+00:30:01,800 --> 00:30:05,167
+- <i>[Door Closes]</i>
+- What are you doin'?
+
+438
+00:30:06,838 --> 00:30:08,897
+What's the matter?
+
+439
+00:30:11,209 --> 00:30:14,007
+S-You just stay where you are.
+
+440
+00:30:15,180 --> 00:30:19,378
+Janis, stop it.
+Would you just talk to me?
+
+441
+00:30:20,652 --> 00:30:22,586
+I know you've been helping Tony Almeida.
+
+442
+00:30:22,654 --> 00:30:24,747
+What?
+Are you crazy?
+
+443
+00:30:24,823 --> 00:30:26,984
+No. You broke into the F.A.A. Database.
+
+444
+00:30:27,058 --> 00:30:29,925
+That's your server I.D.
+
+445
+00:30:29,994 --> 00:30:32,519
+Yeah, it's my server I.D.,
+but I'm not helping the terrorists.
+
+446
+00:30:32,597 --> 00:30:34,724
+You wanna know why I was in there?
+I'll tell you.
+
+447
+00:30:34,799 --> 00:30:37,290
+I was worried. My wife is on one of
+those planes up there.
+
+448
+00:30:37,368 --> 00:30:40,633
+- I had to see if her flight had been grounded yet.
+- You expect me to believe that?
+
+449
+00:30:40,705 --> 00:30:43,572
+- Why are you sneaking around?
+- Because of the Level Four lockdown.
+
+450
+00:30:43,641 --> 00:30:46,132
+It cut me out of the F.A.A. Database.
+I couldn't monitor her flight.
+
+451
+00:30:48,479 --> 00:30:50,572
+Look.
+
+452
+00:30:50,648 --> 00:30:52,639
+See for yourself.
+
+453
+00:30:54,786 --> 00:30:59,655
+- <i>[Keyboard Clacking]</i>
+- Flight 112 out of Las Vegas.
+
+454
+00:30:59,724 --> 00:31:03,592
+- Christina Hillinger.
+- Okay. Just stay there.
+
+455
+00:31:03,661 --> 00:31:05,458
+[Beeping]
+
+456
+00:31:05,530 --> 00:31:08,260
+<i>God, Sean!</i>
+
+457
+00:31:08,333 --> 00:31:10,995
+You scared the hell out of me!
+Why wouldn't you just tell me that?
+
+458
+00:31:11,069 --> 00:31:13,970
+'Cause what I was doin' was borderline illegal.
+I didn't wanna get you in trouble.
+
+459
+00:31:14,038 --> 00:31:15,972
+Plus, you looked like
+you had enough on your plate.
+
+460
+00:31:16,040 --> 00:31:19,237
+Damn it, I told Renee
+I'd found a security leak.
+
+461
+00:31:19,310 --> 00:31:21,608
+Is that what's going on around here?
+There's a security leak?
+
+462
+00:31:21,679 --> 00:31:24,045
+Don't worry about it.
+Go back to your station.
+
+463
+00:31:24,115 --> 00:31:26,845
+Keep this to yourself,
+and I will clean up your mess.
+
+464
+00:31:26,918 --> 00:31:28,909
+Go.
+
+465
+00:31:32,056 --> 00:31:36,015
+- <i>[Door Opens, Closes]</i>
+- Idiot.
+
+466
+00:31:37,495 --> 00:31:40,293
+- [Cell Phone Rings]
+- Go ahead.
+
+467
+00:31:40,365 --> 00:31:44,267
+Jack, Agent Walker is on her way. She's
+heading down the corridor toward your room.
+
+468
+00:31:44,335 --> 00:31:47,099
+Copy that.
+How you doing with the loops?
+
+469
+00:31:47,171 --> 00:31:49,799
+I'm dropping the first one in now.
+I have a series of loops.
+
+470
+00:31:49,874 --> 00:31:52,638
+I'm gonna drop them as you go.
+Security won't see a thing.
+
+471
+00:31:52,710 --> 00:31:54,769
+- [Renee] That's all right.
+I'll take it from here.
+- Understand.
+
+472
+00:31:54,846 --> 00:31:57,007
+Standing by.
+
+473
+00:32:02,186 --> 00:32:04,450
+<i>[Door Opens]</i>
+
+474
+00:32:04,522 --> 00:32:07,320
+<i>Hey.</i>
+
+475
+00:32:07,392 --> 00:32:12,022
+Sorry, Jack. We're proceeding without you.
+It wasn't my decision.
+
+476
+00:32:14,866 --> 00:32:17,061
+We wouldn't have Almeida without you.
+We owe you a lot.
+
+477
+00:32:17,135 --> 00:32:20,195
+Thanks.
+
+478
+00:32:20,271 --> 00:32:24,367
+- That paperwork for me?
+- Yeah. Need you to fill this out.
+
+479
+00:32:30,048 --> 00:32:33,711
+<i>I want you to know I'm gonna put in a good</i>
+<i>word with theJustice Department for you.</i>
+
+480
+00:32:33,785 --> 00:32:37,721
+- Maybe it'll help.
+- Thanks.
+
+481
+00:32:37,789 --> 00:32:40,952
+Jack!
+
+482
+00:32:41,025 --> 00:32:43,687
+- Don't fight it.
+- Jack!
+
+483
+00:32:45,330 --> 00:32:47,321
+Don't fight it.
+
+484
+00:33:04,482 --> 00:33:06,916
+<i>[Loud Thud]</i>
+
+485
+00:33:06,985 --> 00:33:09,920
+<i>[Beeping]</i>
+
+486
+00:33:21,833 --> 00:33:25,166
+[Chloe] Jack just took out Agent Walker.
+He has her key card and her weapon.
+
+487
+00:33:25,236 --> 00:33:27,170
+He's going to get Tony.
+What's your location?
+
+488
+00:33:27,238 --> 00:33:29,604
+- About 10 minutes out.
+- Did you get my rendezvous point?
+
+489
+00:33:31,676 --> 00:33:33,644
+- <i>[Electronic Tone]</i>
+- Just showed up on my G.P.S.
+
+490
+00:33:33,711 --> 00:33:35,576
+- Okay, great.
+- [Beeping]
+
+491
+00:33:35,646 --> 00:33:37,580
+I've gotta go. It's Jack.
+Jack?
+
+492
+00:33:37,648 --> 00:33:40,674
+I'm ready.
+I've got access to Interrogation One.
+
+493
+00:33:40,752 --> 00:33:44,711
+- What's Bill's E.T.A.
+- About 10 minutes.
+
+494
+00:33:44,789 --> 00:33:47,053
+- How's the corridor?
+- Clear.
+
+495
+00:33:47,125 --> 00:33:49,116
+Wait for my call.
+
+496
+00:33:55,466 --> 00:33:57,559
+- [Rapid Beeping]
+- <i>[Lock Clicks]</i>
+
+497
+00:33:57,635 --> 00:33:59,296
+<i>[Door Opens]</i>
+
+498
+00:33:59,370 --> 00:34:02,305
+- Put your weapons down. Now!
+- What the hell do you think you're doing?
+
+499
+00:34:02,373 --> 00:34:04,967
+I said do it now!
+
+500
+00:34:05,043 --> 00:34:07,773
+- Do it, or I will kill him.
+- <i>Okay. A II right.</i>
+
+501
+00:34:07,845 --> 00:34:11,008
+- Put it down. It's all right. Do it.
+- Slowly.
+
+502
+00:34:11,082 --> 00:34:13,607
+Slowly!
+
+503
+00:34:14,719 --> 00:34:17,244
+Now you.
+Do it!
+
+504
+00:34:17,321 --> 00:34:19,448
+All right.
+
+505
+00:34:20,858 --> 00:34:22,792
+<i>All right.</i>
+
+506
+00:34:24,495 --> 00:34:26,986
+Kick your weapon over to me.
+
+507
+00:34:27,065 --> 00:34:30,557
+- Come on!
+- Okay. All right.
+
+508
+00:34:30,635 --> 00:34:33,126
+Uncuff him.
+
+509
+00:34:33,204 --> 00:34:35,434
+- Where's Agent Walker? What did you do to her?
+- Shut up.
+
+510
+00:34:35,506 --> 00:34:38,373
+- Bauer, you're not gonna make it out of here.
+- I said shut up!
+
+511
+00:34:40,745 --> 00:34:42,940
+- <i>I talked to Bill.</i>
+- How much did he tell you?
+
+512
+00:34:43,014 --> 00:34:44,948
+Enough. We're gonna get you out of here.
+
+513
+00:34:45,016 --> 00:34:48,383
+<i>Chloe's tapped into their security.</i>
+<i>She's gonna walk us out of this building.</i>
+
+514
+00:34:48,453 --> 00:34:50,683
+- All you need to do is follow my lead.
+- All right.
+
+515
+00:34:50,755 --> 00:34:52,848
+- Chloe, it's Jack. Do you copy?
+- Copy, Jack.
+
+516
+00:34:52,924 --> 00:34:55,654
+I got Tony at the door of Interrogation One
+leading out to the hallway.
+
+517
+00:34:55,726 --> 00:34:58,217
+Okay, I see you. I'm gonna
+direct you to the southwest exit.
+
+518
+00:34:58,296 --> 00:35:00,321
+Right now, you're in the least
+populated area of the <i>building...</i>
+
+519
+00:35:00,398 --> 00:35:03,128
+but you're gonna run into a lot more resistance
+before you get out of there.
+
+520
+00:35:03,201 --> 00:35:04,691
+- Copy that. You ready?
+- <i>[Chloe] Clear to move.</i>
+
+521
+00:35:04,769 --> 00:35:07,363
+Let's go.
+
+522
+00:35:09,774 --> 00:35:11,867
+Hold up. There's two people
+coming out of the elevator.
+
+523
+00:35:11,943 --> 00:35:14,138
+Copy that. Come on.
+
+524
+00:35:14,745 --> 00:35:17,179
+[Elevator Bell Dings]
+
+525
+00:35:23,121 --> 00:35:25,351
+Listen, Jack, I'm sorry
+about the stuff I said back there.
+
+526
+00:35:25,423 --> 00:35:28,153
+I just needed to get you close enough
+to give you Bill's code name.
+
+527
+00:35:28,226 --> 00:35:30,717
+I'm just glad I didn't break your neck.
+
+528
+00:35:30,795 --> 00:35:33,320
+Well, uh, you came close.
+
+529
+00:35:35,399 --> 00:35:37,333
+Yeah.
+Sorry about that.
+
+530
+00:35:37,401 --> 00:35:40,564
+- <i>[Chloe] Okay, clear.</i>
+- We're clear.
+
+531
+00:35:56,521 --> 00:36:00,958
+I cleaned up your trail. So we'll just keep
+this little transgression between us.
+
+532
+00:36:01,025 --> 00:36:03,516
+<i>Although I don't know</i>
+<i>what I'm gonna tell Renee.</i>
+
+533
+00:36:03,594 --> 00:36:05,528
+Have you heard one thing I've just said?
+
+534
+00:36:05,596 --> 00:36:07,723
+Yeah. Yeah, that's fine.
+Take a look at this.
+
+535
+00:36:07,798 --> 00:36:11,564
+- What?
+- There's a performance hit
+on one of our signal routers.
+
+536
+00:36:11,636 --> 00:36:14,696
+<i>It's down 0.7%.</i>
+
+537
+00:36:20,678 --> 00:36:23,169
+You're right.
+Somebody's riding our bandwidth.
+
+538
+00:36:23,247 --> 00:36:26,011
+Hacking in? Is that possible
+with all the safeguards?
+
+539
+00:36:26,083 --> 00:36:28,551
+Anything is possible
+if you know what you're doing.
+
+540
+00:36:30,988 --> 00:36:35,220
+They're inside our security subnet.
+They've accessed the surveillance system.
+
+541
+00:36:35,293 --> 00:36:38,558
+- What are you gonna do?
+- Lock them out.
+
+542
+00:36:48,839 --> 00:36:51,330
+<i>Okay, Jack, you're gonna make</i>
+<i>a left down the next hallway.</i>
+
+543
+00:36:51,409 --> 00:36:53,001
+There's an emergency stairwell at the end.
+
+544
+00:36:53,077 --> 00:36:55,568
+- Will that stairwell
+get us down to the ground level?
+- Yes.
+
+545
+00:36:55,646 --> 00:36:57,944
+Copy that.
+
+546
+00:37:03,187 --> 00:37:05,849
+- Hold on.
+- What's wrong?
+
+547
+00:37:05,923 --> 00:37:09,791
+- I've lost my feed.
+- Chloe's feed just went down.
+
+548
+00:37:11,495 --> 00:37:13,520
+What'd you do?
+
+549
+00:37:13,598 --> 00:37:16,089
+I pinged the line,
+and it automatically reset.
+
+550
+00:37:16,167 --> 00:37:19,159
+Someone <i>was</i> hacking in.
+They were taking out our surveillance cameras.
+
+551
+00:37:19,237 --> 00:37:22,297
+- Janis, take a look at this.
+- Send it to me.
+
+552
+00:37:27,278 --> 00:37:29,508
+[Gasps]
+
+553
+00:37:29,580 --> 00:37:32,845
+- <i>[Beeping]</i>
+- Security, this is Janis Gold.
+
+554
+00:37:32,917 --> 00:37:35,715
+<i>We have a code 12 in progress.</i>
+<i>We need a team to Interrogation One.</i>
+
+555
+00:37:35,786 --> 00:37:38,311
+<i>[Man On Phone]</i>
+<i>Yes, ma'am. Right away.</i>
+
+556
+00:37:38,389 --> 00:37:41,722
+- <i>[Alarm Blaring]</i>
+- <i>[Man On P.A.</i>
+<i>All agents, security breach, code 12.</i>
+
+557
+00:37:41,792 --> 00:37:45,284
+- We gotta keep moving. Let's go.
+- <i>Security breach, code 12.</i>
+
+558
+00:37:48,299 --> 00:37:52,497
+[Beeping]
+
+559
+00:37:52,570 --> 00:37:54,367
+<i>[Alarm Continues]</i>
+
+560
+00:37:54,438 --> 00:37:58,204
+<i>[Man On P.A. Continues, Indistinct]</i>
+
+561
+00:38:00,778 --> 00:38:02,905
+[Chattering]
+
+562
+00:38:02,980 --> 00:38:05,676
+Security team's between us
+and the southwest exit.
+
+563
+00:38:05,750 --> 00:38:07,684
+Chloe, what have you got?
+We're boxed in.
+
+564
+00:38:07,752 --> 00:38:10,812
+Someone at F.B.I. Blocking my every move.
+It's really starting to piss me off.
+
+565
+00:38:10,888 --> 00:38:14,346
+You need to get back into their system.
+Otherwise, we're not gonna make it out of here.
+
+566
+00:38:14,425 --> 00:38:16,416
+Jack, I'm sorry.
+I'm trying.
+
+567
+00:38:20,398 --> 00:38:23,333
+<i>[Beeping]</i>
+
+568
+00:38:33,444 --> 00:38:35,969
+<i>[Man On P.A.</i>
+<i>All non-security personnel-</i>
+
+569
+00:38:36,047 --> 00:38:38,515
+- We gotta make a move, Jack.
+- I know.
+
+570
+00:38:38,582 --> 00:38:40,015
+- Copy that.
+- Okay.
+
+571
+00:38:40,084 --> 00:38:42,075
+Let's go.
+
+572
+00:38:55,499 --> 00:38:58,525
+- Come on, Chloe. Talk to me.
+- I'm still locked out. Trying to work around it.
+
+573
+00:38:58,602 --> 00:39:01,469
+- Jack, we're sitting ducks if we stay here.
+- I know.
+
+574
+00:39:02,907 --> 00:39:05,375
+Chloe, we have to take the stairwell.
+We don't have a choice.
+
+575
+00:39:05,443 --> 00:39:08,139
+- Quietly.
+- <i>[Man] All clear!</i>
+
+576
+00:39:11,015 --> 00:39:13,245
+Where are they?
+
+577
+00:39:13,317 --> 00:39:14,978
+- We're lookin'.
+- Find 'em!
+
+578
+00:39:20,691 --> 00:39:22,682
+Ow!
+
+579
+00:39:24,729 --> 00:39:26,663
+- You all right?
+- Yeah, yeah, I'm fine.
+
+580
+00:39:26,731 --> 00:39:28,631
+- <i>You okay?</i>
+- Yeah.
+
+581
+00:39:28,699 --> 00:39:31,361
+- They're still in the building.
+We're trying to locate them.
+- I can't believe this.
+
+582
+00:39:31,435 --> 00:39:33,665
+- What the hell is Jack doing?
+- He's helping his friend escape.
+
+583
+00:39:33,738 --> 00:39:37,333
+- That's what he's doing.
+- I'm-I'm sorry, Larry.
+I shouldn't have trusted him.
+
+584
+00:39:37,408 --> 00:39:39,774
+- <i>It's all right.</i>
+- I got 'em!
+- Southwest stairwell.
+
+585
+00:39:39,844 --> 00:39:43,109
+<i>Security, this is Agent Moss.</i>
+<i>Suspects are in the southwest stairwell...</i>
+
+586
+00:39:43,180 --> 00:39:45,910
+descending past the fifth floor.
+
+587
+00:39:45,983 --> 00:39:50,147
+Lock down the building perimeter and deploy
+two teams in the first floor service corridor.
+
+588
+00:39:50,221 --> 00:39:52,416
+Be aware. The suspects are armed.
+We need 'em alive.
+
+589
+00:39:54,992 --> 00:39:58,086
+- Okay, I'm back up, Jack.
+- Copy that.
+
+590
+00:40:00,164 --> 00:40:02,462
+- What was that?
+- Hacker's back in.
+
+591
+00:40:02,533 --> 00:40:05,627
+- Whoever this is, they're very good.
+- Well, lock 'em out.
+
+592
+00:40:05,703 --> 00:40:07,637
+I'm trying!
+
+593
+00:40:07,705 --> 00:40:10,265
+- Jack, hold up.
+- What is it?
+
+594
+00:40:10,341 --> 00:40:14,175
+You're heading into an ambush.
+It's a six man team.
+
+595
+00:40:14,245 --> 00:40:16,713
+- They're heading up toward you on the stairwell.
+- Understand. We'll evade.
+
+596
+00:40:16,781 --> 00:40:19,079
+- They're coming up the stairs.
+- <i>[Man Shouting, Indistinct]</i>
+
+597
+00:40:19,150 --> 00:40:21,175
+Pass me that fire extinguisher.
+
+598
+00:40:34,765 --> 00:40:37,791
+- We're on the roof of the parking lot.
+- I see you. Good work.
+
+599
+00:40:37,868 --> 00:40:41,360
+Go to the north end, Jack.
+Bill's almost there. He's in a blue van.
+
+600
+00:40:41,439 --> 00:40:44,203
+Copy that.
+
+601
+00:40:44,275 --> 00:40:46,869
+They're outside. They went through
+the third floor window. Let's go!
+
+602
+00:40:46,944 --> 00:40:48,878
+Perimeter teams,
+they're in the parking garage.
+
+603
+00:40:48,946 --> 00:40:52,040
+Notify Metro Police. I want them
+to cordon off a five-block perimeter.
+
+604
+00:40:55,119 --> 00:40:56,916
+On our right!
+Get down!
+
+605
+00:41:00,591 --> 00:41:03,719
+We gotta get you out of here
+and back undercover.
+
+606
+00:41:03,794 --> 00:41:05,989
+I'll be right behind you.
+Go!
+
+607
+00:41:23,614 --> 00:41:25,741
+Go! Go!
+
+608
+00:41:32,423 --> 00:41:35,756
+<i>[Man]</i>
+<i>They went inside. Let's go!</i>
+
+609
+00:41:35,826 --> 00:41:38,852
+<i>[Tires Screeching]</i>
+
+610
+00:41:38,929 --> 00:41:42,922
+<i>[Engine Starts]</i>
+
+611
+00:41:46,871 --> 00:41:49,601
+This is gonna hurt.
+
+612
+00:41:51,175 --> 00:41:54,076
+[Yelling]
+
+613
+00:42:06,390 --> 00:42:08,153
+<i>Tony, let's go!</i>
+
+614
+00:42:10,561 --> 00:42:12,927
+[Shouting, Indistinct]
+
+615
+00:42:12,997 --> 00:42:15,625
+Come on, Jack!
+
+616
+00:42:17,001 --> 00:42:18,662
+Get in.
+
+617
+00:42:21,672 --> 00:42:24,038
+<i>Let's go, Bill!</i>
+
+618
+00:42:34,518 --> 00:42:38,921
+Agent Moss, they're gone.
+They got outside the perimeter.
+
+619
+00:42:38,989 --> 00:42:41,150
+[Muttering]
+
+620
+00:42:48,732 --> 00:42:50,859
+<i>All right, Chloe, I got 'em.</i>
+
+621
+00:42:50,935 --> 00:42:53,597
+- Any sign of pursuit?
+- Not so far. They must still be mobilizing.
+
+622
+00:42:53,671 --> 00:42:56,139
+- We caught them off guard.
+- <i>Traffic cams?</i>
+
+623
+00:42:56,206 --> 00:42:58,265
+I'm cycling frequencies
+to clear a path now.
+
+624
+00:42:58,342 --> 00:43:00,537
+Good. Are you all right?
+
+625
+00:43:00,611 --> 00:43:02,977
+- I'm fine. Where are we going?
+- It's not far.
+
+626
+00:43:03,047 --> 00:43:08,349
+Bill, I did what you wanted. I got Tony out
+of there. Tell me what the hell is going on.
+
+627
+00:43:08,419 --> 00:43:10,785
+When we get there,
+I'll tell you everything.
+
+628
+00:43:17,294 --> 00:43:21,230
+<i>[Beeping]</i>
+
+9999
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.tvsubtitles.net</font>

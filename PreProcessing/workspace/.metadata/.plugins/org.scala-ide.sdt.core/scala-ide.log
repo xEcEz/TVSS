@@ -1,0 +1,40 @@
+2014-03-20 13:11:04,856 ERROR [Worker-0] - System.err - log4j:WARN No appenders could be found for logger (com.quest.toadext.services.impl.ConnectionService).
+2014-03-20 13:11:04,869 ERROR [Worker-0] - System.err - log4j:WARN Please initialize the log4j system properly.
+2014-03-20 14:59:49,319 ERROR [Worker-1] - System.err - log4j:WARN No appenders could be found for logger (com.quest.toadext.services.impl.ConnectionService).
+2014-03-20 14:59:49,324 ERROR [Worker-1] - System.err - log4j:WARN Please initialize the log4j system properly.
+2014-03-27 13:48:44,789 ERROR [Worker-1] - System.err - log4j:WARN No appenders could be found for logger (com.quest.toadext.services.impl.ConnectionService).
+2014-03-27 13:48:44,826 ERROR [Worker-1] - System.err - log4j:WARN Please initialize the log4j system properly.
+2014-03-28 13:07:35,026 ERROR [Worker-0] - System.err - log4j:WARN No appenders could be found for logger (com.quest.toadext.services.impl.ConnectionService).
+2014-03-28 13:07:35,048 ERROR [Worker-0] - System.err - log4j:WARN Please initialize the log4j system properly.
+2014-03-31 13:38:26,779 ERROR [Worker-1] - System.err - log4j:WARN No appenders could be found for logger (com.quest.toadext.services.impl.ConnectionService).
+2014-03-31 13:38:26,795 ERROR [Worker-1] - System.err - log4j:WARN Please initialize the log4j system properly.
+2014-03-31 15:44:23,067 ERROR [Worker-1] - System.err - log4j:WARN No appenders could be found for logger (com.quest.toadext.services.impl.ConnectionService).
+2014-03-31 15:44:23,070 ERROR [Worker-1] - System.err - log4j:WARN Please initialize the log4j system properly.
+2014-04-02 11:47:02,461 ERROR [Worker-1] - System.err - log4j:WARN No appenders could be found for logger (com.quest.toadext.services.impl.ConnectionService).
+2014-04-02 11:47:02,472 ERROR [Worker-1] - System.err - log4j:WARN Please initialize the log4j system properly.
+2014-04-02 16:18:05,965 ERROR [Worker-1] - System.err - log4j:WARN No appenders could be found for logger (com.quest.toadext.services.impl.ConnectionService).
+2014-04-02 16:18:05,978 ERROR [Worker-1] - System.err - log4j:WARN Please initialize the log4j system properly.
+2014-04-03 12:28:39,621 ERROR [Worker-2] - System.err - log4j:WARN No appenders could be found for logger (com.quest.toadext.services.impl.ConnectionService).
+2014-04-03 12:28:39,632 ERROR [Worker-2] - System.err - log4j:WARN Please initialize the log4j system properly.
+2014-04-04 12:38:23,423 ERROR [Worker-0] - System.err - log4j:WARN No appenders could be found for logger (com.quest.toadext.services.impl.ConnectionService).
+2014-04-04 12:38:23,460 ERROR [Worker-0] - System.err - log4j:WARN Please initialize the log4j system properly.
+2014-04-04 17:47:48,776 ERROR [Worker-0] - System.err - log4j:WARN No appenders could be found for logger (com.quest.toadext.services.impl.ConnectionService).
+2014-04-04 17:47:48,790 ERROR [Worker-0] - System.err - log4j:WARN Please initialize the log4j system properly.
+2014-04-04 19:18:22,571 ERROR [Worker-0] - System.err - log4j:WARN No appenders could be found for logger (com.quest.toadext.services.impl.ConnectionService).
+2014-04-04 19:18:22,574 ERROR [Worker-0] - System.err - log4j:WARN Please initialize the log4j system properly.
+2014-04-05 18:25:35,804 ERROR [Worker-0] - System.err - log4j:WARN No appenders could be found for logger (com.quest.toadext.services.impl.ConnectionService).
+2014-04-05 18:25:35,825 ERROR [Worker-0] - System.err - log4j:WARN Please initialize the log4j system properly.
+2014-04-10 12:59:05,368 ERROR [Worker-1] - System.err - log4j:WARN No appenders could be found for logger (com.quest.toadext.services.impl.ConnectionService).
+2014-04-10 12:59:05,378 ERROR [Worker-1] - System.err - log4j:WARN Please initialize the log4j system properly.
+2014-04-12 14:24:36,677 ERROR [Worker-1] - System.err - log4j:WARN No appenders could be found for logger (com.quest.toadext.services.impl.ConnectionService).
+2014-04-12 14:24:36,686 ERROR [Worker-1] - System.err - log4j:WARN Please initialize the log4j system properly.
+2014-05-02 16:27:56,433 ERROR [Worker-0] - System.err - log4j:WARN No appenders could be found for logger (com.quest.toadext.services.impl.ConnectionService).
+2014-05-02 16:27:56,443 ERROR [Worker-0] - System.err - log4j:WARN Please initialize the log4j system properly.
+2014-05-05 19:10:29,451 ERROR [Worker-5] - System.err - log4j:WARN No appenders could be found for logger (com.quest.toadext.services.impl.ConnectionService).
+2014-05-05 19:10:29,454 ERROR [Worker-5] - System.err - log4j:WARN Please initialize the log4j system properly.
+2014-05-06 16:13:01,580 ERROR [Worker-0] - System.err - log4j:WARN No appenders could be found for logger (com.quest.toadext.services.impl.ConnectionService).
+2014-05-06 16:13:01,601 ERROR [Worker-0] - System.err - log4j:WARN Please initialize the log4j system properly.
+2014-05-09 15:03:58,713 ERROR [Worker-0] - System.err - log4j:WARN No appenders could be found for logger (com.quest.toadext.services.impl.ConnectionService).
+2014-05-09 15:03:58,726 ERROR [Worker-0] - System.err - log4j:WARN Please initialize the log4j system properly.
+2014-05-13 10:58:17,853 ERROR [Worker-1] - System.err - log4j:WARN No appenders could be found for logger (com.quest.toadext.services.impl.ConnectionService).
+2014-05-13 10:58:17,871 ERROR [Worker-1] - System.err - log4j:WARN Please initialize the log4j system properly.

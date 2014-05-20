@@ -1,0 +1,179 @@
+package parser;
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
+import java.io.PrintWriter;
+import java.util.ArrayList;
+import java.util.StringTokenizer;
+
+
+public class Parser {
+	String outputDir;
+	boolean ready ;							// when ready to write to file -> true: sentence complete
+	int buffPosition;						// position of in the buffer
+	ArrayList<String> buffer;				// buffer of "semi-sentences"
+	String formatedSentence;				// sentence to write
+	int wordsCount;							// word counter
+
+	public Parser(String outDir) {
+		this.outputDir = outDir;
+		this.buffer = new ArrayList<String>();
+		this.ready = false;
+		this.buffPosition = 0;
+		this.formatedSentence = "";
+		this.wordsCount = 0;
+	}
+	
+	/**
+	 * Parse a document and write formatted version to a file located symmetrically to the input path.
+	 * @param inputFile
+	 * @return the formated document
+	 */
+	public int parse(String inputFile) {
+		int status = 1;							// 0: fail, 1: succes
+		BufferedReader br;
+		PrintWriter pw;
+		String outputPath = createOutputPath(inputFile);
+		String outputPathParsed = outputPath + ".parsed";
+		String outputPathStats = outputPath + ".stats";
+		
+		try {
+			String currentLine = "";
+			String formatedLine = "";
+			br = new BufferedReader(new FileReader(inputFile));
+			pw = new PrintWriter(outputPathParsed);
+			while((currentLine = br.readLine()) != null) {
+				formatedLine = format(currentLine);
+				if(!formatedLine.isEmpty()) {
+					buffer.add(formatedLine);
+					reformSentence(formatedLine);
+					if(ready && !formatedSentence.equals("")) {
+						wordsCount += countWord(formatedSentence);
+						pw.println(formatedSentence);
+						formatedSentence = "";
+					}
+				}
+			}
+			buffer.clear();
+			pw.flush();
+			pw.close();
+			pw = new PrintWriter(outputPathStats);
+			pw.println("#words : " + wordsCount);
+			wordsCount = 0;
+			br.close();
+			pw.close();
+			System.out.println("parsed informations to :" + outputPath);
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+			status = 0;
+		} catch (IOException e) {
+			e.printStackTrace();
+			status = 0;
+		} 
+		return status;
+	}
+
+	/**
+	 * Create the output path corresponding
+	 * @param inputFile
+	 * @return the output path mapping the input one
+	 */
+	private String createOutputPath(String inputFile) {
+		StringTokenizer st = new StringTokenizer(inputFile, "/");
+		String nextToken = "";
+		String outputPath = "";
+		while(st.hasMoreTokens()) {
+			nextToken = st.nextToken();
+			// Path retrieval and creation
+			if(!nextToken.equalsIgnoreCase("subtitles")) {
+				outputPath += nextToken;
+				// Directories creation
+				if(st.hasMoreTokens()) {
+					outputPath += "/";
+					if(!nextToken.equalsIgnoreCase("..")) {
+						File newDir = new File(outputPath);
+						if(!newDir.exists()) {
+							System.out.print("creating dir : " + outputPath);
+							boolean result = newDir.mkdir();
+							System.out.println("-> " + result);
+						}
+					}
+				} 
+			} else {
+				outputPath += "parsed/";
+			}
+		}
+		//outputPath += ".parsed";
+		System.out.println("outputpath created :" + outputPath);
+		return(outputPath);
+	}
+	
+	/**
+	 * Format the line in order to get rid of :
+	 * 	1) Subtitle's counter + Sync data
+	 * 	2) Suntitle's format
+	 * 	3) Dashes
+	 * @param line
+	 * @return the formated line
+	 */
+	private String format(String line) {
+		boolean inside = false;
+		String returnString = line;
+		if(line.matches("\\s*\\d+\\s*") || line.matches("\\d+\\d+:\\d+\\d+:\\d+\\d+,\\d+\\d+\\d+ --> \\d+\\d+:\\d+\\d+:\\d+\\d+,\\d+\\d+\\d+") ||
+				line.matches("\\d+\\d+:\\d+\\d+:\\d+\\d+,\\d+\\d+\\d+ --> \\d+\\d+:\\d+\\d+:\\d+\\d+,\\d+\\d+\\d+\\*") ||
+				line.matches("\\d+\\d+:-\\d+:-\\d+\\d+,-\\d+\\d+\\d+ --> \\d+\\d+:-\\d+:-\\d+\\d+,-\\d+\\d+\\d+") ||
+				line.matches("\\d+\\d+:-\\d+:-\\d+\\d+,-\\d+\\d+\\d+ --> \\d+\\d+:-\\d+:-\\d+\\d+,-\\d+\\d+") ||
+				line.matches("\\d+\\d+:-\\d+:-\\d+\\d+,-\\d+\\d+ --> \\d+\\d+:-\\d+:-\\d+\\d+,-\\d+\\d+") ||
+				line.matches("\\d+\\d+:-\\d+:-\\d+\\d+,-\\d+\\d+ --> \\d+\\d+:-\\d+:-\\d+\\d+,-\\d+") ||
+				line.matches("\\d+\\d+:\\d+\\d+:\\d+\\d+,\\d+\\d+\\d+ --> \\d+\\d+:\\d+\\d+:\\d+\\d+,\\d+\\d+\\d+  X1:\\d+\\d+\\d+ X2:\\d+\\d+\\d+ Y1:\\d+\\d+\\d+ Y2:\\d+\\d+\\d+") ||
+				line.matches("\\d+\\d+:\\d+\\d+:\\d+\\d+,\\d+\\d+\\d+ -> \\d+\\d+:\\d+\\d+:\\d+\\d+,\\d+\\d+\\d+") ||
+				line.matches("\\s*(\\w+ )*\\d+[x]\\d+\\s*") ||
+				line.matches("\\d+\\d+:\\d+\\d+:\\d+\\d+.\\d+\\d+,\\d+\\d+:\\d+\\d+:\\d+\\d+.\\d+\\d+") ||
+				line.contains("www") || line.contains("Sync") || line.contains("sync") || line.contains("air date") || line.contains("Previously on") ||
+				line.contains("previously on") || line.contains("Air Date") || line.contains("Air date") || line.contains("Theme music") || line.contains("theme music") ||
+				line.contains("Tahoma") || line.contains("tahoma")) {
+			returnString = "";
+		} else {
+			if(line.contains("<") || line.contains("[") || line.contains("{")) {
+				returnString = "";
+				for(int i = 0; i < line.length(); i++) {
+					if(line.charAt(i) == '<' || line.charAt(i) == '[' || line.charAt(i) == '{') {
+						inside = true;
+					} 
+					if(!inside) {
+						returnString += line.charAt(i);
+					}
+					if((line.charAt(i) == '>' && inside) || (line.charAt(i) == ']' && inside) || (line.charAt(i) == '}' && inside)) {
+						inside = false;
+					}
+				}
+			}
+			if(returnString.startsWith("-") || returnString.endsWith("-")) {
+				returnString = returnString.replace("-", "");
+			}
+			if(returnString.startsWith("♪") || returnString.endsWith("♪")) {
+				returnString = returnString.replace("♪", "");
+			}
+		}  
+		
+		return returnString;
+	}
+	
+	private void reformSentence(String line) {
+		if(line.contains(".") || line.contains("!") || line.contains("?") || line.matches("\\s*(\\w+ )*\\d+[x]\\d+\\s*")) {
+			while(!buffer.isEmpty()) {
+				formatedSentence += buffer.get(0) + " ";
+				buffer.remove(0);
+			}
+			ready = true;
+		}
+	}
+	
+	
+	private int countWord(String line) {
+		StringTokenizer st = new StringTokenizer(line, " ");
+		return st.countTokens();
+	}
+}

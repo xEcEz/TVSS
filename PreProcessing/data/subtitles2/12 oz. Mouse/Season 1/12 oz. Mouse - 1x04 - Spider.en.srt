@@ -1,0 +1,588 @@
+﻿1
+00:00:10,210 --> 00:00:10,760  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Hello?
+
+2
+00:00:10,830 --> 00:00:14,690  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Hey, it's me, your buddy. How are ya?
+
+3
+00:00:14,760 --> 00:00:16,530  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+I couldn't be... busier.
+
+4
+00:00:16,530 --> 00:00:17,620  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Doing what?
+
+5
+00:00:17,620 --> 00:00:20,190  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+I'm... I'm on this phone.
+
+6
+00:00:20,190 --> 00:00:24,890  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+That's fair. I'll call you back when you're not on the phone...
+
+7
+00:00:26,490 --> 00:00:30,030  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK(cont'd), MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Um, when will you be not on the phone?
+
+8
+00:00:30,030 --> 00:00:32,560  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+I'm not on the phone. I'm talking to the phone.
+
+9
+00:00:32,560 --> 00:00:34,480  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+That works.
+
+10
+00:00:38,510 --> 00:00:40,510  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Hey, it's uh, it's me again.
+
+11
+00:00:40,510 --> 00:00:43,080  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Are you, are you not on the phone, still?
+
+12
+00:00:43,080 --> 00:00:43,670  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+No.
+
+13
+00:00:43,670 --> 00:00:44,680  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Is that a yes?
+
+14
+00:00:44,680 --> 00:00:46,990  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+It is? Then yes.
+
+15
+00:00:46,990 --> 00:00:51,040  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+If I were you, I would not check my ice box.
+
+16
+00:00:51,730 --> 00:00:54,030  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK (cont'd), MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Wouldn't check yours, either.
+
+17
+00:00:57,250 --> 00:01:01,450  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+What's in there in the icebox? Get on your little tiny mousey tiptoes.
+
+18
+00:01:02,800 --> 00:01:04,690  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Tell me what's in the icebox.
+
+19
+00:01:05,810 --> 00:01:07,780  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Hello? Mouse?
+
+20
+00:01:50,970 --> 00:01:55,760  SSA: Dialogue, Layer: 0, Style: Default, Name: RHODA, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Heh, you know word is, and I'm not saying that this is what I think, know, or have heard to be true,
+
+21
+00:01:55,760 --> 00:01:59,570  SSA: Dialogue, Layer: 0, Style: Default, Name: RHODA, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+seriously, but Liquor said that Mouse is up to his cans.
+
+22
+00:01:59,570 --> 00:02:01,570  SSA: Dialogue, Layer: 0, Style: Default, Name: EYE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+WEYEeird.
+
+23
+00:02:01,570 --> 00:02:04,630  SSA: Dialogue, Layer: 0, Style: Default, Name: RHODA, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Yeah, and not only that, but New Guy, heard he got out, right?
+
+24
+00:02:04,630 --> 00:02:08,200  SSA: Dialogue, Layer: 0, Style: Default, Name: RHODA, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Like someone got him out. And he got a thing for squirrels.
+
+25
+00:02:08,210 --> 00:02:10,050  SSA: Dialogue, Layer: 0, Style: Default, Name: RHODA(cont'd), MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+I'm not talking as though he's cheesy green up on 'em.
+
+26
+00:02:10,050 --> 00:02:13,690  SSA: Dialogue, Layer: 0, Style: Default, Name: RHODA(cont'd), MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+I'm saying more like... Equadorian sleep, if you get the picture.
+
+27
+00:02:13,690 --> 00:02:15,880  SSA: Dialogue, Layer: 0, Style: Default, Name: EYE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Pic-ture.
+
+28
+00:02:15,880 --> 00:02:19,020  SSA: Dialogue, Layer: 0, Style: Default, Name: RHODA, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Oh, and another thing. Roostre, you know Roostre?
+
+29
+00:02:19,020 --> 00:02:20,790  SSA: Dialogue, Layer: 0, Style: Default, Name: RHODA, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Up on the farm guy? All right.
+
+30
+00:02:20,790 --> 00:02:24,720  SSA: Dialogue, Layer: 0, Style: Default, Name: RHODA, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Well Liquor also says that a letter accidentally got delivered to him,
+
+31
+00:02:24,720 --> 00:02:29,220  SSA: Dialogue, Layer: 0, Style: Default, Name: RHODA(cont'd), MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+but before he could open it - BOOM! - just like that, clock shows up.
+
+32
+00:02:29,220 --> 00:02:31,760  SSA: Dialogue, Layer: 0, Style: Default, Name: RHODA(cont'd), MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Next thing he remembers, it's day 97.
+
+33
+00:02:34,280 --> 00:02:35,580  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+What's up, GAs?
+
+34
+00:02:35,580 --> 00:02:36,460  SSA: Dialogue, Layer: 0, Style: Default, Name: RHODA, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+N-nothing.
+
+35
+00:02:36,460 --> 00:02:39,680  SSA: Dialogue, Layer: 0, Style: Default, Name: EYE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+EYE saw you crash.
+
+36
+00:02:39,680 --> 00:02:43,520  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+I'm sure that you did, cause you seem to see everything.
+
+37
+00:02:43,520 --> 00:02:45,520  SSA: Dialogue, Layer: 0, Style: Default, Name: EYE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+EYEfirmative.
+
+38
+00:02:45,520 --> 00:02:51,750  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+I see, you see, you mean we. Come with me, and fly away.
+
+39
+00:02:51,750 --> 00:02:53,870  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+But first-
+
+40
+00:02:54,440 --> 00:02:55,990  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Set up the cameras.
+
+41
+00:02:57,800 --> 00:03:02,180  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+No, the 50 mm - yes, the only ones we have - the hidden ones.
+
+42
+00:03:04,150 --> 00:03:05,050  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Uh...
+
+43
+00:03:05,370 --> 00:03:08,440  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+I'm still lookin at you not setting up the cameras.
+
+44
+00:03:08,440 --> 00:03:11,510  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+And, you know, just planning my day.
+
+45
+00:03:13,260 --> 00:03:16,370  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+How long do you think I'll be watching you not do what I told you to do?
+
+46
+00:03:20,990 --> 00:03:23,630  SSA: Dialogue, Layer: 0, Style: Default, Name: EYE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+You kill trees.
+
+47
+00:03:23,630 --> 00:03:24,300  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Shut up.
+
+48
+00:03:24,300 --> 00:03:27,480  SSA: Dialogue, Layer: 0, Style: Default, Name: EYE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Trees make oxEYEgen.
+
+49
+00:03:27,480 --> 00:03:28,190  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Up yours.
+
+50
+00:03:28,190 --> 00:03:31,270  SSA: Dialogue, Layer: 0, Style: Default, Name: EYE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+I breathe it; you breathe it.
+
+51
+00:03:31,880 --> 00:03:33,210  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+I shut up; you shut up.
+
+52
+00:03:40,540 --> 00:03:41,090  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+See it?
+
+53
+00:03:41,090 --> 00:03:44,260  SSA: Dialogue, Layer: 0, Style: Default, Name: EYE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+EYE see NEYEgh.
+
+54
+00:03:44,720 --> 00:03:46,450  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+It was right F'n here.
+
+55
+00:03:47,010 --> 00:03:53,850  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Where the F is it? It was a, it was an F'n arrow, Nand it was right the F here.
+
+56
+00:03:53,850 --> 00:03:56,920  SSA: Dialogue, Layer: 0, Style: Default, Name: EYE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Uh huh. EYE hungrEYE.
+
+57
+00:03:56,920 --> 00:03:58,540  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Good. That means you're leaving.
+
+58
+00:03:58,540 --> 00:04:01,770  SSA: Dialogue, Layer: 0, Style: Default, Name: EYE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+That will happen... now.
+
+59
+00:04:14,080 --> 00:04:14,990  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Well.
+
+60
+00:04:15,140 --> 00:04:19,150  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK(cont'd), MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+The litte guy's cameraphobic. Should've known.
+
+61
+00:04:19,420 --> 00:04:24,670  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+What are these; these... are formulas, or.. these papers.
+
+62
+00:04:25,190 --> 00:04:29,480  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+These papers are driving me crazy. Crazy into the night.
+
+63
+00:04:33,210 --> 00:04:35,210  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Skillet, you're back.
+
+64
+00:04:36,120 --> 00:04:37,190  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Where've you been?
+
+65
+00:04:39,270 --> 00:04:42,370  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Wow, tell me about the nightmare.
+
+66
+00:04:44,290 --> 00:04:45,200  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Holy shee-
+
+67
+00:04:45,200 --> 00:04:49,160  SSA: Dialogue, Layer: 0, Style: Default, Name: RHODA, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Go-damn. Shark!
+
+68
+00:04:49,160 --> 00:04:50,430  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+What's new, Rhoda?
+
+69
+00:04:50,430 --> 00:04:53,830  SSA: Dialogue, Layer: 0, Style: Default, Name: RHODA, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Uhh... nothing, um... sir.
+
+70
+00:04:53,830 --> 00:04:54,660  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Drink.
+
+71
+00:04:55,670 --> 00:04:58,870  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+You know, uh, I'm a shark.
+
+72
+00:04:58,870 --> 00:04:59,890  SSA: Dialogue, Layer: 0, Style: Default, Name: RHODA, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Uh... thank you.
+
+73
+00:04:59,890 --> 00:05:04,590  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+I attack when I'm hungry. It's instinctual. You know?
+
+74
+00:05:04,590 --> 00:05:06,490  SSA: Dialogue, Layer: 0, Style: Default, Name: RHODA, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Yeah, mmhmm. Th-thank you.
+
+75
+00:05:06,490 --> 00:05:08,510  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+It's like one minute
+
+76
+00:05:08,510 --> 00:05:13,520  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+I'm just hanging out watching lemmings go by, lemmings who might need money,
+
+77
+00:05:13,520 --> 00:05:15,720  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+probably not, but you never know.
+
+78
+00:05:15,720 --> 00:05:17,960  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK(cont'd), MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Part of me just says, "Hey, whatever."
+
+79
+00:05:19,080 --> 00:05:23,930  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK(cont'd), MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+And then something goes off in my brain, and sends an impulse to my jaw, and bam!
+
+80
+00:05:24,780 --> 00:05:28,520  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK(cont'd), MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+A thousand pounds of pressure lock in like a press.
+
+81
+00:05:28,680 --> 00:05:29,960  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK(cont'd), MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+You know what I mean?
+
+82
+00:05:29,960 --> 00:05:33,780  SSA: Dialogue, Layer: 0, Style: Default, Name: RHODA, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+I, I know what you mean. And, and... thank you.
+
+83
+00:05:33,780 --> 00:05:39,900  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+I mean a head your size would burst like an infected kidney,
+
+84
+00:05:39,900 --> 00:05:46,620  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+and all I'd remember was how warm the juices were that lapped the back of my uvula on their trip down to stomach land.
+
+85
+00:05:46,620 --> 00:05:47,070  SSA: Dialogue, Layer: 0, Style: Default, Name: RHODA, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Yes, sir.
+
+86
+00:05:47,070 --> 00:05:50,130  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+But we're friends, right? We know each other.
+
+87
+00:05:50,130 --> 00:05:55,790  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+We know what we do, and who we talk to, and what we say to them.
+
+88
+00:05:55,790 --> 00:05:57,070  SSA: Dialogue, Layer: 0, Style: Default, Name: RHODA, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+We do.
+
+89
+00:05:57,070 --> 00:05:58,330  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+I knew we did.
+
+90
+00:05:59,880 --> 00:06:02,240  SSA: Dialogue, Layer: 0, Style: Default, Name: JOE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Check out, momma. Slap me a s-
+
+91
+00:06:03,690 --> 00:06:06,670  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Now let's talk about the letter that Liquor got.
+
+92
+00:06:07,460 --> 00:06:11,850  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+well, that sounds like he was a good dancer, but yet...
+
+93
+00:06:15,380 --> 00:06:20,130  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+These papers are... suddenly useless, and now I must burn them.
+
+94
+00:06:20,870 --> 00:06:23,420  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+For a reason that... I don't know.
+
+95
+00:06:26,300 --> 00:06:32,030  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+I'm getting an idea from your yelling mouth, your so yelling mouth.
+
+96
+00:06:37,240 --> 00:06:38,630  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+We're gonna be rockstars.
+
+97
+00:06:39,780 --> 00:06:42,700  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+But first, we must burgle.
+
+98
+00:06:47,380 --> 00:06:49,360  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Oh, there's a pretty amp.
+
+99
+00:07:03,110 --> 00:07:05,890  SSA: Dialogue, Layer: 0, Style: Default, Name: COP, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Uh, what song was that?
+
+100
+00:07:06,810 --> 00:07:16,760  SSA: Dialogue, Layer: 0, Style: Default, Name: COP, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Because it totally rocks. Mmm, mmm, mmm-mmm. Ro-ock and ro-ollll.
+
+101
+00:07:16,760 --> 00:07:21,610  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+It's called "F-Off... to You." So take a hint.
+
+102
+00:07:22,100 --> 00:07:25,370  SSA: Dialogue, Layer: 0, Style: Default, Name: COP, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+No way! That is...
+
+103
+00:07:25,810 --> 00:07:28,380  SSA: Dialogue, Layer: 0, Style: Default, Name: COP, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+huh... a great song.
+
+104
+00:07:30,500 --> 00:07:33,180  SSA: Dialogue, Layer: 0, Style: Default, Name: COP, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+But uh, huh, hmmm, I'm here...
+
+105
+00:07:33,630 --> 00:07:38,760  SSA: Dialogue, Layer: 0, Style: Default, Name: COP, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+because um, did uh, somebody break in here?
+
+106
+00:07:38,760 --> 00:07:41,450  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Well, it waasn't us.
+
+107
+00:08:10,520 --> 00:08:16,600  SSA: Dialogue, Layer: 0, Style: Default, Name: PRODUCER, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Hey! Fellas! Stop, stop it! Why that there is a mean beat, I'm telling ya.
+
+108
+00:08:16,600 --> 00:08:17,350  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+It is?
+
+109
+00:08:17,350 --> 00:08:21,030  SSA: Dialogue, Layer: 0, Style: Default, Name: PRODUCER, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Yeeeeah, it is. It'd sound great on my record label.
+
+110
+00:08:21,030 --> 00:08:24,710  SSA: Dialogue, Layer: 0, Style: Default, Name: PRODUCER, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+In fact, it should already be on it. Where are we at on that?
+
+111
+00:08:24,710 --> 00:08:28,110  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+You have a record label. For... records?
+
+112
+00:08:28,110 --> 00:08:31,670  SSA: Dialogue, Layer: 0, Style: Default, Name: PRODUCER, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Yeeeah, I do. Up top! Come on, let's tour.
+
+113
+00:08:31,670 --> 00:08:33,530  SSA: Dialogue, Layer: 0, Style: Default, Name: COP, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Hold it, hold it, dude.
+
+114
+00:08:33,530 --> 00:08:36,820  SSA: Dialogue, Layer: 0, Style: Default, Name: PRODUCER, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Hold it yourself, pops. Haha! Zinger!
+
+115
+00:08:37,390 --> 00:08:39,770  SSA: Dialogue, Layer: 0, Style: Default, Name: COP, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Are you the one, who broke in here now?
+
+116
+00:08:39,770 --> 00:08:45,730  SSA: Dialogue, Layer: 0, Style: Default, Name: PRODUCER, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Nyet, kid! I never have to break in when I am in ma-nihm. You know what I'm saying?
+
+117
+00:08:45,730 --> 00:08:46,990  SSA: Dialogue, Layer: 0, Style: Default, Name: COP, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Um, no.
+
+118
+00:08:46,990 --> 00:08:48,990  SSA: Dialogue, Layer: 0, Style: Default, Name: PRODUCER, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+My head!
+
+119
+00:08:50,320 --> 00:08:56,810  SSA: Dialogue, Layer: 0, Style: Default, Name: COP, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Woah! Is that ice cream? Awesome.
+
+120
+00:08:56,810 --> 00:09:01,950  SSA: Dialogue, Layer: 0, Style: Default, Name: LIQUOR, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Dear dad, I have spent over 10 years and $94,000 putting together my mosquito costume,
+
+121
+00:09:01,950 --> 00:09:05,280  SSA: Dialogue, Layer: 0, Style: Default, Name: LIQUOR(cont'd), MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+and now I am pleased to announce that I have... become a mosquito.
+
+122
+00:09:06,560 --> 00:09:10,430  SSA: Dialogue, Layer: 0, Style: Default, Name: LIQUOR(cont'd), MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+My costume is quite realistic, and I have even attached bladders to the nose things
+
+123
+00:09:10,430 --> 00:09:13,620  SSA: Dialogue, Layer: 0, Style: Default, Name: LIQUOR(cont'd), MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+so I can suck up liquids when I puncture them... with my nose thing.
+
+124
+00:09:14,240 --> 00:09:18,740  SSA: Dialogue, Layer: 0, Style: Default, Name: LIQUOR(cont'd), MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+I could be buzzing all around you on a hot summer day, and you wouldn't even recognize me as your son-child.
+
+125
+00:09:18,740 --> 00:09:20,740  SSA: Dialogue, Layer: 0, Style: Default, Name: LIQUOR(cont'd), MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+You would just think, "Get away, mosquito."
+
+126
+00:09:21,550 --> 00:09:25,780  SSA: Dialogue, Layer: 0, Style: Default, Name: LIQUOR(cont'd), MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+From my point of view, you would be 3,000 dads because of the way I've designed the eyeballs.
+
+127
+00:09:25,780 --> 00:09:31,850  SSA: Dialogue, Layer: 0, Style: Default, Name: LIQUOR(cont'd), MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+I'd be saying, "Dad, it's me. Dad it's me," but you wouldn't be able to understand my language because of its buzzing.
+
+128
+00:09:31,850 --> 00:09:37,500  SSA: Dialogue, Layer: 0, Style: Default, Name: LIQUOR(cont'd), MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+I am also into plastics now, and I am making plastic tubes that you can suck liquids through,
+
+129
+00:09:37,500 --> 00:09:42,250  SSA: Dialogue, Layer: 0, Style: Default, Name: LIQUOR(cont'd), MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+kind of like my mosquito nose, but used for different reasons. Hope you're doing well at camp.
+
+130
+00:09:42,300 --> 00:09:48,540  SSA: Dialogue, Layer: 0, Style: Default, Name: LIQUOR(cont'd), MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+See you soon, Mos, Mosq, Mosquito, Mosquitor? Mosqui, Mosquithing...
+
+131
+00:09:48,540 --> 00:09:50,690  SSA: Dialogue, Layer: 0, Style: Default, Name: LIQUOR(cont'd), MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+I don't know who that is.
+
+132
+00:09:50,690 --> 00:09:51,980  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+What's this?
+
+133
+00:09:51,980 --> 00:09:55,580  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+My new record. It's called, um, F-Off.
+
+134
+00:09:55,580 --> 00:09:56,380  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Is it good?
+
+135
+00:09:56,380 --> 00:09:56,880  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Mmhmm.
+
+136
+00:09:56,880 --> 00:09:59,100  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+So you've been making records?
+
+137
+00:09:59,100 --> 00:09:59,680  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+No.
+
+138
+00:09:59,680 --> 00:10:04,260  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Cause, uh, I've always kinda wanted to be in a band.
+
+139
+00:10:04,260 --> 00:10:06,650  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+No way. What do you play?
+
+140
+00:10:06,650 --> 00:10:11,220  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+I play, uh, I play with minds. Shhhhh....
+
+141
+00:10:11,810 --> 00:10:17,230  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Go home and think about that. Uh, and don't look under your bed.
+
+142
+00:10:53,090 --> 00:10:53,740  SSA: Dialogue, Layer: 0, Style: Default, Name: MOUSE, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Heylo?
+
+143
+00:10:53,740 --> 00:10:55,740  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+Did you find my record?
+
+144
+00:10:56,510 --> 00:11:00,960  SSA: Dialogue, Layer: 0, Style: Default, Name: SHARK, MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+You found it, didn't you? Now spin it.
+
+145
+00:00:00,000 --> 00:00:00,000  SSA: Comment, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+
+146
+00:00:00,000 --> 00:00:00,000  SSA: Comment, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect: 
+
+147
+00:00:00,000 --> 00:00:00,000  SSA: Comment, Layer: 0, Style: Default, Name: , MarginL: 0000, MarginR: 0000, MarginV: 0000, Effect:
+
+9999
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.tvsubtitles.net</font>
