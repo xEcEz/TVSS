@@ -1,0 +1,553 @@
+<!doctype html>
+<html>
+<head>
+<title>OpenCloud - Getting Started Guide</title>
+<style type="text/css">
+a {
+    text-decoration: none;
+}
+
+a:link {
+    color: blue;
+}
+
+a:visited {
+    color: blue;
+}
+
+a:hover {
+    color: #f96011;
+}
+
+body {
+    font-family: verdana, sans-serif;
+    font-size: 90%;
+}
+
+code {
+    font-size: 130%;
+}
+
+div.menu {
+    padding-left: 10%;
+    padding-right: 40%;
+    font-face: bold;
+}
+
+div.subsection {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+ul.menu {
+    background-color: #f0f0ff;
+}
+
+h1 {
+    font-size: 200%;
+}
+
+img {
+    border: 0;
+}
+
+p {
+    text-align: justify;
+}
+
+p.code {
+    white-space: pre;
+    font-family: monospace;
+    font-size: 100%;
+    background-color: #f0f0f0;
+    padding: 4px;
+    margin: 0 2%;
+}
+
+table {
+    width: 100%;
+}
+</style>
+</head>
+
+<body>
+
+<div style="padding: 0% 2%;">
+<h3>OpenCloud - Getting Started Guide</h3>
+</div>
+
+<div class="menu">
+<ul class="menu">
+<li>
+    <a href="#download_and_installation">Download and installation</a><br />
+</li>
+<li>
+    <a href="#introduction">Introduction</a><br />
+</li>
+<li>
+    <a href="#quick_start">Quick start</a><br />
+</li>
+<li>
+    <a href="#creating_tag_cloud">Creating a tag cloud</a><br />
+    <ul>
+    <li><a href="#weight_range">Choosing a weight range</a><br /></li>
+    <li><a href="#num_tags">Setting the number of tags to display</a><br /></li>
+    <li><a href="#default_link">Setting a default link</a><br /></li>
+    <li><a href="#tag_case">Setting the tag case</a><br /></li>
+    </ul>
+</li>
+<li>
+    <a href="#populating">Populating the tag cloud</a><br />
+    <ul>
+    <li><a href="#creating_tags">Creating tags</a><br /></li>
+    <li><a href="#adding_tags">Adding tags</a><br /></li>
+    <li><a href="#add_text">Tag extraction from text</a><br /></li>
+    <li><a href="#filtering">Tag filtering</a><br /></li>
+    </ul>
+</li>
+<li>
+    <a href="#displaying">Displaying the tag cloud</a><br />
+    <ul>
+    <li><a href="#getting_tags">Getting tags to display</a><br /></li>
+    <li><a href="#html_generation">HTML / CSS generation</a><br /></li>
+    <li><a href="#ordering">Types of ordering</a><br /></li>
+    <li><a href="#thresholds">Thresholds</a><br /></li>
+    </ul>
+</li>
+<li>
+    <a href="#serialization">Serialization</a><br />
+    <ul>    
+    <li><a href="#bin_serialization">Binary serialization</a><br /></li>
+    <li><a href="#xml_serialization">XML serialization</a><br /></li>
+    </ul>   
+</li>
+</ul>
+</div>
+
+<br /><br />
+
+<div style="padding: 0% 2%;">
+
+<div>
+<h4><a name="download_and_installation"></a>Download and installation</h4>
+
+<p>
+Download and extract the file <a href="http://sourceforge.net/projects/opencloud/files/OpenCloud/0.2/opencloud.zip/download">opencloud.zip</a>,
+ then add the file opencloud.jar to your Java project.
+</p>
+
+<p style="text-align: right"><a href="#">^ top</a></p>
+</div>
+
+
+<div>
+<h4><a name="introduction"></a>Introduction</h4>
+
+<p>
+OpenCloud is a Java library for generating tag clouds, also known as weighted list. The two main classes in the library are
+the Tag class that represents a single tag (basically a string with associated URL) and the Cloud class that represents the tag cloud in its entirety.
+The Cloud class behaves like a collection that you can populate by adding Tag objects.
+</p>
+<p>
+Each tag has a score value that represents its level of importance. Tags with a higher score will be assigned a higher weight.
+When a tag is added to the Cloud object, if it's already present a tag with the same name,
+the two scores are summed. Since the default score is 1.0, if don't specify score values, the total score of a tag equals the number of times that
+it has been added to the Cloud (frequency of occurrence of the tag).
+</p>
+<p>
+The Cloud class converts the scores to weight values using a linear equation. The user can choose the range of values that
+the weight can assume, so that weight values can be conveniently used for tag cloud visualization.
+</p>
+
+<p style="text-align: right"><a href="#">^ top</a></p>
+</div>
+
+
+<div>
+<h4><a name="quick_start"></a>Quick start</h4>
+
+<p>
+You can create a simple tag cloud following these steps:
+</p>
+
+
+<ol>
+<li>
+<p>
+Create a Cloud object and set its properties. One of the most common properties is the maximum weight value, that defines
+the range of weight values assigned to tags. It can be set to a convenient value, e.g. the maximum font size.
+For the minimum weight value can often be kept the default value of zero.
+</p>
+
+<p class="code">Cloud cloud = new Cloud();  // create cloud 
+cloud.setMaxWeight(38.0);   // max font size
+</p>
+</li>
+
+<li>
+<p>
+Populate the tag cloud by creating Tag objects and adding them to the cloud. As said before, the Cloud object by default counts
+the number of times that a tag has been added, so that more frequent tags will have a higher score.
+</p>
+
+<p class="code">Tag tag = new Tag("Google", "http://www.google.com");   // creates a tag
+cloud.addTag(tag);                                      // adds it to the cloud
+</p>
+</li>
+
+<li>
+<p>
+Call the <code>tags</code> method of the Cloud class to obtain a list of the tags composing the tag cloud,
+each with its own weight assigned. Then cycle through the list and write the HTML code.
+</p>
+
+<p class="code">&lt;div&gt;
+&lt;% for (Tag tag : cloud.tags()) { %&gt; 
+&lt;a href="&lt;%= tag.getLink() %&gt;" style="font-size: &lt;%= tag.getWeight() %&gt;px;"%gt;&lt;%= tag.getName() %&gt;&lt;/a&gt; 
+&lt;% } %&gt; 
+&lt;/div&gt; 
+</p>
+
+<p>
+In this example the <code>getLink</code>, <code>getWeight</code> and <code>getName</code> are used to compose the HTML link.
+</p>
+
+</li>
+</ol>
+
+<p>
+In the following sections the steps will be described in more detail.
+</p>
+
+<p style="text-align: right"><a href="#">^ top</a></p>
+</div>
+
+
+<div>
+<h4><a name="creating_tag_cloud"></a>Creating a tag cloud</h4>
+
+<p>
+To create a tag cloud you have to instantiate a <code>Cloud</code> object and set its properties.
+The most common properties are described below.
+</p>
+
+<p style="text-align: right"><a href="#">^ top</a></p>
+</div>
+
+
+<div class="subsection">
+<h5><a name="weight_range"></a>Choosing a weight range</h5>
+
+<p>
+The range of weight values can be defined with <code>setMinWeight</code> and <code>setMaxWeight</code> methods.
+The default value for the minimum weight is zero.
+</p>
+
+<p class="code">cloud.setMaxWeight(38.0);   // weight values will range between 0.0 and 38.0
+</p>
+
+<p style="text-align: right"><a href="#">^ top</a></p>
+</div>
+
+
+<div class="subsection">
+<h5><a name="default_link"></a>Setting a default link</h5>
+
+<p>
+Most of the times tag URLs share the same structure and differ only for the tag name.
+In these cases a default URL can be set. It consists of a format string with one string parameter, indicated with
+the %s format specifier. The parameter is substituted with the tag name.
+</p>
+
+<p class="code">cloud.setDefaultLink("http://www.flickr.com/photos/tags/%s/");
+</p>
+
+<p>
+The default link is used whenever a Tag has a null link, otherwise the link associated with the Tag
+has the precedence.
+</p>
+
+<p style="text-align: right"><a href="#">^ top</a></p>
+</div>
+
+
+<div class="subsection">
+<h5><a name="num_tags"></a>Setting the number of tags to display</h5>
+
+<p>Using the <code>setMaxTagsToDisplay</code> method you can specify the maximum number of tags composing the tag cloud.</p>
+
+<p class="code">cloud.setMaxTagsToDisplay(50);  // the displayed tag cloud will be composed by at most 50 tags
+</p>
+
+<p style="text-align: right"><a href="#">^ top</a></p>
+</div>
+
+
+<div class="subsection">
+<h5><a name="tag_case"></a>Setting the tag case</h5>
+
+<p>Using the <code>setTagCase</code> method you can specify how to handle the case of the tag names.
+The possible options are:</p>
+<ul>
+<li>LOWER: tags names are converted to lower case.</li>
+<li>UPPER: tags names are converted to upper case.</li>
+<li>CAPITALIZATION: tags names are capitalized (first letter upper case, other letters lower case).</li>
+<li>PRESERVE_CASE: tags names are not modified and they are case insensitive (e.g. "Home" and "home" are considered the same tag).</li>
+<li>CASE_SENSITIVE: tags names are not modified and they are case sensitive (e.g. "Home" and "home" are considered different tags).</li>
+</ul>
+<p>When the PRESERVE_CASE is specified, the case of the last entered tag is used. To keep the Cloud behavior consistent you should
+set the case when you instantiate the object, before adding any tag.</p>
+
+<p style="text-align: right"><a href="#">^ top</a></p>
+</div>
+
+
+<div>
+<h4><a name="populating"></a>Populating the tag cloud</h4>
+
+<p>Once you have created and customized the Cloud object you can start inserting tags.</p>
+
+<p style="text-align: right"><a href="#">^ top</a></p>
+</div>
+
+
+<div class="subsection">
+<h5><a name="creating_tags"></a>Creating tags</h5>
+
+<p>A Tag object has four main properties: name, link (URL), score and creation date.
+All four parameters are optional when constructing an object. By default name and link are <code>null</code>,
+the score is 1.0 and the creation date is equal to the current time.
+</p>
+
+<p class="code">// some constructors
+Tag tag;
+tag = new Tag();                                                     // default constructor
+tag = new Tag("test");                                               // name
+tag = new Tag("test", "http://www.google.com/search?q=test");        // name and link
+tag = new Tag("test", 3.5);                                          // name and score
+tag = new Tag("test", "http://www.google.com/search?q=test", 3.5);   // name, link and score
+</p>
+
+<p style="text-align: right"><a href="#">^ top</a></p>
+</div>
+
+
+<div class="subsection">
+<h5><a name="adding_tags"></a>Adding tags</h5>
+
+<p>To add a tag to the tag cloud, you can create a Tag object and insert it in the Cloud object using the <code>addTag</code> method. 
+If a tag with the same name is already present, the scores of the two tags are summed.
+</p>
+
+<p class="code">cloud.addTag(new Tag("art", 2.5));
+</p>
+
+<p>
+You can add more than one tag at once using the <code>addTags</code> method that accepts a collection of Tag objects.
+</p>
+
+<p style="text-align: right"><a href="#">^ top</a></p>
+</div>
+
+
+<div class="subsection">
+<h5><a name="add_text"></a>Tag extraction from text</h5>
+
+<p>Another way of adding tags is by passing a text string to the <code>addText</code> method.
+It extracts words from the text and adds a Tag to the Cloud object for each word identified. The sequences of characters
+considered as words are those that match a predefined regular expression, that can be changed through the
+<code>setWordPattern</code> method.
+</p>
+
+<p>
+The URL of the tags are composed using the default link that can be set through the <code>setDefaultLink</code> method.
+</p>
+
+<p style="text-align: right"><a href="#">^ top</a></p>
+</div>
+
+
+<div class="subsection">
+<h5><a name="filtering"></a>Tag filtering</h5>
+
+<p>
+If you want to exclude tags with certain characteristics from the tag cloud
+you can use filters. For example you may want to ignore words that are too short or too long or
+that are present in a black list.
+</p>
+
+<p>
+There are two types of filter: input filters and output filters. If a tag doesn't
+pass an input filter it will not be present in the Cloud object. If a tag doesn't
+pass an output filter it will be present in the Cloud object but it won't be showed
+in the final tag cloud, i.e. it will not be returned by the <code>tags</code> method.  
+Output filters are useful when the filter parameters can change over time. For example if a term
+is filtered by an output filter because is present in a black list and at a given moment
+the term is removed form the black list, the tag cloud content will change dynamically and the term
+will be shown.
+</p>
+
+<p style="text-align: right"><a href="#">^ top</a></p>
+</div>
+
+
+<div>
+<h4><a name="displaying"></a>Displaying the tag cloud</h4>
+
+<p>
+The following sections describe how to obtain the output tag cloud and display it in JSP page using HTML code.
+</p>
+
+<p style="text-align: right"><a href="#">^ top</a></p>
+</div>
+
+
+<div class="subsection">
+<h5><a name="getting_tags"></a>Getting tags to display</h5>
+
+<p>
+To get the tags that compose the output tag cloud call the <code>tags</code> method of the Cloud object.
+The method assigns a weight to each tag based on the tag score and returns a List of Tag objects that
+represents the final tag cloud.
+</p>
+
+<p style="text-align: right"><a href="#">^ top</a></p>
+</div>
+
+
+<div class="subsection">
+<h5><a name="html_generation"></a>HTML / CSS generation</h5>
+
+<p>
+To display a tag cloud in a JSP page you can iterate through the list of tags returned from the <code>tags</code> method
+and generate the HTML code fragment associated with each tag. For example:
+</p>
+
+<p class="code">&lt;div&gt;
+&lt;%
+// cycle through output tags
+for (Tag tag : cloud.tags()) {
+    // add an HTML link for each tag
+%&gt;
+    &lt;a href="&lt;%= tag.getLink() %&gt;" style="font-size: &lt;%= tag.getWeight() %&gt;px;"&gt;&lt;%= tag.getName() %&gt;&lt;/a&gt;
+&lt;%
+
+}
+
+%&gt;
+&lt;/div&gt;
+</p>
+
+<p>
+To obtain the level of importance of the tag within the tag cloud, you can call the Tag class <code>getWeight</code> and <code>getWeightInt</code>.
+The <code>getWeightInt</code> returns the weight value rounded to an integer.
+</p>
+
+<p>
+Another way to generate the HTML code is by using the provided <code>HTMLFormatter</code> class.
+</p>
+
+<p style="text-align: right"><a href="#">^ top</a></p>
+</div>
+
+
+<div class="subsection">
+<h5><a name="ordering"></a>Types of ordering</h5>
+
+<p>
+There are four predefined Comparator classes than can be used to specify the way tags are sorted:
+NameComparatorAsc, NameComparatorDesc, ScoreComparatorAsc, ScoreComparatordesc.
+You can specify a type of ordering passing an instance of one of these classes to the <code>tags</code> method.
+For example, to order the tags in descending order of score just call the <code>tags</code> method passing a <code>ScoreComparatorDesc</code> object.
+By default the tags returned by the <code>tags</code> method are sorted alphabetically, i.e. the NameComparatorAsc is used.
+</p>
+
+<p class="code">cloud.tags();                               // by default tags are sorted alphabetically
+cloud.tags(new Tag.NameComparatorAsc());    // sorts alphabetically (equivalent to the previous instruction)
+cloud.tags(new Tag.ScoreComparatorDesc());  // sorts by score, in descending order
+</p>
+
+<p>
+To order the tags by a custom criteria you need to create a class that implements the Comparator&lt;Tag&gt; interface.
+</p>
+
+<p style="text-align: right"><a href="#">^ top</a></p>
+</div>
+
+
+<div class="subsection">
+<h5><a name="thresholds"></a>Thresholds</h5>
+
+<p>
+Thresholds can be set so that tags that don't reach a certain score will not be showed in the tag cloud.
+You can define a threshold for the score using the <code>setThreshold</code> method and you can also define a threshold
+for the normalized score using the <code>setNormThreshold</code> method.
+The normalized score is proportional to the score but ranges between 0.0 and 1.0 (the tags with the highest score will have a normalized score of 1.0).
+</p>
+
+<p style="text-align: right"><a href="#">^ top</a></p>
+</div>
+
+
+<div>
+<h4><a name="serialization"></a>Serialization</h4>
+
+<p>
+Sometimes it can be necessary to store a Cloud object in a file, in binary or XML format.
+OpenCloud by itself doesn't provide methods for serialization, but it can be performed
+through standard classes provided by the Java platform or through external libraries. 
+</p>
+
+<p style="text-align: right"><a href="#">^ top</a></p>
+</div>
+
+
+<div class="subsection">
+<h5><a name="bin_serialization"></a>Binary serialization</h5>
+
+<p>Binary serialization of the Cloud object can be achieved through standard Java classes. For instance:</p>
+
+<p class="code">// Writes a Cloud object to a binary file
+FileOutputStream fos = new FileOutputStream("test_file.dat");
+ObjectOutputStream oos = new ObjectOutputStream(fos);
+oos.writeObject(cloud1);
+oos.close();
+      
+// Reads back the Cloud from the binary file
+Cloud cloud2;
+FileInputStream fis = new FileInputStream("test_file.dat");
+objectInputStream ois = new ObjectInputStream(fis);
+cloud2 = (Cloud) ois.readObject();
+ois.close();
+</p>
+
+<p style="text-align: right"><a href="#">^ top</a></p>
+</div>
+
+
+<div class="subsection">
+<h5><a name="xml_serialization"></a>XML serialization</h5>
+
+<p>
+An easy way to serialize a Cloud object to XML is by using the XStream opensource library
+that can be downloaded from <a href="http://xstream.codehaus.org">xstream.codehaus.org</a>.
+</p>
+
+<p class="code">XStream xstream = new XStream();
+
+// Converts a Cloud object to XML
+String xml = xstream.toXML(cloud1);
+
+// Recreates the Cloud object from XML
+Cloud cloud2 = (Cloud) xstream.fromXML(xml);
+</p>
+
+<p style="text-align: right"><a href="#">^ top</a></p>
+</div>
+
+</div>
+
+<br /><br />
+
+</body>
+</html>

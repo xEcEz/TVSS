@@ -1,0 +1,16 @@
+OpenCloud Changelog
+===================
+
+Changes in version 0.2 (2009-09-27)
+---------------------------------
+* Packages have been renamed to org.mcavallo.opencloud
+* addText method now accepts special characters by default (accented letters, etc.)
+* Added capitalized case
+* Added comparator NameComparatorDesc and ScoreComparatorAsc
+* Classes now implement Serializable
+* Many small improvements
+
+
+Version 0.1
+-----------
+Initial alpha version

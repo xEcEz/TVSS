@@ -1,0 +1,82 @@
+@(shows: List[TvShowSimPair], shows2: List[TvShowSimPair])
+
+@import helper._
+
+@main("TV show") {
+
+<div id="resultPage">
+
+	<div id ="header">
+  		Here are the TV shows that we recommand for you
+	</div>
+
+	<div id ="sort">
+
+			<label for="sorting">Order by</label>
+			<select name="sorting" onchange="showJust(this.value);" >
+			    <option value="results1">Theme</option>
+				<option value="results2">IMDB ratings</option>
+		 	</select>
+
+
+	</div>
+
+
+    <div id="results1" class="hidable" style="display:inline;">
+	    <table style="width:auto">
+	    	<tr style="color:#FF7519; font-size:20px;">
+	    		<td>Title</td>
+	    		<td>Similarity</td>
+	    		<td>IMDB Ratings</td>
+	    	</tr>
+	        @for(show <- shows) {
+	            <tr>
+	                <td><a href="@routes.Assets.at("results/shows/show"+show.getTvShow().getId()+".html")">@show.getTitle()</a> </td>
+	                <td>
+	                <script type="text/javascript">
+						toPourcentage(@show.getSimilarity());
+        			</script>
+        			%</td>
+        			<td>
+        				@show.getTvShow().getRating()
+        			</td>
+	            </tr>
+	        }
+	    </table>
+    </div>
+
+    <div id="results2" class="hidable" style="display:none;">
+	    <table style="width:auto">
+	    	<tr style="color:#FF7519; font-size:20px;">
+	    		<td>Title</td>
+	    		<td>Similarity</td>
+	    		<td>IMDB Ratings</td>
+	    	</tr>
+	        @for(show <- shows2) {
+	            <tr>
+	                <td><a href="@routes.Assets.at("results/shows/show"+show.getTvShow().getId()+".html")">@show.getTitle()</a> </td>
+	                <td>
+	                <script type="text/javascript">
+						toPourcentage(@show.getSimilarity());
+        			</script>
+        			%</td>
+        			<td>
+        				@show.getTvShow().getRating()
+        			</td>
+	            </tr>
+	        }
+	    </table>
+    </div>
+
+
+    <div id="goIndex">
+
+	    @form(routes.Application.index()) {
+	        <input type="submit" value="Change TV Shows selection">
+	    }
+    </div>
+
+
+
+</div>
+}

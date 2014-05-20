@@ -1,0 +1,15 @@
+
+
+@@font-face 
+{
+    font-family: "Dosis-Medium";
+    src: url(@routes.Assets.at("Font/Dosis/Dosis-Medium.ttf"));
+    
+}
+@@font-face 
+{
+    font-family: "Dosis-Medium";
+    font-style: bold;
+    src: url(@routes.Assets.at("Font/Dosis/Dosis-ExtraBold.ttf"));
+    
+}

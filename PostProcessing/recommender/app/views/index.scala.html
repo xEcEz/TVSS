@@ -1,0 +1,61 @@
+@(shows: List[UserShow], showForm: Form[UserShow], choices: List[TVShow])
+
+@import helper._
+
+
+@main("TV show") {
+
+
+<div id="mainPage">
+
+  <datalist id="characters">
+	  @for(s <- choices) {
+	   <option id="@s.getId()" value="@s.getName()">
+	  }
+  </datalist>
+
+	<div id ="header">
+  		Select one or more TV show you like.
+	</div>
+
+    @form(routes.Application.newShow()) {
+
+        <!-- @inputText(showForm("label"))  -->
+		@input(showForm("label"), '_label->None, '_showConstraints -> false) { (id, name, value, args) =>
+		    <input type="select" name="label" id="textArea" list="characters" @toHtmlArgs(args)>
+    		<input id="arraw" src="@routes.Assets.at("images/arraw.png")" type=image Value=submit align="middle" >
+    		<a href="#" onclick="getInfo()"><img id="loupe" src="@routes.Assets.at("images/loupe.png")" /></a>
+
+		}
+    }
+
+    <script type="text/javascript">
+      getId();
+    </script>
+
+    <h2>@shows.size() show(s)</h2>
+    <div>
+        @for(show <- shows) {
+            <div>
+                @form(routes.Application.deleteShow(show.id)) {
+	                @show.label
+                    <input id="cross" src="@routes.Assets.at("images/cross.png")" type=image Value=submit align="middle" >
+                }
+            </div>
+        }
+    </div>
+
+
+
+    @form(routes.Application.recommend()) {
+        <input type="submit" value="Recommend">
+    }
+
+
+</div>
+
+
+
+
+
+}

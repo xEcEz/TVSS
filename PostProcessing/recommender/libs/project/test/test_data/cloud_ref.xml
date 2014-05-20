@@ -1,0 +1,196 @@
+<org.mcavallo.opencloud.Cloud>
+  <cloud>
+    <entry>
+      <string>modena</string>
+      <org.mcavallo.opencloud.Tag>
+        <name>Modena</name>
+        <link>http://leonardo.blogspot.com/search/label/Modena</link>
+        <score>2.0</score>
+        <date>1970-01-15 10:58:16.953 CET</date>
+      </org.mcavallo.opencloud.Tag>
+    </entry>
+    <entry>
+      <string>g8</string>
+      <org.mcavallo.opencloud.Tag>
+        <name>G8</name>
+        <link>http://leonardo.blogspot.com/search/label/G8</link>
+        <score>2.0</score>
+        <date>1970-01-15 10:58:16.953 CET</date>
+      </org.mcavallo.opencloud.Tag>
+    </entry>
+    <entry>
+      <string>veltroni</string>
+      <org.mcavallo.opencloud.Tag>
+        <name>Veltroni</name>
+        <link>http://leonardo.blogspot.com/search/label/Veltroni</link>
+        <score>1.0</score>
+        <date>1970-01-15 10:58:16.953 CET</date>
+      </org.mcavallo.opencloud.Tag>
+    </entry>
+    <entry>
+      <string>tormentoni</string>
+      <org.mcavallo.opencloud.Tag>
+        <name>tormentoni</name>
+        <link>http://leonardo.blogspot.com/search/label/tormentoni</link>
+        <score>1.0</score>
+        <date>1970-01-15 10:58:16.953 CET</date>
+      </org.mcavallo.opencloud.Tag>
+    </entry>
+    <entry>
+      <string>coccodrilli</string>
+      <org.mcavallo.opencloud.Tag>
+        <name>coccodrilli</name>
+        <link>http://leonardo.blogspot.com/search/label/coccodrilli</link>
+        <score>1.0</score>
+        <date>1970-01-15 10:58:16.953 CET</date>
+      </org.mcavallo.opencloud.Tag>
+    </entry>
+    <entry>
+      <string>pannella</string>
+      <org.mcavallo.opencloud.Tag>
+        <name>Pannella</name>
+        <link>http://leonardo.blogspot.com/search/label/Pannella</link>
+        <score>2.0</score>
+        <date>1970-01-15 10:58:16.953 CET</date>
+      </org.mcavallo.opencloud.Tag>
+    </entry>
+    <entry>
+      <string>euro</string>
+      <org.mcavallo.opencloud.Tag>
+        <name>Euro</name>
+        <link>http://leonardo.blogspot.com/search/label/Euro</link>
+        <score>1.0</score>
+        <date>1970-01-15 10:58:16.953 CET</date>
+      </org.mcavallo.opencloud.Tag>
+    </entry>
+    <entry>
+      <string>pd</string>
+      <org.mcavallo.opencloud.Tag>
+        <name>Pd</name>
+        <link>http://leonardo.blogspot.com/search/label/Pd</link>
+        <score>2.0</score>
+        <date>1970-01-15 10:58:16.953 CET</date>
+      </org.mcavallo.opencloud.Tag>
+    </entry>
+    <entry>
+      <string>musica</string>
+      <org.mcavallo.opencloud.Tag>
+        <name>musica</name>
+        <link>http://leonardo.blogspot.com/search/label/musica</link>
+        <score>2.0</score>
+        <date>1970-01-15 10:58:16.953 CET</date>
+      </org.mcavallo.opencloud.Tag>
+    </entry>
+    <entry>
+      <string>forze dell&apos;ordine</string>
+      <org.mcavallo.opencloud.Tag>
+        <name>forze dell&apos;ordine</name>
+        <link>http://leonardo.blogspot.com/search/label/forze%20dell%27ordine</link>
+        <score>2.0</score>
+        <date>1970-01-15 10:58:16.953 CET</date>
+      </org.mcavallo.opencloud.Tag>
+    </entry>
+    <entry>
+      <string>cattiva politica</string>
+      <org.mcavallo.opencloud.Tag>
+        <name>cattiva politica</name>
+        <link>http://leonardo.blogspot.com/search/label/cattiva%20politica</link>
+        <score>5.0</score>
+        <date>1970-01-15 10:58:16.953 CET</date>
+      </org.mcavallo.opencloud.Tag>
+    </entry>
+    <entry>
+      <string>società dell&apos;avanspettacolo</string>
+      <org.mcavallo.opencloud.Tag>
+        <name>società dell&apos;avanspettacolo</name>
+        <link>http://leonardo.blogspot.com/search/label/societ%C3%A0%20dell%27avanspettacolo</link>
+        <score>1.0</score>
+        <date>1970-01-15 10:58:16.953 CET</date>
+      </org.mcavallo.opencloud.Tag>
+    </entry>
+    <entry>
+      <string>rettifiche</string>
+      <org.mcavallo.opencloud.Tag>
+        <name>rettifiche</name>
+        <link>http://leonardo.blogspot.com/search/label/rettifiche</link>
+        <score>1.0</score>
+        <date>1970-01-15 10:58:16.953 CET</date>
+      </org.mcavallo.opencloud.Tag>
+    </entry>
+    <entry>
+      <string>bossi</string>
+      <org.mcavallo.opencloud.Tag>
+        <name>Bossi</name>
+        <link>http://leonardo.blogspot.com/search/label/Bossi</link>
+        <score>2.0</score>
+        <date>1970-01-15 10:58:16.953 CET</date>
+      </org.mcavallo.opencloud.Tag>
+    </entry>
+    <entry>
+      <string>prima pagare</string>
+      <org.mcavallo.opencloud.Tag>
+        <name>prima pagare</name>
+        <link>http://leonardo.blogspot.com/search/label/prima%20pagare</link>
+        <score>1.0</score>
+        <date>1970-01-15 10:58:16.953 CET</date>
+      </org.mcavallo.opencloud.Tag>
+    </entry>
+    <entry>
+      <string>lotta di classe</string>
+      <org.mcavallo.opencloud.Tag>
+        <name>lotta di classe</name>
+        <link>http://leonardo.blogspot.com/search/label/lotta%20di%20classe</link>
+        <score>1.0</score>
+        <date>1970-01-15 10:58:16.953 CET</date>
+      </org.mcavallo.opencloud.Tag>
+    </entry>
+    <entry>
+      <string>ascesa e caduta di s. cofferati</string>
+      <org.mcavallo.opencloud.Tag>
+        <name>ascesa e caduta di S. Cofferati</name>
+        <link>http://leonardo.blogspot.com/search/label/ascesa%20e%20caduta%20di%20S.%20Cofferati</link>
+        <score>1.0</score>
+        <date>1970-01-15 10:58:16.953 CET</date>
+      </org.mcavallo.opencloud.Tag>
+    </entry>
+    <entry>
+      <string>socialisti allo sbaraglio</string>
+      <org.mcavallo.opencloud.Tag>
+        <name>socialisti allo sbaraglio</name>
+        <link>http://leonardo.blogspot.com/search/label/socialisti%20allo%20sbaraglio</link>
+        <score>1.0</score>
+        <date>1970-01-15 10:58:16.953 CET</date>
+      </org.mcavallo.opencloud.Tag>
+    </entry>
+    <entry>
+      <string>fascismo</string>
+      <org.mcavallo.opencloud.Tag>
+        <name>fascismo</name>
+        <link>http://leonardo.blogspot.com/search/label/fascismo</link>
+        <score>1.0</score>
+        <date>1970-01-15 10:58:16.953 CET</date>
+      </org.mcavallo.opencloud.Tag>
+    </entry>
+    <entry>
+      <string>poveri piccoli imprenditori</string>
+      <org.mcavallo.opencloud.Tag>
+        <name>poveri piccoli imprenditori</name>
+        <link>http://leonardo.blogspot.com/search/label/poveri%20piccoli%20imprenditori</link>
+        <score>1.0</score>
+        <date>1970-01-15 10:58:16.953 CET</date>
+      </org.mcavallo.opencloud.Tag>
+    </entry>
+  </cloud>
+  <minWeight>0.0</minWeight>
+  <maxWeight>4.0</maxWeight>
+  <maxTagsToDisplay>50</maxTagsToDisplay>
+  <threshold>0.0</threshold>
+  <normThreshold>0.0</normThreshold>
+  <tagLifetime>-1</tagLifetime>
+  <wordPattern>[\p{N}\p{L}]+[\p{Pd}]?[\p{N}\p{L}]+</wordPattern>
+  <tagCase>LOWER</tagCase>
+  <rounding>CEIL</rounding>
+  <locale>it_IT</locale>
+  <inputFilters/>
+  <outputFilters/>
+</org.mcavallo.opencloud.Cloud>
