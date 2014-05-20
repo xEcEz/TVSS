@@ -40,7 +40,7 @@ In each sub folder you can find a README that explains how to run the part in qu
 
 Here, you can find an example of results :
 
-Game of Thrones :
+- Game of Thrones :
   - [Top Words/Topics](/PostProcessing/GOT1.jpg)
   - [Visuals](https://raw.githubusercontent.com/xEcEz/TVSS/master/PostProcessing/GOT2.jpg)
   - Recommendations: (Title - Similarity)
@@ -60,7 +60,7 @@ Game of Thrones :
       14. Kings - 80.69 %
       15. Thor & Loki Blood Brothers - 80.58 %
 
-The Simpsons :
+- The Simpsons :
   - Recommendations: (Title - Similarity)
       1. Men Behaving Badly - 99.39 %
       2. Beavis and Butt-Head - 99.22 %
