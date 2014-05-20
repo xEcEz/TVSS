@@ -1,15 +1,4 @@
-=================================================================================================================================================================================== 
-===================================================================================================================================================================================
-===================================================================================================================================================================================
-_______________   ____          _________.__                            _________    ___.    __  .__  __  .__                 
-\__    ___/\   \ /   /         /   _____/|  |__   ______  _  ________  /   _____/__ _\_ |___/  |_|__|/  |_|  |   ____   ______
-  |    |    \   Y   /  ______  \_____  \ |  |  \ /  _ \ \/ \/ /  ___/  \_____  \|  |  \ __ \   __\  \   __\  | _/ __ \ /  ___/
-  |    |     \     /  /_____/  /        \|   Y  (  <_> )     /\___ \   /        \  |  / \_\ \  | |  ||  | |  |_\  ___/ \___ \ 
-  |____|      \___/           /_______  /|___|  /\____/ \/\_//____  > /_______  /____/|___  /__| |__||__| |____/\___  >____  >
-                                      \/      \/                  \/          \/          \/                        \/     \/ 
-===================================================================================================================================================================================
-===================================================================================================================================================================================
-=================================================================================================================================================================================== 
+========================================================================
 
 1. Getting started
 	1.1 Git
@@ -20,7 +9,7 @@ _______________   ____          _________.__                            ________
 3. Run
 3. Results
 
-===================================================================================================================================================================================
+========================================================================
 
 1. Getting started
 	1.1 Git 
@@ -33,10 +22,11 @@ _______________   ____          _________.__                            ________
 		Delete the original "Preprocessing" folder, then launch Eclipse and set the workspace to the workspace/ folder of the archive.
 		Create a new Java Project called "Preprocessing", then copy/paste all the files you saved previously in it.
 		Refresh Eclipse packets explorer and you should see the files now.
-		Finally, you need to link the libraries by right-clicking the project and chosing "Properties" -> "Java Build Path" -> "Add External 			JARs...". Import commons-io-2.4.jar and standford-postagger (libraries/ folder)
+		Finally, you need to link the libraries by right-clicking the project and chosing "Properties" -> "Java Build Path" -> 
+		"Add External JARs...". Import commons-io-2.4.jar and standford-postagger (libraries/ folder)
 		You are all set, the project should be able to be run.
 
-===================================================================================================================================================================================
+=========================================================================
 
 2. Structure
 	2.1 File structure
@@ -45,6 +35,7 @@ _______________   ____          _________.__                            ________
 				* parsed : all the parsed files, a parsed text exists per episode/season/show -> [*.parsed]
 				* preprocessed : all the show preprocessed files -> [*.preprocessed]
 				* subtitles : all the subtitles files per episodes -> [*.srt]
+				(Note: Only few files are uploaded on the git as examples, the full dataset of subtitles can be downloaded with the crawler script.)
 			* libraries : all the libs required to run the project
 			* workspace 
 				* src : code source files
@@ -52,19 +43,21 @@ _______________   ____          _________.__                            ________
 	2.2 Project Structure 
 		The project contains, at the moment, 2 main packages : parser and preprocessing.
 
-===================================================================================================================================================================================
+=========================================================================
 
 3. Run
-	The project contains several run configurations, allowing to run each part individually. In each packet, a Run.java class is present and 		should be runned using
+	The project contains several run configurations, allowing to run each part individually. 
+	In each packet, a Run.java class is present and should be runned using
 	"Run as..." -> "Java Project".
 	If only the subtitles are given and one wants to recompute the sets of preprocessed files, he should first run the parser and then thepreprocessing part.
 
-===================================================================================================================================================================================
+=========================================================================
 
 4. Results
-	The results we are going to use as input for the LDA algorithm are the *.preprocessed show files. Such a file contains a list of words and 		the number of their occurences, ordered by the latter.
+	The results we are going to use as input for the LDA algorithm are the *.preprocessed show files. 
+	Such a file contains a list of words and the number of their occurences, ordered by the latter.
 
-===================================================================================================================================================================================
+=========================================================================
 	
 		
 	
