@@ -38,8 +38,9 @@ In each sub folder you can find a README that explains how to run the part in qu
 
 ### 3. Example of Results ###
 
-Here, you can find an example of results for the show "Game Of Thrones" :
+Here, you can find an example of results :
 
+- Game of Thrones :
   - [Top Words/Topics](/PostProcessing/GOT1.jpg)
   - [Visuals](https://raw.githubusercontent.com/xEcEz/TVSS/master/PostProcessing/GOT2.jpg)
   - Recommendations: (Title - Similarity)
@@ -58,6 +59,24 @@ Here, you can find an example of results for the show "Game Of Thrones" :
       13. Ancient Rome - The Rise and Fall of an Empire - 81.49 %
       14. Kings - 80.69 %
       15. Thor & Loki Blood Brothers - 80.58 %
+
+- The Simpsons :
+  - Recommendations: (Title - Similarity)
+      1. Men Behaving Badly - 99.39 %
+      2. Beavis and Butt-Head - 99.22 %
+      3. The Cleveland Show - 99.03 %
+      4. Family Guy - 98.04 %
+      5. The Penguins Of Madagascar - 97.59 %
+      6. Robot Chicken - 97.45 %
+      7. American Dad! - 97.32 %
+      8. Futurama - 97.28 %
+      9. My Name Is Earl - 95.2 %
+      10. South Park - 95.2 %
+      11. Raising Hope - 94.98 %
+      12. Neighbors From Hell - 94.75 %
+      13. The Ren & Stimpy Show - 93.94 %
+      14. Clerks - 93.63 %
+      15. Key And Peele - 93.46 %
 
 ===============================================================================================================================================
 
