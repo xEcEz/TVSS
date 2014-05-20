@@ -1,5 +1,4 @@
 ## TV-Shows Analysis & Recommender System ##
-
 ===============================================================================================================================================
 
 1. Description
@@ -8,7 +7,7 @@
 
 ===============================================================================================================================================
 
-1. Description
+### 1. Description ###
 
 TVSS aims to recommend TV-Shows based on their similarity computed over a subtitle analysis of their content.
 Here is the current version of the graph representing clusters of similar shows and some labelled topics we identified in them:
@@ -25,7 +24,7 @@ As a final result, we have differents things:
 
 ===============================================================================================================================================
 
-2. Files Organisation
+### 2. Files Organisation ###
 
 The project is divided in 4 parts :
   - Crawling
@@ -37,7 +36,7 @@ In each sub folder you can find a README that explains how to run the part in qu
 
 ===============================================================================================================================================
 
-3. Example of Results
+### 3. Example of Results ###
 
 Here, you can find an example of results for the show "Game Of Thrones" :
 
