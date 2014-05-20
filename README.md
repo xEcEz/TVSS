@@ -41,7 +41,7 @@ In each sub folder you can find a README that explains how to run the part in qu
 Here, you can find an example of results :
 
 - Game of Thrones :
-  - [Top Words/Topics](/PostProcessing/GOT1.jpg)
+  - [Top Words/Topics](https://raw.githubusercontent.com/xEcEz/TVSS/master/PostProcessing/GOT1.jpg)
   - [Visuals](https://raw.githubusercontent.com/xEcEz/TVSS/master/PostProcessing/GOT2.jpg)
   - Recommendations: (Title - Similarity)
       1. Crusoe - 90.4 %
