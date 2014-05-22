@@ -10,6 +10,7 @@
 ### 1. Description ###
 
 TVSS aims to recommend TV-Shows based on their similarity computed over a subtitle analysis of their content.
+It is a content-based recommender computing similarities between shows based on their distribution over the topics that are obtained by a Java MR implementation of the LDA algorithm.
 Here is the current version of the graph representing clusters of similar shows and some labelled topics we identified in them:
 
 ![Clusters of Shows](/Graph Scripts/graph.jpg)
@@ -79,5 +80,3 @@ Here, you can find an example of results :
       15. Key And Peele - 93.46 %
 
 ===============================================================================================================================================
-
-### And more to come !!! Stay tuned. ###
