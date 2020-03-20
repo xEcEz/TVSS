@@ -13,7 +13,7 @@ TVSS aims to recommend TV-Shows based on their similarity computed over a subtit
 It is a content-based recommender computing similarities between shows based on their distribution over the topics that are obtained by a Java MR implementation of the LDA algorithm.
 Here is the current version of the graph representing clusters of similar shows and some labelled topics we identified in them:
 
-![Clusters of Shows](/Graph Scripts/graph.jpg)
+![Clusters of Shows](https://github.com/xEcEz/TVSS/blob/master/Graph%20Scripts/graph.jpg)
 
 The goal of the project is to analyze the content of TV-Shows according to certain topics, via a subtitles analysis. 
 In order to achieve that, we acquired a large data set of subtitles of good quality (~1100 shows) and then, using an hadoop implementation of the LDA algorithm, analyze the topics present in each show. 
